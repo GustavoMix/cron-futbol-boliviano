@@ -1,0 +1,183 @@
+[
+  {
+    "id": "fbf_division_profesional",
+    "nombre": "FBF - División Profesional",
+    "url": "https://fbf.com.bo/torneos/division-profesional/",
+    "modo": "html",
+    "categoria": "torneo_profesional",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_copa_simon_bolivar",
+    "nombre": "FBF - Copa Simón Bolívar",
+    "url": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
+    "modo": "html",
+    "categoria": "ascenso",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_liga_sub19",
+    "nombre": "FBF - Liga Nacional Sub-19",
+    "url": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
+    "modo": "html",
+    "categoria": "juvenil",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_liga_sub16",
+    "nombre": "FBF - Liga Nacional Sub-16",
+    "url": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
+    "modo": "html",
+    "categoria": "juvenil",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_noticias",
+    "nombre": "FBF - Noticias generales",
+    "url": "https://fbf.com.bo/noticias/",
+    "modo": "html",
+    "categoria": "federacion",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_seleccion_absoluta",
+    "nombre": "FBF - Selección absoluta",
+    "url": "https://fbf.com.bo/selecciones/absoluta/",
+    "modo": "html",
+    "categoria": "seleccion",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_seleccion_femenina",
+    "nombre": "FBF - Selección femenina",
+    "url": "https://fbf.com.bo/selecciones/bolivia-femenina/",
+    "modo": "html",
+    "categoria": "femenino",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "fbf_futbol_playa",
+    "nombre": "FBF - Fútbol playa",
+    "url": "https://fbf.com.bo/?s=futbol+playa",
+    "modo": "html",
+    "categoria": "futbol_playa",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "bolivar_noticias",
+    "nombre": "Club Bolívar - Noticias",
+    "url": "https://www.bolivar.com.bo/Noticias",
+    "modo": "html",
+    "categoria": "club",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "always_ready_noticias",
+    "nombre": "Club Always Ready - Noticias",
+    "url": "https://alwaysready.bo/noticias/",
+    "modo": "html",
+    "categoria": "club",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "unitel_futbol",
+    "nombre": "Unitel - Fútbol",
+    "url": "https://futbol.unitel.bo/",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "diez_futbol",
+    "nombre": "DIEZ - Fútbol",
+    "url": "https://diez.bo/",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "reduno_futbol_boliviano",
+    "nombre": "Red Uno - Fútbol boliviano",
+    "url": "https://www.reduno.com.bo/tag/futbol-boliviano",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "reduno_estadisticas_equipos",
+    "nombre": "Red Uno - Datos estructurados de equipos",
+    "url": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
+    "url_equipos": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teams/{team_id}.json",
+    "modo": "reduno_bundle",
+    "categoria": "estadisticas",
+    "solo_futbol": false,
+    "habilitada": true
+  },
+  {
+    "id": "los_tiempos_futbol",
+    "nombre": "Los Tiempos - Fútbol",
+    "url": "https://www.lostiempos.com/deportes/futbol",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "opinion_futbol_boliviano",
+    "nombre": "Opinión - Fútbol boliviano",
+    "url": "https://www.opinion.com.bo/tags/futbol-boliviano/",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "correo_del_sur_deporte",
+    "nombre": "Correo del Sur - Deporte",
+    "url": "https://correodelsur.com/deporte/",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "la_razon_marcas",
+    "nombre": "La Razón - Marcas",
+    "url": "https://la-razon.com/Marcas/",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "erbol_deporte",
+    "nombre": "ERBOL - Deporte",
+    "url": "https://erbol.com.bo/deporte",
+    "modo": "html",
+    "categoria": "medio",
+    "solo_futbol": true,
+    "habilitada": true
+  },
+  {
+    "id": "el_pais_campeon",
+    "nombre": "El País Tarija - Campeón",
+    "url": "https://elpais.bo/sections/view-deporte",
+    "modo": "html",
+    "categoria": "medio_regional",
+    "solo_futbol": true,
+    "habilitada": true
+  }
+]
