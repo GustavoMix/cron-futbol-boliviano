@@ -23,10 +23,19 @@ jobs:
       - name: Instalar dependencias
         run: pip install -r requirements.txt
 
+      # Scrapea las 20 fuentes, guarda data/futbol_boliviano.json y lo sube a
+      # Supabase. Si faltan los secrets, el script avisa y solo genera el JSON.
       - name: Ejecutar actualizador
+        env:
+          SUPABASE_URL: ${{ secrets.SUPABASE_URL }}
+          SUPABASE_SERVICE_ROLE_KEY: ${{ secrets.SUPABASE_SERVICE_ROLE_KEY }}
         run: python actualizador_futbol_boliviano.py
 
+      # if: always() para que el JSON se commitee aunque la subida a Supabase
+      # haya fallado: en ese caso el paso de arriba queda en rojo y te enterás,
+      # pero los datos scrapeados no se pierden.
       - name: Commit y push del JSON generado
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"

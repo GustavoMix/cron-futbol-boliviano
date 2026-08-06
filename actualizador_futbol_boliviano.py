@@ -39,6 +39,8 @@ from bs4 import BeautifulSoup, Tag
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
+import supabase_sync
+
 
 BASE_DIR = Path(__file__).resolve().parent
 CONFIG_PATH = BASE_DIR / "config.json"
@@ -638,7 +640,46 @@ def resultado_error(
     }
 
 
-def actualizar(source_id: str | None = None) -> dict[str, Any]:
+def sincronizar_supabase(
+    documento: dict[str, Any],
+    fuentes: list[dict[str, Any]],
+    config: dict[str, Any],
+    dry_run: bool = False,
+) -> None:
+    """
+    Sube el documento a Supabase si está configurado.
+
+    Se llama después de guardar el JSON en disco, así que un problema con
+    Supabase nunca hace perder los datos scrapeados: el archivo ya está escrito
+    y el commit del workflow igual se ejecuta.
+    """
+    opciones = config.get("supabase") or {}
+
+    if not opciones.get("habilitado", True):
+        logging.info("Supabase deshabilitado en config.json. Se omite la subida.")
+        return
+
+    if not dry_run and not supabase_sync.hay_credenciales():
+        logging.info(
+            "Sin SUPABASE_URL / SUPABASE_SERVICE_ROLE_KEY en el entorno. "
+            "Se omite la subida a Supabase."
+        )
+        return
+
+    supabase_sync.sincronizar(
+        documento,
+        fuentes_config=fuentes,
+        retencion_dias=int(opciones.get("retencion_dias", 0)),
+        dry_run=dry_run,
+        timeout=int(opciones.get("timeout_segundos", 60)),
+    )
+
+
+def actualizar(
+    source_id: str | None = None,
+    subir_supabase: bool = True,
+    supabase_dry_run: bool = False,
+) -> dict[str, Any]:
     config = cargar_json(CONFIG_PATH, {})
     fuentes = cargar_json(FUENTES_PATH, [])
 
@@ -726,10 +767,18 @@ def actualizar(source_id: str | None = None) -> dict[str, Any]:
 
     guardar_json_atomico(DATA_PATH, documento)
     logging.info("JSON guardado en: %s", DATA_PATH)
+
+    if subir_supabase or supabase_dry_run:
+        sincronizar_supabase(documento, fuentes, config, dry_run=supabase_dry_run)
+
     return documento
 
 
-def bucle(intervalo_minutos: int, source_id: str | None = None) -> None:
+def bucle(
+    intervalo_minutos: int,
+    source_id: str | None = None,
+    subir_supabase: bool = True,
+) -> None:
     if intervalo_minutos < 15:
         raise ValueError("Para 20 fuentes usa un intervalo mínimo de 15 minutos.")
 
@@ -742,7 +791,7 @@ def bucle(intervalo_minutos: int, source_id: str | None = None) -> None:
         inicio = time.monotonic()
 
         try:
-            actualizar(source_id=source_id)
+            actualizar(source_id=source_id, subir_supabase=subir_supabase)
         except Exception:
             logging.exception("La actualización general terminó con error.")
 
@@ -765,6 +814,16 @@ def construir_parser() -> argparse.ArgumentParser:
     parser.add_argument("--minutes", type=int, default=None)
     parser.add_argument("--source", type=str, default=None)
     parser.add_argument("--list-sources", action="store_true")
+    parser.add_argument(
+        "--sin-supabase",
+        action="store_true",
+        help="Genera el JSON pero no lo sube a Supabase.",
+    )
+    parser.add_argument(
+        "--supabase-dry-run",
+        action="store_true",
+        help="Muestra qué se subiría a Supabase, sin escribir nada.",
+    )
     return parser
 
 
@@ -783,11 +842,16 @@ def main() -> int:
             return 0
 
         intervalo = args.minutes or int(config.get("intervalo_minutos", 180))
+        subir_supabase = not args.sin_supabase
 
         if args.loop:
-            bucle(intervalo, source_id=args.source)
+            bucle(intervalo, source_id=args.source, subir_supabase=subir_supabase)
         else:
-            actualizar(source_id=args.source)
+            actualizar(
+                source_id=args.source,
+                subir_supabase=subir_supabase,
+                supabase_dry_run=args.supabase_dry_run,
+            )
 
         return 0
 

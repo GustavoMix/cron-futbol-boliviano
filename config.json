@@ -1,6 +1,11 @@
 {
   "zona_horaria": "America/La_Paz",
   "intervalo_minutos": 180,
+  "supabase": {
+    "habilitado": true,
+    "retencion_dias": 90,
+    "timeout_segundos": 60
+  },
   "espera_entre_fuentes_segundos": 1.2,
   "timeout_segundos": 35,
   "max_noticias_por_fuente": 30,
