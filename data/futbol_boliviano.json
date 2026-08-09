@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-08-08T08:34:59-04:00",
+  "generado_en": "2026-08-09T08:37:25-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 18,
-    "noticias_extraidas": 161,
+    "noticias_extraidas": 164,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:18-04:00",
-      "duracion_ms": 661,
+      "actualizado_en": "2026-08-09T08:36:44-04:00",
+      "duracion_ms": 551,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:20-04:00",
-      "duracion_ms": 302,
+      "actualizado_en": "2026-08-09T08:36:45-04:00",
+      "duracion_ms": 207,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:21-04:00",
-      "duracion_ms": 366,
+      "actualizado_en": "2026-08-09T08:36:46-04:00",
+      "duracion_ms": 269,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:23-04:00",
-      "duracion_ms": 337,
+      "actualizado_en": "2026-08-09T08:36:48-04:00",
+      "duracion_ms": 242,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:24-04:00",
-      "duracion_ms": 307,
+      "actualizado_en": "2026-08-09T08:36:49-04:00",
+      "duracion_ms": 211,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1242,8 +1242,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:26-04:00",
-      "duracion_ms": 292,
+      "actualizado_en": "2026-08-09T08:36:51-04:00",
+      "duracion_ms": 197,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 5,
@@ -1300,8 +1300,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:27-04:00",
-      "duracion_ms": 291,
+      "actualizado_en": "2026-08-09T08:36:52-04:00",
+      "duracion_ms": 196,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 5,
@@ -1358,8 +1358,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:29-04:00",
-      "duracion_ms": 738,
+      "actualizado_en": "2026-08-09T08:36:54-04:00",
+      "duracion_ms": 783,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 8,
@@ -1437,8 +1437,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:32-04:00",
-      "duracion_ms": 1356,
+      "actualizado_en": "2026-08-09T08:36:57-04:00",
+      "duracion_ms": 1727,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1600,14 +1600,14 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19860 veces leida"
+          "resumen": "19862 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14661 veces leida"
+          "resumen": "14662 veces leida"
         },
         {
           "id": "240be845353bb24c",
@@ -1621,49 +1621,49 @@
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11284 veces leida"
+          "resumen": "11286 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10756 veces leida"
+          "resumen": "10757 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9160 veces leida"
+          "resumen": "9164 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8641 veces leida"
+          "resumen": "8645 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8531 veces leida"
+          "resumen": "8532 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8437 veces leida"
+          "resumen": "8439 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8407 veces leida"
+          "resumen": "8408 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1679,8 +1679,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:35-04:00",
-      "duracion_ms": 1950,
+      "actualizado_en": "2026-08-09T08:36:59-04:00",
+      "duracion_ms": 597,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1730,41 +1730,27 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:37-04:00",
-      "duracion_ms": 450,
+      "actualizado_en": "2026-08-09T08:37:00-04:00",
+      "duracion_ms": 398,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 6,
+      "cantidad_noticias": 5,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "bf0a6aef1e08e46e",
-          "titulo": "Real Tomayapo profundiza su crisis tras caer como local frente a Real Oruro",
-          "url": "https://futbol.unitel.bo/division-profesional/real-tomayapo-profundiza-su-crisis-tras-caer-como-local-frente-a-real-oruro-DH22702607",
-          "fecha": "07/08/2026 21:53",
+          "id": "3404ad8297fcc990",
+          "titulo": "Triunfo clave: BolÃ­var derrota a Aurora y acecha el liderato de Always Ready",
+          "url": "https://futbol.unitel.bo/division-profesional/triunfo-clave-bolivar-derrota-a-aurora-y-acecha-el-liderato-de-always-ready-NG22715190",
+          "fecha": "08/08/2026 21:32",
           "resumen": null
         },
         {
-          "id": "d545beb1fba54c01",
-          "titulo": "Futbolista argentino es detenido por el ICE cuando iba con su equipo a disputar un partido",
-          "url": "https://futbol.unitel.bo/futbol/futbolista-argentino-es-detenido-por-el-ice-cuando-iba-con-su-equipo-a-disputar-un-partido-CH22702415",
-          "fecha": "07/08/2026 21:36",
-          "resumen": null
-        },
-        {
-          "id": "e05be5869d5957c7",
-          "titulo": "Tras su paso por Oriente Petrolero, el francÃ©s Eliaquim Mangala anunciÃ³ su retiro del fÃºtbol",
-          "url": "https://futbol.unitel.bo/futbol/tras-su-paso-por-oriente-petrolero-el-frances-eliaquim-mangala-anuncio-su-retiro-del-futbol-CH22701773",
-          "fecha": "07/08/2026 22:22",
-          "resumen": null
-        },
-        {
-          "id": "2e275c793d2a91ee",
-          "titulo": "Â¡Golpe de altura! GuabirÃ¡ vence a ABB a domicilio y sueÃ±a en grande",
-          "url": "https://futbol.unitel.bo/portada/golpe-de-altura-guabira-vence-a-abb-a-domicilio-y-suena-en-grande-PH22700935",
-          "fecha": "07/08/2026 20:35",
+          "id": "8588695350fc7bde",
+          "titulo": "Â¡DecepciÃ³n en La Paz! The Strongest cae ante Independiente y cede terreno",
+          "url": "https://futbol.unitel.bo/division-profesional/decepcion-en-la-paz-the-strongest-cae-ante-independiente-y-cede-terreno-EG22714330",
+          "fecha": "08/08/2026 19:38",
           "resumen": null
         },
         {
@@ -1775,10 +1761,17 @@
           "resumen": null
         },
         {
-          "id": "ba52c3c7a56fe216",
-          "titulo": "Â¡No va mÃ¡s! Independiente despide a Thiago Leitao previo al choque con The Strongest",
-          "url": "https://futbol.unitel.bo/division-profesional/no-va-mas-independiente-despide-a-thiago-leitao-previo-al-choque-con-the-strongest-PP22696922",
-          "fecha": "07/08/2026 16:08",
+          "id": "da91f66f3cfcc104",
+          "titulo": "Inter Stars Rush de Bolivia va al Encuentro Internacional en EspaÃ±a como subcampeona de la Conmebol",
+          "url": "https://futbol.unitel.bo/futbol/inter-stars-rush-de-bolivia-va-al-encuentro-internacional-en-espana-como-subcampeona-de-la-conmebol-HH22702050",
+          "fecha": "08/08/2026 15:53",
+          "resumen": null
+        },
+        {
+          "id": "bf0a6aef1e08e46e",
+          "titulo": "Real Tomayapo profundiza su crisis tras caer como local frente a Real Oruro",
+          "url": "https://futbol.unitel.bo/division-profesional/real-tomayapo-profundiza-su-crisis-tras-caer-como-local-frente-a-real-oruro-DH22702607",
+          "fecha": "07/08/2026 21:53",
           "resumen": null
         }
       ],
@@ -1795,40 +1788,61 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:38-04:00",
-      "duracion_ms": 364,
+      "actualizado_en": "2026-08-09T08:37:02-04:00",
+      "duracion_ms": 519,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 12,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "71f375d811438c23",
-          "titulo": "Guabirá da el golpe en El Alto y vence a ABB en la agonía del partido",
-          "url": "https://diez.bo/futbol/guabira-da-el-golpe-en-el-alto-y-vence-a-abb-en-la-agonia-del-partido_1786145417",
-          "fecha": null,
-          "resumen": "El azucarero se impuso por 0-1 con un gol de Gustavo Peredo a los 90+5’, sumó tres puntos importantes y llegó a la quinta posición con 21 unidades."
-        },
-        {
-          "id": "6ba109e3538c7130",
-          "titulo": "Inter Stars Rush va por la gloria: está en la final del torneo Conmebol Evolución Sub-16",
-          "url": "https://diez.bo/multideportivo/inter-stars-rush-va-por-la-gloria-esta-en-la-final-del-torneo-conmebol-evolucion-sub-16_1786128945",
+          "id": "ce0eb4f1ea38ba5f",
+          "titulo": "Jorge Messi, el cerebro detrás de la carrera futbolística y las finanzas de su hijo Lionel",
+          "url": "https://diez.bo/futbol/jorge-messi-el-cerebro-detras-de-la-carrera-futbolistica-y-las-finanzas-de-su-hijo-lionel_1786200763",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "74f1d4d0fc810eee",
-          "titulo": "Real Oruro hunde a Tomayapo y se lleva los tres puntos de Tarija",
-          "url": "https://diez.bo/futbol/real-oruro-hunde-a-tomayapo-y-se-lleva-los-tres-puntos-de-tarija_1786154195",
+          "id": "b4d9adaab78a975b",
+          "titulo": "Bolívar venció a Aurora en Cochabamba y mete presión en la tabla",
+          "url": "https://diez.bo/futbol/bolivar-vencio-a-aurora-en-cochabamba-y-mete-presion-en-la-tabla_1786239342",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "d478c0055addf354",
-          "titulo": "Presidente de Conmebol apoya a Infantino y dice que no se puede desconocer su trabajo",
-          "url": "https://diez.bo/futbol/presidente-de-conmebol-apoya-a-infantino-y-dice-que-no-se-puede-desconocer-su-trabajo_1786143087",
+          "id": "43cf7403a558ba2f",
+          "titulo": "Independiente sorprende a The Strongest en el Siles y lo derrota sobre el final",
+          "url": "https://diez.bo/futbol/independiente-sorprende-a-the-strongest-en-el-siles-y-lo-derrota-sobre-el-final_1786231619",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "e3e9c186f58def40",
+          "titulo": "Inter Stars Rush, subcampeón de la Liga Femenina Evolución Conmebol Sub-16",
+          "url": "https://diez.bo/multideportivo/inter-stars-rush-subcampeon-de-la-liga-femenina-evolucion-conmebol-sub-16_1786226121",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "069f0ddbfa40623b",
+          "titulo": "Blooming prepara una salida complicada a Potosí",
+          "url": "https://diez.bo/futbol/blooming-prepara-una-salida-complicada-a-potosi_1786160847",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "f175d7532b88653b",
+          "titulo": "Oriente se pone a punto para recibir a Universitario",
+          "url": "https://diez.bo/oriente-petrolero/oriente-se-pone-a-punto-para-recibir-a-universitario_1786161315",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "de216ac14c8a193c",
+          "titulo": "El mundo del fútbol despide a Jorge Messi, padre del astro argentino",
+          "url": "https://diez.bo/futbol/el-mundo-del-futbol-despide-a-jorge-messi-padre-del-astro-argentino_1786204877",
           "fecha": null,
           "resumen": null
         },
@@ -1840,27 +1854,6 @@
           "resumen": null
         },
         {
-          "id": "4677bf448c84e99e",
-          "titulo": "Bolivia sorprende a Colombia y se afianza en el Sudamericano Sub-16",
-          "url": "https://diez.bo/multideportivo/bolivia-sorprende-a-colombia-y-se-afianza-en-el-sudamericano-sub-16_1785972476",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "3291cd2060276489",
-          "titulo": "Oriente ofrece un premio económico al plantel por sumar ante Bolívar",
-          "url": "https://diez.bo/oriente-petrolero/oriente-ofrece-un-premio-economico-al-plantel-por-sumar-ante-bolivar_1785945532",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "46a2af6aef316397",
-          "titulo": "La confesión de Centurión tras su paso por Oriente Petrolero",
-          "url": "https://diez.bo/futbol/la-confesion-de-centurion-tras-su-paso-por-oriente-petrolero_1767797613",
-          "fecha": null,
-          "resumen": null
-        },
-        {
           "id": "828deff0caed02cd",
           "titulo": "Florentín analiza la derrota de Oriente ante Bolívar",
           "url": "https://diez.bo/futbol/florentin-analiza-la-derrota-de-oriente-ante-bolivar_1786025394",
@@ -1868,23 +1861,51 @@
           "resumen": null
         },
         {
-          "id": "015dad72a3a13eb4",
-          "titulo": "Óscar López debutó con el Getafe B en amistoso ante el Mónaco",
-          "url": "https://diez.bo/futbol/oscar-lopez-debuto-con-el-getafe-b-en-amistoso-ante-el-monaco_1786055438",
+          "id": "4677bf448c84e99e",
+          "titulo": "Bolivia sorprende a Colombia y se afianza en el Sudamericano Sub-16",
+          "url": "https://diez.bo/multideportivo/bolivia-sorprende-a-colombia-y-se-afianza-en-el-sudamericano-sub-16_1785972476",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "205b9c778523d9bc",
-          "titulo": "La Conmebol, preocupada por las iniciativas comerciales de FIFA \"sin recurrir al diálogo\"",
-          "url": "https://diez.bo/futbol/la-conmebol-preocupada-por-las-iniciativas-comerciales-de-fifa-sin-recurrir-al-dialogo_1786036844",
+          "id": "d478c0055addf354",
+          "titulo": "Presidente de Conmebol apoya a Infantino y dice que no se puede desconocer su trabajo",
+          "url": "https://diez.bo/futbol/presidente-de-conmebol-apoya-a-infantino-y-dice-que-no-se-puede-desconocer-su-trabajo_1786143087",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "5f1647beb53842f6",
-          "titulo": "Oriente le complica a Bolívar en La Paz, pero terminó perdiendo",
-          "url": "https://diez.bo/futbol/oriente-le-complica-a-bolivar-en-la-paz-pero-termino-perdiendo_1785981476",
+          "id": "c526aeff51f4d905",
+          "titulo": "El dulce momento de Guabirá bajo el mando de Égüez",
+          "url": "https://diez.bo/futbol/el-dulce-momento-de-guabira-bajo-el-mando-de-eguez_1786194639",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "1587257a4788b275",
+          "titulo": "Zago se estrena en el Tigre, que busca meter presión a Always Ready",
+          "url": "https://diez.bo/the-strongest/zago-se-estrena-en-el-tigre-que-busca-meter-presion-a-always-ready_1786160385",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "4e1c9156b038fd68",
+          "titulo": "Aurora y Bolívar se citan en un duelo de alto voltaje",
+          "url": "https://diez.bo/futbol/aurora-y-bolivar-se-citan-en-un-duelo-de-alto-voltaje_1786160566",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "71f375d811438c23",
+          "titulo": "Guabirá da el golpe en El Alto y vence a ABB en la agonía del partido",
+          "url": "https://diez.bo/futbol/guabira-da-el-golpe-en-el-alto-y-vence-a-abb-en-la-agonia-del-partido_1786145417",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "74f1d4d0fc810eee",
+          "titulo": "Real Oruro hunde a Tomayapo y se lleva los tres puntos de Tarija",
+          "url": "https://diez.bo/futbol/real-oruro-hunde-a-tomayapo-y-se-lleva-los-tres-puntos-de-tarija_1786154195",
           "fecha": null,
           "resumen": null
         }
@@ -1902,8 +1923,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:40-04:00",
-      "duracion_ms": 314,
+      "actualizado_en": "2026-08-09T08:37:04-04:00",
+      "duracion_ms": 520,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 27,
@@ -2114,8 +2135,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:45-04:00",
-      "duracion_ms": 4431,
+      "actualizado_en": "2026-08-09T08:37:09-04:00",
+      "duracion_ms": 4264,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -8162,7 +8183,7 @@
               },
               "summary": {
                 "assists": {
-                  "qty": 4
+                  "qty": 5
                 },
                 "cornerKicks": {
                   "qty": 0
@@ -8174,16 +8195,16 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 21
+                  "qty": 23
                 },
                 "correctPasses": {
-                  "qty": 4
+                  "qty": 5
                 },
                 "incorrectPasses": {
                   "qty": 0
                 },
                 "allPasses": {
-                  "qty": 4
+                  "qty": 5
                 },
                 "offsides": {
                   "qty": 0
@@ -8192,7 +8213,7 @@
                   "qty": 7
                 },
                 "shots": {
-                  "qty": 22
+                  "qty": 24
                 },
                 "shotsOnTarget": {
                   "qty": 1
@@ -8204,13 +8225,13 @@
                   "qty": 0
                 },
                 "saves": {
-                  "qty": 4
+                  "qty": 5
                 },
                 "stealings": {
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 37
+                  "qty": 41
                 }
               },
               "players": {
@@ -8311,10 +8332,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 879
+                      "qty": 943
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -8387,10 +8408,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 953
+                      "qty": 1049
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -8438,7 +8459,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 5
+                      "qty": 6
                     }
                   }
                 },
@@ -8615,10 +8636,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1279
+                      "qty": 1375
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -8666,7 +8687,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 3
+                      "qty": 4
                     }
                   }
                 },
@@ -8843,10 +8864,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1080
+                      "qty": 1176
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -9147,10 +9168,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 41
+                      "qty": 73
                     },
                     "matches": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "assists": {
                       "qty": 0
@@ -9375,10 +9396,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 101
+                      "qty": 119
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -9527,10 +9548,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1264
+                      "qty": 1360
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 1
@@ -9983,10 +10004,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 729
+                      "qty": 776
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -10363,10 +10384,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 0
+                      "qty": 18
                     },
                     "matches": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "assists": {
                       "qty": 0
@@ -10381,7 +10402,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "correctPasses": {
                       "qty": 0
@@ -10399,7 +10420,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -10439,10 +10460,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1192
+                      "qty": 1270
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 1
@@ -10502,7 +10523,7 @@
                     "order": 31,
                     "country": "Bolivia",
                     "birthdate": "1999-08-05",
-                    "age": 26,
+                    "age": 27,
                     "name": {
                       "first": "Alan",
                       "middle": null,
@@ -10515,10 +10536,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 899
+                      "qty": 977
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -10667,13 +10688,13 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 274
+                      "qty": 370
                     },
                     "matches": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "assists": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "cornerKicks": {
                       "qty": 0
@@ -10688,13 +10709,13 @@
                       "qty": 1
                     },
                     "correctPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "incorrectPasses": {
                       "qty": 0
                     },
                     "allPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "offsides": {
                       "qty": 0
@@ -10718,7 +10739,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 1
                     }
                   }
                 },
@@ -10730,7 +10751,7 @@
                     "order": 34,
                     "country": "Bolivia",
                     "birthdate": "2001-08-05",
-                    "age": 24,
+                    "age": 25,
                     "name": {
                       "first": "Enrique",
                       "middle": null,
@@ -10895,10 +10916,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 162
+                      "qty": 211
                     },
                     "matches": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "assists": {
                       "qty": 0
@@ -10971,10 +10992,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 336
+                      "qty": 432
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -10989,7 +11010,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "correctPasses": {
                       "qty": 0
@@ -11007,7 +11028,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -11022,7 +11043,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -11275,10 +11296,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1298
+                      "qty": 1394
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 1
@@ -14374,7 +14395,7 @@
               },
               "summary": {
                 "assists": {
-                  "qty": 3
+                  "qty": 4
                 },
                 "cornerKicks": {
                   "qty": 0
@@ -14386,16 +14407,16 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 28
+                  "qty": 32
                 },
                 "correctPasses": {
-                  "qty": 3
+                  "qty": 4
                 },
                 "incorrectPasses": {
                   "qty": 0
                 },
                 "allPasses": {
-                  "qty": 3
+                  "qty": 4
                 },
                 "offsides": {
                   "qty": 0
@@ -14404,7 +14425,7 @@
                   "qty": 1
                 },
                 "shots": {
-                  "qty": 29
+                  "qty": 33
                 },
                 "shotsOnTarget": {
                   "qty": 1
@@ -14416,13 +14437,13 @@
                   "qty": 0
                 },
                 "saves": {
-                  "qty": 3
+                  "qty": 4
                 },
                 "stealings": {
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 29
+                  "qty": 31
                 }
               },
               "players": {
@@ -14523,10 +14544,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 162
+                      "qty": 194
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -14599,10 +14620,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 705
+                      "qty": 801
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
                       "qty": 0
@@ -14675,10 +14696,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 203
+                      "qty": 267
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -14693,7 +14714,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 2
+                      "qty": 4
                     },
                     "correctPasses": {
                       "qty": 0
@@ -14711,7 +14732,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 2
+                      "qty": 4
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -14827,10 +14848,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 0
+                      "qty": 27
                     },
                     "matches": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "assists": {
                       "qty": 0
@@ -14979,10 +15000,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 857
+                      "qty": 889
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -15207,10 +15228,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 593
+                      "qty": 689
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -15359,10 +15380,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 608
+                      "qty": 704
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -15815,10 +15836,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1078
+                      "qty": 1159
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -15891,10 +15912,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1185
+                      "qty": 1281
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -16119,10 +16140,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 803
+                      "qty": 829
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -16651,10 +16672,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 703
+                      "qty": 772
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -16727,10 +16748,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 537
+                      "qty": 607
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -16955,10 +16976,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 533
+                      "qty": 629
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -17006,7 +17027,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 2
+                      "qty": 3
                     }
                   }
                 },
@@ -17107,13 +17128,13 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 674
+                      "qty": 738
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "cornerKicks": {
                       "qty": 0
@@ -17128,13 +17149,13 @@
                       "qty": 2
                     },
                     "correctPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "incorrectPasses": {
                       "qty": 0
                     },
                     "allPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "offsides": {
                       "qty": 0
@@ -17183,10 +17204,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 551
+                      "qty": 566
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -17259,10 +17280,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 597
+                      "qty": 693
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
                       "qty": 1
@@ -17277,7 +17298,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 2
+                      "qty": 4
                     },
                     "correctPasses": {
                       "qty": 1
@@ -17295,7 +17316,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 2
+                      "qty": 4
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -17310,7 +17331,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 1
                     }
                   }
                 },
@@ -24122,7 +24143,7 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 19
+                  "qty": 21
                 },
                 "correctPasses": {
                   "qty": 2
@@ -24137,10 +24158,10 @@
                   "qty": 0
                 },
                 "redCards": {
-                  "qty": 5
+                  "qty": 6
                 },
                 "shots": {
-                  "qty": 18
+                  "qty": 20
                 },
                 "shotsOnTarget": {
                   "qty": 0
@@ -24158,7 +24179,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 41
+                  "qty": 45
                 }
               },
               "players": {
@@ -24259,10 +24280,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 879
+                      "qty": 986
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -24411,10 +24432,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 339
+                      "qty": 446
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -24462,7 +24483,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 3
+                      "qty": 4
                     }
                   }
                 },
@@ -24563,10 +24584,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 767
+                      "qty": 846
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 1
@@ -24639,10 +24660,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 58
+                      "qty": 73
                     },
                     "matches": {
-                      "qty": 2
+                      "qty": 3
                     },
                     "assists": {
                       "qty": 0
@@ -24791,10 +24812,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 993
+                      "qty": 1100
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -24867,10 +24888,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 992
+                      "qty": 1084
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -24885,7 +24906,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "correctPasses": {
                       "qty": 0
@@ -24903,7 +24924,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -25171,10 +25192,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 357
+                      "qty": 430
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -25204,7 +25225,7 @@
                       "qty": 0
                     },
                     "redCards": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shots": {
                       "qty": 0
@@ -25247,10 +25268,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 371
+                      "qty": 414
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -25475,10 +25496,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 241
+                      "qty": 305
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -25627,10 +25648,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 371
+                      "qty": 478
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -26235,10 +26256,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 883
+                      "qty": 990
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -26253,7 +26274,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "correctPasses": {
                       "qty": 0
@@ -26271,7 +26292,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -26615,10 +26636,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 0
+                      "qty": 28
                     },
                     "matches": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "assists": {
                       "qty": 0
@@ -26746,12 +26767,88 @@
                     }
                   }
                 },
+                "347714": {
+                  "info": {
+                    "teamId": 3319,
+                    "squadNo": 88,
+                    "posnId": 4,
+                    "order": 35,
+                    "country": "Bolivia",
+                    "birthdate": "2002-09-03",
+                    "age": 23,
+                    "name": {
+                      "first": "José",
+                      "middle": null,
+                      "last": "Soria",
+                      "nick": null
+                    },
+                    "ht": null,
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 0
+                    },
+                    "matches": {
+                      "qty": 0
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 0
+                    }
+                  }
+                },
                 "291523": {
                   "info": {
                     "teamId": 3319,
                     "squadNo": 26,
                     "posnId": 3,
-                    "order": 35,
+                    "order": 36,
                     "country": "Bolivia",
                     "birthdate": "2006-05-17",
                     "age": 20,
@@ -26767,10 +26864,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 317
+                      "qty": 360
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -26827,7 +26924,7 @@
                     "teamId": 3319,
                     "squadNo": 38,
                     "posnId": 3,
-                    "order": 36,
+                    "order": 37,
                     "country": "Bolivia",
                     "birthdate": "2005-06-07",
                     "age": 21,
@@ -26903,7 +27000,7 @@
                     "teamId": 3319,
                     "squadNo": null,
                     "posnId": 2,
-                    "order": 37,
+                    "order": 38,
                     "country": "Bolivia",
                     "birthdate": "1990-03-22",
                     "age": 36,
@@ -26919,10 +27016,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 765
+                      "qty": 808
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -26970,7 +27067,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 5
+                      "qty": 6
                     }
                   }
                 },
@@ -26979,7 +27076,7 @@
                     "teamId": 3319,
                     "squadNo": 14,
                     "posnId": 3,
-                    "order": 38,
+                    "order": 39,
                     "country": "Bolivia",
                     "birthdate": "1993-01-06",
                     "age": 33,
@@ -26995,10 +27092,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 218
+                      "qty": 282
                     },
                     "matches": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "assists": {
                       "qty": 0
@@ -27046,7 +27143,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -27055,7 +27152,7 @@
                     "teamId": 3319,
                     "squadNo": 50,
                     "posnId": 3,
-                    "order": 39,
+                    "order": 40,
                     "country": "Bolivia",
                     "birthdate": "2002-11-13",
                     "age": 23,
@@ -27131,7 +27228,7 @@
                     "teamId": 3319,
                     "squadNo": 90,
                     "posnId": 2,
-                    "order": 40,
+                    "order": 41,
                     "country": "Bolivia",
                     "birthdate": "2002-03-01",
                     "age": 24,
@@ -27207,7 +27304,7 @@
                     "teamId": 3319,
                     "squadNo": 12,
                     "posnId": 1,
-                    "order": 41,
+                    "order": 42,
                     "country": "Bolivia",
                     "birthdate": "2003-03-24",
                     "age": 23,
@@ -27283,7 +27380,7 @@
                     "teamId": 3319,
                     "squadNo": 59,
                     "posnId": 2,
-                    "order": 42,
+                    "order": 43,
                     "country": "Bolivia",
                     "birthdate": "2007-07-02",
                     "age": 19,
@@ -27359,7 +27456,7 @@
                     "teamId": 3319,
                     "squadNo": null,
                     "posnId": 4,
-                    "order": 43,
+                    "order": 44,
                     "country": "Brasil",
                     "birthdate": "2000-09-08",
                     "age": 25,
@@ -27435,7 +27532,7 @@
                     "teamId": 3319,
                     "squadNo": 77,
                     "posnId": 4,
-                    "order": 44,
+                    "order": 45,
                     "country": "Bolivia",
                     "birthdate": "2006-01-31",
                     "age": 20,
@@ -27451,10 +27548,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 201
+                      "qty": 265
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -27502,7 +27599,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 2
+                      "qty": 3
                     }
                   }
                 },
@@ -27511,7 +27608,7 @@
                     "teamId": 3319,
                     "squadNo": 91,
                     "posnId": 4,
-                    "order": 45,
+                    "order": 46,
                     "country": "Bolivia",
                     "birthdate": "1992-04-07",
                     "age": 34,
@@ -27646,7 +27743,7 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 19
+                  "qty": 20
                 },
                 "correctPasses": {
                   "qty": 3
@@ -27664,7 +27761,7 @@
                   "qty": 7
                 },
                 "shots": {
-                  "qty": 18
+                  "qty": 19
                 },
                 "shotsOnTarget": {
                   "qty": 0
@@ -27682,7 +27779,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 32
+                  "qty": 34
                 }
               },
               "players": {
@@ -27707,10 +27804,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 300
+                      "qty": 376
                     },
                     "matches": {
-                      "qty": 6
+                      "qty": 7
                     },
                     "assists": {
                       "qty": 0
@@ -27783,10 +27880,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 550
+                      "qty": 644
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -27834,7 +27931,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -27910,7 +28007,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -28011,10 +28108,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1244
+                      "qty": 1346
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -28087,10 +28184,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 425
+                      "qty": 527
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
                       "qty": 0
@@ -28315,10 +28412,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1183
+                      "qty": 1285
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -28391,10 +28488,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1269
+                      "qty": 1371
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -28847,10 +28944,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 830
+                      "qty": 932
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 2
@@ -29075,10 +29172,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 256
+                      "qty": 345
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -29151,10 +29248,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 535
+                      "qty": 611
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -29607,10 +29704,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 497
+                      "qty": 511
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
                       "qty": 0
@@ -29683,10 +29780,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 367
+                      "qty": 455
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -29759,10 +29856,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 14
+                      "qty": 40
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -29835,10 +29932,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1066
+                      "qty": 1168
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -29911,10 +30008,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 540
+                      "qty": 553
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -30063,10 +30160,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 606
+                      "qty": 632
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -30081,7 +30178,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 2
+                      "qty": 3
                     },
                     "correctPasses": {
                       "qty": 0
@@ -30099,7 +30196,83 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 2
+                      "qty": 3
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 0
+                    }
+                  }
+                },
+                "259630": {
+                  "info": {
+                    "teamId": 1657,
+                    "squadNo": 5,
+                    "posnId": 2,
+                    "order": 33,
+                    "country": "Bolivia",
+                    "birthdate": "2001-08-29",
+                    "age": 24,
+                    "name": {
+                      "first": "Sebastián",
+                      "middle": null,
+                      "last": "Álvarez Vargas",
+                      "nick": null
+                    },
+                    "ht": "1.9m",
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 8
+                    },
+                    "matches": {
+                      "qty": 1
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -30123,7 +30296,7 @@
                     "teamId": 1657,
                     "squadNo": 2,
                     "posnId": 2,
-                    "order": 33,
+                    "order": 34,
                     "country": "Bolivia",
                     "birthdate": "1995-03-03",
                     "age": 31,
@@ -40906,7 +41079,7 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 15
+                  "qty": 17
                 },
                 "correctPasses": {
                   "qty": 4
@@ -40924,7 +41097,7 @@
                   "qty": 5
                 },
                 "shots": {
-                  "qty": 15
+                  "qty": 17
                 },
                 "shotsOnTarget": {
                   "qty": 0
@@ -40942,7 +41115,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 30
+                  "qty": 32
                 }
               },
               "players": {
@@ -41043,10 +41216,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1118
+                      "qty": 1220
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -41195,10 +41368,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 161
+                      "qty": 174
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -41402,12 +41575,88 @@
                     }
                   }
                 },
+                "347707": {
+                  "info": {
+                    "teamId": 11267,
+                    "squadNo": 29,
+                    "posnId": 3,
+                    "order": 7,
+                    "country": "Brasil",
+                    "birthdate": "1994-02-11",
+                    "age": 32,
+                    "name": {
+                      "first": "Hallyson",
+                      "middle": null,
+                      "last": "Fernandes Padilha",
+                      "nick": null
+                    },
+                    "ht": null,
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 102
+                    },
+                    "matches": {
+                      "qty": 1
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 0
+                    }
+                  }
+                },
                 "231038": {
                   "info": {
                     "teamId": 11267,
                     "squadNo": 22,
                     "posnId": 1,
-                    "order": 7,
+                    "order": 8,
                     "country": "Paraguay",
                     "birthdate": "2000-10-18",
                     "age": 25,
@@ -41483,7 +41732,7 @@
                     "teamId": 11267,
                     "squadNo": 1,
                     "posnId": 1,
-                    "order": 8,
+                    "order": 9,
                     "country": "Uruguay",
                     "birthdate": "2000-05-24",
                     "age": 26,
@@ -41499,10 +41748,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1311
+                      "qty": 1413
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 2
@@ -41559,7 +41808,7 @@
                     "teamId": 11267,
                     "squadNo": 17,
                     "posnId": 3,
-                    "order": 9,
+                    "order": 10,
                     "country": "Bolivia",
                     "birthdate": "1992-09-14",
                     "age": 33,
@@ -41635,7 +41884,7 @@
                     "teamId": 11267,
                     "squadNo": 12,
                     "posnId": 1,
-                    "order": 10,
+                    "order": 11,
                     "country": "Bolivia",
                     "birthdate": "2004-04-30",
                     "age": 22,
@@ -41711,7 +41960,7 @@
                     "teamId": 11267,
                     "squadNo": 7,
                     "posnId": 3,
-                    "order": 11,
+                    "order": 12,
                     "country": "Bolivia",
                     "birthdate": "1999-02-11",
                     "age": 27,
@@ -41787,7 +42036,7 @@
                     "teamId": 11267,
                     "squadNo": 5,
                     "posnId": 2,
-                    "order": 12,
+                    "order": 13,
                     "country": "Brasil",
                     "birthdate": "1997-11-14",
                     "age": 28,
@@ -41803,10 +42052,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 98
+                      "qty": 200
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -41863,7 +42112,7 @@
                     "teamId": 11267,
                     "squadNo": 15,
                     "posnId": 3,
-                    "order": 13,
+                    "order": 14,
                     "country": "Bolivia",
                     "birthdate": "1990-06-20",
                     "age": 36,
@@ -41879,10 +42128,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 767
+                      "qty": 798
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -41939,7 +42188,7 @@
                     "teamId": 11267,
                     "squadNo": 33,
                     "posnId": 3,
-                    "order": 14,
+                    "order": 15,
                     "country": "Bolivia",
                     "birthdate": "2003-01-02",
                     "age": 23,
@@ -42015,7 +42264,7 @@
                     "teamId": 11267,
                     "squadNo": 13,
                     "posnId": 4,
-                    "order": 15,
+                    "order": 16,
                     "country": "Argentina",
                     "birthdate": "1995-06-28",
                     "age": 31,
@@ -42091,7 +42340,7 @@
                     "teamId": 11267,
                     "squadNo": 18,
                     "posnId": 4,
-                    "order": 16,
+                    "order": 17,
                     "country": "Bolivia",
                     "birthdate": "2001-06-25",
                     "age": 25,
@@ -42107,10 +42356,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 719
+                      "qty": 799
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -42167,7 +42416,7 @@
                     "teamId": 11267,
                     "squadNo": 34,
                     "posnId": 3,
-                    "order": 17,
+                    "order": 18,
                     "country": "Bolivia",
                     "birthdate": "2004-05-11",
                     "age": 22,
@@ -42243,7 +42492,7 @@
                     "teamId": 11267,
                     "squadNo": 6,
                     "posnId": 3,
-                    "order": 18,
+                    "order": 19,
                     "country": "Bolivia",
                     "birthdate": "2006-05-13",
                     "age": 20,
@@ -42259,10 +42508,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 847
+                      "qty": 929
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -42319,7 +42568,7 @@
                     "teamId": 11267,
                     "squadNo": 8,
                     "posnId": 3,
-                    "order": 19,
+                    "order": 20,
                     "country": "Bolivia",
                     "birthdate": "2007-07-17",
                     "age": 19,
@@ -42395,7 +42644,7 @@
                     "teamId": 11267,
                     "squadNo": 9,
                     "posnId": 4,
-                    "order": 20,
+                    "order": 21,
                     "country": "Colombia",
                     "birthdate": "2001-11-02",
                     "age": 24,
@@ -42411,10 +42660,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 52
+                      "qty": 74
                     },
                     "matches": {
-                      "qty": 2
+                      "qty": 3
                     },
                     "assists": {
                       "qty": 0
@@ -42429,7 +42678,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "correctPasses": {
                       "qty": 0
@@ -42447,7 +42696,7 @@
                       "qty": 0
                     },
                     "shots": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -42471,7 +42720,7 @@
                     "teamId": 11267,
                     "squadNo": 2,
                     "posnId": 2,
-                    "order": 21,
+                    "order": 22,
                     "country": "Bolivia",
                     "birthdate": "2006-04-23",
                     "age": 20,
@@ -42547,7 +42796,7 @@
                     "teamId": 11267,
                     "squadNo": 11,
                     "posnId": 3,
-                    "order": 22,
+                    "order": 23,
                     "country": "Colombia",
                     "birthdate": "1996-03-06",
                     "age": 30,
@@ -42563,10 +42812,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 66
+                      "qty": 137
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -42623,7 +42872,7 @@
                     "teamId": 11267,
                     "squadNo": 44,
                     "posnId": 2,
-                    "order": 23,
+                    "order": 24,
                     "country": "Bolivia",
                     "birthdate": "2006-02-03",
                     "age": 20,
@@ -42639,10 +42888,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 72
+                      "qty": 92
                     },
                     "matches": {
-                      "qty": 2
+                      "qty": 3
                     },
                     "assists": {
                       "qty": 0
@@ -42699,7 +42948,7 @@
                     "teamId": 11267,
                     "squadNo": 4,
                     "posnId": 2,
-                    "order": 24,
+                    "order": 25,
                     "country": "Bolivia",
                     "birthdate": "1994-08-22",
                     "age": 31,
@@ -42715,10 +42964,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 54
+                      "qty": 67
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -42766,7 +43015,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 1
                     }
                   }
                 },
@@ -42775,7 +43024,7 @@
                     "teamId": 11267,
                     "squadNo": 26,
                     "posnId": 2,
-                    "order": 25,
+                    "order": 26,
                     "country": "Bolivia",
                     "birthdate": "2001-08-03",
                     "age": 25,
@@ -42851,7 +43100,7 @@
                     "teamId": 11267,
                     "squadNo": 16,
                     "posnId": 4,
-                    "order": 26,
+                    "order": 27,
                     "country": "Cabo Verde",
                     "birthdate": "1999-04-01",
                     "age": 27,
@@ -42927,7 +43176,7 @@
                     "teamId": 11267,
                     "squadNo": 25,
                     "posnId": 2,
-                    "order": 27,
+                    "order": 28,
                     "country": "Bolivia",
                     "birthdate": "1997-11-21",
                     "age": 28,
@@ -43003,7 +43252,7 @@
                     "teamId": 11267,
                     "squadNo": 10,
                     "posnId": 3,
-                    "order": 28,
+                    "order": 29,
                     "country": "Bolivia",
                     "birthdate": "2000-08-25",
                     "age": 25,
@@ -43019,10 +43268,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 973
+                      "qty": 1075
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -43037,7 +43286,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 2
+                      "qty": 3
                     },
                     "correctPasses": {
                       "qty": 0
@@ -43055,7 +43304,7 @@
                       "qty": 1
                     },
                     "shots": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -43070,7 +43319,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 3
+                      "qty": 4
                     }
                   }
                 },
@@ -43079,7 +43328,7 @@
                     "teamId": 11267,
                     "squadNo": 9,
                     "posnId": 4,
-                    "order": 29,
+                    "order": 30,
                     "country": "Uruguay",
                     "birthdate": "2001-04-11",
                     "age": 25,
@@ -43155,7 +43404,7 @@
                     "teamId": 11267,
                     "squadNo": 24,
                     "posnId": 2,
-                    "order": 30,
+                    "order": 31,
                     "country": "Bolivia",
                     "birthdate": "2002-05-31",
                     "age": 24,
@@ -43231,7 +43480,7 @@
                     "teamId": 11267,
                     "squadNo": 20,
                     "posnId": 4,
-                    "order": 31,
+                    "order": 32,
                     "country": "Bolivia",
                     "birthdate": "1994-10-19",
                     "age": 31,
@@ -43307,7 +43556,7 @@
                     "teamId": 11267,
                     "squadNo": 35,
                     "posnId": 3,
-                    "order": 32,
+                    "order": 33,
                     "country": "Bolivia",
                     "birthdate": "2007-10-24",
                     "age": 18,
@@ -43383,7 +43632,7 @@
                     "teamId": 11267,
                     "squadNo": 45,
                     "posnId": 3,
-                    "order": 33,
+                    "order": 34,
                     "country": "Bolivia",
                     "birthdate": "1994-12-14",
                     "age": 31,
@@ -43399,10 +43648,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 98
+                      "qty": 200
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -43459,7 +43708,7 @@
                     "teamId": 11267,
                     "squadNo": 30,
                     "posnId": 2,
-                    "order": 34,
+                    "order": 35,
                     "country": "Bolivia",
                     "birthdate": "1992-10-05",
                     "age": 33,
@@ -43475,10 +43724,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 664
+                      "qty": 753
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -43535,7 +43784,7 @@
                     "teamId": 11267,
                     "squadNo": 14,
                     "posnId": 2,
-                    "order": 35,
+                    "order": 36,
                     "country": "Bolivia",
                     "birthdate": "2000-01-01",
                     "age": 26,
@@ -43611,7 +43860,7 @@
                     "teamId": 11267,
                     "squadNo": 71,
                     "posnId": 1,
-                    "order": 36,
+                    "order": 37,
                     "country": "Bolivia",
                     "birthdate": "2009-07-15",
                     "age": 17,
@@ -43687,7 +43936,7 @@
                     "teamId": 11267,
                     "squadNo": 19,
                     "posnId": 4,
-                    "order": 37,
+                    "order": 38,
                     "country": "Bolivia",
                     "birthdate": "2005-04-08",
                     "age": 21,
@@ -43703,10 +43952,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 297
+                      "qty": 386
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -43763,7 +44012,7 @@
                     "teamId": 11267,
                     "squadNo": 40,
                     "posnId": 4,
-                    "order": 38,
+                    "order": 39,
                     "country": "Brasil",
                     "birthdate": "2003-01-04",
                     "age": 23,
@@ -43898,7 +44147,7 @@
                   "qty": 0
                 },
                 "goals": {
-                  "qty": 20
+                  "qty": 21
                 },
                 "correctPasses": {
                   "qty": 4
@@ -43916,7 +44165,7 @@
                   "qty": 5
                 },
                 "shots": {
-                  "qty": 21
+                  "qty": 22
                 },
                 "shotsOnTarget": {
                   "qty": 1
@@ -43934,7 +44183,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 30
+                  "qty": 32
                 }
               },
               "players": {
@@ -44263,10 +44512,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1054
+                      "qty": 1161
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -44281,7 +44530,7 @@
                       "qty": 0
                     },
                     "goals": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "correctPasses": {
                       "qty": 0
@@ -44299,7 +44548,7 @@
                       "qty": 1
                     },
                     "shots": {
-                      "qty": 3
+                      "qty": 4
                     },
                     "shotsOnTarget": {
                       "qty": 0
@@ -44339,10 +44588,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1289
+                      "qty": 1396
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -44567,10 +44816,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 954
+                      "qty": 995
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 1
@@ -44618,7 +44867,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 2
+                      "qty": 3
                     }
                   }
                 },
@@ -44719,10 +44968,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 972
+                      "qty": 1079
                     },
                     "matches": {
-                      "qty": 11
+                      "qty": 12
                     },
                     "assists": {
                       "qty": 0
@@ -44795,10 +45044,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 433
+                      "qty": 464
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -44871,10 +45120,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 73
+                      "qty": 114
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -45023,10 +45272,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 930
+                      "qty": 1037
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 2
@@ -45251,10 +45500,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 961
+                      "qty": 1068
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -45542,7 +45791,7 @@
                     "order": 22,
                     "country": "Colombia",
                     "birthdate": "1992-08-07",
-                    "age": 33,
+                    "age": 34,
                     "name": {
                       "first": "José David",
                       "middle": "David",
@@ -45631,10 +45880,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 354
+                      "qty": 461
                     },
                     "matches": {
-                      "qty": 6
+                      "qty": 7
                     },
                     "assists": {
                       "qty": 0
@@ -45707,10 +45956,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 364
+                      "qty": 386
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -45783,10 +46032,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1289
+                      "qty": 1374
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -46087,10 +46336,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 35
+                      "qty": 111
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -46138,7 +46387,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 1
                     }
                   }
                 },
@@ -46239,10 +46488,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1203
+                      "qty": 1235
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -46315,10 +46564,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 224
+                      "qty": 299
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -46467,10 +46716,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 378
+                      "qty": 444
                     },
                     "matches": {
-                      "qty": 9
+                      "qty": 10
                     },
                     "assists": {
                       "qty": 0
@@ -46543,10 +46792,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 796
+                      "qty": 862
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -53132,11 +53381,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:47-04:00",
-      "duracion_ms": 508,
+      "actualizado_en": "2026-08-09T08:37:11-04:00",
+      "duracion_ms": 720,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 3,
-      "cantidad_noticias": 1,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -53145,24 +53394,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 La solidaridad de los cruceños que llevan agua y alimentos a los bomberos que luchan en Barrio Lindo Ver más",
-              "2 Abelardo de la Espriella jura como nuevo presidente de la República de Colombia Ver más"
+              "1 Gobierno e YPFB advierten con sanciones en ANH “caiga quien caiga” Ver más",
+              "2 Murió Jorge Messi, el papá de Lionel Messi Ver más"
             ],
             [
-              "3 Lluvia no apaga incendio en Barrio Lindo y advierten riesgo de posible colapso Ver más",
-              "4 Incendio en Barrio Lindo estaría 100% controlado y ahora se trabaja en la seguridad de la zona Ver más"
+              "3 Policía de Brasil abatió a Mariano Paz y tres implicados en los asesinatos en San Matías Ver más",
+              "4 Ministro de Defensa compromete apoyo a los afectados por el incendio de Barrio Lindo Ver más"
             ],
             [
-              "5 Trump firma orden ejecutiva contra el \"turismo de maternidad\" Ver más",
-              "6 El equipo nacional femenino de tenis supera al de Chile en el Sudamericano Sub-16 Ver más"
+              "5 Gesto humano: Fiscal General visita el asilo en Vallegrande Ver más",
+              "6 Armada Boliviana busca a una persona desaparecida en el río San Francisco Ver más"
             ],
             [
-              "7 El Senado de Argentina aprueba polémica ley de propiedad privada en medio de protestas Ver más",
-              "8 Las Fuerzas Armadas celebran su aniversario 201 con una Parada Militar en El Alto Ver más"
+              "7 Policía de Brasil califica de grupo armado y violento a los cuatro bolivianos abatidos Ver más",
+              "8 Más de 30 advocaciones marianas dan inicio a la festividad de Urkupiña Ver más"
             ],
             [
-              "9 El desabastecimiento de diésel no da tregua en el eje central, afectando a los usuarios incluso durante el feriado largo Ver más",
-              "10 Un tiroteo en una escuela del centro de Tailandia deja al menos seis fallecidos y unos quince heridos Ver más"
+              "9 Fiscal General: \"Seguridad es tarea de la Policía; el boliviano está con miedo en la calle\" Ver más",
+              ""
             ]
           ]
         },
@@ -53172,11 +53421,11 @@
           "columnas": [],
           "filas": [
             [
-              "07/08/2026 País Las Fuerzas Armadas celebran su aniversario 201 con una Parada Militar en El Alto Este viernes 7 de agosto se lleva a cabo la tradicional Parada Militar en la ciudad de El Alto, en homenaje a los 201 años de las Fuerzas Armadas de Bolivia. vista",
-              "07/08/2026 Mundo El Estado de Maryland proclama un día de homenaje oficial a Bolivia por sus 201 años En un histórico gesto de hermandad y reconocimiento internacional, el Estado de Maryland, Estados Unidos, emitió una Proclamación Oficial en homenaje al 201°... vista",
+              "08/08/2026 Fútbol Int. Murió Jorge Messi, el papá de Lionel Messi Jorge Messi, el padre de Lionel Andrés Messi, murió anoche, a las 22, en un sanatorio de la ciudad de Rosario, en Argentina, según supo Infobae. El empresario... vista",
+              "08/08/2026 Seguridad Fiscal General: \"Seguridad es tarea de la Policía; el boliviano está con miedo en la calle\" El fiscal general del Estado, Roger Mariaca, cuestionó los hechos de violencia registrados en distintas ciudades y provincias del país y remarcó que la... vista",
               "",
-              "07/08/2026 País Anuncian la creación de la Unidad Militar de Emergencias y Ecología Una unidad militar especializada para responder ante catástrofes, calamidades públicas y otras situaciones de riesgo fue creada y se encuentra en proceso de... vista",
-              "07/08/2026 País Lluvia no apaga incendio en Barrio Lindo y advierten riesgo de posible colapso Pese a la lluvia registrada durante la madrugada y la mañana de este viernes, el incendio en el mercado de la Feria Barrio Lindo continúa activo y persiste el... vista"
+              "08/08/2026 Seguridad Ministro de Defensa compromete apoyo a los afectados por el incendio de Barrio Lindo Después de más de 36 horas de trabajo continuo, el incendio que afectó a la Feria Barrio Lindo de Santa Cruz fue extinguido y controlado, informó este sábado... vista",
+              "08/08/2026 Seguridad Policía de Brasil abatió a Mariano Paz y tres implicados en los asesinatos en San Matías Cuatro hombres señalados como presuntos integrantes del grupo armado vinculado a los cinco asesinatos registrados en San Matías, entre ellos la muerte del... vista"
             ]
           ]
         },
@@ -53196,15 +53445,7 @@
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "303761ddf9a08dbc",
-          "titulo": "El equipo nacional femenino de tenis supera al de Chile en el Sudamericano Sub-16",
-          "url": "https://www.lostiempos.com/deportes/tenis/20260807/equipo-nacional-femenino-tenis-supera-al-chile-sudamericano-sub-16",
-          "fecha": null,
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -53218,8 +53459,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:49-04:00",
-      "duracion_ms": 550,
+      "actualizado_en": "2026-08-09T08:37:13-04:00",
+      "duracion_ms": 899,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 18,
@@ -53367,8 +53608,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:50-04:00",
-      "duracion_ms": 228,
+      "actualizado_en": "2026-08-09T08:37:15-04:00",
+      "duracion_ms": 299,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -53389,11 +53630,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:56-04:00",
-      "duracion_ms": 4378,
+      "actualizado_en": "2026-08-09T08:37:21-04:00",
+      "duracion_ms": 5072,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 20,
+      "cantidad_noticias": 21,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -53403,6 +53644,15 @@
             "columna_1"
           ],
           "filas": [
+            {
+              "columna_1": "agosto 8, 2026 7:30 pm N/D Aurora vs Bolívar"
+            },
+            {
+              "columna_1": "agosto 8, 2026 5:15 pm N/D The Strongest vs Independiente"
+            },
+            {
+              "columna_1": "agosto 8, 2026 3:00 pm N/D San Antonio vs Nacional Potosí"
+            },
             {
               "columna_1": "agosto 7, 2026 1 - 2 N/D Real Tomayapo vs CDT Real Oruro"
             },
@@ -53864,59 +54114,52 @@
       ],
       "noticias": [
         {
-          "id": "3d629d8753245413",
-          "titulo": "El petróleo sube por la falta de acuerdo en Oriente Medio",
-          "url": "https://larazon.bo/mundo/2026/08/07/el-petroleo-sube-por-la-falta-de-acuerdo-en-oriente-medio/",
-          "fecha": "agosto 7, 2026",
+          "id": "5d446cd5eed598df",
+          "titulo": "Always visita a GV San José; otro duelo Soria vs Baldivieso",
+          "url": "https://larazon.bo/marcas/2026/08/09/always-visita-a-gv-san-jose-otro-duelo-soria-vs-baldivieso/",
+          "fecha": "agosto 9, 2026",
           "resumen": null
         },
         {
-          "id": "799b3164a44ec976",
-          "titulo": "México clasifica al torneo de fútbol de los JJOO Los Ángeles 2028",
-          "url": "https://larazon.bo/marcas/2026/08/08/mexico-clasifica-al-torneo-de-futbol-de-los-jjoo-los-angeles-2028/",
+          "id": "d3116541cf74d754",
+          "titulo": "Bolívar es imponente en casa por la Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/08/09/bolivar-es-imponente-en-casa-por-la-sudamericana/",
+          "fecha": "agosto 9, 2026",
+          "resumen": null
+        },
+        {
+          "id": "3a286ac5916090d6",
+          "titulo": "Inter Stars Rush es subcampeón de la Fiesta CONMEBOL Evolución",
+          "url": "https://larazon.bo/marcas/2026/08/08/inter-stars-rush-es-subcampeon-de-la-fiesta-conmebol-evolucion/",
           "fecha": "agosto 8, 2026",
           "resumen": null
         },
         {
-          "id": "2eb7ed006426b22d",
-          "titulo": "Venezuela se corona en fútbol en los Centrocaribes 2026",
-          "url": "https://larazon.bo/marcas/2026/08/08/venezuela-se-corona-en-futbol-en-los-centrocaribes-2026/",
+          "id": "9bf05f73a1fc5554",
+          "titulo": "Bolívar es segundo con victoria de 2-4 sobre Aurora",
+          "url": "https://larazon.bo/marcas/2026/08/08/bolivar-es-segundo-con-victoria-de-2-4-sobre-aurora/",
           "fecha": "agosto 8, 2026",
           "resumen": null
         },
         {
-          "id": "2d5f442d849b5636",
-          "titulo": "Bolivia femenino supera a Chile en el Sudamericano Sub-16",
-          "url": "https://larazon.bo/marcas/2026/08/07/bolivia-femenino-supera-a-chile-en-el-sudamericano-sub-16/",
-          "fecha": "agosto 7, 2026",
+          "id": "8b6ad5a4105b3b16",
+          "titulo": "The Strongest pierde 1-2 con ‘Inde’; se aplaza una vez más y van…",
+          "url": "https://larazon.bo/marcas/2026/08/08/the-strongest-pierde-1-2-con-inde-se-aplaza-una-vez-mas-y-van/",
+          "fecha": "agosto 8, 2026",
           "resumen": null
         },
         {
-          "id": "6378ee2e695372cd",
-          "titulo": "Infantino recibe en Colombia apoyo del fútbol de Sudamérica",
-          "url": "https://larazon.bo/marcas/2026/08/07/infantino-recibe-en-colombia-apoyo-del-futbol-de-sudamerica/",
-          "fecha": "agosto 7, 2026",
+          "id": "f37fda58d9ffd8e0",
+          "titulo": "René Hinojosa deja de ser técnico de Real Tomayapo",
+          "url": "https://larazon.bo/marcas/2026/08/08/rene-hinojosa-deja-de-ser-tecnico-de-real-tomayapo/",
+          "fecha": "agosto 8, 2026",
           "resumen": null
         },
         {
-          "id": "f81f6321670d9be8",
-          "titulo": "Inter Stars Rush jugará por el título de Evolución Sub-16 Femenina",
-          "url": "https://larazon.bo/marcas/2026/08/07/inter-stars-rush-jugara-por-el-titulo-de-evolucion-sub-16-femenina/",
-          "fecha": "agosto 7, 2026",
-          "resumen": null
-        },
-        {
-          "id": "63caee403cf484aa",
-          "titulo": "Un Fluminense en crisis busca aire, con la vista en la Libertadores",
-          "url": "https://larazon.bo/marcas/2026/08/07/un-fluminense-en-crisis-busca-aire-con-la-vista-en-la-libertadores/",
-          "fecha": "agosto 7, 2026",
-          "resumen": null
-        },
-        {
-          "id": "13a458dea6c28a96",
-          "titulo": "Bolivia cae ante Chile y queda sin opciones en la II Copa Sudamericana",
-          "url": "https://larazon.bo/marcas/2026/08/06/bolivia-cae-ante-chile-y-queda-sin-opciones-en-la-ii-copa-sudamericana-2/",
-          "fecha": "agosto 6, 2026",
+          "id": "432428fecb2e6a31",
+          "titulo": "El Tigre jugará ante ‘Inde’ y Bolívar visitará a Aurora",
+          "url": "https://larazon.bo/marcas/2026/08/08/el-tigre-jugara-ante-inde-y-bolivar-visitara-a-aurora/",
+          "fecha": "agosto 8, 2026",
           "resumen": null
         },
         {
@@ -53927,31 +54170,31 @@
           "resumen": null
         },
         {
-          "id": "4e211f8b2da5f956",
-          "titulo": "Always quiere guardar distancias a costa de un triunfo ante Blooming",
-          "url": "https://larazon.bo/marcas/2026/08/06/always-quiere-guardar-distancias-a-costa-de-un-triunfo-ante-blooming/",
-          "fecha": "agosto 6, 2026",
-          "resumen": null
-        },
-        {
-          "id": "a030419456daa028",
-          "titulo": "Bolívar suma y se mantiene en el podio del torneo",
-          "url": "https://larazon.bo/marcas/2026/08/05/bolivar-suma-y-se-mantiene-en-el-podio-del-torneo/",
-          "fecha": "agosto 5, 2026",
-          "resumen": null
-        },
-        {
-          "id": "208f08157619535e",
-          "titulo": "Óscar López debuta con Getafe en amistoso ante AS Monaco",
-          "url": "https://larazon.bo/marcas/2026/08/06/oscar-lopez-debuta-con-getafe-en-amistoso-ante-as-monaco/",
-          "fecha": "agosto 6, 2026",
-          "resumen": null
+          "id": "9dce7d446c2f6cc9",
+          "titulo": "Inter Miami y De Paul acompañan a Messi a la distancia",
+          "url": "https://larazon.bo/marcas/2026/08/09/inter-miami-y-de-paul-acompanan-a-messi-a-la-distancia/",
+          "fecha": "agosto 9, 2026",
+          "resumen": "En momentos previos al inicio del partido, los aficionados se pusieron de pie y acompañaron un minuto de silencio"
         },
         {
           "id": "16d84d49fc60f18f",
           "titulo": "‎El español Blanco asume como director de fútbol y metodología de la FBF",
           "url": "https://larazon.bo/marcas/2026/08/05/el-espanol-blanco-asume-como-director-de-futbol-y-metodologia-de-la-fbf/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "2d5f442d849b5636",
+          "titulo": "Bolivia femenino supera a Chile en el Sudamericano Sub-16",
+          "url": "https://larazon.bo/marcas/2026/08/07/bolivia-femenino-supera-a-chile-en-el-sudamericano-sub-16/",
+          "fecha": "agosto 7, 2026",
+          "resumen": null
+        },
+        {
+          "id": "13a458dea6c28a96",
+          "titulo": "Bolivia cae ante Chile y queda sin opciones en la II Copa Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/08/06/bolivia-cae-ante-chile-y-queda-sin-opciones-en-la-ii-copa-sudamericana-2/",
+          "fecha": "agosto 6, 2026",
           "resumen": null
         },
         {
@@ -54002,6 +54245,20 @@
           "url": "https://larazon.bo/marcas/2026/05/28/fluminense-revive-para-meterse-a-octavos-de-la-libertadores/",
           "fecha": "mayo 28, 2026",
           "resumen": null
+        },
+        {
+          "id": "f81f6321670d9be8",
+          "titulo": "Inter Stars Rush jugará por el título de Evolución Sub-16 Femenina",
+          "url": "https://larazon.bo/marcas/2026/08/07/inter-stars-rush-jugara-por-el-titulo-de-evolucion-sub-16-femenina/",
+          "fecha": "agosto 7, 2026",
+          "resumen": null
+        },
+        {
+          "id": "63caee403cf484aa",
+          "titulo": "Un Fluminense en crisis busca aire, con la vista en la Libertadores",
+          "url": "https://larazon.bo/marcas/2026/08/07/un-fluminense-en-crisis-busca-aire-con-la-vista-en-la-libertadores/",
+          "fecha": "agosto 7, 2026",
+          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -54017,8 +54274,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-08T08:34:58-04:00",
-      "duracion_ms": 530,
+      "actualizado_en": "2026-08-09T08:37:23-04:00",
+      "duracion_ms": 1065,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -54039,22 +54296,22 @@
               "Samuel prevé una nueva época política en que la división ya no será entre derechas e izquierdas"
             ],
             [
-              "Dockweiler ofrece plan con nuevo edificio municipal, puentes, escaleras mecánicas, túneles, viaductos y anfiteatro"
-            ],
-            [
               "Manfred tacha de “vergüenza” la actitud de Lara en la sesión de honor: “es parte de la desestabilización”"
-            ],
-            [
-              "Mujer que escapó de su agresor en Norte Potosí pide rescatar a sus dos hijos"
-            ],
-            [
-              "Loza pondera declaraciones de Sokol sobre Evo: “se ha entendido que el Gobierno persigue falsificando pruebas”"
             ],
             [
               "Evo Morales arremete contra Rodrigo Paz: “El pollo Paz resultó peor que el gallo Paz”"
             ],
             [
               "Rodrigo Paz anuncia una nueva gobernabilidad sin “jefazos” y pide disculpas si hubo tropiezos"
+            ],
+            [
+              "Gobierno atribuye las filas por combustible a la corrupción e inicia investigación en YPFB"
+            ],
+            [
+              "Paz justifica reducción de ministerios porque “había mucho flojo”"
+            ],
+            [
+              "Desarticulan clan “autero” vinculado a una balacera y que vendía partes a las propias víctimas de robo"
             ]
           ]
         }
@@ -54075,7 +54332,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-08-08T08:34:59-04:00",
+      "ultimo_intento_en": "2026-08-09T08:37:25-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
