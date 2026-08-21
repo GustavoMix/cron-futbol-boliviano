@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-08-20T08:35:20-04:00",
+  "generado_en": "2026-08-21T08:34:22-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 159,
+    "noticias_extraidas": 166,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:32-04:00",
-      "duracion_ms": 567,
+      "actualizado_en": "2026-08-21T08:33:39-04:00",
+      "duracion_ms": 645,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -262,6 +262,20 @@
       ],
       "noticias": [
         {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "c25231b086fda3e1",
           "titulo": "LA FBF INAUGURÓ FIFA ARENA MUNAYPATA Y FORTALECE LAS OPORTUNIDADES PARA LAS NUEVAS GENERACIONES DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-munaypata-y-fortalece-las-oportunidades-para-las-nuevas-generaciones-del-futbol-boliviano/",
@@ -279,20 +293,6 @@
           "id": "9fb0f7e311f0adc3",
           "titulo": "FBF Y SENADO IMPULSAN UN “ENCUENTRO POR EL DEPORTE NACIONAL”",
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
           "fecha": null,
           "resumen": null
         }
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:33-04:00",
-      "duracion_ms": 227,
+      "actualizado_en": "2026-08-21T08:33:41-04:00",
+      "duracion_ms": 252,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -325,6 +325,20 @@
           "url": "https://fbf.com.bo/noticias",
           "fecha": null,
           "resumen": "¡Este campeonato se transmitirá por televisión nacional! Mantente atento para ver la batalla inolvidable de los campeones."
+        },
+        {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "c25231b086fda3e1",
@@ -346,20 +360,6 @@
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:35-04:00",
-      "duracion_ms": 293,
+      "actualizado_en": "2026-08-21T08:33:42-04:00",
+      "duracion_ms": 300,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -788,6 +788,20 @@
           "resumen": "Desde cada rincón del país, llegan los sueños, el talento y la entrega de los jóvenes que hoy escriben el futuro del fútbol nacional. Esto es la Liga Nacional Sub-19, la cuna de las próximas estrellas, donde la pasión se vive con la misma intensidad."
         },
         {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "c25231b086fda3e1",
           "titulo": "LA FBF INAUGURÓ FIFA ARENA MUNAYPATA Y FORTALECE LAS OPORTUNIDADES PARA LAS NUEVAS GENERACIONES DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-munaypata-y-fortalece-las-oportunidades-para-las-nuevas-generaciones-del-futbol-boliviano/",
@@ -807,20 +821,6 @@
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:39-04:00",
-      "duracion_ms": 3514,
+      "actualizado_en": "2026-08-21T08:33:44-04:00",
+      "duracion_ms": 280,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1157,6 +1157,20 @@
           "resumen": null
         },
         {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "c25231b086fda3e1",
           "titulo": "LA FBF INAUGURÓ FIFA ARENA MUNAYPATA Y FORTALECE LAS OPORTUNIDADES PARA LAS NUEVAS GENERACIONES DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-munaypata-y-fortalece-las-oportunidades-para-las-nuevas-generaciones-del-futbol-boliviano/",
@@ -1176,20 +1190,6 @@
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:41-04:00",
-      "duracion_ms": 230,
+      "actualizado_en": "2026-08-21T08:33:45-04:00",
+      "duracion_ms": 256,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1242,8 +1242,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:45-04:00",
-      "duracion_ms": 2958,
+      "actualizado_en": "2026-08-21T08:33:47-04:00",
+      "duracion_ms": 242,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1256,6 +1256,20 @@
           "titulo": "Selección Absoluta",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1276,20 +1290,6 @@
           "id": "9fb0f7e311f0adc3",
           "titulo": "FBF Y SENADO IMPULSAN UN “ENCUENTRO POR EL DEPORTE NACIONAL”",
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
           "fecha": null,
           "resumen": null
         }
@@ -1307,8 +1307,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:46-04:00",
-      "duracion_ms": 217,
+      "actualizado_en": "2026-08-21T08:33:48-04:00",
+      "duracion_ms": 242,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1321,6 +1321,20 @@
           "titulo": "SELECCIÓN FEMENINA",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "289c0259228bedc0",
+          "titulo": "LA FBF INAUGURA FIFA ARENA SANTA CRUZ",
+          "url": "https://fbf.com.bo/la-fbf-inaugura-fifa-arena-santa-cruz/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5bea4c19c1929977",
+          "titulo": "FBF Y VICEMINISTERIO DE DEPORTES COORDINAN ACCIONES EN FAVOR DEL DEPORTE NACIONAL",
+          "url": "https://fbf.com.bo/fbf-y-viceministerio-de-deportes-coordinan-acciones-en-favor-del-deporte-nacional/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1343,20 +1357,6 @@
           "url": "https://fbf.com.bo/fbf-y-senado-impulsan-un-encuentro-por-el-deporte-nacional/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "86c2f52f86c2ac2b",
-          "titulo": "La FBF reconoce a Inter Stars Rush por su destacada participación internacional",
-          "url": "https://fbf.com.bo/la-fbf-reconoce-a-inter-stars-rush-por-su-destacada-participacion-internacional/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ffa9582b49880c40",
-          "titulo": "¡SANTA CRUZ SE PREPARA PARA RECIBIR LA GRAN FINAL DE LA CONMEBOL COPA SUDAMERICANA 2027!",
-          "url": "https://fbf.com.bo/santa-cruz-se-prepara-para-recibir-la-gran-final-de-la-conmebol-copa-sudamericana-2027/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1372,8 +1372,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:48-04:00",
-      "duracion_ms": 715,
+      "actualizado_en": "2026-08-21T08:33:50-04:00",
+      "duracion_ms": 699,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 8,
@@ -1451,8 +1451,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:51-04:00",
-      "duracion_ms": 1799,
+      "actualizado_en": "2026-08-21T08:33:53-04:00",
+      "duracion_ms": 1774,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1614,28 +1614,28 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19886 veces leida"
+          "resumen": "19887 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14679 veces leida"
+          "resumen": "14685 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11544 veces leida"
+          "resumen": "11545 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11303 veces leida"
+          "resumen": "11304 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
@@ -1649,14 +1649,14 @@
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9200 veces leida"
+          "resumen": "9201 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8660 veces leida"
+          "resumen": "8661 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
@@ -1677,7 +1677,7 @@
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8426 veces leida"
+          "resumen": "8429 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1693,8 +1693,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:53-04:00",
-      "duracion_ms": 682,
+      "actualizado_en": "2026-08-21T08:33:55-04:00",
+      "duracion_ms": 853,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1702,6 +1702,13 @@
       "tablas": [],
       "secciones": [],
       "noticias": [
+        {
+          "id": "8276d9014d1d0ef0",
+          "titulo": "Hoy jueg la banda roja",
+          "url": "https://alwaysready.bo/2026/08/20/hoy-jueg-la-banda-roja/",
+          "fecha": "20 Ago 2026",
+          "resumen": null
+        },
         {
           "id": "165d4ed997d0267d",
           "titulo": "ALWAYS READY CIERRA LA PRIMERA RUEDA COMO LÍDER",
@@ -1722,13 +1729,6 @@
           "url": "https://alwaysready.bo/2026/07/27/always-ready-se-prepara-para-enfrentar-a-bolivar/",
           "fecha": "27 Jul 2026",
           "resumen": null
-        },
-        {
-          "id": "6ea3dab9d96ffe98",
-          "titulo": "Always Ready venció 3-1 a San Antonio",
-          "url": "https://alwaysready.bo/2026/07/25/always-ready-vencio-3-1-a-san-antonio/",
-          "fecha": "25 Jul 2026",
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1744,48 +1744,69 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:55-04:00",
-      "duracion_ms": 468,
+      "actualizado_en": "2026-08-21T08:33:57-04:00",
+      "duracion_ms": 470,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 5,
+      "cantidad_noticias": 8,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "9d4a569b16ca9f05",
-          "titulo": "Blooming no aguantÃ³ en Sucre y terminÃ³ cayendo por goleada ante Independiente",
-          "url": "https://futbol.unitel.bo/division-profesional/blooming-no-aguanto-en-sucre-y-termino-cayendo-por-goleada-ante-independiente-AN22945234",
-          "fecha": "19/08/2026 20:22",
+          "id": "b3b1a3290712669c",
+          "titulo": "Â¿JugarÃ¡ Bolivia las Eliminatorias en Santa Cruz? Esto respondiÃ³ el presidente de la FBF",
+          "url": "https://futbol.unitel.bo/eliminatorias/jugara-bolivia-las-eliminatorias-en-santa-cruz-esto-respondio-el-presidente-de-la-fbf-HP22966427",
+          "fecha": "20/08/2026 18:36",
           "resumen": null
         },
         {
-          "id": "b6a92875189290a6",
-          "titulo": "Palmeiras vence a Cerro PorteÃ±o y pasa cuartos de final de la Copa Libertadores",
-          "url": "https://futbol.unitel.bo/copa-libertadores/palmeiras-vence-a-cerro-porteno-y-pasa-cuartos-de-final-de-la-copa-libertadores-AN22945410",
-          "fecha": "19/08/2026 20:33",
+          "id": "be9e4ef2ce7db1b5",
+          "titulo": "Liga de Quito elimina a Mirassol y se anota en cuartos de la Copa Libertadores",
+          "url": "https://futbol.unitel.bo/copa-libertadores/liga-de-quito-elimina-a-mirassol-y-se-anota-en-cuartos-de-la-copa-libertadores-BP22968867",
+          "fecha": "20/08/2026 20:52",
           "resumen": null
         },
         {
-          "id": "95340180bafb5a72",
-          "titulo": "FBF âÃºltima detallesâ para concretar mÃ¡s amistoso para la selecciÃ³n boliviana",
-          "url": "https://futbol.unitel.bo/futbol/fbf-ultima-detalles-para-concretar-mas-amistoso-para-la-seleccion-boliviana-OK22937797",
-          "fecha": "19/08/2026 15:43",
+          "id": "564812c477379774",
+          "titulo": "Blooming entra en âcuarto intermedioâ para definir continuidad de âPlatinÃ­â SÃ¡nchez",
+          "url": "https://futbol.unitel.bo/division-profesional/blooming-entra-en-cuarto-intermedio-para-definir-continuidad-de-platini-sanchez-CP22963463",
+          "fecha": "20/08/2026 16:39",
           "resumen": null
         },
         {
-          "id": "8aa7184411921db0",
-          "titulo": "AtlÃ©tico Mineiro elimina a Bragantino y se mete en cuartos de la Sudamericana",
-          "url": "https://futbol.unitel.bo/copa-sudamericana/atletico-mineiro-elimina-a-bragantino-y-se-mete-en-cuartos-de-la-sudamericana-GN22946022",
-          "fecha": "19/08/2026 21:06",
+          "id": "c7e3a315d0f016a1",
+          "titulo": "Vasco da Gama golea a Olimpia y avanza a cuartos de la Copa Sudamericana",
+          "url": "https://futbol.unitel.bo/copa-sudamericana/vasco-da-gama-golea-a-olimpia-y-avanza-a-cuartos-de-la-copa-sudamericana-FP22968490",
+          "fecha": "20/08/2026 20:22",
           "resumen": null
         },
         {
-          "id": "adce066dad06bdfc",
-          "titulo": "Real PotosÃ­ traslada su buen momento a la Copa PaceÃ±a tras vencer a ABB",
-          "url": "https://futbol.unitel.bo/division-profesional/real-potosi-traslada-su-buen-momento-a-la-copa-pacena-tras-vencer-a-abb-KN22940648",
-          "fecha": "19/08/2026 17:17",
+          "id": "20dca1898833b91f",
+          "titulo": "Santos avanza a cuartos de la Sudamericana al igualar con MacarÃ¡ en Ecuador",
+          "url": "https://futbol.unitel.bo/copa-sudamericana/santos-avanza-a-cuartos-de-la-sudamericana-al-igualar-con-macara-en-ecuador-NP22968371",
+          "fecha": "20/08/2026 20:15",
+          "resumen": null
+        },
+        {
+          "id": "58db137c5a878551",
+          "titulo": "Jorge Lovera queda fuera en Oriente para enfrentar a San Antonio en el Tahuichi",
+          "url": "https://futbol.unitel.bo/division-profesional/jorge-lovera-queda-fuera-en-oriente-para-enfrentar-a-san-antonio-en-el-tahuichi-MP22962608",
+          "fecha": "20/08/2026 16:40",
+          "resumen": null
+        },
+        {
+          "id": "4dd597fbf807f674",
+          "titulo": "Always se estrena en la Copa PaceÃ±a con cÃ³modo triunfo ante Real Oruro",
+          "url": "https://futbol.unitel.bo/division-profesional/always-se-estrena-en-la-copa-pacena-con-comodo-triunfo-ante-real-oruro-HP22964517",
+          "fecha": "20/08/2026 17:26",
+          "resumen": null
+        },
+        {
+          "id": "760b67d5b7d6071e",
+          "titulo": "Colombia jugarÃ¡ amistosos contra MÃ©xico, Paraguay y PerÃº en fecha FIFA",
+          "url": "https://futbol.unitel.bo/futbol/colombia-jugara-amistosos-contra-mexico-paraguay-y-peru-en-fecha-fifa-HP22962252",
+          "fecha": "20/08/2026 15:29",
           "resumen": null
         }
       ],
@@ -1802,54 +1823,61 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:57-04:00",
-      "duracion_ms": 604,
+      "actualizado_en": "2026-08-21T08:33:59-04:00",
+      "duracion_ms": 543,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 16,
+      "cantidad_noticias": 17,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "45e352cb2a558983",
-          "titulo": "Blooming se derrumba: ganaba 0-2 y terminó goleado 5-2 por un Independiente con un jugador menos",
-          "url": "https://diez.bo/futbol/blooming-se-derrumba-ganaba-0-2-y-termino-goleado-5-2-por-un-independiente-con-un-jugador-menos_1787185458",
+          "id": "605d55864b892d11",
+          "titulo": "Horas decisivas para el futuro de Erwin Sánchez en Blooming",
+          "url": "https://diez.bo/blooming/horas-decisivas-para-el-futuro-de-erwin-sanchez-en-blooming_1787249995",
           "fecha": null,
-          "resumen": "La Academia cruceña tenía todo a favor tras ponerse 0-2, pero terminó siendo víctima de sus propios errores y cayó 5-2 en Sucre ante un Independiente que jugó con diez jugadores durante más de 50 minutos."
+          "resumen": "La dirigencia de Blooming se reunió de emergencia tras la dura goleada ante Independiente en Sucre y puso en evaluación la continuidad de Erwin Sánchez. La reunión entró en cuarto intermedio y este viernes volverán a reunirse para definir el futuro del entrenador."
         },
         {
-          "id": "7bb5002b5b22fc39",
-          "titulo": "La FBF espera que Conmebol defina la fecha de inicio de las eliminatorias",
-          "url": "https://diez.bo/futbol/la-fbf-espera-que-conmebol-defina-la-fecha-de-inicio-de-las-eliminatorias_1787166047",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "1742a05931c5e9a4",
-          "titulo": "Colombia se perfila como segundo rival de la Verde en septiembre",
-          "url": "https://diez.bo/futbol/colombia-se-perfila-como-segundo-rival-de-la-verde-en-septiembre_1787167201",
+          "id": "7871de1013729a3b",
+          "titulo": "Santa Cruz estrena su FIFA Arena para impulsar el fútbol infantil",
+          "url": "https://diez.bo/fuera-de-juego/santa-cruz-estrena-su-fifa-arena-para-impulsar-el-futbol-infantil_1787255580",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "9eb208a3fe8dc962",
-          "titulo": "Bolívar regresa al país “la eliminación nos cae dura porque aspiramos a más”",
-          "url": "https://diez.bo/futbol/bolivar-regresa-al-pais-la-eliminacion-nos-cae-dura-porque-aspiramos-a-mas_1787186882",
+          "id": "b2bd80eee98df739",
+          "titulo": "En Blooming esperan una notificación oficial sobre el ingreso de su barra en Montero",
+          "url": "https://diez.bo/fuera-de-juego/en-blooming-esperan-una-notificacion-oficial-sobre-el-ingreso-de-su-barra-en-montero_1787263973",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "f8e4a372a8d63408",
-          "titulo": "¡Sobre la hora! Real Potosí vence a ABB en un partido que se le complicó más de la cuenta",
-          "url": "https://diez.bo/futbol/sobre-la-hora-real-potosi-vence-a-abb-en-un-partido-que-se-le-complico-mas-de-la-cuenta_1787173894",
+          "id": "ab36bc91a0a5dfa5",
+          "titulo": "Always Ready golpea cuatro veces y vence a Real Oruro en El Alto",
+          "url": "https://diez.bo/futbol/always-ready-golpea-cuatro-veces-y-vence-a-real-oruro-en-el-alto_1787260815",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "a884513ba171912a",
-          "titulo": "Flamengo elimina a Cruzeiro y avanza a cuartos de la Libertadores",
-          "url": "https://diez.bo/futbol/flamengo-elimina-a-cruzeiro-y-avanza-a-cuartos-de-la-libertadores_1787193982",
+          "id": "65bdfa5169f9ef27",
+          "titulo": "'Platiní', tras el papelón de Blooming: “Hay que tener vergüenza en la cara”",
+          "url": "https://diez.bo/futbol/platini-tras-el-papelon-de-blooming-hay-que-tener-verguenza-en-la-cara_1787229074",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "a1f34c9d577d73ed",
+          "titulo": "Santos avanza a cuartos de la Sudamericana y Terceros suma minutos ante Macará",
+          "url": "https://diez.bo/futbol/santos-avanza-a-cuartos-de-la-sudamericana-y-terceros-suma-minutos-ante-macara_1787271735",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "2b88c97246d7ffe7",
+          "titulo": "Hinchas de Blooming califican de “vergonzosa y humillante” la derrota en Sucre",
+          "url": "https://diez.bo/futbol/hinchas-de-blooming-califican-de-vergonzosa-y-humillante-la-derrota-en-sucre_1787229396",
           "fecha": null,
           "resumen": null
         },
@@ -1861,23 +1889,16 @@
           "resumen": null
         },
         {
-          "id": "4bcc4a1985a684f6",
-          "titulo": "Erwin Sánchez valora la goleada y pide seguir mejorando",
-          "url": "https://diez.bo/futbol/erwin-sanchez-valora-la-goleada-y-pide-seguir-mejorando_1786884117",
+          "id": "6ec62765bbf4f99b",
+          "titulo": "El fútbol boliviano aplica las nuevas normas mundialistas",
+          "url": "https://diez.bo/futbol/el-futbol-boliviano-aplica-las-nuevas-normas-mundialistas_1787004594",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "e32ff3d68c7353fe",
-          "titulo": "Nacional Potosí vuelve a sonreír y corta su mala racha ante ABB",
-          "url": "https://diez.bo/futbol/nacional-potosi-vuelve-a-sonreir-y-corta-su-mala-racha-ante-abb_1786924815",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "54230ea3df608bb1",
-          "titulo": "Bolívar llega a Sao Paulo y prepara el decisivo partido del martes",
-          "url": "https://diez.bo/futbol/bolivar-llega-a-sao-paulo-y-prepara-el-decisivo-partido-del-martes_1786920332",
+          "id": "5d65a51f55fbc36d",
+          "titulo": "Los extranjeros continúan liderando la tabla de goleadores del fútbol boliviano",
+          "url": "https://diez.bo/futbol/los-extranjeros-continuan-liderando-la-tabla-de-goleadores-del-futbol-boliviano_1786976308",
           "fecha": null,
           "resumen": null
         },
@@ -1889,37 +1910,44 @@
           "resumen": null
         },
         {
-          "id": "d245d002575eedf8",
-          "titulo": "Bolívar golea a San Antonio y se pone a tres puntos del puntero",
-          "url": "https://diez.bo/futbol/bolivar-golea-a-san-antonio-y-se-pone-a-tres-puntos-del-puntero_1786759325",
+          "id": "e5dc38ed5fdf6c49",
+          "titulo": "Oriente continúa su preparación en la altura",
+          "url": "https://diez.bo/oriente-petrolero/oriente-continua-su-preparacion-en-la-altura_1786970652",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "7def0c5f6e1c51fd",
-          "titulo": "Del golazo al reclamo: el cruce entre Roldán y Lovera en La Paz",
-          "url": "https://diez.bo/oriente-petrolero/del-golazo-al-reclamo-el-cruce-entre-roldan-y-lovera-en-la-paz_1787143553",
+          "id": "4bcc4a1985a684f6",
+          "titulo": "Erwin Sánchez valora la goleada y pide seguir mejorando",
+          "url": "https://diez.bo/futbol/erwin-sanchez-valora-la-goleada-y-pide-seguir-mejorando_1786884117",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "ad2da226ca6dbfe8",
-          "titulo": "Oriente Petrolero oficializa el fichaje de Matías Roskopf",
-          "url": "https://diez.bo/oriente-petrolero/oriente-petrolero-oficializa-el-fichaje-de-matias-roskopf_1787164880",
+          "id": "4ad3887a1ca3ceca",
+          "titulo": "La juventud y la unión, las armas de Oriente para seguir avanzando",
+          "url": "https://diez.bo/oriente-petrolero/la-juventud-y-la-union-las-armas-de-oriente-para-seguir-avanzando_1787246024",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "37edc71096b8dbfd",
-          "titulo": "Suspenden encuentro entre Nacional Potosí y Real Tomayapo por nevada",
-          "url": "https://diez.bo/futbol/suspenden-encuentro-entre-nacional-potosi-y-real-tomayapo-por-nevada_1787105284",
+          "id": "e4686c6249933e24",
+          "titulo": "Tribunal de Disciplina multa a Aurora con 49.500 Bs por racismo contra Dairon Asprilla",
+          "url": "https://diez.bo/futbol/tribunal-de-disciplina-multa-a-auora-con-49-500-bs-por-racismo-contra-dairon-asprilla_1787241815",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "d11fe11b3b7d9277",
-          "titulo": "Un año para el olvido: el fracaso boliviano en la Libertadores y Sudamericana",
-          "url": "https://diez.bo/futbol/un-ano-para-el-olvido-el-fracaso-boliviano-en-la-libertadores-y-sudamericana_1787144624",
+          "id": "45e352cb2a558983",
+          "titulo": "Blooming se derrumba: ganaba 0-2 y terminó goleado 5-2 por un Independiente con un jugador menos",
+          "url": "https://diez.bo/futbol/blooming-se-derrumba-ganaba-0-2-y-termino-goleado-5-2-por-un-independiente-con-un-jugador-menos_1787185458",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "fa6013ae43cf2d81",
+          "titulo": "El Maracaná acogerá el partido inaugural y la final de la Copa del Mundo femenina de 2027",
+          "url": "https://diez.bo/futbol/el-maracana-acogera-el-partido-inaugural-y-la-final-de-la-copa-del-mundo-femenina-de-2027_1787235146",
           "fecha": null,
           "resumen": null
         }
@@ -1937,8 +1965,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:34:58-04:00",
-      "duracion_ms": 506,
+      "actualizado_en": "2026-08-21T08:34:00-04:00",
+      "duracion_ms": 610,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 26,
@@ -2142,8 +2170,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:04-04:00",
-      "duracion_ms": 4746,
+      "actualizado_en": "2026-08-21T08:34:06-04:00",
+      "duracion_ms": 4504,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -54528,11 +54556,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:06-04:00",
-      "duracion_ms": 904,
+      "actualizado_en": "2026-08-21T08:34:08-04:00",
+      "duracion_ms": 905,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 0,
+      "cantidad_noticias": 1,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -54541,24 +54569,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Trump declara el estrecho de Ormuz nuevo territorio de EEUU Ver más",
-              "2 La nieve afecta a más de 26.000 familias en el país Ver más"
+              "1 Aluviones en el norte de Chile dejan un muerto y más de 2 mil evacuados Ver más",
+              "2 Sismo de magnitud 7,2 sacude Ayacucho, en Perú Ver más"
             ],
             [
-              "3 Espinoza consultará al TCP si voto de censura de la ALP en su contra es legal Ver más",
-              "4 EMSA suspende el recojo de basura por dos días por falta de diésel Ver más"
+              "3 Nevada daña a 26.200 familias y deja un muerto en Oruro; Potosí sufre más Ver más",
+              "4 Cisterneros anuncian paro nacional desde el lunes Ver más"
             ],
             [
-              "5 Aprehenden al asesor de Rodrigo Paz por intento de feminicidio contra Beller Ver más",
-              "6 Aprehenden a un exviceministro de Luis Arce Ver más"
+              "5 La ALP da voto de confianza al ministro Zamora luego de su informe sobre BoA Ver más",
+              "6 Paz pide a campesinos trabajar fuerte en agrominería Ver más"
             ],
             [
-              "7 Beller denuncia a la esposa y al entorno de Rodrigo Paz de actos de corrupción Ver más",
-              "8 Ministro de OOPP logra la confianza de la Asamblea Ver más"
+              "7 Rol de asesor de Paz causa revuelo en el Gobierno; hoy enfrenta su audiencia Ver más",
+              "8 Comunicado Viva Ver más"
             ],
             [
-              "9 Nevadas en occidente cierran vías, aíslan familias y arriesgan ganado Ver más",
-              "10 CAF desmiente supuesta relación con Cerimedo Ver más"
+              "9 Nevadas y riadas golpean a Cochabamba y dejan daños en 13 municipios Ver más",
+              "10 El BCB proyecta una contracción de -3,6% del PIB en 2026 Ver más"
             ]
           ]
         },
@@ -54568,11 +54596,11 @@
           "columnas": [],
           "filas": [
             [
-              "19/08/2026 País Ministro de OOPP logra la confianza de la Asamblea En la sesión de este miércoles la Asamblea Legislativa Plurinacional decidió no censurar al ministro de Obras Públicas; Mauricio Zamora, interpelado por la... vista",
-              "19/08/2026 Seguridad La Fiscalía abre un segundo proceso contra Cerimedo por presunto enriquecimiento ilícito El asesor del presidente Rodrigo Paz está detenido en el marco de una investigación por el ataque armado a una abogada. En paralelo, la Fiscalía de La Paz... vista",
+              "20/08/2026 Seguridad “No tengo necesidad de irme”, asegura Tatiana Marset Está en detención domiciliaria desde el miércoles, después de cinco meses en Palmasola, una experiencia que le dio “más ganas de estudiar las leyes”. vista",
+              "20/08/2026 Seguridad Fiscalía solicita detención preventiva de Cerimedo en Chonchocoro por el caso Beller El Ministerio Público informó que solicitó 180 días de detención preventiva para el asesor presidencial Fernando Cerimedo, imputado por tentativa de... vista",
               "",
-              "19/08/2026 País CAF desmiente supuesta relación con Cerimedo Un abogado del argentino investigado por tentativa de feminicidio indicó que esa institución financiera pagaba a su cliente por un trabajo de consultor... vista",
-              "19/08/2026 Seguridad Equipo especializado de la Fiscalía investiga el secuestro de un paciente en una clínica El Fiscal Departamental de Cochabamba, Osvaldo Tejerina Ríos, informó este miércoles que el Ministerio Público activó un equipo especializado para investigar... vista"
+              "20/08/2026 Seguridad Hallan una granja de bots y dinero en investigación sobre Cerimedo La Fiscalía Departamental de La Paz intervino un inmueble en la zona sur de la sede de Gobierno, encontraron también gran cantidad de dinero en bolivianos,... vista",
+              "20/08/2026 Mundo Sismo de magnitud 7,2 sacude Ayacucho, en Perú El movimiento telúrico se produjo a unos 108 kilómetros de profundidad, lo que disminuye la probabilidad de daños de consideración, aunque fue percibido en... vista"
             ]
           ]
         },
@@ -54582,11 +54610,11 @@
           "columnas": [],
           "filas": [
             [
+              "En los Alpes alemanes, el aumento de las temperaturas está obligando a las mariposas a tomar decisiones que definirán... Ver más 20/08/2026 Medio Ambiente Cómo el cambio climático afecta la supervivencia de las mariposas",
               "Ingenieros de inteligencia artificial (IA) y analistas de datos se han convertido en las profesiones más solicitadas... Ver más 18/08/2026 Tecnología Ingenieros de IA y analistas de datos, las profesiones que más se necesitan hoy",
-              "Bolivia conmemoró sus 201 años de independencia en medio de un escenario político y social profundamente complejo. Ver más 16/08/2026 Interesante Miroslava Fernández analiza el rumbo de Bolivia en Pódcast Los Tiempos",
               "",
-              "El estudio, publicado en la revista BMC Medicine, analizó durante ocho años los hábitos de 59.000 adultos del Reino... Ver más 13/08/2026 Salud Cómo la intensidad y el tipo de ejercicio influyen en la prevención del cáncer",
-              "En medio del atardecer se hizo la noche. Un eclipse solar sumió ayer en la oscuridad desde los confines del Ártico ruso... Ver más 13/08/2026 Interesante Eclipse solar regala a millones de europeos una fugaz noche"
+              "Bolivia conmemoró sus 201 años de independencia en medio de un escenario político y social profundamente complejo. Ver más 16/08/2026 Interesante Miroslava Fernández analiza el rumbo de Bolivia en Pódcast Los Tiempos",
+              ""
             ]
           ]
         },
@@ -54596,17 +54624,25 @@
           "columnas": [],
           "filas": [
             [
+              "Una cartelera atractiva presenta la celebración del Día Mundial del Folklore que prepara el departamento de cultura de... Ver más 20/08/2026 Cultura Atractiva cartelera para festejar el Día Mundial del Folklore",
               "El grupo ATiTeCuento pondrá en escena la obra “Detrás de las sombras” en el auditorio de la Alianza Francesa de... Ver más 19/08/2026 Cultura ATiTeCuento interpreta “Detrás de las sombras” en la Alianza Francesa",
-              "La réplica de los dos galardones conquistados en Chile se produjo en Perú, en la trigésima versión del Festival... Ver más 18/08/2026 Cine Tras ganar dos títulos en Perú, “La hija cóndor” suma 31 estrellas",
               "",
-              "La muestra exhibirá durante 15 días la obra del ganador del Concurso Municipal de Artes Plásticas \"Salón Municipal 14... Ver más 17/08/2026 Cultura Gilmer Rojas expone en el ‘Gíldaro Antezana’",
-              "El pianista germano llega por primera vez con el propósito de conquistar al público cochabambino. Mientras Anima Cantis... Ver más 17/08/2026 Cultura Agenda: El pianista Marcus Schinkel y Anima Cantis destacan en la cartelera"
+              "La réplica de los dos galardones conquistados en Chile se produjo en Perú, en la trigésima versión del Festival... Ver más 18/08/2026 Cine Tras ganar dos títulos en Perú, “La hija cóndor” suma 31 estrellas",
+              "La muestra exhibirá durante 15 días la obra del ganador del Concurso Municipal de Artes Plásticas \"Salón Municipal 14... Ver más 17/08/2026 Cultura Gilmer Rojas expone en el ‘Gíldaro Antezana’"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [],
+      "noticias": [
+        {
+          "id": "88b30f2c38af79f4",
+          "titulo": "Nevadas y riadas golpean a Cochabamba y dejan daños en 13 municipios",
+          "url": "https://www.lostiempos.com/actualidad/cochabamba/20260820/nevadas-riadas-golpean-cochabamba-dejan-danos-13-municipios",
+          "fecha": null,
+          "resumen": null
+        }
+      ],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -54620,8 +54656,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:09-04:00",
-      "duracion_ms": 1089,
+      "actualizado_en": "2026-08-21T08:34:10-04:00",
+      "duracion_ms": 969,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 18,
@@ -54769,8 +54805,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:10-04:00",
-      "duracion_ms": 312,
+      "actualizado_en": "2026-08-21T08:34:12-04:00",
+      "duracion_ms": 360,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -54791,16 +54827,16 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:17-04:00",
-      "duracion_ms": 5022,
+      "actualizado_en": "2026-08-21T08:34:19-04:00",
+      "duracion_ms": 5415,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 15,
+      "cantidad_noticias": 17,
       "cantidad_equipos": 0,
       "tablas": [
         {
           "indice": 1,
-          "nombre": "‎Gol agónico de Coquimbo Unido frustra a Platense en Libertadores",
+          "nombre": "Liga DU de Quito araña un valioso empate ante Mirassol en octavos",
           "columnas": [
             "columna_1"
           ],
@@ -55296,26 +55332,70 @@
           ]
         }
       ],
-      "secciones": [],
+      "secciones": [
+        {
+          "titulo": "Alcaldía recoge basura con maquinaria de emergencia y con resultados limitados",
+          "contenido": "agosto 20, 2026"
+        },
+        {
+          "titulo": "Alcaldía recoge basura con maquinaria de emergencia y con resultados limitados",
+          "contenido": "agosto 20, 2026"
+        }
+      ],
       "noticias": [
         {
-          "id": "96d792d9b6b326ae",
-          "titulo": "Precios del petróleo suben por falta de diálogo en Oriente Medio",
-          "url": "https://larazon.bo/mundo/2026/08/19/precios-del-petroleo-suben-por-falta-de-dialogo-en-oriente-medio/",
-          "fecha": "agosto 19, 2026",
+          "id": "cdf26b4475091601",
+          "titulo": "Brasil domina en la Sudamericana con cuatro equipos en cuartos",
+          "url": "https://larazon.bo/marcas/2026/08/21/brasil-domina-en-la-sudamericana-con-cuatro-equipos-en-cuartos/",
+          "fecha": "agosto 21, 2026",
           "resumen": null
         },
         {
-          "id": "7a9daedafbb222b8",
-          "titulo": "Sin Neymar ni Gabigol, Santos defiende su gol en Sudamericana",
-          "url": "https://larazon.bo/marcas/2026/08/20/sin-neymar-ni-gabigol-santos-defiende-su-gol-en-sudamericana/",
+          "id": "e493e516d47cf2fb",
+          "titulo": "Vasco da Gama golea 4-1 a Olimpia y avanza a cuartos",
+          "url": "https://larazon.bo/marcas/2026/08/20/vasco-da-gama-golea-4-1-a-olimpia-y-avanza-a-cuartos/",
           "fecha": "agosto 20, 2026",
           "resumen": null
         },
         {
-          "id": "771ca29c41008631",
-          "titulo": "Mineiro elimina al RB Bragantino y avanza a cuartos de la Sudamericana",
-          "url": "https://larazon.bo/marcas/2026/08/20/mineiro-elimina-al-rb-bragantino-y-avanza-a-cuartos-de-la-sudamericana/",
+          "id": "122b1d66a835ac2d",
+          "titulo": "Santos avanza a cuartos de la Sudamericana al igualar 0-0 con Macará",
+          "url": "https://larazon.bo/marcas/2026/08/20/santos-avanza-a-cuartos-de-la-sudamericana-al-igualar-0-0-con-macara/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "475f8c44926761a7",
+          "titulo": "Liga a cuartos de Libertadores al vencer 5-4 a Mirassol por penales",
+          "url": "https://larazon.bo/marcas/2026/08/20/liga-a-cuartos-de-libertadores-al-vencer-5-4-a-mirassol-por-penales/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "73bd2b58fb1f23b5",
+          "titulo": "Ronaldinho (46) regresa a la 3ª italiana para marcar ‘un gol 300’",
+          "url": "https://larazon.bo/marcas/2026/08/20/ronaldinho-46-regresa-a-la-3a-italiana-para-marcar-un-gol-300/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "7c4fbb52e1a5dc84",
+          "titulo": "Julio Cascante tiene todo acordado para llegar a The Strongest",
+          "url": "https://larazon.bo/marcas/2026/08/20/julio-cascante-tiene-todo-acordado-para-llegar-a-the-strongest/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "eeb7cd40a041b914",
+          "titulo": "Aurora recibe multa de Bs 49.500 por actos racistas contra Asprilla",
+          "url": "https://larazon.bo/lr-article/2026/08/20/aurora-pagara-bs-49-500-por-gritos-racistas-de-algunos-de-sus-hinchas/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "fd1b6454c000c593",
+          "titulo": "Guabirá-Blooming por la Liga se jugará sin hinchada visitante",
+          "url": "https://larazon.bo/marcas/2026/08/20/guabira-blooming-por-la-liga-se-jugara-sin-hinchada-visitante/",
           "fecha": "agosto 20, 2026",
           "resumen": null
         },
@@ -55323,13 +55403,6 @@
           "id": "754c220be382ea24",
           "titulo": "Real Potosí derrota a ABB con un gol en el último minuto",
           "url": "https://larazon.bo/marcas/2026/08/19/real-potosi-derrota-a-abb-con-un-gol-en-el-ultimo-minuto/",
-          "fecha": "agosto 19, 2026",
-          "resumen": null
-        },
-        {
-          "id": "b896f476d1be10b3",
-          "titulo": "Bolívar acumuló $us 4,44 millones en premios de la Conmebol",
-          "url": "https://larazon.bo/marcas/2026/08/19/bolivar-acumulo-us-444-millones-en-premios-de-la-conmebol/",
           "fecha": "agosto 19, 2026",
           "resumen": null
         },
@@ -55355,34 +55428,6 @@
           "resumen": null
         },
         {
-          "id": "2cddb89759ab6c5e",
-          "titulo": "‎Aurora sorprende y arranca con triunfo en la Copa DivPro",
-          "url": "https://larazon.bo/marcas/2026/08/18/aurora-sorprende-y-arranca-con-triunfo-en-la-copa-divpro/",
-          "fecha": "agosto 18, 2026",
-          "resumen": null
-        },
-        {
-          "id": "982e32c861ae35d3",
-          "titulo": "The Strongest-Oriente Petrolero cambia de horario y será a las 20.15",
-          "url": "https://larazon.bo/marcas/2026/08/18/the-strongest-oriente-petrolero-cambia-de-horario-y-sera-a-las-20-15/",
-          "fecha": "agosto 18, 2026",
-          "resumen": null
-        },
-        {
-          "id": "d2fd7034ad09ee55",
-          "titulo": "‎The Strongest suma al brasileño Pachu como nuevo atacante",
-          "url": "https://larazon.bo/marcas/2026/08/18/the-strongest-suma-al-brasileno-pachu-como-nuevo-atacante/",
-          "fecha": "agosto 18, 2026",
-          "resumen": null
-        },
-        {
-          "id": "a7b628ef2330c990",
-          "titulo": "Matías Roskopf llega a Oriente Petrolero hasta junio de 2027",
-          "url": "https://larazon.bo/marcas/2026/08/17/matias-roskopf-llega-a-oriente-petrolero-hasta-junio-de-2027/",
-          "fecha": "agosto 17, 2026",
-          "resumen": null
-        },
-        {
           "id": "5c5ba0d742f4750c",
           "titulo": "Bolivia golea 6-3 a Chile y termina novena en el Sub-17 de Futsal",
           "url": "https://larazon.bo/marcas/2026/08/15/bolivia-golea-6-3-a-chile-y-termina-novena-en-el-sub-17-de-futsal/",
@@ -55397,10 +55442,24 @@
           "resumen": null
         },
         {
-          "id": "3093337d41a32f79",
-          "titulo": "‎Gol agónico de Coquimbo Unido frustra a Platense en Libertadores",
-          "url": "https://larazon.bo/marcas/2026/08/12/gol-agonico-de-coquimbo-unido-frustra-a-platense-en-libertadores/",
-          "fecha": "agosto 12, 2026",
+          "id": "aeee453793b979ef",
+          "titulo": "La Copa Simón Bolívar inicia su Fase Nacional este viernes 21",
+          "url": "https://larazon.bo/marcas/2026/08/20/la-copa-simon-bolivar-inicia-su-fase-nacional-este-viernes-21/",
+          "fecha": "agosto 20, 2026",
+          "resumen": null
+        },
+        {
+          "id": "b896f476d1be10b3",
+          "titulo": "Bolívar acumuló $us 4,44 millones en premios de la Conmebol",
+          "url": "https://larazon.bo/marcas/2026/08/19/bolivar-acumulo-us-444-millones-en-premios-de-la-conmebol/",
+          "fecha": "agosto 19, 2026",
+          "resumen": null
+        },
+        {
+          "id": "7a9daedafbb222b8",
+          "titulo": "Sin Neymar ni Gabigol, Santos defiende su gol en Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/08/20/sin-neymar-ni-gabigol-santos-defiende-su-gol-en-sudamericana/",
+          "fecha": "agosto 20, 2026",
           "resumen": null
         }
       ],
@@ -55417,8 +55476,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-08-20T08:35:18-04:00",
-      "duracion_ms": 728,
+      "actualizado_en": "2026-08-21T08:34:20-04:00",
+      "duracion_ms": 667,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -55430,16 +55489,19 @@
           "columnas": [],
           "filas": [
             [
-              "Alcaldía de El Alto denuncia supuesta manipulación de sistema para otorgar patente a discoteca Luna Park"
+              "Tras su suspensión como senador, Nilton Condori anuncia que se dedicará al comercio y “despertar la conciencia emancipadora”"
             ],
             [
               "Nadia Beller denuncia un “contubernio” en su contra e implica a Cerimedo y al Gobierno"
             ],
             [
-              "Tras su suspensión como senador, Nilton Condori anuncia que se dedicará al comercio y “despertar la conciencia emancipadora”"
+              "Alcaldía de El Alto denuncia supuesta manipulación de sistema para otorgar patente a discoteca Luna Park"
             ],
             [
-              "TDJ-La Paz posesionó finalmente a Registradora de DDRR- El Alto pese a procesos penales y disciplinarios"
+              "Lara desafía a Rodrigo Paz a un careo sobre Cerimedo"
+            ],
+            [
+              "Beller afirma que Cerimedo obtenía ingresos por viabilizar contratos y pagos con petroleras y grandes empresas"
             ],
             [
               "Del Castillo reaparece para sugerir que Paz dé un paso al costado antes de un “estallido social”"
@@ -55448,13 +55510,10 @@
               "Saucedo revela que es amigo de Nadia Beller y habló con Cerimedo tras el atentado"
             ],
             [
+              "Unidad y Libre demandan que Beller presente pruebas sobre denuncia de “sobresueldos” parlamentarios"
+            ],
+            [
               "Ministro Blanco anuncia que se cerrará la ANH y se creará una nueva entidad"
-            ],
-            [
-              "Lara desafía a Rodrigo Paz a un careo sobre Cerimedo"
-            ],
-            [
-              "Asamblea censura al ministro de Economía en medio de advertencias de inconstitucionalidad"
             ]
           ]
         }
@@ -55475,7 +55534,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-08-20T08:35:20-04:00",
+      "ultimo_intento_en": "2026-08-21T08:34:22-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
