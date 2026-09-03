@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-09-02T11:48:11-04:00",
+  "generado_en": "2026-09-03T11:37:32-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 152,
+    "noticias_extraidas": 154,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:21-04:00",
-      "duracion_ms": 604,
+      "actualizado_en": "2026-09-03T11:36:47-04:00",
+      "duracion_ms": 536,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:23-04:00",
-      "duracion_ms": 272,
+      "actualizado_en": "2026-09-03T11:36:49-04:00",
+      "duracion_ms": 206,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:24-04:00",
-      "duracion_ms": 319,
+      "actualizado_en": "2026-09-03T11:36:50-04:00",
+      "duracion_ms": 256,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:26-04:00",
-      "duracion_ms": 300,
+      "actualizado_en": "2026-09-03T11:36:52-04:00",
+      "duracion_ms": 234,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:27-04:00",
-      "duracion_ms": 280,
+      "actualizado_en": "2026-09-03T11:36:53-04:00",
+      "duracion_ms": 211,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:29-04:00",
-      "duracion_ms": 267,
+      "actualizado_en": "2026-09-03T11:36:54-04:00",
+      "duracion_ms": 198,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:30-04:00",
-      "duracion_ms": 266,
+      "actualizado_en": "2026-09-03T11:36:56-04:00",
+      "duracion_ms": 198,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:32-04:00",
-      "duracion_ms": 750,
+      "actualizado_en": "2026-09-03T11:36:58-04:00",
+      "duracion_ms": 1025,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 10,
@@ -1470,8 +1470,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:42-04:00",
-      "duracion_ms": 9249,
+      "actualizado_en": "2026-09-03T11:37:01-04:00",
+      "duracion_ms": 1727,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1633,21 +1633,21 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19897 veces leida"
+          "resumen": "19898 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14694 veces leida"
+          "resumen": "14695 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11556 veces leida"
+          "resumen": "11558 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
@@ -1661,14 +1661,14 @@
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10805 veces leida"
+          "resumen": "10808 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9223 veces leida"
+          "resumen": "9224 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
@@ -1682,7 +1682,7 @@
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8567 veces leida"
+          "resumen": "8569 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
@@ -1696,7 +1696,7 @@
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8448 veces leida"
+          "resumen": "8450 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1712,8 +1712,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:44-04:00",
-      "duracion_ms": 720,
+      "actualizado_en": "2026-09-03T11:37:03-04:00",
+      "duracion_ms": 694,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1763,34 +1763,27 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:46-04:00",
-      "duracion_ms": 514,
+      "actualizado_en": "2026-09-03T11:37:04-04:00",
+      "duracion_ms": 464,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 6,
+      "cantidad_noticias": 3,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "e3b4fa734b677686",
-          "titulo": "Gilbert Ãlvarez demandÃ³ a Oriente por mÃ¡s de 1,2 millones de bolivianos",
-          "url": "https://futbol.unitel.bo/division-profesional/gilbert-alvarez-demando-a-oriente-por-mas-de-12-millones-de-bolivianos-PC23217877",
+          "id": "5ade3866e9dc7994",
+          "titulo": "Brasil se enfrentarÃ¡ a JapÃ³n y Singapur en los amistosos de noviembre en Singapur",
+          "url": "https://futbol.unitel.bo/futbol/brasil-se-enfrentara-a-japon-y-singapur-en-los-amistosos-de-noviembre-en-singapur-JH23247482",
           "fecha": "Hace 1 hora",
           "resumen": null
         },
         {
-          "id": "9daa79c082fc1513",
-          "titulo": "BolÃ­var, primer club boliviano en registrar 2.000 partidos desde la creaciÃ³n de la Liga",
-          "url": "https://futbol.unitel.bo/division-profesional/bolivar-primer-club-boliviano-en-registrar-2000-partidos-desde-la-creacion-de-la-liga-PC23216292",
-          "fecha": "Hace 3 horas",
-          "resumen": null
-        },
-        {
-          "id": "fe22717b5c9d4e57",
-          "titulo": "Dirigencia de Blooming ârespaldaâ a PlatinÃ­ SÃ¡nchez, pese a los malos resultados",
-          "url": "https://futbol.unitel.bo/division-profesional/dirigencia-de-blooming-respalda-a-platini-sanchez-pese-a-los-malos-resultados-LD23209354",
-          "fecha": "01/09/2026 22:34",
+          "id": "f8b784ad9b620e5e",
+          "titulo": "Â¡Orgullo total! Relataba el partido y viviÃ³ el momento mÃ¡s emocionante al ver entrar a su hijo a la cancha",
+          "url": "https://futbol.unitel.bo/sucesos/orgullo-total-relataba-el-partido-y-vivio-el-momento-mas-emocionante-al-ver-entrar-a-su-hijo-a-la-cancha-IH23246817",
+          "fecha": "Hace 2 horas",
           "resumen": null
         },
         {
@@ -1798,20 +1791,6 @@
           "titulo": "Brasil lanza un operativo contra futbolistas sospechosos de trÃ¡fico de drogas y armas",
           "url": "https://futbol.unitel.bo/sucesos/brasil-lanza-un-operativo-contra-futbolistas-sospechosos-de-trafico-de-drogas-y-armas-NG23166821",
           "fecha": "31/08/2026 08:59",
-          "resumen": null
-        },
-        {
-          "id": "aef28b0053b3d632",
-          "titulo": "Ãrbitro quiso âfarmear auraâ en pleno partido profesional y terminÃ³ suspendido",
-          "url": "https://futbol.unitel.bo/sucesos/arbitro-quiso-farmear-aura-en-pleno-partido-profesional-y-termino-suspendido-PI23096191",
-          "fecha": "27/08/2026 15:12",
-          "resumen": null
-        },
-        {
-          "id": "bf3628fff422e73e",
-          "titulo": "FC Universitario y Aurora cerraron la jornada de clÃ¡sicos con un empate",
-          "url": "https://futbol.unitel.bo/division-profesional/fc-universitario-y-aurora-cerraron-la-jornada-de-clasicos-con-un-empate-ID23208819",
-          "fecha": "01/09/2026 21:53",
           "resumen": null
         }
       ],
@@ -1828,21 +1807,28 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:48-04:00",
-      "duracion_ms": 456,
+      "actualizado_en": "2026-09-03T11:37:07-04:00",
+      "duracion_ms": 1031,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 12,
+      "cantidad_noticias": 14,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "ac36d87fe859b2c9",
-          "titulo": "Oriente pierde a Franz González y Dieguito está en capilla ante Always",
-          "url": "https://diez.bo/oriente-petrolero/oriente-pierde-a-franz-gonzalez-y-dieguito-esta-en-capilla-ante-always_1788354093",
+          "id": "61a5bc7e49c458c3",
+          "titulo": "Blooming trabaja en doble turno, sin margen de error",
+          "url": "https://diez.bo/futbol/blooming-trabaja-en-doble-turno-sin-margen-de-error_1788439349",
           "fecha": null,
-          "resumen": "Oriente Petrolero tendrá una baja importante para recibir a Always Ready este sábado en el Tahuichi. Franz González quedó suspendido por acumulación de tarjetas amarillas, mientras que Diego Rodríguez está en capilla y deberá cuidarse de una nueva amonestación."
+          "resumen": "El cuerpo técnico, en consenso con el primer plantel, decidió redoblar los esfuerzos y apostar por entrenamiento intenso de cara al próximo compromiso a jugarse en Potosí"
+        },
+        {
+          "id": "3c17a82e14231b3e",
+          "titulo": "Roskopf está listo para volver y apunta al duelo ante Always Ready",
+          "url": "https://diez.bo/futbol/roskopf-esta-listo-para-volver-y-apunta-al-duelo-ante-always-ready_1788441397",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "93c5d2f605e121a6",
@@ -1852,30 +1838,23 @@
           "resumen": null
         },
         {
-          "id": "5ad6c28f53bb1ad6",
-          "titulo": "Otro golpe al refinero: Gilbert Álvarez demanda a Oriente Petrolero",
-          "url": "https://diez.bo/futbol/otro-golpe-al-refinero-gilbert-alvarez-demanda-a-oriente-petrolero_1788291620",
+          "id": "ac36d87fe859b2c9",
+          "titulo": "Oriente pierde a Franz González y Dieguito está en capilla ante Always",
+          "url": "https://diez.bo/oriente-petrolero/oriente-pierde-a-franz-gonzalez-y-dieguito-esta-en-capilla-ante-always_1788354093",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "461018fb6a5e161c",
-          "titulo": "Bolívar llega a 2.000 partidos en la máxima categoría del fútbol boliviano desde 1977",
-          "url": "https://diez.bo/futbol/bolivar-llega-a-2-000-partidos-en-la-maxima-categoria-del-futbol-boliviano-desde-1977_1788303361",
+          "id": "a74655e885db1a00",
+          "titulo": "Nacional Potosí se estrena en la Copa Bolivia ante Real Tomayapo",
+          "url": "https://diez.bo/futbol/nacional-potosi-se-estrena-en-la-copa-bolivia-ante-real-tomayapo_1788439054",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "67db51e828a5435e",
-          "titulo": "Villegas enfrenta un proceso que podría complicar su presencia con la Verde",
-          "url": "https://diez.bo/futbol/villegas-enfrenta-un-proceso-que-podria-complicar-su-presencia-con-la-verde_1788270045",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "2588b5bfb4030c90",
-          "titulo": "Govea da el salto y debuta en el fútbol profesional uruguayo",
-          "url": "https://diez.bo/futbol/govea-da-el-salto-y-debuta-en-el-futbol-profesional-uruguayo_1788313898",
+          "id": "e2d3e9a3d552cdc0",
+          "titulo": "Exhibición del Real Madrid de Mourinho: golea al Málaga en el Bernabéu",
+          "url": "https://diez.bo/futbol/exhibicion-del-real-madrid-de-mourinho-golea-al-malaga-en-el-bernabeu_1788110411",
           "fecha": null,
           "resumen": null
         },
@@ -1887,37 +1866,51 @@
           "resumen": null
         },
         {
-          "id": "e035536ea55ac8bf",
-          "titulo": "Bolívar: Restrepo dice que el clásico hay que jugar con mentalidad ganadora",
-          "url": "https://diez.bo/futbol/bolivar-restrepo-dice-que-el-clasico-hay-que-jugar-con-mentalidad-ganadora_1787946627",
+          "id": "63ddfc93c1cf3d79",
+          "titulo": "Bolívar y The Strongest, frente a frente en un duelo que promete emociones",
+          "url": "https://diez.bo/futbol/bolivar-y-the-strongest-frente-a-frente-en-un-duelo-que-promete-emociones_1788090141",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "3a3f49d2edffc5a9",
-          "titulo": "Oriente espera el diagnóstico de Roskopf y sigue de cerca a Roldán",
-          "url": "https://diez.bo/oriente-petrolero/oriente-espera-el-diagnostico-de-roskopf-y-sigue-de-cerca-a-roldan_1788268608",
+          "id": "e6964c2f89d01643",
+          "titulo": "The Strongest recibirá a Tomayapo el domingo desde las 18.00",
+          "url": "https://diez.bo/futbol/the-strongest-recibira-a-tomayapo-el-domingo-desde-las-18-00_1788383837",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "b0bb071371fd2b44",
-          "titulo": "Oriente vuelve al trabajo y ya pone la mira en Always Ready",
-          "url": "https://diez.bo/oriente-petrolero/oriente-vuelve-al-trabajo-y-ya-pone-la-mira-en-always-ready_1788268202",
+          "id": "5ad6c28f53bb1ad6",
+          "titulo": "Otro golpe al refinero: Gilbert Álvarez demanda a Oriente Petrolero",
+          "url": "https://diez.bo/futbol/otro-golpe-al-refinero-gilbert-alvarez-demanda-a-oriente-petrolero_1788291620",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "2f26994297b77783",
-          "titulo": "Aurora y Universitario de Vinto se reparten los puntos en el Capriles",
-          "url": "https://diez.bo/futbol/aurora-y-universitario-de-vinto-se-reparten-los-puntos-en-el-capriles_1788310605",
+          "id": "3de3e335e33b3335",
+          "titulo": "Polémica por los errores en la cancha de fútbol",
+          "url": "https://diez.bo/futbol/polemica-por-los-errores-en-la-cancha-de-futbol_1788380766",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "ee8236b5b778dde6",
-          "titulo": "Alerta en la Verde por el uso que Roca le da a Villa Ingenio",
-          "url": "https://diez.bo/futbol/el-uso-de-villa-ingenio-pone-en-alerta-la-localia-de-bolivia_1788278039",
+          "id": "667517ee982c68a5",
+          "titulo": "Bolívar vence a GV San José por la mínima en un partido trabajado en Oruro",
+          "url": "https://diez.bo/futbol/bolivar-vence-a-gv-san-jose-por-la-minima-en-un-partido-trabajado-en-oruro_1788383531",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "2588b5bfb4030c90",
+          "titulo": "Govea da el salto y debuta en el fútbol profesional uruguayo",
+          "url": "https://diez.bo/futbol/govea-da-el-salto-y-debuta-en-el-futbol-profesional-uruguayo_1788313898",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "c3b9d5d68a379042",
+          "titulo": "Gil Orriols trabaja en el fútbol formativo en Santa Cruz",
+          "url": "https://diez.bo/futbol/gil-orriols-trabaja-en-el-futbol-formativo-en-santa-cruz_1788379493",
           "fecha": null,
           "resumen": null
         }
@@ -1935,21 +1928,42 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:50-04:00",
-      "duracion_ms": 791,
+      "actualizado_en": "2026-09-03T11:37:09-04:00",
+      "duracion_ms": 730,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 25,
+      "cantidad_noticias": 26,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
+          "id": "f6be33af59f19681",
+          "titulo": "¿Always Ready apostará por juveniles ante Oriente? Esto se sabe",
+          "url": "https://www.reduno.com.bo/deportes/always-ready-apostara-por-juveniles-ante-oriente-esto-se-sabe-2026921734",
+          "fecha": null,
+          "resumen": "Por"
+        },
+        {
+          "id": "84eed9ddbf4147a4",
+          "titulo": "The Strongest vs. Tomayapo: ¿por qué cambiaron el horario del partido?",
+          "url": "https://www.reduno.com.bo/deportes/the-strongest-vs-real-tomayapo-por-que-cambiaron-el-horario-del-partido-20269214179",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "39b8be1302e8df45",
+          "titulo": "¡Se viene un partidazo! Oriente recibe a Always este sábado",
+          "url": "https://www.reduno.com.bo/deportes/se-viene-un-partidazo-oriente-recibe-a-always-este-sabado-vale-6-puntos-202692135813",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "0586ada5c2dc00fb",
           "titulo": "Leandro Lara: el jugador de 15 años que debutó en el fútbol boliviano",
           "url": "https://www.reduno.com.bo/deportes/quien-es-el-nino-de-14-anos-que-debuto-en-el-futbol-boliviano-y-ya-es-tendencia-202683110410",
           "fecha": null,
-          "resumen": "Por"
+          "resumen": null
         },
         {
           "id": "cfacfee345c91ddc",
@@ -2104,20 +2118,6 @@
           "url": "https://www.reduno.com.bo/deportes/aurora-vs-the-strongest-hora-bajas-y-como-llega-el-equipo-del-pueblo-2026731154059",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "6ab2d6a54c5bc0db",
-          "titulo": "Always Ready venció 1-0 a Bolívar y se afianzó como líder del torneo",
-          "url": "https://www.reduno.com.bo/deportes/con-gol-de-rai-lima-always-ready-le-gano-a-bolivar-por-1-a-0-20268220165",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "37dd7c44596f1c62",
-          "titulo": "FBF reprograma el The Strongest vs. Aurora para el viernes 31 de julio",
-          "url": "https://www.reduno.com.bo/deportes/no-sera-sabado-conoce-por-que-the-strongest-vs-aurora-se-jugara-antes-de-lo-previsto-2026727143115",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -2133,8 +2133,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:55-04:00",
-      "duracion_ms": 4515,
+      "actualizado_en": "2026-09-03T11:37:16-04:00",
+      "duracion_ms": 5953,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -55887,8 +55887,8 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:57-04:00",
-      "duracion_ms": 531,
+      "actualizado_en": "2026-09-03T11:37:18-04:00",
+      "duracion_ms": 689,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
       "cantidad_noticias": 1,
@@ -55900,24 +55900,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Desde Libre afirman que Tuto asistirá a convocatorias de Paz sobre reforma a la CPE Ver más",
-              "2 Histórico acuerdo petrolero de Estados Unidos con Venezuela Ver más"
+              "1 Histórico acuerdo petrolero de Estados Unidos con Venezuela Ver más",
+              "2 Ecojet reinicia operaciones en Sucre y Tarija, tras gestión del ministro Zamora Ver más"
             ],
             [
-              "3 Sectores productivos de Cochabamba dan cinco días de plazo al Gobierno para responder al mandato productivo Ver más",
-              "4 Prevén sequía severa y escalada de calor en Bolivia por efecto de El Niño Ver más"
+              "3 Prevén sequía severa y escalada de calor en Bolivia por efecto de El Niño Ver más",
+              "4 Mariaca posesiona a cinco nuevos fiscales departamentales y les exige independencia Ver más"
             ],
             [
-              "5 Senamhi advierte un \"súper niño muy fuerte\" para este trimestre con un aumento de calor de 1,8 en La Paz Ver más",
-              "6 Al menos 4 sectores alistan marchas y bloqueos hoy y mañana contra D.S. 5676 Ver más"
+              "5 Al menos 4 sectores alistan marchas y bloqueos hoy y mañana contra D.S. 5676 Ver más",
+              "6 Libre y Unidad lanzan señales para trabajar en un acuerdo político con el Gobierno Ver más"
             ],
             [
-              "7 BCB evalúa dejar de comprar oro del mercado interno y plantea convertir las reservas en dólares Ver más",
-              "8 Beller revela audio donde Cerimedo habla de los 189 kilos de oro de Viru Viru Ver más"
+              "7 Beller revela audio donde Cerimedo habla de los 189 kilos de oro de Viru Viru Ver más",
+              "8 Justiniano anuncia que pequeños productores podrán acceder hasta a 2.500 litros de diésel al mes y pide levantar los bloqueos Ver más"
             ],
             [
-              "9 Unión Europea incluye a Bolivia en lista de países de alto riesgo por \"deficiencias\" en prevención del lavado de dinero Ver más",
-              "10 Tunari sufrió tres incendios en un solo día, hay sospechosos Ver más"
+              "9 El Parque Tunari sufrió tres incendios en un solo día, hay sospechosos Ver más",
+              "10 Ministro de Defensa expresa su apoyo a que se extienda el estado de excepción: \"Ha dado tranquilidad\" Ver más"
             ]
           ]
         },
@@ -55927,11 +55927,11 @@
           "columnas": [],
           "filas": [
             [
-              "02/09/2026 Seguridad Bolivia refuerza el control de la coca con erradicación en zonas no autorizadas de La Asunta El Estado boliviano inició las tareas de erradicación de cultivos de coca en zonas no autorizadas del municipio de La Asunta, ubicada en los Yungas de La Paz. vista",
-              "02/09/2026 País Paz autoriza transferir más de Bs 1 millón a Vicepresidencia para el pago al personal El Gobierno nacional publicó el Decreto Supremo 5696 con el que autoriza al Ministerio de la Presidencia transferir poco más de 1 millón de bolivianos a la... vista",
+              "02/09/2026 Seguridad Cocaleros toman un retén policial en el Chapare Desalojaron a los efectivos antidrogas del punto de control de El Castillo, aseguran que fue una toma pacífica y la justifican con un reclamo por “abuso de... vista",
+              "02/09/2026 Seguridad Mariaca posesiona a cinco nuevos fiscales departamentales y les exige independencia El fiscal general del Estado, Roger Mariaca, designó este miércoles a nuevas autoridades en cinco Fiscalías departamentales como parte de una “reestructuración... vista",
               "",
-              "02/09/2026 País Al menos 4 sectores alistan marchas y bloqueos hoy y mañana contra D.S. 5676 El rechazo al Decreto Supremo 5676, que elevó el precio del diésel a Bs 18 para grandes consumidores, continúa generando protestas. vista",
-              "02/09/2026 Economía Empresarios de Cochabamba rechazan decreto de diésel y dan plazo al Gobierno Una amplia representación del aparato empresarial, productivo, industrial, de transporte y cívico de Cochabamba emitió ayer el “Mandato Productivo de... vista"
+              "02/09/2026 Seguridad Fiscalía rechaza denuncia de un abogado contra la primera dama Esa acción judicial contra María Elena Urquidi fue presentada, el 28 de agosto en Santa Cruz, por Lucas Wilbur Tórrez Áñez, y derivada a la Departamental de La... vista",
+              "02/09/2026 Seguridad Desaparecen de un cuartel 33.608 cartuchos de fusil El ministro de Defensa informó de una investigación para determinar “qué ocurrió, quiénes son los responsables y fundamentalmente cuál fue el destino de esa... vista"
             ]
           ]
         },
@@ -55955,7 +55955,7 @@
           "columnas": [],
           "filas": [
             [
-              "El cortometraje boliviano Thaqhata alcanzó su primera estrella en el contexto universal en el Festival Internacional... Ver más 02/09/2026 Cultura Thaqhata conquista su primer galardón internacional y va por más",
+              "El cortometraje boliviano 'Thaqhata' alcanzó su primera estrella en el contexto universal en el Festival Internacional... Ver más 02/09/2026 Cultura Filme \"Thaqhata\" conquista su primer galardón internacional y va por más",
               "Con la obtención del trigésimo tercer galardón en el Festival Internacional de Cine de los Andes (FICA),en Cusco, Perú... Ver más 01/09/2026 Cine “La hija cóndor” se afianza como gran candidata a los premios Òscar y Goya",
               "",
               "No es casualidad que corrientes ateas y creyentes confluyan más o menos en lo mismo cuando analizan las potenciales... Ver más 31/08/2026 Cultura La IA bajo la mirada de la Iglesia y la filosofía",
@@ -55987,8 +55987,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:47:59-04:00",
-      "duracion_ms": 749,
+      "actualizado_en": "2026-09-03T11:37:19-04:00",
+      "duracion_ms": 644,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -56129,8 +56129,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:48:01-04:00",
-      "duracion_ms": 723,
+      "actualizado_en": "2026-09-03T11:37:21-04:00",
+      "duracion_ms": 763,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56151,11 +56151,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:48:08-04:00",
-      "duracion_ms": 5675,
+      "actualizado_en": "2026-09-03T11:37:28-04:00",
+      "duracion_ms": 5523,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 10,
+      "cantidad_noticias": 12,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -56707,16 +56707,37 @@
       "secciones": [],
       "noticias": [
         {
-          "id": "a25196cd7b6477e0",
-          "titulo": "Bolivia tiene golfistas en Top-10 del Mundial Amateur en Sudamérica",
-          "url": "https://larazon.bo/marcas/2026/09/02/bolivia-tiene-golfistas-en-top-10-del-mundial-amateur-en-sudamerica/",
+          "id": "f5cb552ef73bff0c",
+          "titulo": "El Petróleo al alza por las hostilidades en Oriente Medio",
+          "url": "https://larazon.bo/mundo/2026/09/02/el-petroleo-al-alza-por-las-hostilidades-en-oriente-medio/",
           "fecha": "septiembre 2, 2026",
           "resumen": null
         },
         {
-          "id": "878c29daaa0cbfd5",
-          "titulo": "En su partido 2.000, Bolívar ante GV San José en el Bermúdez",
-          "url": "https://larazon.bo/marcas/2026/09/02/en-su-partido-2-000-bolivar-ante-gv-san-jose-en-el-bermudez/",
+          "id": "63158cbc219aeacd",
+          "titulo": "El fútbol femenino bate récord con 29 millones de $us en traspasos",
+          "url": "https://larazon.bo/marcas/2026/09/03/el-futbol-femenino-bate-record-con-29-millones-de-us-en-traspasos/",
+          "fecha": "septiembre 3, 2026",
+          "resumen": null
+        },
+        {
+          "id": "4d9cab75c8477cfa",
+          "titulo": "Bolívar logra la victoria 1.108 en su partido 2.000",
+          "url": "https://larazon.bo/marcas/2026/09/02/bolivar-logra-la-victoria-1-108-en-su-partido-2-000/",
+          "fecha": "septiembre 2, 2026",
+          "resumen": null
+        },
+        {
+          "id": "a47c279dde0e7d6a",
+          "titulo": "The Strongest-Real Tomayapo se jugará desde las 18.00 el domingo 6",
+          "url": "https://larazon.bo/lr-article/2026/09/02/the-strongest-real-tomayapo-se-jugara-desde-las-18-00-el-domingo-6/",
+          "fecha": "septiembre 2, 2026",
+          "resumen": null
+        },
+        {
+          "id": "a25196cd7b6477e0",
+          "titulo": "Bolivia tiene golfistas en Top-10 del Mundial Amateur en Sudamérica",
+          "url": "https://larazon.bo/marcas/2026/09/02/bolivia-tiene-golfistas-en-top-10-del-mundial-amateur-en-sudamerica/",
           "fecha": "septiembre 2, 2026",
           "resumen": null
         },
@@ -56756,13 +56777,6 @@
           "resumen": null
         },
         {
-          "id": "d8d3766295a452b5",
-          "titulo": "Golazo de Maraude, da triunfo a un Always alterno",
-          "url": "https://larazon.bo/marcas/2026/08/30/golazo-maradoniano-de-maraude-da-triunfo-a-un-always-alterno/",
-          "fecha": "agosto 30, 2026",
-          "resumen": null
-        },
-        {
           "id": "475f8c44926761a7",
           "titulo": "Liga a cuartos de Libertadores al vencer 5-4 a Mirassol por penales",
           "url": "https://larazon.bo/marcas/2026/08/20/liga-a-cuartos-de-libertadores-al-vencer-5-4-a-mirassol-por-penales/",
@@ -56790,8 +56804,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-02T11:48:10-04:00",
-      "duracion_ms": 648,
+      "actualizado_en": "2026-09-03T11:37:30-04:00",
+      "duracion_ms": 823,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -56812,13 +56826,13 @@
               "Nuevo comandante asegura que hará cumplir el estado de excepción y pide informe sobre caso Evo"
             ],
             [
-              "Toranzo: Pareciera ser que el objetivo de Rodrigo fue y es ser presidente, sin solucionar los problemas del país"
+              "Tribunal de Ética inició proceso en contra de Óscar Villegas"
             ],
             [
               "Gobierno denuncia daño económico por billetes del Bicentenario; se vendió menos del 4%"
             ],
             [
-              "Cerimedo afirma que quiso “ayudar a Bolivia” y que Nadia Beller le arruinó la vida"
+              "Decreto dispone la intervención de YPFB por 180 días y a cargo de una comisión"
             ],
             [
               "Fernando Cerimedo arremete contra Beller y “medios de izquierda”"
@@ -56827,7 +56841,7 @@
               "Zamora posesiona a nueva viceministra de Telecomunicaciones y director de la DGAC"
             ],
             [
-              "Decreto dispone la intervención de YPFB por 180 días y a cargo de una comisión"
+              "Juan Pari es sentenciado a 22 años de cárcel por el desfalco al Banco Unión"
             ]
           ]
         }
@@ -56848,7 +56862,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-09-02T11:48:11-04:00",
+      "ultimo_intento_en": "2026-09-03T11:37:32-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
