@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-09-07T13:02:10-04:00",
+  "generado_en": "2026-09-08T11:49:26-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 163,
+    "noticias_extraidas": 159,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:29-04:00",
-      "duracion_ms": 586,
+      "actualizado_en": "2026-09-08T11:48:43-04:00",
+      "duracion_ms": 624,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:31-04:00",
-      "duracion_ms": 227,
+      "actualizado_en": "2026-09-08T11:48:44-04:00",
+      "duracion_ms": 396,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:32-04:00",
-      "duracion_ms": 271,
+      "actualizado_en": "2026-09-08T11:48:46-04:00",
+      "duracion_ms": 362,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:34-04:00",
-      "duracion_ms": 254,
+      "actualizado_en": "2026-09-08T11:48:47-04:00",
+      "duracion_ms": 317,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:35-04:00",
-      "duracion_ms": 229,
+      "actualizado_en": "2026-09-08T11:48:49-04:00",
+      "duracion_ms": 282,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:37-04:00",
-      "duracion_ms": 233,
+      "actualizado_en": "2026-09-08T11:48:50-04:00",
+      "duracion_ms": 266,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:38-04:00",
-      "duracion_ms": 217,
+      "actualizado_en": "2026-09-08T11:48:52-04:00",
+      "duracion_ms": 259,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:40-04:00",
-      "duracion_ms": 784,
+      "actualizado_en": "2026-09-08T11:48:54-04:00",
+      "duracion_ms": 919,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 10,
@@ -1470,8 +1470,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:43-04:00",
-      "duracion_ms": 1652,
+      "actualizado_en": "2026-09-08T11:48:56-04:00",
+      "duracion_ms": 1471,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1633,70 +1633,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19905 veces leida"
+          "resumen": "19907 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14705 veces leida"
+          "resumen": "14708 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11567 veces leida"
+          "resumen": "11569 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11324 veces leida"
+          "resumen": "11326 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10817 veces leida"
+          "resumen": "10821 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9231 veces leida"
+          "resumen": "9234 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8677 veces leida"
+          "resumen": "8680 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8577 veces leida"
+          "resumen": "8578 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8475 veces leida"
+          "resumen": "8478 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8454 veces leida"
+          "resumen": "8456 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1712,8 +1712,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:45-04:00",
-      "duracion_ms": 641,
+      "actualizado_en": "2026-09-08T11:48:58-04:00",
+      "duracion_ms": 776,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1763,48 +1763,34 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:46-04:00",
-      "duracion_ms": 476,
+      "actualizado_en": "2026-09-08T11:49:00-04:00",
+      "duracion_ms": 468,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 10,
+      "cantidad_noticias": 7,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "f0826d75f56e13c4",
-          "titulo": "Tropiezo en la Villa Imperial: Un descuido de Almada condena a Blooming ante Nacional",
-          "url": "https://futbol.unitel.bo/division-profesional/tropiezo-en-la-villa-imperial-un-descuido-de-almada-condena-a-blooming-ante-nacional-OD23318251",
-          "fecha": "06/09/2026 20:15",
+          "id": "fdf56f12f849b31d",
+          "titulo": "Oriente Petrolero vs. GuabirÃ¡ acapara las miradas en el retorno de la Copa PaceÃ±a",
+          "url": "https://futbol.unitel.bo/division-profesional/oriente-petrolero-vs-guabira-acapara-las-miradas-en-el-retorno-de-la-copa-pacena-FG23340959",
+          "fecha": "07/09/2026 22:00",
           "resumen": null
         },
         {
-          "id": "9c4274d9e16e5540",
-          "titulo": "Vozinha no recibe goles en su estreno de la liga chilena con Colo Colo",
-          "url": "https://futbol.unitel.bo/futbol/vozinha-no-recibe-goles-en-su-estreno-de-la-liga-chilena-con-colo-colo-ED23318639",
-          "fecha": "06/09/2026 21:36",
+          "id": "967be1b584f57160",
+          "titulo": "Â¿El Ãºltimo baile? TÃ©vez busca reunir a Messi y Cristiano para su partido de despedida",
+          "url": "https://futbol.unitel.bo/futbol/el-ultimo-baile-tevez-busca-reunir-a-messi-y-cristiano-para-su-partido-de-despedida-PB23339305",
+          "fecha": "07/09/2026 21:41",
           "resumen": null
         },
         {
-          "id": "1687e447c96d62bf",
-          "titulo": "Triunfo clave de The Strongest ante Tomayapo para seguir en la pelea del tÃ­tulo",
-          "url": "https://futbol.unitel.bo/division-profesional/triunfo-clave-de-the-strongest-ante-tomayapo-para-seguir-en-la-pelea-del-titulo-ED23316615",
-          "fecha": "06/09/2026 17:47",
-          "resumen": null
-        },
-        {
-          "id": "b4fd7f5415d43917",
-          "titulo": "Claure reaparece tras un mes de silencio para felicitar al equipo femenino de BolÃ­var por el campeonato",
-          "url": "https://futbol.unitel.bo/division-profesional/claure-reaparece-tras-un-mes-de-silencio-para-felicitar-al-equipo-femenino-de-bolivar-por-el-campeonato-OD23317108",
-          "fecha": "06/09/2026 18:57",
-          "resumen": null
-        },
-        {
-          "id": "70e3634d366794b6",
-          "titulo": "BolÃ­var golea de visitante a Independiente de Sucre",
-          "url": "https://futbol.unitel.bo/division-profesional/bolivar-golea-de-visitante-a-independiente-de-sucre-HD23315534",
-          "fecha": "06/09/2026 17:01",
+          "id": "44803673e29d19e2",
+          "titulo": "La Verde concentrarÃ¡ en Santa Cruz desde el 21 o 22 de septiembre pensando en Paraguay",
+          "url": "https://futbol.unitel.bo/futbol/la-verde-concentrara-en-santa-cruz-desde-el-21-o-22-de-septiembre-pensando-en-paraguay-HB23336504",
+          "fecha": "07/09/2026 18:19",
           "resumen": null
         },
         {
@@ -1822,24 +1808,17 @@
           "resumen": null
         },
         {
-          "id": "3f3c21d06d7d1120",
-          "titulo": "El arbitraje de Rueda encendiÃ³ los Ã¡nimos de los hinchas de Oriente Petrolero",
-          "url": "https://futbol.unitel.bo/division-profesional/el-arbitraje-de-rueda-encendio-los-animos-de-los-hinchas-de-oriente-petrolero-LD23312382",
-          "fecha": "06/09/2026 16:53",
+          "id": "998bbaee9929f94b",
+          "titulo": "Â¡Arde el torneo boliviano! Faltan 12 fechas y tres equipos sueÃ±an con el tÃ­tulo",
+          "url": "https://futbol.unitel.bo/division-profesional/arde-el-torneo-boliviano-faltan-12-fechas-y-tres-equipos-suenan-con-el-titulo-JB23335518",
+          "fecha": "07/09/2026 18:11",
           "resumen": null
         },
         {
-          "id": "9a7243321aa89e2f",
-          "titulo": "Lamine Yamal lidera la goleada 5-0 del Barcelona al Valencia",
-          "url": "https://futbol.unitel.bo/futbol/lamine-yamal-lidera-la-goleada-5-0-del-barcelona-al-valencia-ED23311885",
-          "fecha": "06/09/2026 13:18",
-          "resumen": null
-        },
-        {
-          "id": "21d6273e43b4f74f",
-          "titulo": "Oriente Petrolero cae en el Tahuichi ante Always Ready",
-          "url": "https://futbol.unitel.bo/division-profesional/oriente-petrolero-cae-en-el-tahuichi-ante-always-ready-BC23303673",
-          "fecha": "05/09/2026 21:31",
+          "id": "239bafbb2490d170",
+          "titulo": "Â¡Vuelve la Liga de Campeones! Partidos y horarios para este martes",
+          "url": "https://futbol.unitel.bo/futbol/vuelve-la-liga-de-campeones-partidos-y-horarios-para-este-martes-EB23333564",
+          "fecha": "07/09/2026 16:16",
           "resumen": null
         }
       ],
@@ -1856,21 +1835,98 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:48-04:00",
-      "duracion_ms": 432,
+      "actualizado_en": "2026-09-08T11:49:02-04:00",
+      "duracion_ms": 436,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 15,
+      "cantidad_noticias": 14,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "93d26a8015ccc88f",
-          "titulo": "“No hago nada chueco”: Villegas se defiende por el préstamo a Oriente",
-          "url": "https://diez.bo/futbol/no-hago-nada-chueco-villegas-se-defiende-por-el-prestamo-a-oriente_1788785764",
+          "id": "544b9163cea3954d",
+          "titulo": "Oriente busca volver al triunfo ante un Guabirá necesitado",
+          "url": "https://diez.bo/futbol/oriente-busca-volver-al-triunfo-ante-un-guabira-necesitado_1788870935",
           "fecha": null,
-          "resumen": "El entrenador de la selección boliviana se refirió públicamente a la denuncia que analiza el Tribunal de Ética de la FBF por el préstamo de Bs 420.000 realizado a Oriente Petrolero. Villegas aseguró que actuó de manera honesta, que las explicaciones las dará ante la instancia correspondiente y que el caso no afecta su trabajo al frente de la Verde."
+          "resumen": "Oriente Petrolero recibe este martes a Guabirá, desde las 20:30, en el estadio Ramón Tahuichi Aguilera, por la tercera fecha de la Copa Bolivia. El albiverde busca recuperarse tras la derrota ante Always Ready, mientras que el rojo montereño llega obligado a reaccionar luego de cuatro partidos sin ganar."
+        },
+        {
+          "id": "4a2474b25c3b8e95",
+          "titulo": "Blooming, con ‘Platiní’ al frente, prepara el duelo ante GV San José",
+          "url": "https://diez.bo/blooming/blooming-con-platini-al-frente-prepara-el-duelo-ante-gv-san-jose_1788873443",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "703bdf4651321cec",
+          "titulo": "Comienza la fase decisiva de la Libertadores y la Sudamericana",
+          "url": "https://diez.bo/futbol/comienza-la-fase-decisiva-de-la-libertadores-y-la-sudamericana_1788873298",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "8084a7a7820e443e",
+          "titulo": "La Verde quiere seguir en El Alto, pero el estado del gramado preocupa",
+          "url": "https://diez.bo/futbol/la-verde-quiere-seguir-en-el-alto-pero-el-estado-del-gramado-preocupa_1788873660",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "7eaa7458b7e662a1",
+          "titulo": "Fecha FIFA: El segundo partido de la Verde será en Sudamérica ¿contra Argentina?",
+          "url": "https://diez.bo/futbol/fecha-fifa-el-segundo-partido-de-la-verde-sera-en-sudamerica-contra-argentina_1788835084",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "b3e77245ff071c18",
+          "titulo": "De la abundancia a las limitaciones: Blooming perdió piezas en el camino",
+          "url": "https://diez.bo/blooming/de-la-abundancia-a-las-limitaciones-blooming-perdio-piezas-en-el-camino_1788527628",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "39f9ada2251f2d95",
+          "titulo": "Oriente apela a su hinchada para llenar el Tahuichi ante Always Ready",
+          "url": "https://diez.bo/oriente-petrolero/oriente-apela-a-su-hinchada-para-llenar-el-tahuichi-ante-always-ready_1788527209",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "bf69e1f3a850a595",
+          "titulo": "Grupo A en acción: ABB recibe a San Antonio",
+          "url": "https://diez.bo/futbol/grupo-a-en-accion-abb-recibe-a-san-antonio_1788870738",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5839c01b0a172790",
+          "titulo": "Santiago Cuiza celebra su primer gol en el fútbol ucraniano",
+          "url": "https://diez.bo/futbol/santiago-cuiza-celebra-su-primer-gol-en-el-futbol-ucraniano_1788879631",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "b2aa06bc84f6b0e9",
+          "titulo": "Oriente Petrolero busca apagar el incendio de las demandas",
+          "url": "https://diez.bo/futbol/oriente-petrolero-busca-apagar-el-incendio-de-las-demandas_1788811444",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "9a2ffdc53acd86ba",
+          "titulo": "La Verde vuelve a la acción: concentración en septiembre y viaje a EE.UU.",
+          "url": "https://diez.bo/futbol/la-verde-vuelve-a-la-accion-concentracion-en-septiembre-y-viaje-a-ee-uu_1788825284",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "41b1b5e7e580e185",
+          "titulo": "¡Boliviano en la élite del fútbol español! Óscar López debutó",
+          "url": "https://diez.bo/futbol/boliviano-en-la-elite-del-futbol-espanol-oscar-lopez-debuto_1788809631",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "09e2e90c358bae65",
@@ -1880,93 +1936,9 @@
           "resumen": null
         },
         {
-          "id": "8061b06134f14b35",
-          "titulo": "Sin tiempo para lamentos: Oriente ya prepara su duelo con Guabirá",
-          "url": "https://diez.bo/futbol/sin-tiempo-para-lamentos-oriente-ya-prepara-su-duelo-con-guabira_1788787365",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "c3c61ad91a680fd4",
-          "titulo": "Sin club y con la Verde en el horizonte: la incertidumbre de Viscarra",
-          "url": "https://diez.bo/futbol/sin-club-y-con-la-verde-en-el-horizonte-la-incertidumbre-de-viscarra_1788786351",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "41dbf6e7f5c8b5a1",
-          "titulo": "¿Qué ocurre en Blooming tras la derrota en Potosí?",
-          "url": "https://diez.bo/blooming/que-ocurre-en-blooming-tras-la-derrota-en-potosi_1788786107",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "67e699c1bdece04d",
-          "titulo": "Después de cuatro partidos, Miguelito volvió a sumar minutos en Santos",
-          "url": "https://diez.bo/futbol/despues-de-cuatro-partidos-miguelito-volvio-a-sumar-minutos-en-santos_1788791708",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "f6d1c8e5de8ac8b0",
-          "titulo": "Iver Valladares, frontal con el presente de Blooming",
-          "url": "https://diez.bo/futbol/iver-valladares-frontal-con-el-presente-de-blooming_1788793367",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "f8ba5af544934fa8",
-          "titulo": "Carlos ‘Tonino’ Melgar: “El fútbol siempre fue mi vida”",
-          "url": "https://diez.bo/futbol/carlos-tonino-melgar-el-futbol-siempre-fue-mi-vida_1788792970",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "e65b0b69251ff947",
-          "titulo": "Blooming no pudo sostener el empate y cayó ante Nacional Potosí",
-          "url": "https://diez.bo/futbol/blooming-no-pudo-sostener-el-empate-y-cayo-ante-nacional-potosi_1788746405",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "dbb6f51ad5a00163",
-          "titulo": "Santa Cruz abre sus puertas al fútbol playa internacional",
-          "url": "https://diez.bo/futbol/santa-cruz-abre-sus-puertas-al-futbol-playa-internacional_1788793666",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "597599b2da180d13",
-          "titulo": "Bolívar goleó en Sucre y recuperó el liderato",
-          "url": "https://diez.bo/bolivar/bolivar-goleo-en-sucre-y-recupero-el-liderato_1788728170",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "346b86e89959c4a7",
-          "titulo": "The Strongest se impone a Real Tomayapo y no pierde de vista la punta",
-          "url": "https://diez.bo/futbol/the-strongest-se-impone-a-real-tomayapo-y-no-pierde-de-vista-la-punta_1788740012",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "4ed9ace08c61a7bd",
-          "titulo": "Roldán volvió, no gravitó y fue reemplazado ante Always Ready",
-          "url": "https://diez.bo/oriente-petrolero/roldan-volvio-no-gravito-y-fue-reemplazado-ante-always-ready_1788667716",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "062f282ea9e9750e",
-          "titulo": "Hugo Dellien cae en la final de Porto tras un partido muy apretado",
-          "url": "https://diez.bo/tenis/hugo-dellien-cae-en-la-final-de-porto-tras-un-partido-muy-apretado_1788700758",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "27567afe52e835ee",
-          "titulo": "El Barcelona golea al Valencia y lidera en solitario La Liga",
-          "url": "https://diez.bo/futbol/el-barcelona-golea-al-valencia-y-lidera-en-solitario-la-liga_1788713138",
+          "id": "fd95eb226ea8dfc4",
+          "titulo": "Después de golearlo en Sucre, Bolívar espera otra vez a Independiente",
+          "url": "https://diez.bo/futbol/despues-de-golearlo-en-sucre-bolivar-espera-otra-vez-a-independiente_1788810328",
           "fecha": null,
           "resumen": null
         }
@@ -1984,8 +1956,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:50-04:00",
-      "duracion_ms": 419,
+      "actualizado_en": "2026-09-08T11:49:03-04:00",
+      "duracion_ms": 352,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -1994,11 +1966,18 @@
       "secciones": [],
       "noticias": [
         {
+          "id": "d6302a9b41c0ef04",
+          "titulo": "Oriente-Always: Hinchas denuncian que gasificaron donde había menores",
+          "url": "https://www.reduno.com.bo/deportes/que-paso-en-el-tahuichi-hinchas-denuncian-que-gasificaron-donde-habia-menores-202697134855",
+          "fecha": null,
+          "resumen": "Por"
+        },
+        {
           "id": "ab8c4c9a1501a04b",
           "titulo": "Estos son los resultados de la fecha 18 del fútbol boliviano",
           "url": "https://www.reduno.com.bo/deportes/gano-o-perdio-tu-equipo-revisa-aqui-todos-los-resultados-de-la-fecha-18-del-futbol-boliviano-202697101021",
           "fecha": null,
-          "resumen": "Por"
+          "resumen": null
         },
         {
           "id": "c33af583ac6250e6",
@@ -2160,13 +2139,6 @@
           "url": "https://www.reduno.com.bo/deportes/la-fecha-15-de-futbol-boliviano-ya-esta-aqui-mira-cuando-juega-tu-equipo-2026813134156",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "b05255955aafb6ac",
-          "titulo": "Fecha 14: resultados del fútbol boliviano, ¿ganó tu equipo?",
-          "url": "https://www.reduno.com.bo/deportes/fecha-14-del-futbol-boliviano-como-le-fue-a-tu-equipo-revisa-aqui-los-resultados-2026810103844",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -2182,8 +2154,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:55-04:00",
-      "duracion_ms": 4391,
+      "actualizado_en": "2026-09-08T11:49:09-04:00",
+      "duracion_ms": 4680,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -5615,7 +5587,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 223
+                      "qty": 221
                     },
                     "matches": {
                       "qty": 7
@@ -5691,7 +5663,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1182
+                      "qty": 1180
                     },
                     "matches": {
                       "qty": 16
@@ -5767,7 +5739,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1715
+                      "qty": 1709
                     },
                     "matches": {
                       "qty": 17
@@ -6679,7 +6651,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1594
+                      "qty": 1588
                     },
                     "matches": {
                       "qty": 16
@@ -6755,7 +6727,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 98
+                      "qty": 94
                     },
                     "matches": {
                       "qty": 6
@@ -6907,7 +6879,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1287
+                      "qty": 1285
                     },
                     "matches": {
                       "qty": 18
@@ -7059,7 +7031,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1578
+                      "qty": 1572
                     },
                     "matches": {
                       "qty": 18
@@ -7667,7 +7639,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 777
+                      "qty": 771
                     },
                     "matches": {
                       "qty": 10
@@ -7743,7 +7715,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 833
+                      "qty": 829
                     },
                     "matches": {
                       "qty": 12
@@ -7819,7 +7791,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 494
+                      "qty": 488
                     },
                     "matches": {
                       "qty": 9
@@ -8047,7 +8019,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1606
+                      "qty": 1600
                     },
                     "matches": {
                       "qty": 17
@@ -8351,7 +8323,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 887
+                      "qty": 879
                     },
                     "matches": {
                       "qty": 16
@@ -8427,7 +8399,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1398
+                      "qty": 1394
                     },
                     "matches": {
                       "qty": 18
@@ -8503,7 +8475,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 157
+                      "qty": 151
                     },
                     "matches": {
                       "qty": 2
@@ -8579,7 +8551,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 223
+                      "qty": 225
                     },
                     "matches": {
                       "qty": 4
@@ -18498,7 +18470,7 @@
               },
               "summary": {
                 "assists": {
-                  "qty": 2
+                  "qty": 3
                 },
                 "cornerKicks": {
                   "qty": 0
@@ -18513,13 +18485,13 @@
                   "qty": 29
                 },
                 "correctPasses": {
-                  "qty": 2
+                  "qty": 3
                 },
                 "incorrectPasses": {
                   "qty": 0
                 },
                 "allPasses": {
-                  "qty": 2
+                  "qty": 3
                 },
                 "offsides": {
                   "qty": 0
@@ -18540,7 +18512,7 @@
                   "qty": 0
                 },
                 "saves": {
-                  "qty": 2
+                  "qty": 3
                 },
                 "stealings": {
                   "qty": 0
@@ -18723,7 +18695,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 314
+                      "qty": 315
                     },
                     "matches": {
                       "qty": 8
@@ -18799,7 +18771,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 495
+                      "qty": 496
                     },
                     "matches": {
                       "qty": 8
@@ -18875,7 +18847,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 501
+                      "qty": 519
                     },
                     "matches": {
                       "qty": 11
@@ -19483,7 +19455,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 894
+                      "qty": 895
                     },
                     "matches": {
                       "qty": 9
@@ -19787,7 +19759,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1032
+                      "qty": 1033
                     },
                     "matches": {
                       "qty": 17
@@ -20167,7 +20139,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1382
+                      "qty": 1383
                     },
                     "matches": {
                       "qty": 16
@@ -20319,7 +20291,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 964
+                      "qty": 947
                     },
                     "matches": {
                       "qty": 13
@@ -20395,7 +20367,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 692
+                      "qty": 693
                     },
                     "matches": {
                       "qty": 15
@@ -20851,13 +20823,13 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1577
+                      "qty": 1578
                     },
                     "matches": {
                       "qty": 16
                     },
                     "assists": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "cornerKicks": {
                       "qty": 0
@@ -20872,13 +20844,13 @@
                       "qty": 0
                     },
                     "correctPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "incorrectPasses": {
                       "qty": 0
                     },
                     "allPasses": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "offsides": {
                       "qty": 0
@@ -20927,7 +20899,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1354
+                      "qty": 1355
                     },
                     "matches": {
                       "qty": 17
@@ -21383,7 +21355,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 99
+                      "qty": 100
                     },
                     "matches": {
                       "qty": 4
@@ -21459,7 +21431,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 683
+                      "qty": 684
                     },
                     "matches": {
                       "qty": 8
@@ -31986,7 +31958,7 @@
               },
               "summary": {
                 "assists": {
-                  "qty": 7
+                  "qty": 8
                 },
                 "cornerKicks": {
                   "qty": 0
@@ -32001,13 +31973,13 @@
                   "qty": 33
                 },
                 "correctPasses": {
-                  "qty": 7
+                  "qty": 8
                 },
                 "incorrectPasses": {
                   "qty": 0
                 },
                 "allPasses": {
-                  "qty": 7
+                  "qty": 8
                 },
                 "offsides": {
                   "qty": 0
@@ -32028,7 +32000,7 @@
                   "qty": 0
                 },
                 "saves": {
-                  "qty": 7
+                  "qty": 8
                 },
                 "stealings": {
                   "qty": 0
@@ -32439,13 +32411,13 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1398
+                      "qty": 1392
                     },
                     "matches": {
                       "qty": 18
                     },
                     "assists": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "cornerKicks": {
                       "qty": 0
@@ -32460,13 +32432,13 @@
                       "qty": 2
                     },
                     "correctPasses": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "incorrectPasses": {
                       "qty": 0
                     },
                     "allPasses": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "offsides": {
                       "qty": 0
@@ -33047,7 +33019,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 405
+                      "qty": 399
                     },
                     "matches": {
                       "qty": 7
@@ -33123,7 +33095,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1034
+                      "qty": 1028
                     },
                     "matches": {
                       "qty": 15
@@ -33503,7 +33475,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 214
+                      "qty": 209
                     },
                     "matches": {
                       "qty": 5
@@ -33579,7 +33551,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1597
+                      "qty": 1591
                     },
                     "matches": {
                       "qty": 17
@@ -33655,7 +33627,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 816
+                      "qty": 810
                     },
                     "matches": {
                       "qty": 9
@@ -34035,7 +34007,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 488
+                      "qty": 484
                     },
                     "matches": {
                       "qty": 9
@@ -34339,7 +34311,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 464
+                      "qty": 460
                     },
                     "matches": {
                       "qty": 10
@@ -34415,7 +34387,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1002
+                      "qty": 996
                     },
                     "matches": {
                       "qty": 10
@@ -34947,7 +34919,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 575
+                      "qty": 573
                     },
                     "matches": {
                       "qty": 9
@@ -35023,7 +34995,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 649
+                      "qty": 648
                     },
                     "matches": {
                       "qty": 9
@@ -35707,7 +35679,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1288
+                      "qty": 1282
                     },
                     "matches": {
                       "qty": 13
@@ -35859,7 +35831,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1261
+                      "qty": 1255
                     },
                     "matches": {
                       "qty": 17
@@ -36011,7 +35983,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1125
+                      "qty": 1123
                     },
                     "matches": {
                       "qty": 13
@@ -37027,7 +36999,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 407
+                      "qty": 408
                     },
                     "matches": {
                       "qty": 13
@@ -37255,7 +37227,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1001
+                      "qty": 1002
                     },
                     "matches": {
                       "qty": 17
@@ -37331,7 +37303,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 272
+                      "qty": 273
                     },
                     "matches": {
                       "qty": 6
@@ -37407,7 +37379,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1586
+                      "qty": 1587
                     },
                     "matches": {
                       "qty": 18
@@ -37787,7 +37759,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 726
+                      "qty": 727
                     },
                     "matches": {
                       "qty": 9
@@ -37863,7 +37835,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1428
+                      "qty": 1429
                     },
                     "matches": {
                       "qty": 14
@@ -38015,7 +37987,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 149
+                      "qty": 150
                     },
                     "matches": {
                       "qty": 5
@@ -38167,7 +38139,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1544
+                      "qty": 1545
                     },
                     "matches": {
                       "qty": 16
@@ -38699,7 +38671,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 182
+                      "qty": 183
                     },
                     "matches": {
                       "qty": 6
@@ -38851,7 +38823,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 993
+                      "qty": 994
                     },
                     "matches": {
                       "qty": 12
@@ -39383,7 +39355,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1225
+                      "qty": 1226
                     },
                     "matches": {
                       "qty": 12
@@ -56316,11 +56288,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:57-04:00",
-      "duracion_ms": 711,
+      "actualizado_en": "2026-09-08T11:49:11-04:00",
+      "duracion_ms": 550,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 1,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -56329,8 +56301,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Walter Gonzáles, periodista, habla sobre Urkupiña, Quillacollo y sus retos como ciudad, en Podcast Los Tiempos Ver más",
-              ""
+              "1 Hallan el cuerpo de un sargento entre los escombros de Viacha Ver más",
+              "2 El manual de estilo de Zendaya 5 claves de alta costura para construir una identidad visual Ver más"
+            ],
+            [
+              "3 La mitad de los bolivianos está en riesgo de caer en la pobreza Ver más",
+              "4 Vientos de guerra en el punto más austral de América Ver más"
+            ],
+            [
+              "5 Suman seis los muerto en cuartel de Viacha y hay 11 personas desaparecidas Ver más",
+              "6 YPFB detecta 630 cuentas irregulares y da de baja 60; cívicos anuncian control de combustibles Ver más"
+            ],
+            [
+              "7 Plantean ajustar el mecanismo de censura en la Asamblea Legislativa Ver más",
+              "8 Qué es el ‘Eye-maxxing’ y cómo aplicar la colorimetría al maquillaje de ojos según cada tonalidad de iris Ver más"
+            ],
+            [
+              "9 Oruro, escenario de una historia desgarradora de violencia sexual Ver más",
+              "10 Santa Cruz se viste de alta costura con Bolivia Lujo Moda 2026 Ver más"
             ]
           ]
         },
@@ -56340,11 +56328,11 @@
           "columnas": [],
           "filas": [
             [
-              "05/09/2026 País Viacha: recuperan un cuerpo entre los escombros y suman tres los fallecidos El cuerpo sin vida de una persona de sexo masculino fue encontrado la tarde de este sábado en medio de los escombros donde ocurrieron las explosiones en el... vista",
-              "06/09/2026 Cochabamba Nueva megaobra. Terminal, casi lista Después de cuatro años de construcción, la nueva Terminal de Buses de Cochabamba está casi lista y se prevé su inauguración el 12 de septiembre con motivo de... vista",
+              "07/09/2026 País Muere Miguel Urioste, el diputado que destapó los casos CAC-Fancesa y Bolibras El exdiputado chuquisaqueño Miguel Urioste Fernández de Córdova, dirigente del Movimiento Bolivia Libre (MBL), falleció después de una larga enfermedad. Fue... vista",
+              "07/09/2026 Seguridad IDIF hará pruebas de ADN a familiares para identificar a los fallecidos en la explosión de Viacha La directora Nacional del Instituto de Investigaciones Forenses (IDIF), Ana Katherine Ramírez, informó que hasta el momento se contabilizan siete personas... vista",
               "",
-              "06/09/2026 Cochabamba Ciclovías de Cochabamba: rutas que buscan dar espacio a la bicicleta En el Día del Peatón y del Ciclista, las ciclovías vuelven a ser protagonistas como una alternativa para recorrer la ciudad sin vehículos motorizados. Sin... vista",
-              "06/09/2026 Interesante Walter Gonzáles, periodista, habla sobre Urkupiña, Quillacollo y sus retos como ciudad, en Podcast Los Tiempos Los invitamos a ver el capítulo 147 de Podcast Los Tiempos! En esta edición, nos acompaña Walter Gonzáles, periodista y quillacolleño de pura cepa, para... vista"
+              "07/09/2026 Economía Alza de precios: Defensor exige al Estado acciones ante riesgo de vulneración del derecho a la alimentación El Defensor del Pueblo, Pedro Callisaya, alertó hoy sobre el riesgo inminente de regresión en el ejercicio del derecho humano a la alimentación en Bolivia y... vista",
+              "07/09/2026 Economía YPFB detecta 630 cuentas irregulares y da de baja 60; cívicos anuncian control de combustibles El Comité Pro Santa Cruz se sumará al control de los despachos de combustibles en el departamento, tras visitar este lunes la nueva sala de monitoreo de YPFB,... vista"
             ]
           ]
         },
@@ -56354,11 +56342,11 @@
           "columnas": [],
           "filas": [
             [
-              "Los invitamos a ver el capítulo 147 de Podcast Los Tiempos! En esta edición, nos acompaña Walter Gonzáles, periodista y... Ver más 06/09/2026 Interesante Walter Gonzáles, periodista, habla sobre Urkupiña, Quillacollo y sus retos como ciudad, en Podcast Los Tiempos",
-              "Saturnina y Avelino apenas comienzan a descubrir el mundo, pero su nacimiento ya marca un hito para la conservación de... Ver más 04/09/2026 Medio Ambiente Dos pichones de paraba azul nacen por primera vez en una caja nido en el Pantanal boliviano",
+              "El mercurio usado para la minería ilegal se ha extendido como una plaga a través de los ríos de la Amazonía. Al hacerlo... Ver más 07/09/2026 Medio Ambiente Oro tóxico: el mercurio de la minería amenaza a más de 160 comunidades de la cuenca del río Beni en Bolivia",
+              "En el departamento de Santa Cruz a 17 kilómetros al sudoeste de la capital cruceña se encuentra ubicado el municipio de... Ver más 07/09/2026 Interesante Devoción y cultura Santuario de la Purísima Concepción de Cotoca",
               "",
-              "Saturnina y Avelino apenas comienzan a descubrir el mundo, pero su nacimiento ya marca un hito para la conservación de... Ver más 03/09/2026 Medio Ambiente Dos pichones de paraba azul nacen por primera vez en una caja nido en el Pantanal boliviano",
-              "Dormir con la ventana abierta parece una decisión menor, casi instintiva. Pero la ciencia acumulada en los últimos años... Ver más 02/09/2026 Salud Cuál es el verdadero impacto de dormir con la ventana abierta en el organismo"
+              "Los invitamos a ver el capítulo 147 de Podcast Los Tiempos! En esta edición, nos acompaña Walter Gonzáles, periodista y... Ver más 06/09/2026 Interesante Walter Gonzáles, periodista, habla sobre Urkupiña, Quillacollo y sus retos como ciudad, en Podcast Los Tiempos",
+              "Saturnina y Avelino apenas comienzan a descubrir el mundo, pero su nacimiento ya marca un hito para la conservación de... Ver más 04/09/2026 Medio Ambiente Dos pichones de paraba azul nacen por primera vez en una caja nido en el Pantanal boliviano"
             ]
           ]
         },
@@ -56368,25 +56356,17 @@
           "columnas": [],
           "filas": [
             [
-              "Durante casi tres años, Coyote vs. Acme parecía destinada a convertirse en una de las películas que Hollywood nunca... Ver más 06/09/2026 Cine Coyote vs. Acme: Ésta es la historia de la película que por fin llegó a los cines",
-              "Tatiana Marset informó este viernes que decidió no asumir como reina de la comparsa Las Tremendas de Santa Cruz.... Ver más 04/09/2026 Farándula \"Fue una decisión personal\": Tatiana Marset renuncia a ser reina de 'Las Tremendas'",
+              "La Asociación de Cineastas de Bolivia (ASOCINE) comunica que La Hija Cóndor, de Álvaro Olmos, ha sido elegida para... Ver más 07/09/2026 Cine \"La Hija Cóndor\" representará a Bolivia en los Premios Óscar y Goya 2027",
+              "Metanoia Brass Ensamble hace su debut oficial en el Cine Teatro Capitol, mientras la Fexco Arena se apresta a albergar... Ver más 07/09/2026 Cultura Cartelera: Debuta Metanoia Brass Ensamble y la serenata atrae la atención",
               "",
-              "“Tras las huellas de un dinosaurio es un documental boliviano dirigido por Viviana Saavedra que relata la vida y el... Ver más 04/09/2026 Cine Tras las huellas de un dinosaurio, el filme que refleja la historia de Henry Saavedra",
-              "Unos 40 artistas plásticos tomarán parte de la exposición “Sol de septiembre” que se inaugura mañana en el salón... Ver más 03/09/2026 Cultura Exposición Sol de septiembre rinde homenaje a Cochabamba"
+              "Durante casi tres años, Coyote vs. Acme parecía destinada a convertirse en una de las películas que Hollywood nunca... Ver más 06/09/2026 Cine Coyote vs. Acme: Ésta es la historia de la película que por fin llegó a los cines",
+              "Tatiana Marset informó este viernes que decidió no asumir como reina de la comparsa Las Tremendas de Santa Cruz.... Ver más 04/09/2026 Farándula \"Fue una decisión personal\": Tatiana Marset renuncia a ser reina de 'Las Tremendas'"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "3ba1764a02d11633",
-          "titulo": "Wilster golea a Cala Cala con un póker de Veizaga",
-          "url": "https://www.lostiempos.com/deportes/futbol/20260824/wilster-golea-cala-cala-poker-veizaga",
-          "fecha": "24/08/2026 Fútbol",
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -56400,8 +56380,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:01:59-04:00",
-      "duracion_ms": 556,
+      "actualizado_en": "2026-09-08T11:49:13-04:00",
+      "duracion_ms": 572,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -56542,8 +56522,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:02:00-04:00",
-      "duracion_ms": 214,
+      "actualizado_en": "2026-09-08T11:49:14-04:00",
+      "duracion_ms": 287,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56564,11 +56544,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:02:07-04:00",
-      "duracion_ms": 5015,
+      "actualizado_en": "2026-09-08T11:49:23-04:00",
+      "duracion_ms": 7329,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 14,
+      "cantidad_noticias": 15,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -57127,15 +57107,29 @@
           "contenido": "septiembre 6, 2026"
         },
         {
-          "titulo": "Nacional Potosí supera a Blooming y escala en la tabla",
-          "contenido": "septiembre 6, 2026"
-        },
-        {
           "titulo": "Partidos ida cuartos de final de la Copa Libertadores",
           "contenido": "septiembre 7, 2026"
+        },
+        {
+          "titulo": "Con 2.000 partidos desde 1977, Bolívar visita a ‘Inde’ tras la punta",
+          "contenido": "septiembre 6, 2026"
         }
       ],
       "noticias": [
+        {
+          "id": "b4c3a08ad7873453",
+          "titulo": "Viene el Torneo Interno de ajedrez en el Colegio Franco Boliviano",
+          "url": "https://larazon.bo/marcas/2026/09/08/viene-el-torneo-interno-de-ajedrez-en-el-colegio-franco-boliviano/",
+          "fecha": "septiembre 8, 2026",
+          "resumen": null
+        },
+        {
+          "id": "ac99889f6a8d9886",
+          "titulo": "Humberto Viviani deja de ser el DT de GV San José tras solo 12 días",
+          "url": "https://larazon.bo/marcas/2026/09/08/humberto-viviani-deja-de-ser-el-dt-de-gv-san-jose-tras-solo-12-dias/",
+          "fecha": "septiembre 8, 2026",
+          "resumen": null
+        },
         {
           "id": "c76e021f38787688",
           "titulo": "Mamani y El-Hage vencen en Sub-16 del Nacional en Trinidad",
@@ -57151,30 +57145,9 @@
           "resumen": null
         },
         {
-          "id": "fa3df65ad0bbd9cf",
-          "titulo": "Boca y Sao Paulo sacarán chispas en la Sudamericana sin Neymar",
-          "url": "https://larazon.bo/marcas/2026/09/07/boca-y-sao-paulo-sacaran-chispas-en-la-sudamericana-sin-neymar/",
-          "fecha": "septiembre 7, 2026",
-          "resumen": null
-        },
-        {
           "id": "f8dc4c8c95517cf5",
           "titulo": "Nacional Potosí supera a Blooming y escala en la tabla",
           "url": "https://larazon.bo/marcas/2026/09/06/nacional-potosi-supera-a-blooming-y-escala-en-la-tabla/",
-          "fecha": "septiembre 6, 2026",
-          "resumen": null
-        },
-        {
-          "id": "36848691775f7d56",
-          "titulo": "Bolívar pasea y con show mediante retoma la punta",
-          "url": "https://larazon.bo/marcas/2026/09/06/bolivar-pasea-y-con-show-mediante-retoma-la-punta/",
-          "fecha": "septiembre 6, 2026",
-          "resumen": null
-        },
-        {
-          "id": "98e08b307c3bd2c0",
-          "titulo": "Dellien se queda con el subcampeonato del Challenger de Porto",
-          "url": "https://larazon.bo/marcas/2026/09/06/dellien-se-queda-con-el-subcampeonato-del-challenger-de-porto/",
           "fecha": "septiembre 6, 2026",
           "resumen": null
         },
@@ -57214,13 +57187,6 @@
           "resumen": null
         },
         {
-          "id": "85a333353e75e642",
-          "titulo": "Palmarés de Liga de Campeones entre la edición 2026-2027",
-          "url": "https://larazon.bo/marcas/2026/09/07/palmares-de-liga-de-campeones-entre-la-edicion-2026-2027/",
-          "fecha": "septiembre 7, 2026",
-          "resumen": "El francés PSG buscará el tricampeonato, mientras que Real Madrid irá por su corona 16. Los equipos de España suman..."
-        },
-        {
           "id": "475f8c44926761a7",
           "titulo": "Liga a cuartos de Libertadores al vencer 5-4 a Mirassol por penales",
           "url": "https://larazon.bo/marcas/2026/08/20/liga-a-cuartos-de-libertadores-al-vencer-5-4-a-mirassol-por-penales/",
@@ -57232,6 +57198,27 @@
           "titulo": "Bolívar acumuló $us 4,44 millones en premios de la Conmebol",
           "url": "https://larazon.bo/marcas/2026/08/19/bolivar-acumulo-us-444-millones-en-premios-de-la-conmebol/",
           "fecha": "agosto 19, 2026",
+          "resumen": null
+        },
+        {
+          "id": "98e08b307c3bd2c0",
+          "titulo": "Dellien se queda con el subcampeonato del Challenger de Porto",
+          "url": "https://larazon.bo/marcas/2026/09/06/dellien-se-queda-con-el-subcampeonato-del-challenger-de-porto/",
+          "fecha": "septiembre 6, 2026",
+          "resumen": null
+        },
+        {
+          "id": "25b7b47bb17dbf0c",
+          "titulo": "The Strongest frente a Tomayapo, con la opción de seguir en zona alta",
+          "url": "https://larazon.bo/marcas/2026/09/06/the-strongest-frente-a-tomayapo-con-la-opcion-de-seguir-en-zona-alta/",
+          "fecha": "septiembre 6, 2026",
+          "resumen": null
+        },
+        {
+          "id": "3151ff62803645bb",
+          "titulo": "Con 2.000 partidos desde 1977, Bolívar visita a ‘Inde’ tras la punta",
+          "url": "https://larazon.bo/marcas/2026/09/06/con-2-000-partidos-desde-1977-bolivar-visita-a-inde-tras-la-punta/",
+          "fecha": "septiembre 6, 2026",
           "resumen": null
         }
       ],
@@ -57248,8 +57235,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-07T13:02:09-04:00",
-      "duracion_ms": 958,
+      "actualizado_en": "2026-09-08T11:49:24-04:00",
+      "duracion_ms": 500,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -57264,7 +57251,10 @@
               "Abogado de Cerimedo afirma que el fiscal general sabía de los vuelos irregulares en Beni"
             ],
             [
-              "Maestros de La Paz rechazan nueva ley educativa y anuncian movilización para el 15 de septiembre"
+              "Muere Miguel Urioste, el diputado que destapó los casos CAC-Fancesa y Bolibras"
+            ],
+            [
+              "Samuel sugiere profesionalizar al Ejército y que militares también sean “ingenieros, administradores, abogados y otros”"
             ],
             [
               "En sesión extraordinaria, Concejo declara situación de desastre municipal en Viacha"
@@ -57273,19 +57263,16 @@
               "Viacha declara tres días de duelo y suspende actividades por Día del Peatón"
             ],
             [
-              "Detonación en cuartel de Viacha: Reportan más de 50 personas heridas"
+              "Paz ve “preocupante” la intención de Lara con la patria"
             ],
             [
-              "Paz ve “preocupante” la intención de Lara con la patria"
+              "Detonación en cuartel de Viacha: Reportan más de 50 personas heridas"
             ],
             [
               "Paz advierte: Si no hay inversión en hidrocarburos, en dos o tres años Bolivia se queda sin luz ni energía"
             ],
             [
-              "Evo sobre presunto audio de Paz: “cómo el papá presidente nos va a tratar de cáncer”"
-            ],
-            [
-              "Hallan pólvora negra, boosters y material bélico en la zona afectada por las explosiones"
+              "Tuto: Rodrigo es la última gestión del MAS; Bolivia sigue con la misma Constitución y un Estado corrupto"
             ]
           ]
         }
@@ -57306,7 +57293,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-09-07T13:02:10-04:00",
+      "ultimo_intento_en": "2026-09-08T11:49:26-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
