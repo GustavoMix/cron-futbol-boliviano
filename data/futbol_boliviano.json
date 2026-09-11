@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-09-10T11:40:12-04:00",
+  "generado_en": "2026-09-11T11:42:07-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 161,
+    "noticias_extraidas": 160,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:29-04:00",
-      "duracion_ms": 565,
+      "actualizado_en": "2026-09-11T11:41:24-04:00",
+      "duracion_ms": 833,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:30-04:00",
-      "duracion_ms": 217,
+      "actualizado_en": "2026-09-11T11:41:25-04:00",
+      "duracion_ms": 330,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:32-04:00",
-      "duracion_ms": 283,
+      "actualizado_en": "2026-09-11T11:41:27-04:00",
+      "duracion_ms": 513,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:33-04:00",
-      "duracion_ms": 263,
+      "actualizado_en": "2026-09-11T11:41:28-04:00",
+      "duracion_ms": 360,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:35-04:00",
-      "duracion_ms": 224,
+      "actualizado_en": "2026-09-11T11:41:30-04:00",
+      "duracion_ms": 340,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:36-04:00",
-      "duracion_ms": 198,
+      "actualizado_en": "2026-09-11T11:41:32-04:00",
+      "duracion_ms": 321,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:37-04:00",
-      "duracion_ms": 198,
+      "actualizado_en": "2026-09-11T11:41:33-04:00",
+      "duracion_ms": 319,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:39-04:00",
-      "duracion_ms": 830,
+      "actualizado_en": "2026-09-11T11:41:35-04:00",
+      "duracion_ms": 986,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 10,
@@ -1470,8 +1470,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:43-04:00",
-      "duracion_ms": 1938,
+      "actualizado_en": "2026-09-11T11:41:38-04:00",
+      "duracion_ms": 1878,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1633,70 +1633,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19916 veces leida"
+          "resumen": "19919 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14719 veces leida"
+          "resumen": "14723 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11576 veces leida"
+          "resumen": "11579 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11335 veces leida"
+          "resumen": "11338 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10835 veces leida"
+          "resumen": "10837 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9246 veces leida"
+          "resumen": "9247 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8688 veces leida"
+          "resumen": "8689 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8587 veces leida"
+          "resumen": "8588 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8488 veces leida"
+          "resumen": "8489 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8466 veces leida"
+          "resumen": "8467 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1712,8 +1712,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:44-04:00",
-      "duracion_ms": 719,
+      "actualizado_en": "2026-09-11T11:41:40-04:00",
+      "duracion_ms": 693,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1763,41 +1763,34 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:46-04:00",
-      "duracion_ms": 455,
+      "actualizado_en": "2026-09-11T11:41:42-04:00",
+      "duracion_ms": 300,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 8,
+      "cantidad_noticias": 5,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "81ac18b16d54e1a6",
-          "titulo": "Â¡DespertÃ³ Blooming! Goleada y triplete de Byron GarcÃ©s ante GV San JosÃ©",
-          "url": "https://futbol.unitel.bo/division-profesional/desperto-blooming-goleada-y-triplete-de-byron-garces-ante-gv-san-jose-BL23396610",
-          "fecha": "09/09/2026 22:25",
+          "id": "378e85c2077395ce",
+          "titulo": "Flamengo vence 2-0 a Del Valle en ida por cuartos de final de Libertadores",
+          "url": "https://futbol.unitel.bo/copa-libertadores/flamengo-vence-2-0-a-del-valle-en-ida-por-cuartos-de-final-de-libertadores-EH23420370",
+          "fecha": "10/09/2026 22:38",
           "resumen": null
         },
         {
-          "id": "2ab1674a4748acf0",
-          "titulo": "The Strongest vence a FC Universitario en un partido marcado por dos penales fallados",
-          "url": "https://futbol.unitel.bo/division-profesional/the-strongest-vence-a-fc-universitario-en-un-partido-marcado-por-dos-penales-fallados-OL23394921",
-          "fecha": "09/09/2026 21:08",
+          "id": "370e02886ed3b125",
+          "titulo": "Copa PaceÃ±a: Real Tomayapo tumba a Always Ready en el IV Centenario",
+          "url": "https://futbol.unitel.bo/division-profesional/copa-pacena-real-tomayapo-tumba-a-always-ready-en-el-iv-centenario-GE23418871",
+          "fecha": "10/09/2026 21:03",
           "resumen": null
         },
         {
-          "id": "9839e221c1e6dcaf",
-          "titulo": "Santos saca ventaja liderado por Gabigol y con Neymar en la grada",
-          "url": "https://futbol.unitel.bo/copa-sudamericana/santos-saca-ventaja-liderado-por-gabigol-y-con-neymar-en-la-grada-HL23394399",
-          "fecha": "09/09/2026 20:12",
-          "resumen": null
-        },
-        {
-          "id": "3fd5f3d5e42f0214",
-          "titulo": "Conmebol sanciona a BolÃ­var y a Restrepo por retraso de un minuto en la Sudamericana",
-          "url": "https://futbol.unitel.bo/copa-sudamericana/conmebol-sanciona-a-bolivar-y-a-restrepo-por-retraso-de-un-minuto-en-la-sudamericana-KL23391803",
-          "fecha": "09/09/2026 19:11",
+          "id": "a35512e7bdcdf8a6",
+          "titulo": "IncÃ³gnita en la Verde: El panorama de Viscarra y Paniagua de cara a los amistosos",
+          "url": "https://futbol.unitel.bo/futbol/incognita-en-la-verde-el-panorama-de-viscarra-y-paniagua-de-cara-a-los-amistosos-CE23417401",
+          "fecha": "10/09/2026 18:57",
           "resumen": null
         },
         {
@@ -1808,24 +1801,10 @@
           "resumen": null
         },
         {
-          "id": "303560c67532bee5",
-          "titulo": "Brasil lanza un operativo contra futbolistas sospechosos de trÃ¡fico de drogas y armas",
-          "url": "https://futbol.unitel.bo/sucesos/brasil-lanza-un-operativo-contra-futbolistas-sospechosos-de-trafico-de-drogas-y-armas-NG23166821",
-          "fecha": "31/08/2026 08:59",
-          "resumen": null
-        },
-        {
-          "id": "d098729b1dc78908",
-          "titulo": "Triplete de Ferran Torres y festival de DembÃ©lÃ©: PSG golea en su debut en la Champions",
-          "url": "https://futbol.unitel.bo/champions-league/triplete-de-ferran-torres-y-festival-de-dembele-psg-golea-en-su-debut-en-la-champions-GK23389483",
-          "fecha": "09/09/2026 17:29",
-          "resumen": null
-        },
-        {
-          "id": "7a8515e22dfaf58c",
-          "titulo": "Ancelotti convoca ocho novatos para los primeros amistosos de Brasil tras el Mundial 2026",
-          "url": "https://futbol.unitel.bo/futbol/ancelotti-convoca-ocho-novatos-para-los-primeros-amistosos-de-brasil-tras-el-mundial-2026-PK23388016",
-          "fecha": "09/09/2026 17:06",
+          "id": "49ba2816826b74e9",
+          "titulo": "El Manchester United impone su jerarquÃ­a y golea al debutante Sabah en la Liga de Campeones",
+          "url": "https://futbol.unitel.bo/champions-league/el-manchester-united-impone-su-jerarquia-y-golea-al-debutante-sabah-en-la-liga-de-campeones-OE23414596",
+          "fecha": "10/09/2026 16:57",
           "resumen": null
         }
       ],
@@ -1842,11 +1821,11 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:48-04:00",
-      "duracion_ms": 858,
+      "actualizado_en": "2026-09-11T11:41:44-04:00",
+      "duracion_ms": 718,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 15,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
@@ -1873,6 +1852,13 @@
           "resumen": null
         },
         {
+          "id": "c127d056a9d14faf",
+          "titulo": "Bolívar rescata un empate ante Independiente en los minutos finales",
+          "url": "https://diez.bo/futbol/bolivar-rescata-un-empate-ante-independiente-en-los-minutos-finales_1789094458",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "888136bb5c70f847",
           "titulo": "Nahuel Roldán no viaja y Oriente pierde a una de sus cartas de gol",
           "url": "https://diez.bo/futbol/nahuel-roldan-no-viaja-y-oriente-pierde-a-una-de-sus-cartas-de-gol_1789052596",
@@ -1880,23 +1866,37 @@
           "resumen": null
         },
         {
-          "id": "bd6478475dd1cbb5",
-          "titulo": "Bolívar busca otro golpe ante Independiente y mantener el liderato",
-          "url": "https://diez.bo/futbol/bolivar-busca-otro-golpe-ante-independiente-y-mantener-el-liderato_1789044163",
+          "id": "36a7433d0f62dab0",
+          "titulo": "Arsenal se impone al Nápoles con un golazo de Ødegaard",
+          "url": "https://diez.bo/champions-league/arsenal-se-impone-al-napoles-con-un-golazo-de-degaard_1788989866",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "c8b8a805b62456fe",
-          "titulo": "Libertadores y Sudamericana cierran sus cuartos de final con dos partidos",
-          "url": "https://diez.bo/futbol/libertadores-y-sudamericana-cierran-sus-cuartos-de-final-con-dos-partidos_1789044517",
+          "id": "b14b9e8668cbb4f1",
+          "titulo": "Barcelona debuta con goleada 5-1 ante Feyenoord",
+          "url": "https://diez.bo/champions-league/barcelona-debuta-con-goleada-5-1-ante-feyenoord_1788980009",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "d405a97e941471b5",
-          "titulo": "Oriente, preso de sus errores y de una noche complicada en el Tahuichi, cae ante Always",
-          "url": "https://diez.bo/futbol/oriente-preso-de-sus-errores-y-de-una-noche-complicada-en-el-tahuichi-cae-ante-always_1788659165",
+          "id": "f8ba5af544934fa8",
+          "titulo": "Carlos ‘Tonino’ Melgar: “El fútbol siempre fue mi vida”",
+          "url": "https://diez.bo/futbol/carlos-tonino-melgar-el-futbol-siempre-fue-mi-vida_1788792970",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "67e699c1bdece04d",
+          "titulo": "Después de cuatro partidos, Miguelito volvió a sumar minutos en Santos",
+          "url": "https://diez.bo/futbol/despues-de-cuatro-partidos-miguelito-volvio-a-sumar-minutos-en-santos_1788791708",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "93d26a8015ccc88f",
+          "titulo": "“No hago nada chueco”: Villegas se defiende por el préstamo a Oriente",
+          "url": "https://diez.bo/futbol/no-hago-nada-chueco-villegas-se-defiende-por-el-prestamo-a-oriente_1788785764",
           "fecha": null,
           "resumen": null
         },
@@ -1908,9 +1908,9 @@
           "resumen": null
         },
         {
-          "id": "76807cee86896f9e",
-          "titulo": "Viviani habla sobre la incertidumbre en Wilstermann tras el fallo del TAS",
-          "url": "https://diez.bo/futbol/viviani-habla-sobre-la-incertidumbre-en-wilstermann-tras-el-fallo-del-tas_1766179879",
+          "id": "f6d1c8e5de8ac8b0",
+          "titulo": "Iver Valladares, frontal con el presente de Blooming",
+          "url": "https://diez.bo/futbol/iver-valladares-frontal-con-el-presente-de-blooming_1788793367",
           "fecha": null,
           "resumen": null
         },
@@ -1936,23 +1936,9 @@
           "resumen": null
         },
         {
-          "id": "cac5c545f2ce3094",
+          "id": "c5728f8dcce208af",
           "titulo": "Ferran Torres lidera la goleada del PSG en el inicio de su defensa europea",
-          "url": "https://diez.bo/futbol/ferran-torres-lidera-la-goleada-del-psg-en-el-inicio-de-su-defensa-europea_1788987883",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d8f8cdfee8398da2",
-          "titulo": "Barcelona debuta con goleada 5-1 ante Feyenoord",
-          "url": "https://diez.bo/futbol/barcelona-debuta-con-goleada-5-1-ante-feyenoord_1788980009",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b0b50e78814b9013",
-          "titulo": "Arsenal se impone al Nápoles con un golazo de Ødegaard",
-          "url": "https://diez.bo/futbol/arsenal-se-impone-al-napoles-con-un-golazo-de-degaard_1788989866",
+          "url": "https://diez.bo/champions-league/ferran-torres-lidera-la-goleada-del-psg-en-el-inicio-de-su-defensa-europea_1788987883",
           "fecha": null,
           "resumen": null
         }
@@ -1970,8 +1956,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:50-04:00",
-      "duracion_ms": 604,
+      "actualizado_en": "2026-09-11T11:41:45-04:00",
+      "duracion_ms": 625,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -2168,8 +2154,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:55-04:00",
-      "duracion_ms": 3647,
+      "actualizado_en": "2026-09-11T11:41:51-04:00",
+      "duracion_ms": 4083,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56302,11 +56288,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:57-04:00",
-      "duracion_ms": 1111,
+      "actualizado_en": "2026-09-11T11:41:53-04:00",
+      "duracion_ms": 870,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 0,
+      "cantidad_noticias": 1,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -56315,24 +56301,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 El precio del petróleo superó los $us 100 ante ataques entre EEUU e Irán en Ormuz Ver más",
-              "2 La “ciudad jardín” vivirá el Desfile de la Primavera Ver más"
+              "1 Odebo exige compromiso gubernamental para organizar los Juegos Bolivarianos 2029 Ver más",
+              "2 Posesionan al Alto Mando Policial; estos son los nuevos comandantes y directores Ver más"
             ],
             [
-              "3 Burger King Bolivia y Toei Animation presentan un menú por tiempo limitado de “Dragon Ball Super” Ver más",
-              "4 Diputados aprueba ley para restitución de derechos de militares y policías dados de baja en 2019 Ver más"
+              "3 iPhone 18 Pro vs. iPhone 18 Pro Max: en qué se diferencian los celulares de Apple Ver más",
+              "4 El acuerdo con el FMI establece eliminar las subvenciones a los combustibles en 2027 Ver más"
             ],
             [
-              "5 Estados Unidos impone nuevas sanciones a las aerolíneas iraníes Ver más",
-              "6 Atracan una joyería en un centro comercial de la avenida Pando, en Cochabamba Ver más"
+              "5 11S: El musical Come from away llega a Cochabamba Ver más",
+              "6 Nacimiento histórico en Beni: Una bebé de casi 7 kilos nace tras cesárea de emergencia Ver más"
             ],
             [
-              "7 Cerimedo estará en Chonchocoro en aislamiento y le suman otro delito Ver más",
-              "8 Revelan imágenes de la huida de los asaltantes de la joyería y el abandono del coche Ver más"
+              "7 Comisión de diputados aprueba resolución para ampliar tres meses más el estado de excepción Ver más",
+              "8 Comisión revela desvío de 22 millones de litros de combustible; hay 30 investigados Ver más"
             ],
             [
-              "9 Coca en Bolivia aumentó en 7% en 2025 y la Unodc alerta sobre mafias de la droga Ver más",
-              "10 Suspenden búsqueda de víctimas en Viacha por seguridad; familias en espera Ver más"
+              "9 La Cinemateca rendirá homenaje a Antonio Eguino, el maestro detrás de varias generaciones del cine boliviano Ver más",
+              "10 Segip supera la emisión de 6.500 cédulas en seis países y anuncia más brigadas móviles Ver más"
             ]
           ]
         },
@@ -56342,11 +56328,11 @@
           "columnas": [],
           "filas": [
             [
-              "09/09/2026 País Diputados aprueba ley para restitución de derechos de militares y policías dados de baja en 2019 Con más de dos tercios de votos, la Cámara de Diputados aprobó este miércoles, en sus estaciones en grande y en detalle, el Proyecto de Ley de Restablecimiento... vista",
-              "09/09/2026 País Fiscalía revela que los peritos hallan uno de los puntos de las explosiones y detectan material bélico El fiscal de La Paz, Luis Carlos Torrez, remarcó que las investigaciones están en curso, aunque deslizó tres hipótesis: “Una mala manipulación o en su caso... vista",
+              "11/09/2026 Economía Gobierno pacta con el FMI eliminar la subvención a los combustibles desde 2027 El Gobierno nacional acordó con el Fondo Monetario Internacional (FMI) eliminar totalmente la subvención a los combustibles a partir de 2027, reducir el... vista",
+              "11/09/2026 País Paz propone unidad en cuatro temas a Quiroga y Doria Medina El presidente Rodrigo Paz llamó nuevamente a Jorge Tuto Quiroga, Samuel Doria Medina y Manfred Reyes Villa a “ponerse de acuerdo” y trabajar en cuatro temas... vista",
               "",
-              "09/09/2026 Seguridad Investigan el secuestro de una mujer en Entre Ríos tras violento ingreso de sujetos armados a una vivienda La Fuerza Especial de Lucha Contra el Crimen (Felcc) investiga el secuestro de una mujer por un grupo de delincuentes encapuchados, quienes ingresaron a una... vista",
-              "09/09/2026 País Paz pide a la Fiscalía investigar un posible \"atentado\" en Viacha El presidente Rodrigo Paz pidió este miércoles a la Fiscalía investigar un posible atentado en Viacha, además de otras hipótesis sobre las explosiones... vista"
+              "11/09/2026 País Alcalde de Viacha analiza traslado de cuartel; demolerán al menos tres casas A una semana de las dos explosiones del cuartel “Bolívar”, que dejaron 14 soldados muertos y 80 heridos entre militares y civiles, además del daño a cientos de... vista",
+              "11/09/2026 Seguridad La Fiscalía cita a empresario Robin Jofré como testigo en caso Cerimedo El Ministerio Público citó al empresario Robin Jofré para que declare como testigo en proceso por enriquecimiento ilícito que sigue la Fiscalía contra... vista"
             ]
           ]
         },
@@ -56356,11 +56342,11 @@
           "columnas": [],
           "filas": [
             [
-              "Netflix dejará de funcionar en una amplia gama de celulares antiguos desde el 10 de septiembre de 2026. La medida... Ver más 08/09/2026 Tecnología Qué celulares Android y iPhone quedarán sin la aplicación de Netflix",
-              "El mercurio usado para la minería ilegal se ha extendido como una plaga a través de los ríos de la Amazonía. Al hacerlo... Ver más 07/09/2026 Medio Ambiente Oro tóxico: el mercurio de la minería amenaza a más de 160 comunidades de la cuenca del río Beni en Bolivia",
+              "Apple presentó el iPhone 18 Pro y el iPhone 18 Pro Max, los modelos que incorporan el sistema de cámara profesional más... Ver más 11/09/2026 Tecnología iPhone 18 Pro vs. iPhone 18 Pro Max: en qué se diferencian los celulares de Apple",
+              "Convertir una fotografía actual en un retrato con estética de los años 80 se convirtió en una de las tendencias más... Ver más 10/09/2026 Tecnología Claves para crear la foto más realista de cómo me vería en los años 80 con IA",
               "",
-              "En el departamento de Santa Cruz a 17 kilómetros al sudoeste de la capital cruceña se encuentra ubicado el municipio de... Ver más 07/09/2026 Interesante Devoción y cultura Santuario de la Purísima Concepción de Cotoca",
-              "Los invitamos a ver el capítulo 147 de Podcast Los Tiempos! En esta edición, nos acompaña Walter Gonzáles, periodista y... Ver más 06/09/2026 Interesante Walter Gonzáles, periodista, habla sobre Urkupiña, Quillacollo y sus retos como ciudad, en Podcast Los Tiempos"
+              "Netflix dejará de funcionar en una amplia gama de celulares antiguos desde el 10 de septiembre de 2026. La medida... Ver más 08/09/2026 Tecnología Qué celulares Android y iPhone quedarán sin la aplicación de Netflix",
+              "El mercurio usado para la minería ilegal se ha extendido como una plaga a través de los ríos de la Amazonía. Al hacerlo... Ver más 07/09/2026 Medio Ambiente Oro tóxico: el mercurio de la minería amenaza a más de 160 comunidades de la cuenca del río Beni en Bolivia"
             ]
           ]
         },
@@ -56370,17 +56356,25 @@
           "columnas": [],
           "filas": [
             [
-              "Los resultados de PISA 2025 mostraron un nuevo retroceso de varios países de América Latina frente al promedio de la... Ver más 09/09/2026 Cultura Pruebas PISA: países de América Latina profundizan su retroceso educativo",
-              "Celebrando la popularidad mundial de la franquicia de anime “Dragon Ball Super”, Burger King lanza un menú por tiempo... Ver más 09/09/2026 Sociales Burger King Bolivia y Toei Animation presentan un menú por tiempo limitado de “Dragon Ball Super”",
+              "Con la intención de superar el éxito que tuvieron en La Paz, los integrantes del colectivo artístico independiente... Ver más 11/09/2026 Cultura 11S: El musical Come from away llega a Cochabamba",
+              "Antonio Eguino lleva décadas detrás de las imágenes que cuentan parte de la historia de Bolivia. Ver más 10/09/2026 Cine La Cinemateca rendirá homenaje a Antonio Eguino, el maestro detrás de varias generaciones del cine boliviano",
               "",
-              "La película “La hija cóndor”, del cineasta cochabambino Álvaro Olmos Torrico, ha sido seleccionada para postular a la... Ver más 08/09/2026 Cine “La hija cóndor” competirá por representar al país en los premios Óscar y Goya de 2027",
-              "Los resultados de PISA 2025 mostraron un nuevo retroceso de varios países de América Latina frente al promedio de la... Ver más 08/09/2026 Vida Pruebas PISA: países de América Latina profundizan su retroceso educativo"
+              "Con la consigna “El teatro será la voz de la naturaleza” se llevará a cabo la cuarta edición del Festival Internacional... Ver más 10/09/2026 Cultura La cuarta versión de Festinco levanta telón hoy en Cochabamba",
+              "Los resultados de PISA 2025 mostraron un nuevo retroceso de varios países de América Latina frente al promedio de la... Ver más 09/09/2026 Cultura Pruebas PISA: países de América Latina profundizan su retroceso educativo"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [],
+      "noticias": [
+        {
+          "id": "3a1f7a7d2ba8d653",
+          "titulo": "Odebo exige compromiso gubernamental para organizar los Juegos Bolivarianos 2029",
+          "url": "https://www.lostiempos.com/deportes/multideportivo/20260911/odebo-exige-compromiso-gubernamental-organizar-juegos-bolivarianos",
+          "fecha": null,
+          "resumen": null
+        }
+      ],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -56394,8 +56388,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:39:59-04:00",
-      "duracion_ms": 458,
+      "actualizado_en": "2026-09-11T11:41:55-04:00",
+      "duracion_ms": 981,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -56536,8 +56530,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:40:00-04:00",
-      "duracion_ms": 474,
+      "actualizado_en": "2026-09-11T11:41:57-04:00",
+      "duracion_ms": 381,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56558,8 +56552,8 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:40:08-04:00",
-      "duracion_ms": 6645,
+      "actualizado_en": "2026-09-11T11:42:04-04:00",
+      "duracion_ms": 6071,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
       "cantidad_noticias": 15,
@@ -56567,7 +56561,7 @@
       "tablas": [
         {
           "indice": 1,
-          "nombre": "Platense vence en penales 7-6 a Coquimbo Unido y avanza a cuartos",
+          "nombre": "Palmeiras no falla y avanza a cuartos al vencer a Cerro Porteño",
           "columnas": [
             "columna_1"
           ],
@@ -57113,6 +57107,14 @@
       ],
       "secciones": [
         {
+          "titulo": "Gobierno cuestiona gasto de Bs 470 MM en bunker de YPFB que no dio resultados",
+          "contenido": "septiembre 11, 2026"
+        },
+        {
+          "titulo": "Gobierno cuestiona gasto de Bs 470 MM en bunker de YPFB que no dio resultados",
+          "contenido": "septiembre 11, 2026"
+        },
+        {
           "titulo": "Nacional Potosí supera a Blooming y escala en la tabla",
           "contenido": "septiembre 6, 2026"
         },
@@ -57123,31 +57125,38 @@
       ],
       "noticias": [
         {
-          "id": "7b613132e9c0063c",
-          "titulo": "Guerra en Oriente Medio sube el petróleo hasta 101 dólares",
-          "url": "https://larazon.bo/mundo/2026/09/09/guerra-en-oriente-medio-sube-el-petroleo-hasta-101-dolares/",
-          "fecha": "septiembre 9, 2026",
+          "id": "781c1711af485a28",
+          "titulo": "Guerra en Oriente Medio mantiene el petróleo sobre $us 100",
+          "url": "https://larazon.bo/mundo/2026/09/10/guerra-en-oriente-medio-mantiene-el-petroleo-sobre-us-100/",
+          "fecha": "septiembre 10, 2026",
           "resumen": null
         },
         {
-          "id": "6e9ce70f618cdc35",
-          "titulo": "Raphinha lidera el festival de goles del Barça ante al Feyenoord",
-          "url": "https://larazon.bo/marcas/2026/09/09/raphinha-lidera-el-festival-de-goles-del-barca-ante-al-feyenoord/",
-          "fecha": "septiembre 9, 2026",
+          "id": "26aa4a0fddbb5a47",
+          "titulo": "James Rodríguez y Juan Cuadrado regresan al fútbol de Colombia",
+          "url": "https://larazon.bo/marcas/2026/09/11/james-rodriguez-y-juan-cuadrado-regresan-al-futbol-de-colombia/",
+          "fecha": "septiembre 11, 2026",
           "resumen": null
         },
         {
-          "id": "752dbe8c8479bf87",
-          "titulo": "Medios argentinos apuntan a un amistoso entre Bolivia y Argentina",
-          "url": "https://larazon.bo/marcas/2026/09/09/medios-argentinos-apuntan-a-un-amistoso-entre-bolivia-y-argentina/",
-          "fecha": "septiembre 9, 2026",
+          "id": "634c04fd3a29c208",
+          "titulo": "Cienciano castiga a Torque en Cusco, sueña con semis de Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/09/11/cienciano-castiga-a-torque-en-cusco-suena-con-semis-de-sudamericana/",
+          "fecha": "septiembre 11, 2026",
           "resumen": null
         },
         {
-          "id": "8dab4fd072863a1c",
-          "titulo": "La Liga Evolución de Fútbol Playa comienza en Santa Cruz",
-          "url": "https://larazon.bo/marcas/2026/09/09/la-liga-evolucion-de-futbol-playa-comienza-en-santa-cruz/",
-          "fecha": "septiembre 9, 2026",
+          "id": "4a37f5b41c751e99",
+          "titulo": "Flamengo cerca a semifinales de una Libertadores que domina Brasil",
+          "url": "https://larazon.bo/marcas/2026/09/11/flamengo-cerca-a-semifinales-de-una-libertadores-que-domina-brasil/",
+          "fecha": "septiembre 11, 2026",
+          "resumen": null
+        },
+        {
+          "id": "3f69b96fdbf8ef07",
+          "titulo": "Bolívar iguala 1-1 ante ‘Inde’; Always pierde en Tarija",
+          "url": "https://larazon.bo/marcas/2026/09/10/bolivar-iguala-1-1-ante-inde-always-pierde-en-tarija/",
+          "fecha": "septiembre 10, 2026",
           "resumen": null
         },
         {
@@ -57193,17 +57202,17 @@
           "resumen": null
         },
         {
-          "id": "a47c279dde0e7d6a",
-          "titulo": "The Strongest-Real Tomayapo se jugará desde las 18.00 el domingo 6",
-          "url": "https://larazon.bo/lr-article/2026/09/02/the-strongest-real-tomayapo-se-jugara-desde-las-18-00-el-domingo-6/",
-          "fecha": "septiembre 2, 2026",
+          "id": "752dbe8c8479bf87",
+          "titulo": "Medios argentinos apuntan a un amistoso entre Bolivia y Argentina",
+          "url": "https://larazon.bo/marcas/2026/09/09/medios-argentinos-apuntan-a-un-amistoso-entre-bolivia-y-argentina/",
+          "fecha": "septiembre 9, 2026",
           "resumen": null
         },
         {
-          "id": "b4c3a08ad7873453",
-          "titulo": "Viene el Torneo Interno de ajedrez en el Colegio Franco Boliviano",
-          "url": "https://larazon.bo/marcas/2026/09/08/viene-el-torneo-interno-de-ajedrez-en-el-colegio-franco-boliviano/",
-          "fecha": "septiembre 8, 2026",
+          "id": "8dab4fd072863a1c",
+          "titulo": "La Liga Evolución de Fútbol Playa comienza en Santa Cruz",
+          "url": "https://larazon.bo/marcas/2026/09/09/la-liga-evolucion-de-futbol-playa-comienza-en-santa-cruz/",
+          "fecha": "septiembre 9, 2026",
           "resumen": null
         },
         {
@@ -57218,13 +57227,6 @@
           "titulo": "Liga a cuartos de Libertadores al vencer 5-4 a Mirassol por penales",
           "url": "https://larazon.bo/marcas/2026/08/20/liga-a-cuartos-de-libertadores-al-vencer-5-4-a-mirassol-por-penales/",
           "fecha": "agosto 20, 2026",
-          "resumen": null
-        },
-        {
-          "id": "150748de93078ea7",
-          "titulo": "Cuiza aparece en la adición y marca su primer gol con el Kryvbas",
-          "url": "https://larazon.bo/marcas/2026/09/08/cuiza-aparece-en-la-adicion-y-marca-su-primer-gol-con-el-kryvbas/",
-          "fecha": "septiembre 8, 2026",
           "resumen": null
         }
       ],
@@ -57241,8 +57243,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-10T11:40:11-04:00",
-      "duracion_ms": 1484,
+      "actualizado_en": "2026-09-11T11:42:06-04:00",
+      "duracion_ms": 785,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -57257,10 +57259,13 @@
               "Lara denuncia insubordinación de un coronel y Justiniano respalda al militar"
             ],
             [
-              "Abogado de Cerimedo afirma que el fiscal general sabía de los vuelos irregulares en Beni"
+              "Muere Miguel Urioste, el diputado que destapó los casos CAC-Fancesa y Bolibras"
             ],
             [
-              "Muere Miguel Urioste, el diputado que destapó los casos CAC-Fancesa y Bolibras"
+              "Fuerzas Armadas pide respeto a la institución tras episodio con Lara"
+            ],
+            [
+              "“Órdenes mal dadas no se cumplen”: Comandante del Ejército responde a impase con Lara"
             ],
             [
               "Soldado herido en Viacha cuenta qué ocurrió entre las explosiones: “nos han dicho que vayan a traer agua para apagar el fuego”"
@@ -57269,16 +57274,13 @@
               "Albarracín pide a la Defensoría reclamar cumplimiento de acuerdo ante la CIDH por objeción de conciencia"
             ],
             [
-              "“Órdenes mal dadas no se cumplen”: Comandante del Ejército responde a impase con Lara"
-            ],
-            [
-              "Samuel sugiere profesionalizar al Ejército y que militares también sean “ingenieros, administradores, abogados y otros”"
-            ],
-            [
-              "Fuerzas Armadas pide respeto a la institución tras episodio con Lara"
+              "Lara defiende su actitud en el altercado con el militar y rechaza calificativo de “dictatorial”"
             ],
             [
               "“Que me perdone por no haberle hecho caso”: Cerimedo a Rodrigo Paz durante su traslado a Chonchocoro"
+            ],
+            [
+              "Ministro de Economía prevé el cierre de ocho a 10 empresas públicas en el corto plazo"
             ]
           ]
         }
@@ -57299,7 +57301,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-09-10T11:40:12-04:00",
+      "ultimo_intento_en": "2026-09-11T11:42:07-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
