@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-09-14T13:25:41-04:00",
+  "generado_en": "2026-09-15T12:02:57-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 168,
+    "noticias_extraidas": 167,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:32-04:00",
-      "duracion_ms": 1992,
+      "actualizado_en": "2026-09-15T12:02:15-04:00",
+      "duracion_ms": 490,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -262,6 +262,13 @@
       ],
       "noticias": [
         {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "13ecefdfea8eb21f",
           "titulo": "¡CHILE GANADOR DE LA CONMEBOL LIGA EVOLUCIÓN FÚTBOL PLAYA ZONA SUR!",
           "url": "https://fbf.com.bo/chile-ganador-de-la-conmebol-liga-evolucion-futbol-playa-zona-sur/",
@@ -286,13 +293,6 @@
           "id": "eaccf80cde1fa815",
           "titulo": "FBF Y CONMEBOL FORTALECEN LA FORMACIÓN DEL FÚTBOL FEMENINO CON EL CURSO DE FÚTBOL BASE EN COCHABAMBA",
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
           "fecha": null,
           "resumen": null
         }
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:39-04:00",
-      "duracion_ms": 5743,
+      "actualizado_en": "2026-09-15T12:02:16-04:00",
+      "duracion_ms": 162,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -325,6 +325,13 @@
           "url": "https://fbf.com.bo/noticias",
           "fecha": null,
           "resumen": "¡Este campeonato se transmitirá por televisión nacional! Mantente atento para ver la batalla inolvidable de los campeones."
+        },
+        {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "13ecefdfea8eb21f",
@@ -353,13 +360,6 @@
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:42-04:00",
-      "duracion_ms": 1738,
+      "actualizado_en": "2026-09-15T12:02:18-04:00",
+      "duracion_ms": 197,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -788,6 +788,13 @@
           "resumen": "Desde cada rincón del país, llegan los sueños, el talento y la entrega de los jóvenes que hoy escriben el futuro del fútbol nacional. Esto es la Liga Nacional Sub-19, la cuna de las próximas estrellas, donde la pasión se vive con la misma intensidad."
         },
         {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "13ecefdfea8eb21f",
           "titulo": "¡CHILE GANADOR DE LA CONMEBOL LIGA EVOLUCIÓN FÚTBOL PLAYA ZONA SUR!",
           "url": "https://fbf.com.bo/chile-ganador-de-la-conmebol-liga-evolucion-futbol-playa-zona-sur/",
@@ -814,13 +821,6 @@
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:45-04:00",
-      "duracion_ms": 1736,
+      "actualizado_en": "2026-09-15T12:02:19-04:00",
+      "duracion_ms": 182,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1157,6 +1157,13 @@
           "resumen": null
         },
         {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "13ecefdfea8eb21f",
           "titulo": "¡CHILE GANADOR DE LA CONMEBOL LIGA EVOLUCIÓN FÚTBOL PLAYA ZONA SUR!",
           "url": "https://fbf.com.bo/chile-ganador-de-la-conmebol-liga-evolucion-futbol-playa-zona-sur/",
@@ -1183,13 +1190,6 @@
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:48-04:00",
-      "duracion_ms": 1768,
+      "actualizado_en": "2026-09-15T12:02:21-04:00",
+      "duracion_ms": 169,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:55-04:00",
-      "duracion_ms": 5712,
+      "actualizado_en": "2026-09-15T12:02:22-04:00",
+      "duracion_ms": 155,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1261,6 +1261,13 @@
           "titulo": "Selección Absoluta",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1288,13 +1295,6 @@
           "id": "eaccf80cde1fa815",
           "titulo": "FBF Y CONMEBOL FORTALECEN LA FORMACIÓN DEL FÚTBOL FEMENINO CON EL CURSO DE FÚTBOL BASE EN COCHABAMBA",
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
           "fecha": null,
           "resumen": null
         }
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:24:58-04:00",
-      "duracion_ms": 1552,
+      "actualizado_en": "2026-09-15T12:02:23-04:00",
+      "duracion_ms": 155,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1326,6 +1326,13 @@
           "titulo": "SELECCIÓN FEMENINA",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "c8b0ed890d244aba",
+          "titulo": "¡COMIENZA EL XVI TORNEO NACIONAL DE SELECCIONES SUB-12 MASCULINO DE FUTSAL!",
+          "url": "https://fbf.com.bo/comienza-el-xvi-torneo-nacional-de-selecciones-sub-12-masculino-de-futsal/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1355,13 +1362,6 @@
           "url": "https://fbf.com.bo/fbf-y-conmebol-fortalecen-la-formacion-del-futbol-femenino-con-el-curso-de-futbol-base-en-cochabamba/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "b028c62eff0fec98",
-          "titulo": "LA FBF SIGUE TRABAJANDO EN FAVOR DEL DEPORTE BOLIVIANO",
-          "url": "https://fbf.com.bo/la-fbf-sigue-trabajando-en-favor-del-deporte-boliviano/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:00-04:00",
-      "duracion_ms": 773,
+      "actualizado_en": "2026-09-15T12:02:25-04:00",
+      "duracion_ms": 718,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 11,
@@ -1390,7 +1390,7 @@
           "id": "13ecefdfea8eb21f",
           "titulo": "¡CHILE GANADOR DE LA CONMEBOL LIGA EVOLUCIÓN FÚTBOL PLAYA ZONA SUR!",
           "url": "https://fbf.com.bo/chile-ganador-de-la-conmebol-liga-evolucion-futbol-playa-zona-sur/",
-          "fecha": "5 minutos ago",
+          "fecha": "23 horas ago",
           "resumen": "Read More"
         },
         {
@@ -1477,8 +1477,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:03-04:00",
-      "duracion_ms": 1747,
+      "actualizado_en": "2026-09-15T12:02:28-04:00",
+      "duracion_ms": 1701,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1640,14 +1640,14 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19925 veces leida"
+          "resumen": "19926 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14727 veces leida"
+          "resumen": "14729 veces leida"
         },
         {
           "id": "240be845353bb24c",
@@ -1661,28 +1661,28 @@
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11345 veces leida"
+          "resumen": "11346 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10843 veces leida"
+          "resumen": "10845 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9250 veces leida"
+          "resumen": "9251 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8696 veces leida"
+          "resumen": "8698 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
@@ -1696,7 +1696,7 @@
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8493 veces leida"
+          "resumen": "8494 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
@@ -1719,8 +1719,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:05-04:00",
-      "duracion_ms": 801,
+      "actualizado_en": "2026-09-15T12:02:31-04:00",
+      "duracion_ms": 1688,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1770,20 +1770,20 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:06-04:00",
-      "duracion_ms": 433,
+      "actualizado_en": "2026-09-15T12:02:33-04:00",
+      "duracion_ms": 439,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 4,
+      "cantidad_noticias": 2,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "3a040b24be5c97f3",
-          "titulo": "GuabirÃ¡ denuncia que amenazaron de muerte a guardameta Ferrel para que se deje hacer tres goles",
-          "url": "https://futbol.unitel.bo/division-profesional/guabira-denuncia-que-amenazaron-de-muerte-a-guardameta-ferrel-para-que-se-deje-hacer-tres-goles-NC23470058",
-          "fecha": "13/09/2026 18:52",
+          "id": "42a129647cb37c77",
+          "titulo": "FÃºtbol boliviano: Ãrbitros centrales y jueces VAR darÃ¡n conferencias de prensa despuÃ©s de cada partido",
+          "url": "https://futbol.unitel.bo/division-profesional/futbol-boliviano-arbitros-centrales-y-jueces-var-daran-conferencias-de-prensa-despues-de-cada-partido-FM23497310",
+          "fecha": "14/09/2026 21:45",
           "resumen": null
         },
         {
@@ -1791,20 +1791,6 @@
           "titulo": "Â¡Orgullo total! Relataba el partido y viviÃ³ el momento mÃ¡s emocionante al ver entrar a su hijo a la cancha",
           "url": "https://futbol.unitel.bo/sucesos/orgullo-total-relataba-el-partido-y-vivio-el-momento-mas-emocionante-al-ver-entrar-a-su-hijo-a-la-cancha-IH23246817",
           "fecha": "03/09/2026 14:57",
-          "resumen": null
-        },
-        {
-          "id": "29943de2123b1df9",
-          "titulo": "Always Ready condena amenazas contra el arquero de GuabirÃ¡ y pide intervenciÃ³n de la FiscalÃ­a",
-          "url": "https://futbol.unitel.bo/division-profesional/always-ready-condena-amenazas-contra-el-arquero-de-guabira-y-pide-intervencion-de-la-fiscalia-AC23471540",
-          "fecha": "13/09/2026 19:47",
-          "resumen": null
-        },
-        {
-          "id": "90a433997b2a655f",
-          "titulo": "Con triplete de Triverio, Always Ready firma una goleada contundente ante GuabirÃ¡",
-          "url": "https://futbol.unitel.bo/division-profesional/con-triplete-de-triverio-always-ready-firma-una-goleada-contundente-ante-guabira-GD23466404",
-          "fecha": "13/09/2026 15:09",
           "resumen": null
         }
       ],
@@ -1821,63 +1807,77 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:09-04:00",
-      "duracion_ms": 1025,
+      "actualizado_en": "2026-09-15T12:02:34-04:00",
+      "duracion_ms": 628,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 20,
+      "cantidad_noticias": 22,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "e12eeaa40091be7b",
-          "titulo": "Amenazas, miedo y desconcierto: Égüez cuenta lo que vivió Guabirá en El Alto",
-          "url": "https://diez.bo/futbol/amenazas-miedo-y-desconcierto-eguez-cuenta-lo-que-vivio-guabira-en-el-alto_1789403114",
+          "id": "5ebe08b4a3b42d09",
+          "titulo": "Rafael Paz aclara que Ferrel no fue apartado de Guabirá, se alejó por decisión propia",
+          "url": "https://diez.bo/futbol/rafael-paz-aclara-que-ferrel-no-fue-apartado-de-guabira-se-alejo-por-decision-propia_1789477621",
           "fecha": null,
-          "resumen": "El entrenador de Guabirá contó este lunes a DIEZ lo sucedido el domingo en El Alto. Según su relato, el arquero Manuel Ferrel fue amenazado con atentar contra su esposa y su madre, además de recibir la exigencia de dejarse marcar tres goles o pagar una determinada suma de dinero."
+          "resumen": "Rafael Paz aseguró que ningún dirigente le pidió al arquero que dejara de entrenar y que su alejamiento fue una decisión personal. El presidente de Guabirá también ratificó a Leonardo Eguez como DT pese a los resultados."
         },
         {
-          "id": "1688a958b3f677f5",
-          "titulo": "Oriente tiene dos desafíos esta semana y espera recuperar a Roldán",
-          "url": "https://diez.bo/oriente-petrolero/oriente-tiene-dos-desafios-esta-semana-y-espera-recuperar-a-roldan_1789389582",
+          "id": "a6d86cebe3848dbc",
+          "titulo": "Oriente prepara su visita a Tomayapo con tres bajas confirmadas",
+          "url": "https://diez.bo/oriente-petrolero/oriente-prepara-su-visita-a-tomayapo-con-tres-bajas-confirmadas_1789484176",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "91b6c952e688acb3",
-          "titulo": "Danny Bejarano cuenta los días para volver con Blooming",
-          "url": "https://diez.bo/futbol/danny-bejarano-cuenta-los-dias-para-volver-con-blooming_1789396982",
+          "id": "c5e39ab1901301b0",
+          "titulo": "Abisab destaca el despertar goleador de Blooming",
+          "url": "https://diez.bo/futbol/abisab-destaca-el-despertar-goleador-de-blooming_1789476566",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "21581b5dea341449",
-          "titulo": "FBF y Fiscalía investigarán el Always Ready - Guabirá",
-          "url": "https://diez.bo/futbol/fbf-y-fiscalia-investigaran-el-always-ready-guabira_1789389118",
+          "id": "b87b3884a57a2231",
+          "titulo": "La fecha 20 de la Liga se pone en marcha con dos partidos este martes",
+          "url": "https://diez.bo/futbol/la-fecha-20-de-la-liga-se-pone-en-marcha-con-dos-partidos-este-martes_1789476108",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "e7d5ec537e96e65b",
-          "titulo": "Blooming toma aire y apunta a su tercera victoria al hilo",
-          "url": "https://diez.bo/blooming/blooming-toma-aire-y-apunta-a-su-tercera-victoria-al-hilo_1789389356",
+          "id": "6afa1b04c5b39828",
+          "titulo": "Enzo Monteiro pone fin a su etapa en el fútbol de Corea del Sur",
+          "url": "https://diez.bo/futbol/enzo-monteiro-pone-fin-a-su-etapa-en-el-futbol-de-corea-del-sur_1789485171",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "a2b98d67aed33c97",
-          "titulo": "Destroyers cumple 78 años de historia y tradición en el fútbol boliviano",
-          "url": "https://diez.bo/futbol/destroyers-cumple-78-anos-de-historia-y-tradicion-en-el-futbol-boliviano_1789393891",
+          "id": "b2172d615e73df25",
+          "titulo": "La Libertadores y la Sudamericana conocerán a sus primeros semifinalistas",
+          "url": "https://diez.bo/futbol/la-libertadores-y-la-sudamericana-conoceran-a-sus-primeros-semifinalistas_1789476316",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "3d6afeac1e312a15",
-          "titulo": "Manchester City resiste con diez y silencia a Old Trafford",
-          "url": "https://diez.bo/futbol/manchester-city-resiste-con-diez-y-silencia-a-old-trafford_1789323921",
+          "id": "42a9be84003bbfd2",
+          "titulo": "Real Oruro jugará a puertas cerradas por insultos racistas contra su propio jugador",
+          "url": "https://diez.bo/futbol/real-oruro-jugara-a-puertas-cerradas-por-insultos-racistas-contra-su-propio-jugador_1789483838",
           "fecha": null,
-          "resumen": "El equipo de Enzo Maresca resistió casi una hora con diez jugadores, encontró el gol en los pies de Erling Haaland y aseguró una victoria de gran valor en Old Trafford para sumar 12 puntos de 12 posibles."
+          "resumen": null
+        },
+        {
+          "id": "1c194d47163f394f",
+          "titulo": "Árbitros deberán explicar sus decisiones en conferencia de prensa tras cada partido",
+          "url": "https://diez.bo/futbol/arbitros-deberan-explicar-sus-decisiones-en-conferencia-de-prensa-tras-cada-partido_1789431388",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "d6865772b397724b",
+          "titulo": "Rafael Paz rompe el silencio tras las denuncias que sacuden a Guabirá",
+          "url": "https://diez.bo/futbol/rafael-paz-rompe-el-silencio-tras-las-denuncias-que-sacuden-a-guabira_1789428681",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "c5728f8dcce208af",
@@ -1901,72 +1901,72 @@
           "resumen": null
         },
         {
-          "id": "c0d4a1211ade0caa",
-          "titulo": "Oriente está completo y emprende viaje para visitar a Real Potosí",
-          "url": "https://diez.bo/oriente-petrolero/oriente-esta-completo-y-emprende-viaje-para-visitar-a-real-potosi_1789047874",
+          "id": "a5f3b61474ee0616",
+          "titulo": "Aurora gana a Real Potosí en un partido con incidentes en el final",
+          "url": "https://diez.bo/futbol/aurora-gana-a-real-potosi-en-un-partido-con-incidentes-en-el-final_1788913221",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "0bbf93550db83d4f",
-          "titulo": "Platiní se planta en Blooming: “El camba es corajudo, macho y no arruga”",
-          "url": "https://diez.bo/blooming/platini-se-planta-en-blooming-el-camba-es-corajudo-macho-y-no-arruga_1789046622",
+          "id": "ce2792cf58a9ce16",
+          "titulo": "Costa, sobre las amenazas al arquero de Guabirá: “Que caigan los que tengan que caer”",
+          "url": "https://diez.bo/futbol/costa-sobre-las-amenazas-al-arquero-de-guabira-que-caigan-los-que-tengan-que-caer_1789422406",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "42b06094c413efaf",
-          "titulo": "San Juan FC gana en casa y Ciudad Nueva Santa Cruz empata en la Simón Bolívar",
-          "url": "https://diez.bo/futbol/san-juan-fc-gana-en-casa-y-ciudad-nueva-santa-cruz-empata-en-la-simon-bolivar_1789393653",
+          "id": "d50ab21304d1fc13",
+          "titulo": "Colombia y Chile jugarán un amistoso en Cali y donarán ganancias a los afectados por sismo",
+          "url": "https://diez.bo/futbol/colombia-y-chile-jugaran-un-amistoso-en-cali-y-donaran-ganancias-a-los-afectados-por-sismo_1789479024",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "9280effe86d739a3",
-          "titulo": "Guabirá denuncia amenazas de muerte contra Ferrel y su familia",
-          "url": "https://diez.bo/futbol/guabira-denuncia-amenazas-de-muerte-contra-ferrel-y-su-familia_1789342060",
+          "id": "aeee0d6db626d11e",
+          "titulo": "La Casa de la Verde se va haciendo realidad",
+          "url": "https://diez.bo/futbol/la-casa-de-la-verde-se-va-haciendo-realidad_1789419363",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "0ffdf84ec414630d",
-          "titulo": "Guabirá se desmorona y cae goleado 6-0 ante Always Ready",
-          "url": "https://diez.bo/futbol/guabira-se-desmorona-y-cae-goleado-6-0-ante-always-ready_1789333952",
+          "id": "e12eeaa40091be7b",
+          "titulo": "Amenazas, miedo y desconcierto: Égüez cuenta lo que vivió Guabirá en El Alto",
+          "url": "https://diez.bo/futbol/amenazas-miedo-y-desconcierto-eguez-cuenta-lo-que-vivio-guabira-en-el-alto_1789403114",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "37fb73a62e891943",
-          "titulo": "Seis goles y mucha emoción en el partidazo de leyendas entre Bolivia y Brasil",
-          "url": "https://diez.bo/futbol/seis-goles-y-mucha-emocion-en-el-partidazo-de-leyendas-entre-bolivia-y-brasil_1789340641",
+          "id": "21581b5dea341449",
+          "titulo": "FBF y Fiscalía investigarán el Always Ready - Guabirá",
+          "url": "https://diez.bo/futbol/fbf-y-fiscalia-investigaran-el-always-ready-guabira_1789389118",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "cd3a09a3b29f4df7",
-          "titulo": "Con un golazo ‘salvador’ de Asprilla, Bolívar se ratifica como puntero",
-          "url": "https://diez.bo/futbol/con-un-golazo-salvador-de-asprilla-bolivar-se-ratifica-como-puntero_1789351880",
+          "id": "b0acaf8a90d909c6",
+          "titulo": "El fútbol boliviano, en el foco internacional por el caso Guabirá",
+          "url": "https://diez.bo/guabira/el-futbol-boliviano-en-el-foco-internacional-por-el-caso-guabira_1789409925",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "70536a3bf3e66f19",
-          "titulo": "FC Universitario se impone 3-1 a Independiente Petrolero",
-          "url": "https://diez.bo/futbol/fc-universitario-se-impone-3-1-a-independiente-petrolero_1789342656",
+          "id": "1688a958b3f677f5",
+          "titulo": "Oriente tiene dos desafíos esta semana y espera recuperar a Roldán",
+          "url": "https://diez.bo/oriente-petrolero/oriente-tiene-dos-desafios-esta-semana-y-espera-recuperar-a-roldan_1789389582",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "daf3e605a7b74a1d",
-          "titulo": "Barcelona golea al Levante y mantiene su arranque perfecto",
-          "url": "https://diez.bo/futbol/barcelona-golea-al-levante-y-mantiene-su-arranque-perfecto_1789324232",
+          "id": "91b6c952e688acb3",
+          "titulo": "Danny Bejarano cuenta los días para volver con Blooming",
+          "url": "https://diez.bo/futbol/danny-bejarano-cuenta-los-dias-para-volver-con-blooming_1789396982",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "4e82392cfaafe81f",
-          "titulo": "Blooming recupera la confianza y Sánchez apunta a seguir sumando",
-          "url": "https://diez.bo/futbol/blooming-recupera-la-confianza-y-sanchez-apunta-a-seguir-sumando_1789307811",
+          "id": "c68f2117bc15925a",
+          "titulo": "Cuando dejan el fútbol, falta dinero",
+          "url": "https://diez.bo/futbol/cuando-dejan-el-futbol-falta-dinero_1789432346",
           "fecha": null,
           "resumen": null
         }
@@ -1984,8 +1984,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:10-04:00",
-      "duracion_ms": 602,
+      "actualizado_en": "2026-09-15T12:02:36-04:00",
+      "duracion_ms": 525,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -2182,8 +2182,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:16-04:00",
-      "duracion_ms": 4329,
+      "actualizado_en": "2026-09-15T12:02:41-04:00",
+      "duracion_ms": 3656,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56696,11 +56696,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:18-04:00",
-      "duracion_ms": 1093,
+      "actualizado_en": "2026-09-15T12:02:43-04:00",
+      "duracion_ms": 785,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 2,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -56710,23 +56710,23 @@
           "filas": [
             [
               "1 Agetic rastreará a 300 usuarios por desvío de combustible en YPFB Ver más",
-              "2 Hallan sin vida a niña boliviana entre los escombros del edificio que cayó en Brasil Ver más"
+              "2 Comunicado Grupo Nacional Vida Ver más"
             ],
             [
-              "3 Fórmula 1: Antonelli gana y refuerza su liderato en Madring Ver más",
-              "4 Bolivia y Brasil igualan 3-3 en el Tahuichi Aguilera por el duelo de leyendas del fútbol Ver más"
+              "3 Homenaje a 216 años de libertad y valentía Ver más",
+              "4 Justiniano anuncia la militarización de San Ignacio ante la ola del crimen organizado Ver más"
             ],
             [
-              "5 Se registró un sismo de 3,2 grados en Cochabamba Ver más",
-              "6 Zverev contiene a Shelton, conquista el US Open y encuentra su momento Ver más"
+              "5 Cochabamba 216 años, Augusto Guzmán Ver más",
+              "6 Ortega impone en Nicaragua el periodo presidencial más largo del hemisferio Ver más"
             ],
             [
-              "7 Cochabamba inicia los actos por su 216 aniversario con desfiles y prepara serenata Ver más",
-              "8 María Magdalena, protagonista de \"La hija cóndor\", en Podcast Los Tiempos Ver más"
+              "7 Cochabamba 216 años: Jaime Veizaga Zanabria Ver más",
+              "8 Ex y actuales funcionarios están en la mira del Fiscal por sucesos en Viacha Ver más"
             ],
             [
-              "9 Congreso de Transporte Libre rechaza la ampliación del Estado de Excepción Ver más",
-              "10 Universitario de Vinto se impone a Independiente y abandona el último lugar Ver más"
+              "9 Cochabamba 216 años: Vivian Sánchez Ver más",
+              "10 Cochabamba celebra 216 años con civismo, llamado a la unidad y mirando al futuro Ver más"
             ]
           ]
         },
@@ -56736,11 +56736,11 @@
           "columnas": [],
           "filas": [
             [
-              "14/09/2026 País Hallan a Shaira, la sexta víctima del edificio colapsado Equipos de rescate hallaron ayer sin vida a Shaira, la niña boliviana de siete años, quien se convirtió en la sexta víctima mortal del colapso de un edificio... vista",
-              "13/09/2026 Cochabamba El Concejo Municipal rinde homenaje a Cochabamba en su Sesión de Honor por los 216 años de libertad En el marco de los actos por los 216 años de la Gesta Libertaria de Cochabamba, el Concejo Municipal realizó la Sesión de Honor en homenaje a las heroínas y... vista",
+              "15/09/2026 País Ex y actuales funcionarios están en la mira del Fiscal por sucesos en Viacha Todas las ex y actuales autoridades que tuvieron a su cargo el cuartel de Viacha y que no tuvieron el cuidado de prevenir los hechos del 4 de septiembre,... vista",
+              "15/09/2026 Cochabamba Cochabamba celebra 216 años con civismo, llamado a la unidad y mirando al futuro El departamento conmemoró ayer, 14 de septiembre, los 216 años de la gesta libertaria de 1810 con una jornada marcada por actos cívicos, ceremonias religiosas... vista",
               "",
-              "13/09/2026 Seguridad Una turba embosca y apedrea un bus con 35 pasajeros en plena carretera en Uyuni Este domingo, un bus con 35 pasajeros fue emboscado y apedreado por una turba de personas cuando se encontraba en una carretera en el municipio de Uyuni,... vista",
-              "13/09/2026 Cochabamba Cochabamba inicia los actos por su 216 aniversario con desfiles y prepara serenata El Gobierno Autónomo Municipal de Cochabamba inició los actos protocolares para conmemorar sus 216 años, recordando el grito libertario de 1810. vista"
+              "15/09/2026 Cochabamba Cochabamba de fiesta y Los Tiempos también celebra junto a sus lectores En homenaje a los 216 años de Cochabamba y en el marco de su mes aniversario, Los Tiempos preparó un especial dedicado a la historia, identidad y riqueza del... vista",
+              "15/09/2026 Multideportivo Oro que inspira, Maya Quinteros llena de orgullo a Bolivia Entre vendajes, entrenamientos contrarreloj y sueños grandes, Maya Quinteros hizo lo impensado, pues ganó la medalla de oro para Bolivia en el Campeonato... vista"
             ]
           ]
         },
@@ -56754,7 +56754,7 @@
               "Convertir una fotografía actual en un retrato con estética de los años 80 se convirtió en una de las tendencias más... Ver más 10/09/2026 Tecnología Claves para crear la foto más realista de cómo me vería en los años 80 con IA",
               "",
               "Netflix dejará de funcionar en una amplia gama de celulares antiguos desde el 10 de septiembre de 2026. La medida... Ver más 08/09/2026 Tecnología Qué celulares Android y iPhone quedarán sin la aplicación de Netflix",
-              "El mercurio usado para la minería ilegal se ha extendido como una plaga a través de los ríos de la Amazonía. Al hacerlo... Ver más 07/09/2026 Medio Ambiente Oro tóxico: el mercurio de la minería amenaza a más de 160 comunidades de la cuenca del río Beni en Bolivia"
+              ""
             ]
           ]
         },
@@ -56764,32 +56764,17 @@
           "columnas": [],
           "filas": [
             [
+              "El Gobiern o de Israel toma rá represalias contra los autores del documental Naza, que ganó el Premio Especial del... Ver más 15/09/2026 Cine Israel amenaza a autores de cinta premiada que devela el genocidio",
               "En nuestro capítulo 148, tenemos el gran honor de recibir en el estudio a la talentosa actriz María Magdalena, quien... Ver más 13/09/2026 Vida María Magdalena, protagonista de \"La hija cóndor\", en Podcast Los Tiempos",
-              "El Concejo Municipal de Cochabamba declaró como Hijo Predilecto a Constantino Klaric, un distinguido ciudadano cuya... Ver más 13/09/2026 Vida El Concejo distingue a Constantino Klaric, incansable referente de la aviación boliviana",
               "",
-              "El sábado 19 de septiembre (19:00) el Auditorio del Piso 15 del Edificio Municipal de Cochabamba albergará el estreno... Ver más 13/09/2026 Cultura Enrique Aráoz: “Alturas sonoras” es una propuesta de gala y solemne",
-              "Con la intención de superar el éxito que tuvieron en La Paz, los integrantes del colectivo artístico independiente... Ver más 11/09/2026 Cultura 11S: El musical Come from away llega a Cochabamba"
+              "El Concejo Municipal de Cochabamba declaró como Hijo Predilecto a Constantino Klaric, un distinguido ciudadano cuya... Ver más 13/09/2026 Vida El Concejo distingue a Constantino Klaric, incansable referente de la aviación boliviana",
+              "El sábado 19 de septiembre (19:00) el Auditorio del Piso 15 del Edificio Municipal de Cochabamba albergará el estreno... Ver más 13/09/2026 Cultura Enrique Aráoz: “Alturas sonoras” es una propuesta de gala y solemne"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "a58905979521fbaa",
-          "titulo": "Bolivia y Brasil igualan 3-3 en el Tahuichi Aguilera por el duelo de leyendas del fútbol",
-          "url": "https://www.lostiempos.com/deportes/futbol/20260913/bolivia-brasil-igualan-3-3-tahuichi-aguilera-duelo-leyendas-del-futbol",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "cb359d75e126d204",
-          "titulo": "Universitario de Vinto se impone a Independiente y abandona el último lugar",
-          "url": "https://www.lostiempos.com/deportes/futbol/20260913/universitario-vinto-se-impone-independiente-abandona-ultimo-lugar",
-          "fecha": null,
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -56803,8 +56788,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:20-04:00",
-      "duracion_ms": 872,
+      "actualizado_en": "2026-09-15T12:02:45-04:00",
+      "duracion_ms": 718,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -56945,8 +56930,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:22-04:00",
-      "duracion_ms": 307,
+      "actualizado_en": "2026-09-15T12:02:46-04:00",
+      "duracion_ms": 339,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56967,11 +56952,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:37-04:00",
-      "duracion_ms": 13788,
+      "actualizado_en": "2026-09-15T12:02:53-04:00",
+      "duracion_ms": 5524,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 18,
+      "cantidad_noticias": 19,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -56981,6 +56966,18 @@
             "columna_1"
           ],
           "filas": [
+            {
+              "columna_1": "septiembre 16, 2026 6:30 pm N/D Nacional Potosí vs Always Ready"
+            },
+            {
+              "columna_1": "septiembre 16, 2026 3:00 pm N/D Guabirá vs Aurora"
+            },
+            {
+              "columna_1": "septiembre 15, 2026 3:00 pm N/D CDT Real Oruro vs Real Potosí"
+            },
+            {
+              "columna_1": "septiembre 15, 2026 11:55 am N/D A. B. B. vs The Strongest"
+            },
             {
               "columna_1": "septiembre 13, 2026 1 - 2 N/D Real Tomayapo vs Bolívar"
             },
@@ -57111,13 +57108,13 @@
               "columna_1": "agosto 9, 2026 2 - 3 N/D GV San José vs Always Ready"
             },
             {
-              "columna_1": "agosto 8, 2026 7:30 pm N/D Aurora vs Bolívar"
+              "columna_1": "agosto 8, 2026 2 - 4 N/D Aurora vs Bolívar"
             },
             {
-              "columna_1": "agosto 8, 2026 5:15 pm N/D The Strongest vs Independiente"
+              "columna_1": "agosto 8, 2026 1 - 2 N/D The Strongest vs Independiente"
             },
             {
-              "columna_1": "agosto 8, 2026 3:00 pm N/D San Antonio vs Nacional Potosí"
+              "columna_1": "agosto 8, 2026 2 - 1 N/D San Antonio vs Nacional Potosí"
             },
             {
               "columna_1": "agosto 7, 2026 1 - 2 N/D Real Tomayapo vs CDT Real Oruro"
@@ -57126,7 +57123,7 @@
               "columna_1": "agosto 7, 2026 0 - 1 N/D A. B. B. vs Guabirá"
             },
             {
-              "columna_1": "agosto 7, 2026 3:33 pm N/D A. B. B. vs Guabirá"
+              "columna_1": "agosto 7, 2026 0 - 1 N/D A. B. B. vs Guabirá"
             },
             {
               "columna_1": "agosto 6, 2026 0 - 0 N/D Blooming vs Always Ready"
@@ -57418,18 +57415,6 @@
             },
             {
               "columna_1": "abril 5, 2026 1 - 2 N/D FC Universitario vs The Strongest"
-            },
-            {
-              "columna_1": "abril 5, 2026 1 - 2 N/D GV San José vs A. B. B."
-            },
-            {
-              "columna_1": "abril 4, 2026 2 - 0 N/D San Antonio vs Oriente Petrolero"
-            },
-            {
-              "columna_1": "abril 4, 2026 0 - 0 N/D Real Potosí vs Aurora"
-            },
-            {
-              "columna_1": "abril 4, 2026 4 - 0 N/D Always Ready vs Real Tomayapo"
             }
           ]
         },
@@ -57446,30 +57431,30 @@
           "filas": [
             {
               "Pos": "1",
-              "Equipo": "Always Ready",
+              "Equipo": "Bolívar",
               "PJ": "19",
               "DG": "30",
               "Pts": "42"
             },
             {
               "Pos": "2",
-              "Equipo": "Bolívar",
-              "PJ": "18",
-              "DG": "28",
-              "Pts": "39"
+              "Equipo": "Always Ready",
+              "PJ": "19",
+              "DG": "30",
+              "Pts": "42"
             },
             {
               "Pos": "3",
               "Equipo": "The Strongest",
-              "PJ": "18",
-              "DG": "17",
+              "PJ": "19",
+              "DG": "16",
               "Pts": "39"
             },
             {
               "Pos": "4",
               "Equipo": "Aurora",
-              "PJ": "18",
-              "DG": "8",
+              "PJ": "19",
+              "DG": "6",
               "Pts": "30"
             },
             {
@@ -57481,38 +57466,38 @@
             },
             {
               "Pos": "6",
+              "Equipo": "Guabirá",
+              "PJ": "20",
+              "DG": "-8",
+              "Pts": "29"
+            },
+            {
+              "Pos": "7",
               "Equipo": "Oriente Petrolero",
               "PJ": "19",
               "DG": "7",
               "Pts": "27"
             },
             {
-              "Pos": "7",
+              "Pos": "8",
               "Equipo": "Nacional Potosí",
-              "PJ": "18",
-              "DG": "7",
+              "PJ": "19",
+              "DG": "6",
               "Pts": "27"
             },
             {
-              "Pos": "8",
+              "Pos": "9",
               "Equipo": "Blooming",
               "PJ": "19",
               "DG": "8",
               "Pts": "26"
             },
             {
-              "Pos": "9",
-              "Equipo": "Guabirá",
-              "PJ": "19",
-              "DG": "-9",
-              "Pts": "26"
-            },
-            {
               "Pos": "10",
               "Equipo": "Independiente",
-              "PJ": "18",
-              "DG": "-7",
-              "Pts": "22"
+              "PJ": "19",
+              "DG": "-6",
+              "Pts": "25"
             },
             {
               "Pos": "11",
@@ -57524,8 +57509,8 @@
             {
               "Pos": "12",
               "Equipo": "A. B. B.",
-              "PJ": "18",
-              "DG": "-12",
+              "PJ": "19",
+              "DG": "-13",
               "Pts": "20"
             },
             {
@@ -57552,9 +57537,9 @@
             {
               "Pos": "16",
               "Equipo": "San Antonio",
-              "PJ": "17",
-              "DG": "-23",
-              "Pts": "11"
+              "PJ": "18",
+              "DG": "-22",
+              "Pts": "14"
             }
           ]
         }
@@ -57571,16 +57556,9 @@
       ],
       "noticias": [
         {
-          "id": "097df564040d2cf8",
-          "titulo": "Postergan la reunión de Irán y países del Golfo sobre Ormuz",
-          "url": "https://larazon.bo/mundo/2026/09/13/oman-anuncia-postergacion-de-reunion-de-iran-y-paises-del-golfo/",
-          "fecha": "septiembre 13, 2026",
-          "resumen": null
-        },
-        {
-          "id": "2b50b30d4cafa5db",
-          "titulo": "Viacha: Concluye retiro de escombros en el Regimiento Bolívar",
-          "url": "https://larazon.bo/ciudades/2026/09/14/viacha-concluye-retiro-de-escombros-en-el-regimiento-bolivar/",
+          "id": "0206027ac3870ac6",
+          "titulo": "El petróleo sube ante las tensiones en Oriente Medio",
+          "url": "https://larazon.bo/mundo/2026/09/14/el-petroleo-sube-ante-las-tensiones-en-oriente-medio/",
           "fecha": "septiembre 14, 2026",
           "resumen": null
         },
@@ -57695,6 +57673,20 @@
           "url": "https://larazon.bo/marcas/2026/08/20/liga-a-cuartos-de-libertadores-al-vencer-5-4-a-mirassol-por-penales/",
           "fecha": "agosto 20, 2026",
           "resumen": null
+        },
+        {
+          "id": "26aa4a0fddbb5a47",
+          "titulo": "James Rodríguez y Juan Cuadrado regresan al fútbol de Colombia",
+          "url": "https://larazon.bo/marcas/2026/09/11/james-rodriguez-y-juan-cuadrado-regresan-al-futbol-de-colombia/",
+          "fecha": "septiembre 11, 2026",
+          "resumen": null
+        },
+        {
+          "id": "634c04fd3a29c208",
+          "titulo": "Cienciano castiga a Torque en Cusco, sueña con semis de Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/09/11/cienciano-castiga-a-torque-en-cusco-suena-con-semis-de-sudamericana/",
+          "fecha": "septiembre 11, 2026",
+          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -57710,8 +57702,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-09-14T13:25:39-04:00",
-      "duracion_ms": 1118,
+      "actualizado_en": "2026-09-15T12:02:55-04:00",
+      "duracion_ms": 678,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -57723,6 +57715,9 @@
           "columnas": [],
           "filas": [
             [
+              "Dockweiler propone hacer el túnel hacia el aeropuerto con inversión privada y que se pague peaje"
+            ],
+            [
               "Jefe de bancada de Libre reconoce que no estaba en sus “cabales”, pide disculpas pero descarta renunciar"
             ],
             [
@@ -57732,22 +57727,19 @@
               "Del Castillo habla de reconciliar el bloque popular: “Evo, Lucho, David, Andrónico, quien sea”"
             ],
             [
-              "Andrónico a Evo: Tus informantes te mienten, por eso estás como estás"
-            ],
-            [
-              "Paz: Santa Cruz pasó de ser tierra de oportunidades para los bolivianos a proyectar a Bolivia al mundo"
+              "Intervienen área protegida ante movimientos irregulares para preservar zona de Bolognia"
             ],
             [
               "Vicepresidente Lara dispuesto a someterse a un revocatorio para irse del gobierno junto a Rodrigo Paz"
             ],
             [
-              "Luis Arce amplió su declaración por caso Fondo Indígena y pedirá cesar su detención"
+              "Lara advierte que no sesionará sobre reforma constitucional en tanto siga el estado de excepción"
             ],
             [
-              "Intervienen área protegida ante movimientos irregulares para preservar zona de Bolognia"
+              "Lara estuvo con Loza y Rodrigo con Manfred, en sesiones de honor paralelas por Cochabamba"
             ],
             [
-              "Guardaparques piden dejar sin efecto instructivo para poner a disposición sus cargos"
+              "Cisterneros advierten que la inflación “será difícil de aguantar” si quitan la subvención a los combustibles"
             ]
           ]
         }
@@ -57768,7 +57760,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-09-14T13:25:41-04:00",
+      "ultimo_intento_en": "2026-09-15T12:02:57-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
