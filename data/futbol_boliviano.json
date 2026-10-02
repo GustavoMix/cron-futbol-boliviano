@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-10-01T13:51:59-04:00",
+  "generado_en": "2026-10-02T13:14:59-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
     "tablas_extraidas": 22,
-    "noticias_extraidas": 161,
+    "noticias_extraidas": 168,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:07-04:00",
-      "duracion_ms": 691,
+      "actualizado_en": "2026-10-02T13:14:16-04:00",
+      "duracion_ms": 636,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:09-04:00",
-      "duracion_ms": 443,
+      "actualizado_en": "2026-10-02T13:14:18-04:00",
+      "duracion_ms": 282,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:11-04:00",
-      "duracion_ms": 369,
+      "actualizado_en": "2026-10-02T13:14:19-04:00",
+      "duracion_ms": 325,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:12-04:00",
-      "duracion_ms": 347,
+      "actualizado_en": "2026-10-02T13:14:21-04:00",
+      "duracion_ms": 310,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:14-04:00",
-      "duracion_ms": 320,
+      "actualizado_en": "2026-10-02T13:14:22-04:00",
+      "duracion_ms": 300,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:15-04:00",
-      "duracion_ms": 301,
+      "actualizado_en": "2026-10-02T13:14:24-04:00",
+      "duracion_ms": 275,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 5,
@@ -1305,8 +1305,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:17-04:00",
-      "duracion_ms": 323,
+      "actualizado_en": "2026-10-02T13:14:25-04:00",
+      "duracion_ms": 281,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1370,8 +1370,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:26-04:00",
-      "duracion_ms": 8629,
+      "actualizado_en": "2026-10-02T13:14:28-04:00",
+      "duracion_ms": 1498,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1477,8 +1477,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:29-04:00",
-      "duracion_ms": 1159,
+      "actualizado_en": "2026-10-02T13:14:31-04:00",
+      "duracion_ms": 1566,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1640,70 +1640,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19970 veces leida"
+          "resumen": "19972 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14774 veces leida"
+          "resumen": "14779 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11629 veces leida"
+          "resumen": "11631 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11387 veces leida"
+          "resumen": "11388 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10891 veces leida"
+          "resumen": "10892 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9305 veces leida"
+          "resumen": "9306 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8741 veces leida"
+          "resumen": "8742 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8635 veces leida"
+          "resumen": "8638 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8538 veces leida"
+          "resumen": "8539 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8515 veces leida"
+          "resumen": "8520 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1719,8 +1719,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:31-04:00",
-      "duracion_ms": 745,
+      "actualizado_en": "2026-10-02T13:14:32-04:00",
+      "duracion_ms": 621,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1770,55 +1770,48 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:32-04:00",
-      "duracion_ms": 460,
+      "actualizado_en": "2026-10-02T13:14:34-04:00",
+      "duracion_ms": 437,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 6,
+      "cantidad_noticias": 5,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "122838e27fe8d028",
-          "titulo": "Copa PaceÃ±a: Blooming se juega la vida para seguir soÃ±ando con los cuartos de final",
-          "url": "https://futbol.unitel.bo/division-profesional/copa-pacena-blooming-se-juega-la-vida-para-seguir-sonando-con-los-cuartos-de-final-EN23845023",
-          "fecha": "Hace 1 hora",
+          "id": "862e46e229b8b002",
+          "titulo": "Tras cancelarse el amistoso ante Gambia la FBF inicia este viernes el reembolso de boletos; esto debes hacer",
+          "url": "https://futbol.unitel.bo/futbol/tras-cancelarse-el-amistoso-ante-gambia-la-fbf-inicia-este-viernes-el-reembolso-de-boletos-esto-debes-hacer-DP23868469",
+          "fecha": "Hace 1 minuto",
           "resumen": null
         },
         {
-          "id": "b445aa89ab775da1",
-          "titulo": "Incidentes y denuncias de racismo al concluir el encuentro entre Oriente Petrolero y The Strongest",
-          "url": "https://futbol.unitel.bo/division-profesional/incidentes-y-denuncias-de-racismo-al-concluir-el-encuentro-entre-oriente-petrolero-y-the-strongest-BN23841347",
-          "fecha": "Hace 3 horas",
+          "id": "ecf46870426d18ae",
+          "titulo": "Oficial: El partido amistoso entre la selecciÃ³n boliviana y Gambia queda cancelado",
+          "url": "https://futbol.unitel.bo/futbol/oficial-el-partido-amistoso-entre-la-seleccion-boliviana-y-gambia-queda-cancelado-IM23855638",
+          "fecha": "01/10/2026 18:07",
           "resumen": null
         },
         {
-          "id": "0f27c9ba9fe25a0d",
-          "titulo": "La Verde deja atrÃ¡s la goleada sufrida ante Argentina y se prepara para el duelo frente a Gambia en el Tahuichi",
-          "url": "https://futbol.unitel.bo/futbol/la-verde-deja-atras-la-goleada-sufrida-ante-argentina-y-se-prepara-para-el-duelo-frente-a-gambia-en-el-tahuichi-EK23839195",
-          "fecha": "Hace 4 horas",
+          "id": "4040e804f173245f",
+          "titulo": "Blooming pierde ante Independiente y queda eliminado de la Copa PaceÃ±a",
+          "url": "https://futbol.unitel.bo/division-profesional/blooming-pierde-ante-independiente-y-queda-eliminado-de-la-copa-pacena-NP23860386",
+          "fecha": "01/10/2026 23:06",
           "resumen": null
         },
         {
-          "id": "83bc53cb52d4d8f7",
-          "titulo": "Argentina se pasea ante Bolivia con una victoria por goleada en CÃ³rdoba",
-          "url": "https://futbol.unitel.bo/futbol/argentina-se-pasea-ante-bolivia-con-una-victoria-por-goleada-en-cordoba-HL23826670",
-          "fecha": "30/09/2026 21:54",
+          "id": "2fdba8bec45ce43d",
+          "titulo": "FBF pedirÃ¡ sanciones âdrÃ¡sticasâ para Gambia por cancelaciÃ³n de amistoso",
+          "url": "https://futbol.unitel.bo/futbol/fbf-pedira-sanciones-drasticas-para-gambia-por-cancelacion-de-amistoso-CM23859092",
+          "fecha": "01/10/2026 20:51",
           "resumen": null
         },
         {
-          "id": "a102382158d0ab7d",
-          "titulo": "Video: Futbolista provoca dos expulsiones por su cabellera larga",
-          "url": "https://futbol.unitel.bo/sucesos/video-futbolista-provoca-dos-expulsiones-por-su-cabellera-larga-AA23767531",
-          "fecha": "28/09/2026 09:43",
-          "resumen": null
-        },
-        {
-          "id": "739044183966dd9d",
-          "titulo": "Oriente y el Tigre empatan 1-1 en el Tahuichi y quedan bien parados en la Copa PaceÃ±a",
-          "url": "https://futbol.unitel.bo/division-profesional/oriente-y-el-tigre-empatan-1-1-en-el-tahuichi-y-quedan-bien-parados-en-la-copa-pacena-MK23832349",
-          "fecha": "30/09/2026 23:26",
+          "id": "08f2d3425446a97c",
+          "titulo": "Â¿Se cancela el partido amistoso entre Bolivia y Gambia? Esto es lo que se sabe",
+          "url": "https://futbol.unitel.bo/futbol/se-cancela-el-partido-amistoso-entre-bolivia-y-gambia-esto-es-lo-que-se-sabe-OM23852950",
+          "fecha": "01/10/2026 16:26",
           "resumen": null
         }
       ],
@@ -1835,54 +1828,75 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:34-04:00",
-      "duracion_ms": 508,
+      "actualizado_en": "2026-10-02T13:14:36-04:00",
+      "duracion_ms": 552,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 16,
+      "cantidad_noticias": 21,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "6068c4d2124d21ff",
-          "titulo": "La Verde vuelve a Santa Cruz para cerrar su fecha de amistosos",
-          "url": "https://diez.bo/futbol/la-verde-vuelve-a-santa-cruz-para-cerrar-su-fecha-de-amistosos_1790861490",
+          "id": "16163612b26dca3c",
+          "titulo": "La Verde se desconcentrará y la dirigencia evaluará el desempeño",
+          "url": "https://diez.bo/futbol/la-verde-se-desconcentrara-y-la-dirigencia-evaluara-el-desempeno_1790947379",
           "fecha": null,
-          "resumen": "La selección boliviana llegará este jueves a Santa Cruz, donde continuará con su preparación.La Verde enfrentará a Gambia este domingo, desde las 18:30, en el estadio Tahuichi Aguilera."
+          "resumen": "Tras la cancelación del amistoso ante Gambia, la selección boliviana quedará liberada y los jugadores retornarán a sus clubes. La dirigencia de la FBF realizará una evaluación del rendimiento del equipo y del trabajo de Óscar Villegas después de las derrotas ante Paraguay y Argentina."
         },
         {
-          "id": "379e0a6cbf618931",
-          "titulo": "Blooming se juega una carta clave ante Independiente Petrolero",
-          "url": "https://diez.bo/futbol/blooming-se-juega-una-carta-clave-ante-independiente-petrolero_1790858763",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "c840a4ac64051c61",
-          "titulo": "Incidentes tras el 1-1 entre Oriente y The Strongest terminan en acusaciones de racismo",
-          "url": "https://diez.bo/futbol/incidentes-tras-el-1-1-entre-oriente-y-the-strongest-terminan-en-acusaciones-de-racismo_1790863228",
+          "id": "4d50d09accdc96e3",
+          "titulo": "Oriente visitará a Guabirá con el gabinete médico lleno",
+          "url": "https://diez.bo/oriente-petrolero/oriente-visitara-a-guabira-con-el-gabinete-medico-lleno_1790944646",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "69e7d6b1a3fcf88c",
-          "titulo": "Florentín analiza el 1-1 ante The Strongest: “Nos faltó un poco de acierto”",
-          "url": "https://diez.bo/futbol/florentin-analiza-el-1-1-ante-the-strongest-nos-falto-un-poco-de-acierto_1790860498",
+          "id": "2e85abc4fc7c725e",
+          "titulo": "Paulucci apunta a la Liga para salvar los objetivos de Blooming",
+          "url": "https://diez.bo/blooming/paulucci-apunta-a-la-liga-para-salvar-los-objetivos-de-blooming_1790944470",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "3e155785071ecf4c",
-          "titulo": "Bolivia sigue sin encontrarse y cae goleada ante Argentina",
-          "url": "https://diez.bo/futbol/bolivia-sigue-sin-encontrarse-y-cae-goleada-ante-argentina_1790820479",
+          "id": "a052f0adda79672d",
+          "titulo": "Marcha atrás: Guabirá-Oriente se jugará a las 17:15",
+          "url": "https://diez.bo/futbol/marcha-atras-guabira-oriente-se-jugara-a-las-17-15_1790954672",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "747067f421368356",
-          "titulo": "Oriente y The Strongest no se sacan ventaja en el Tahuichi",
-          "url": "https://diez.bo/futbol/oriente-y-the-strongest-no-se-sacan-ventaja-en-el-tahuichi_1790824182",
+          "id": "eb443df9520a908b",
+          "titulo": "Guabirá confirma hinchada visitante y refuerza la seguridad ante Oriente",
+          "url": "https://diez.bo/futbol/guabira-confirma-hinchada-visitante-y-refuerza-la-seguridad-ante-oriente_1790944838",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "197179aae1f39cc4",
+          "titulo": "“Una falta clarísima”: Almada cuestiona el gol de Álvarez",
+          "url": "https://diez.bo/blooming/una-falta-clarisima-almada-cuestiona-el-gol-de-alvarez_1790944295",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "fe63489678e341e7",
+          "titulo": "Aurora busca sellar su clasificación a cuartos de la Copa Bolivia",
+          "url": "https://diez.bo/futbol/aurora-busca-sellar-su-clasificacion-a-cuartos-de-la-copa-bolivia_1790945818",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "736cf5b1569568c8",
+          "titulo": "FBF anuncia que solicitará sanciones económicas y deportivas drásticas contra Gambia",
+          "url": "https://diez.bo/futbol/fbf-anuncia-que-solicitara-sanciones-economicas-y-deportivas-drasticas-contra-gambia_1790893499",
+          "fecha": null,
+          "resumen": "La cancelación del amistoso programado para el domingo 4 de octubre fue unilateral, según el comunicado de la matriz del fútbol. El Tribunal del Fútbol de la FIFA atiende estas controversias."
+        },
+        {
+          "id": "0f1e70b7b496c2ab",
+          "titulo": "Gambia cancela el amistoso ante Bolivia que debía jugarse este domingo",
+          "url": "https://diez.bo/futbol/gambia-cancela-el-amistoso-ante-bolivia-que-debia-jugarse-este-domingo_1790891268",
           "fecha": null,
           "resumen": null
         },
@@ -1894,23 +1908,9 @@
           "resumen": null
         },
         {
-          "id": "5d58737e3d879914",
-          "titulo": "Atención Bolivia: Gambia llega envalentonada al Tahuichi",
-          "url": "https://diez.bo/futbol/atencion-bolivia-gambia-llega-envalentonada-al-tahuichi_1790777485",
-          "fecha": null,
-          "resumen": "La selección africana será rival de la Verde este domingo, desde las 18:30, en el estadio Ramón Tahuichi Aguilera. Gambia llega con dos victorias consecutivas en los clasificatorios a la Copa Africana de Naciones y buscará prolongar su buen momento ante Bolivia."
-        },
-        {
-          "id": "10605440c9100f7e",
-          "titulo": "Una década después, la Verde se reencuentra con el Kempes",
-          "url": "https://diez.bo/futbol/una-decada-despues-la-verde-se-reencuentra-con-el-kempes_1790775279",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "8718301654b60c4b",
-          "titulo": "Selección: El partido del miércoles ante Argentina será desde las 20.00 (hora de Bolivia)",
-          "url": "https://diez.bo/futbol/seleccion-el-partido-del-miercoles-ante-argentina-sera-desde-las-20-00-hora-de-bolivia_1790608640",
+          "id": "3e155785071ecf4c",
+          "titulo": "Bolivia sigue sin encontrarse y cae goleada ante Argentina",
+          "url": "https://diez.bo/futbol/bolivia-sigue-sin-encontrarse-y-cae-goleada-ante-argentina_1790820479",
           "fecha": null,
           "resumen": null
         },
@@ -1922,9 +1922,9 @@
           "resumen": null
         },
         {
-          "id": "0c4c6e68c560cee0",
-          "titulo": "Portugal supera a Noruega en un partido marcado por los errores",
-          "url": "https://diez.bo/futbol/portugal-supera-a-noruega-en-un-partido-marcado-por-los-errores_1790543100",
+          "id": "bd2b5aa0d1fca92f",
+          "titulo": "Carlos Aragonés se va de Blooming con decepción",
+          "url": "https://diez.bo/futbol/carlos-aragones-se-va-de-blooming-con-decepcion_1790627690",
           "fecha": null,
           "resumen": null
         },
@@ -1936,23 +1936,51 @@
           "resumen": null
         },
         {
-          "id": "7c00be410fc2559f",
-          "titulo": "Gery Vargas volverá a dirigir en la División Profesional después de dos meses",
-          "url": "https://diez.bo/futbol/gery-vargas-volvera-a-dirigir-en-la-division-profesional-despues-de-dos-meses_1790731190",
+          "id": "bdca887470a6b6c5",
+          "titulo": "Recuperación y viaje: la agenda de la Verde antes de enfrentar a Argentina",
+          "url": "https://diez.bo/futbol/recuperacion-y-viaje-la-agenda-de-la-verde-antes-de-enfrentar-a-argentina_1790600355",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "efd742c77eb57af5",
-          "titulo": "Sin lesionados: Blooming prepara un duelo decisivo",
-          "url": "https://diez.bo/blooming/sin-lesionados-blooming-prepara-un-duelo-decisivo_1790772950",
+          "id": "996390dd9c13aaf2",
+          "titulo": "Jugadores de Gambia pidieron cancelar el amistoso ante Bolivia por el largo viaje",
+          "url": "https://diez.bo/futbol/jugadores-de-gambia-pidieron-cancelar-el-amistoso-ante-bolivia-por-el-largo-viaje_1790893863",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "19e6436a6f432362",
-          "titulo": "Always Ready rescata un empate sobre el final ante Real Oruro",
-          "url": "https://diez.bo/futbol/always-ready-rescata-un-empate-sobre-el-final-ante-real-oruro_1790803831",
+          "id": "2f704e7012ccdb37",
+          "titulo": "Blooming pierde ante Independiente y queda eliminado de la Copa Bolivia",
+          "url": "https://diez.bo/futbol/blooming-pierde-ante-independiente-y-queda-eliminado-de-la-copa-bolivia_1790908779",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "c1c20c143d9bb7c4",
+          "titulo": "Bolívar sufre más de la cuenta para vencer a GV San José en el Siles",
+          "url": "https://diez.bo/futbol/bolivar-sufre-mas-de-la-cuenta-para-vencer-a-gv-san-jose-en-el-siles_1790901847",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "ae2a76bd031fc01f",
+          "titulo": "Venezuela saca un valioso empate sin goles ante Corea del Sur",
+          "url": "https://diez.bo/futbol/venezuela-saca-un-valioso-empate-sin-goles-ante-corea-del-sur_1790950839",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "2c92fe9dc45246d8",
+          "titulo": "The Strongest anuncia demandas ante la Conmebol y la justicia ordinaria tras incidentes con Oriente",
+          "url": "https://diez.bo/futbol/the-strongest-anuncia-demandas-ante-la-conmebol-y-la-justicia-ordinaria-tras-incidentes-con-oriente_1790886477",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "c840a4ac64051c61",
+          "titulo": "Incidentes tras el 1-1 entre Oriente y The Strongest terminan en acusaciones de racismo",
+          "url": "https://diez.bo/futbol/incidentes-tras-el-1-1-entre-oriente-y-the-strongest-terminan-en-acusaciones-de-racismo_1790863228",
           "fecha": null,
           "resumen": null
         }
@@ -1970,8 +1998,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:36-04:00",
-      "duracion_ms": 385,
+      "actualizado_en": "2026-10-02T13:14:38-04:00",
+      "duracion_ms": 506,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 24,
@@ -2161,8 +2189,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:41-04:00",
-      "duracion_ms": 4431,
+      "actualizado_en": "2026-10-02T13:14:43-04:00",
+      "duracion_ms": 4636,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -56751,8 +56779,8 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:43-04:00",
-      "duracion_ms": 634,
+      "actualizado_en": "2026-10-02T13:14:45-04:00",
+      "duracion_ms": 529,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
       "cantidad_noticias": 0,
@@ -56764,24 +56792,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Trasladan a la Felcn de El Alto al fiscal general Roger Mariaca y al fiscal de Santa Cruz Ver más",
-              "2 Agetic rastreará a 300 usuarios por desvío de combustible en YPFB Ver más"
+              "1 Agetic rastreará a 300 usuarios por desvío de combustible en YPFB Ver más",
+              "2 TSJ señala que Mariaca y otros aprehendidos deben pasar a disposición de un juez Ver más"
             ],
             [
-              "3 Paz promulga la Ley de Prediarios Ver más",
-              "4 \"Mariaca es mi amigo\": Difunden video de Marset tras aprehensión del fiscal general Ver más"
+              "3 Administración Trump apoya firmemente al Gobierno del presidente Paz ante medidas contra el narcotráfico Ver más",
+              "4 Fiscal Irusta tiene audiencia por acción de libertad Ver más"
             ],
             [
-              "5 Paz y los gobernadores se reúnen este miércoles para avanzar en el 50/50 Ver más",
-              "6 La OPS elige a Bolivia para su Comité Ejecutivo Ver más"
+              "5 Gobierno no reconoce a Luis Montaño como fiscal general, la nueva autoridad debe ser elegida por la Asamblea Legislativa Ver más",
+              "6 Sismo de magnitud 3,4 sacude la provincia Chapare, en Cochabamba Ver más"
             ],
             [
-              "7 Policía halla fajos de billetes en una ambulancia que salió del condominio en el que vive Mariaca Ver más",
-              "8 Cochabamba exige recursos y 570 ítems ante riesgo de afectar servicios de salud Ver más"
+              "7 Tuto cuestiona planteamiento de designar fiscal general por decreto: \"Es receta de Evo Morales\" Ver más",
+              "8 Brasil: los indecisos pueden inclinar la balanza en unas elecciones muy polarizadas Ver más"
             ],
             [
-              "9 Denuncian robos simultáneos de celulares en el transporte público de Cochabamba Ver más",
-              "10 Vicepresidente Lara sugiere la intervención de la DEA en la captura de Mariaca Ver más"
+              "9 Gálvez lanza un mensaje a quienes protegen al narco: \"Esto recién comienza\" Ver más",
+              "10 Cancillería: Chile frena destrucción de presunta narcomadera incautada Ver más"
             ]
           ]
         },
@@ -56791,11 +56819,11 @@
           "columnas": [],
           "filas": [
             [
-              "01/10/2026 Seguridad Trasladan a la Felcn de El Alto al fiscal general Roger Mariaca y al fiscal de Santa Cruz El fiscal general del Estado, Roger Mariaca y el fiscal departamental de Santa Cruz, Alberto Zeballos, fueron ingresados cerca de las 2:15 de este jueves a... vista",
-              "01/10/2026 Seguridad \"Mariaca es mi amigo\": Difunden video de Marset tras aprehensión del fiscal general Tras la aprehensión del fiscal general del Estado, Roger Mariaca, y del fiscal departamental de Santa Cruz, Alberto Zeballos, salió a la luz un video grabado... vista",
+              "02/10/2026 Seguridad tras aprehensión de mariaca Gobierno amenaza a quien no apoye su política contra el “narcoterrorismo” Con frases como “los que no estén del lado bueno serán combatidos incesantemente”; “o están con la ley, con el desarrollo de nuestra patria, con la convivencia... vista",
+              "02/10/2026 Seguridad fiscales, civiles y policías Con aprehensiones, Gobierno dice que desmantela una organización criminal Tras la aprehensión del ahora exfiscal General del Estado, Roger Mariaca, y del fiscal Departamental de Santa Cruz, Alberto Zeballos, la Policía realizó, desde... vista",
               "",
-              "01/10/2026 País Oviedo: \"La Asamblea tiene la oportunidad de ser parte del cambio de la justicia en Bolivia\" El ministro de Gobierno, Marco Antonio Oviedo, afirmó este jueves que la Asamblea Legislativa Plurinacional tiene una \"oportunidad histórica\" para acompañar... vista",
-              "01/10/2026 País Evo sobre Mariaca: “Se ratifica que aquí en Bolivia gobierna Estados Unidos, buscan salvar a Cerimedo, Paz y familia” El expresidente Evo Morales afirmó este jueves 1 de octubre que las recientes aprehensiones del fiscal general del Estado, Roger Mariaca, y del fiscal... vista"
+              "02/10/2026 País Legislativo debate hoy cómo se elegirá al nuevo Fiscal General Hoy se realizará la sesión plenaria de la Asamblea Legislativa Plurinacional para tratar el caso del fiscal Roger Mariaca (aprehendido por la acusación de... vista",
+              "02/10/2026 Seguridad El Ejecutivo desconoce a Fiscal interino y lo busca para aprehenderlo La Policía Boliviana busca aprehender al nuevo Fiscal General, Luis Montaño, quien asumió ayer esa función por orden de prelación, ante la ausencia de Roger... vista"
             ]
           ]
         },
@@ -56809,7 +56837,7 @@
               "La imagen del Tilcayo, el felino silvestre recientemente reconocido como una especie distinta, ya forma parte de la... Ver más 29/09/2026 Ciencia El Tilcayo entra a la Photo Ark de National Geographic y entra al archivo mundial",
               "",
               "“La gente piensa que como vivimos en la selva tenemos bastante agua, pero la realidad es esta”, dice con decepción... Ver más 28/09/2026 Medio Ambiente Amazonía sin cauce: minería, ganadería y deforestación dejaron a comunidades sin agua para beber",
-              "Una fruta que rara vez aparece en las listas de alimentos recomendados para la salud cognitiva podría proteger el... Ver más 24/09/2026 Salud La fruta que neurólogos recomiendan para cuidar el cerebro después de los 50 años"
+              ""
             ]
           ]
         },
@@ -56819,11 +56847,11 @@
           "columnas": [],
           "filas": [
             [
+              "Si hay una certeza acerca del Premio Nobel de Literatura, es que no tiene una certeza. Es el galardón más impredecible... Ver más 02/10/2026 Cultura Premio Nobel de Literatura: sin listas oficiales y bajo un estricto secretismo",
               "“Número de ópera”, así titula el cuarto concierto del año que pondrá hoy en escenario el Ensamble Khuska en la aula... Ver más 01/10/2026 Música Ensamble Khuska pone en escenario su cuarto concierto de la temporada",
-              "La cantante y compositora boliviana Luzmila Carpio recibirá el premio a la Excelencia Profesional del WorldWild Music... Ver más 01/10/2026 Música La cantante Luzmila Carpio recibirá el premio Womex 26 a la Artista",
               "",
-              "Desde ayer, el salón “Mario Unzueta” (25 de mayo esq. Av. Heroínas) alberga la exposición “Expresiones femeninas”, cuya... Ver más 30/09/2026 Cultura Arte: llegan “Expresiones femeninas”",
-              "La cuenta regresiva para la decimonovena Feria Internacional del Libro de Cochabamba (FILC) 2026 ha comenzado. Ver más 29/09/2026 Cultura La Feria Internacional del Libro apuesta por el cuento clásico"
+              "La cantante y compositora boliviana Luzmila Carpio recibirá el premio a la Excelencia Profesional del WorldWild Music... Ver más 01/10/2026 Música La cantante Luzmila Carpio recibirá el premio Womex 26 a la Artista",
+              "Desde ayer, el salón “Mario Unzueta” (25 de mayo esq. Av. Heroínas) alberga la exposición “Expresiones femeninas”, cuya... Ver más 30/09/2026 Cultura Arte: llegan “Expresiones femeninas”"
             ]
           ]
         }
@@ -56843,8 +56871,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:45-04:00",
-      "duracion_ms": 533,
+      "actualizado_en": "2026-10-02T13:14:47-04:00",
+      "duracion_ms": 709,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -56985,8 +57013,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:46-04:00",
-      "duracion_ms": 284,
+      "actualizado_en": "2026-10-02T13:14:49-04:00",
+      "duracion_ms": 312,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57007,11 +57035,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:55-04:00",
-      "duracion_ms": 7563,
+      "actualizado_en": "2026-10-02T13:14:55-04:00",
+      "duracion_ms": 5253,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 5,
-      "cantidad_noticias": 16,
+      "cantidad_noticias": 19,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -57022,10 +57050,34 @@
           ],
           "filas": [
             {
-              "columna_1": "octubre 1, 2026 8:30 pm N/D Blooming vs Independiente"
+              "columna_1": "octubre 4, 2026 7:30 pm N/D Independiente vs Bolívar"
             },
             {
-              "columna_1": "octubre 1, 2026 6:30 pm N/D Bolívar vs Blooming"
+              "columna_1": "octubre 4, 2026 5:15 pm N/D Guabirá vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "octubre 4, 2026 3:00 pm N/D GV San José vs Blooming"
+            },
+            {
+              "columna_1": "octubre 3, 2026 7:30 pm N/D The Strongest vs FC Universitario"
+            },
+            {
+              "columna_1": "octubre 3, 2026 5:15 pm N/D Nacional Potosí vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "octubre 3, 2026 3:00 pm N/D Always Ready vs Real Tomayapo"
+            },
+            {
+              "columna_1": "octubre 2, 2026 8:00 pm N/D Real Potosí vs Aurora"
+            },
+            {
+              "columna_1": "octubre 2, 2026 3:00 pm N/D San Antonio vs A. B. B."
+            },
+            {
+              "columna_1": "octubre 1, 2026 0 - 1 N/D Blooming vs Independiente"
+            },
+            {
+              "columna_1": "octubre 1, 2026 3 - 2 N/D Bolívar vs Blooming"
             },
             {
               "columna_1": "septiembre 30, 2026 1 - 1 N/D Oriente Petrolero vs The Strongest"
@@ -57304,29 +57356,29 @@
             {
               "Pos": "1",
               "Equipo": "Bolívar",
-              "PJ": "5",
-              "DG": "6",
-              "Pts": "11"
+              "PJ": "6",
+              "DG": "7",
+              "Pts": "14"
             },
             {
               "Pos": "2",
               "Equipo": "Independiente",
-              "PJ": "5",
-              "DG": "6",
-              "Pts": "10"
+              "PJ": "6",
+              "DG": "7",
+              "Pts": "13"
             },
             {
               "Pos": "3",
               "Equipo": "Blooming",
-              "PJ": "5",
-              "DG": "-7",
+              "PJ": "6",
+              "DG": "-8",
               "Pts": "3"
             },
             {
               "Pos": "3",
               "Equipo": "GV San José",
-              "PJ": "5",
-              "DG": "-5",
+              "PJ": "6",
+              "DG": "-6",
               "Pts": "3"
             }
           ]
@@ -57344,9 +57396,55 @@
         {
           "titulo": "Partidos ida cuartos de final de la Copa Libertadores",
           "contenido": "septiembre 7, 2026 08:46"
+        },
+        {
+          "titulo": "Tabla de posiciones y próxima fecha Copa Bolivia",
+          "contenido": "septiembre 29, 2026 22:46"
         }
       ],
       "noticias": [
+        {
+          "id": "f17dcf03ae7987de",
+          "titulo": "Sabalenka reaparece con un triunfo en el torneo de Pekín",
+          "url": "https://larazon.bo/marcas/2026/10/02/sabalenka-reaparece-con-un-triunfo-en-el-torneo-de-pekin/",
+          "fecha": "octubre 2, 2026 09:43",
+          "resumen": null
+        },
+        {
+          "id": "5b64218be643a6a1",
+          "titulo": "Caso City tiene ‘consecuencias para laintegridad del fútbol’ según FA",
+          "url": "https://larazon.bo/marcas/2026/10/02/caso-city-tiene-consecuencias-para-laintegridad-del-futbol-segun-fa/",
+          "fecha": "octubre 2, 2026 07:23",
+          "resumen": null
+        },
+        {
+          "id": "aa6db8794444429c",
+          "titulo": "Independiente pasa a cuartos tras vencer 1-0 a Blooming",
+          "url": "https://larazon.bo/marcas/2026/10/02/independiente-pasa-a-cuartos-tras-vencer-1-0-a-blooming/",
+          "fecha": "octubre 2, 2026 06:48",
+          "resumen": null
+        },
+        {
+          "id": "e70fa2a7a63172bf",
+          "titulo": "Bolívar es el primer clasificado a cuartos en la Copa Bolivia",
+          "url": "https://larazon.bo/marcas/2026/10/01/bolivar-es-el-primer-clasificado-a-cuartos-en-la-copa-bolivia/",
+          "fecha": "octubre 1, 2026 21:11",
+          "resumen": null
+        },
+        {
+          "id": "e6bad833e2190e7d",
+          "titulo": "The Strongest presentará denuncia por agresiones en el Tahuichi",
+          "url": "https://larazon.bo/marcas/2026/10/01/the-strongest-presentara-denuncia-por-agresiones-en-el-tahuichi/",
+          "fecha": "octubre 1, 2026 20:15",
+          "resumen": null
+        },
+        {
+          "id": "b76de74e3d036860",
+          "titulo": "Bolivia se queda sin amistoso, Gambia cancela el partido",
+          "url": "https://larazon.bo/marcas/2026/10/01/bolivia-se-queda-sin-amistoso-gambia-cancela-el-partido/",
+          "fecha": "octubre 1, 2026 19:47",
+          "resumen": null
+        },
         {
           "id": "aba0f47554b88e9e",
           "titulo": "El Ecuador de Gallardo mejora ante Japón, pero le falta gol",
@@ -57376,34 +57474,6 @@
           "resumen": null
         },
         {
-          "id": "e3a4ed257753a785",
-          "titulo": "Bolivia cae goleada por 4-0 ante Argentina en Córdoba",
-          "url": "https://larazon.bo/marcas/2026/09/30/bolivia-cae-goleada-por-4-0-ante-argentina-en-cordoba/",
-          "fecha": "septiembre 30, 2026 22:12",
-          "resumen": null
-        },
-        {
-          "id": "0746791af0bd4ee2",
-          "titulo": "Brasil pierde a Raphinha para amistoso contra India",
-          "url": "https://larazon.bo/marcas/2026/09/30/brasil-pierde-a-raphinha-para-amistoso-contra-india/",
-          "fecha": "septiembre 30, 2026 09:01",
-          "resumen": null
-        },
-        {
-          "id": "b93b00fd40ce35cc",
-          "titulo": "¿Qué se juega el fútbol de Brasil ante el fin de apuestas en línea?",
-          "url": "https://larazon.bo/marcas/2026/09/30/que-se-juega-el-futbol-de-brasil-ante-el-fin-de-apuestas-en-linea/",
-          "fecha": "septiembre 30, 2026 08:51",
-          "resumen": null
-        },
-        {
-          "id": "4a901d0e5be1dfb9",
-          "titulo": "México rescata empate 1-1 en partido amistoso ante Perú",
-          "url": "https://larazon.bo/marcas/2026/09/30/mexico-rescata-empate-1-1-en-partido-amistoso-ante-peru/",
-          "fecha": "septiembre 30, 2026 08:18",
-          "resumen": null
-        },
-        {
           "id": "6c3e32c743f44c63",
           "titulo": "Aurora salva un punto ante San Antonio y sigue en la cima del A",
           "url": "https://larazon.bo/marcas/futbol-profesional-boliviano/2026/09/29/aurora-salva-un-punto-ante-san-antonio-y-sigue-en-la-cima-del-a/",
@@ -57418,10 +57488,17 @@
           "resumen": null
         },
         {
-          "id": "26653bcc63e60aef",
-          "titulo": "Un juvenil Always Ready sufre una implacable goleada de 9-0",
-          "url": "https://larazon.bo/marcas/2026/09/25/un-juvenil-always-ready-sufre-una-implacable-goleada-de-9-0/",
-          "fecha": "septiembre 25, 2026 21:55",
+          "id": "8363a63c5cdc4d1e",
+          "titulo": "Messi arriba a Argentina para su despedida con la Albiceleste",
+          "url": "https://larazon.bo/marcas/2026/10/02/messi-arriba-a-argentina-para-su-despedida-con-la-albiceleste/",
+          "fecha": "octubre 2, 2026 10:10",
+          "resumen": "El astro de 39 años jugará el martes 19.00 HB su último partido con la selección argentina en el Monumental..."
+        },
+        {
+          "id": "e3a4ed257753a785",
+          "titulo": "Bolivia cae goleada por 4-0 ante Argentina en Córdoba",
+          "url": "https://larazon.bo/marcas/2026/09/30/bolivia-cae-goleada-por-4-0-ante-argentina-en-cordoba/",
+          "fecha": "septiembre 30, 2026 22:12",
           "resumen": null
         },
         {
@@ -57453,10 +57530,10 @@
           "resumen": null
         },
         {
-          "id": "01c1ea39e199ad96",
-          "titulo": "Ancelotti mueve piezas y Brasil vence 4-2 a Australia en amistoso",
-          "url": "https://larazon.bo/marcas/2026/09/29/ancelotti-mueve-piezas-y-brasil-vence-4-2-a-australia-en-amistoso/",
-          "fecha": "septiembre 29, 2026 08:56",
+          "id": "4a901d0e5be1dfb9",
+          "titulo": "México rescata empate 1-1 en partido amistoso ante Perú",
+          "url": "https://larazon.bo/marcas/2026/09/30/mexico-rescata-empate-1-1-en-partido-amistoso-ante-peru/",
+          "fecha": "septiembre 30, 2026 08:18",
           "resumen": null
         }
       ],
@@ -57473,8 +57550,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-01T13:51:57-04:00",
-      "duracion_ms": 946,
+      "actualizado_en": "2026-10-02T13:14:57-04:00",
+      "duracion_ms": 970,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -57492,25 +57569,25 @@
               "EEUU sanciona al Fiscal General de Bolivia y lo vincula al narcotráfico"
             ],
             [
+              "Fiscal vetado por EEUU recibió cadena de oro de regalo de Ferreco y la AJAM lo señaló por no apoyar lucha contra la minería ilegal"
+            ],
+            [
               "La lista de sancionados de EEUU: Iván Lima, exjefe antidroga, fiscales, jueces y exaduana"
             ],
             [
-              "Fiscal vetado por EEUU recibió cadena de oro de regalo de Ferreco y la AJAM lo señaló por no apoyar lucha contra la minería ilegal"
+              "Tras la captura de Mariaca, Lara aboga por el debido proceso y rechaza que extranjeros ejerzan aprehensiones"
             ],
             [
               "Fiscalía pide revocar la detención domiciliaria de Tatiana Marset y que vuelva a preventiva"
             ],
             [
-              "“Las FFAA están listas para defender al pueblo”, dice el comandante tras ultimátum de Evo"
+              "Diputado oficialista denuncia supuesta alianza entre Lara, Evo y Mariaca"
             ],
             [
-              "Registran intensa actividad minera ilegal cerca del Parque Madidi con el uso de maquinaria pesada"
+              "Diputado Del Granado: Bolivia atraviesa un momento límite para encarar una reforma estructural de la justicia"
             ],
             [
               "Justiniano señala que caso Roger Mariaca podría derivar en extradición"
-            ],
-            [
-              "Saucedo señala que jueces sancionados por EEUU deberán responder por sus resoluciones"
             ]
           ]
         }
@@ -57531,7 +57608,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-10-01T13:51:59-04:00",
+      "ultimo_intento_en": "2026-10-02T13:14:59-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
