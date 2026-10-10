@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-10-09T13:51:12-04:00",
+  "generado_en": "2026-10-10T12:47:00-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
     "fuentes_correctas": 19,
     "fuentes_parciales": 0,
     "fuentes_con_error": 1,
-    "tablas_extraidas": 22,
-    "noticias_extraidas": 162,
+    "tablas_extraidas": 19,
+    "noticias_extraidas": 161,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:24-04:00",
-      "duracion_ms": 345,
+      "actualizado_en": "2026-10-10T12:46:19-04:00",
+      "duracion_ms": 438,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -262,6 +262,13 @@
       ],
       "noticias": [
         {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "75094c4faa755200",
           "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
           "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
@@ -286,13 +293,6 @@
           "id": "104739b2f5c02137",
           "titulo": "La FBF clausuró el Torneo Nacional de Fútbol Playa 2026 en Santa Cruz consagrando a Hamacas F.C. como campeón",
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
           "fecha": null,
           "resumen": null
         }
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:26-04:00",
-      "duracion_ms": 88,
+      "actualizado_en": "2026-10-10T12:46:20-04:00",
+      "duracion_ms": 167,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -325,6 +325,13 @@
           "url": "https://fbf.com.bo/noticias",
           "fecha": null,
           "resumen": "¡Este campeonato se transmitirá por televisión nacional! Mantente atento para ver la batalla inolvidable de los campeones."
+        },
+        {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "75094c4faa755200",
@@ -353,13 +360,6 @@
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:27-04:00",
-      "duracion_ms": 121,
+      "actualizado_en": "2026-10-10T12:46:21-04:00",
+      "duracion_ms": 206,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -788,6 +788,13 @@
           "resumen": "Desde cada rincón del país, llegan los sueños, el talento y la entrega de los jóvenes que hoy escriben el futuro del fútbol nacional. Esto es la Liga Nacional Sub-19, la cuna de las próximas estrellas, donde la pasión se vive con la misma intensidad."
         },
         {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "75094c4faa755200",
           "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
           "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
@@ -814,13 +821,6 @@
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:28-04:00",
-      "duracion_ms": 100,
+      "actualizado_en": "2026-10-10T12:46:23-04:00",
+      "duracion_ms": 177,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1157,6 +1157,13 @@
           "resumen": null
         },
         {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "75094c4faa755200",
           "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
           "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
@@ -1183,13 +1190,6 @@
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:30-04:00",
-      "duracion_ms": 83,
+      "actualizado_en": "2026-10-10T12:46:24-04:00",
+      "duracion_ms": 148,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:31-04:00",
-      "duracion_ms": 75,
+      "actualizado_en": "2026-10-10T12:46:26-04:00",
+      "duracion_ms": 144,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 5,
@@ -1261,6 +1261,13 @@
           "titulo": "Selección Absoluta",
           "url": "https://fbf.com.bo/proceso-de-acreditaciones-bolivia-vs-gambia-amistoso-internacional-2026/",
           "fecha": "septiembre 25, 2026",
+          "resumen": null
+        },
+        {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1283,13 +1290,6 @@
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1305,8 +1305,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:32-04:00",
-      "duracion_ms": 81,
+      "actualizado_en": "2026-10-10T12:46:27-04:00",
+      "duracion_ms": 144,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1319,6 +1319,13 @@
           "titulo": "SELECCIÓN FEMENINA",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "50acf882e61d6f41",
+          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
+          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1348,13 +1355,6 @@
           "url": "https://fbf.com.bo/la-fbf-clausuro-el-torneo-nacional-de-futbol-playa-2026-en-santa-cruz-consagrando-a-hamacas-f-c-como-campeon/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "4da4693f84975cbf",
-          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL PRESENTA SU PROTOCOLO DE INTEGRIDAD 2026 PARA COMBATIR LA MANIPULACIÓN DE PARTIDOS",
-          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-presenta-su-protocolo-de-integridad-2026-para-combatir-la-manipulacion-de-partidos/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1370,8 +1370,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:34-04:00",
-      "duracion_ms": 688,
+      "actualizado_en": "2026-10-10T12:46:29-04:00",
+      "duracion_ms": 760,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1477,8 +1477,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:37-04:00",
-      "duracion_ms": 2059,
+      "actualizado_en": "2026-10-10T12:46:32-04:00",
+      "duracion_ms": 1879,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1640,7 +1640,7 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "19982 veces leida"
+          "resumen": "19983 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
@@ -1654,56 +1654,56 @@
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11642 veces leida"
+          "resumen": "11644 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11395 veces leida"
+          "resumen": "11399 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "10902 veces leida"
+          "resumen": "10903 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9319 veces leida"
+          "resumen": "9322 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8758 veces leida"
+          "resumen": "8760 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8655 veces leida"
+          "resumen": "8656 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8547 veces leida"
+          "resumen": "8549 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8526 veces leida"
+          "resumen": "8528 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1719,8 +1719,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:39-04:00",
-      "duracion_ms": 554,
+      "actualizado_en": "2026-10-10T12:46:34-04:00",
+      "duracion_ms": 457,
       "titulo_pagina": "Club Always Ready » Noticias",
       "cantidad_tablas": 0,
       "cantidad_noticias": 4,
@@ -1770,55 +1770,41 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:41-04:00",
-      "duracion_ms": 273,
+      "actualizado_en": "2026-10-10T12:46:35-04:00",
+      "duracion_ms": 329,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 6,
+      "cantidad_noticias": 4,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "4740d119db49e9cc",
-          "titulo": "FlorentÃ­n y su desafÃ­o en Oriente: âLa prioridad es cumplir con el objetivoâ",
-          "url": "https://futbol.unitel.bo/division-profesional/florentin-y-su-desafio-en-oriente-la-prioridad-es-cumplir-con-el-objetivo-EH24013700",
-          "fecha": "08/10/2026 19:39",
+          "id": "48ba26a2982a8b6a",
+          "titulo": "Jornada 21: BolÃ­var, Always Ready y The Strongest no pueden tropezar en la pelea por el tÃ­tulo",
+          "url": "https://futbol.unitel.bo/division-profesional/jornada-21-bolivar-always-ready-y-the-strongest-no-pueden-tropezar-en-la-pelea-por-el-titulo-FC24040445",
+          "fecha": "09/10/2026 21:50",
           "resumen": null
         },
         {
-          "id": "8087e9d962861b69",
-          "titulo": "Blooming se despidiÃ³ de la Copa PaceÃ±a con un pÃ¡lido empate con BolÃ­var",
-          "url": "https://futbol.unitel.bo/division-profesional/blooming-se-despidio-de-la-copa-pacena-con-un-palido-empate-con-bolivar-DH24016014",
-          "fecha": "08/10/2026 22:10",
+          "id": "ec9b125dc7137f4a",
+          "titulo": "Real Tomayapo rescata un valioso punto ante San Antonio en su pelea por la permanencia",
+          "url": "https://futbol.unitel.bo/division-profesional/real-tomayapo-rescata-un-valioso-punto-ante-san-antonio-en-su-pelea-por-la-permanencia-OF24039236",
+          "fecha": "09/10/2026 19:53",
           "resumen": null
         },
         {
-          "id": "c954b7a117d9069b",
-          "titulo": "Nacional vence a Always Ready en El Alto y finaliza su grupo en el primer lugar",
-          "url": "https://futbol.unitel.bo/division-profesional/nacional-vence-a-always-ready-en-el-alto-y-finaliza-su-grupo-en-el-primer-lugar-FH24010984",
-          "fecha": "08/10/2026 17:16",
+          "id": "0b68327495bdcab7",
+          "titulo": "Adecruz decretÃ³ el fin de la 48.Âª ediciÃ³n del GP IntegraciÃ³n del Oriente tras el deceso del piloto PÃ©rez",
+          "url": "https://futbol.unitel.bo/otros-deportes/adecruz-decreto-el-fin-de-la-48-edicion-del-gp-integracion-del-oriente-tras-el-deceso-del-piloto-perez-NF24037695",
+          "fecha": "09/10/2026 18:57",
           "resumen": null
         },
         {
-          "id": "fd32469ab9890f11",
-          "titulo": "Â¿La Copa AmÃ©rica pasarÃ¡ a 20 equipos? Esto es lo que sabe del torneo de Conmebol",
-          "url": "https://futbol.unitel.bo/futbol/la-copa-america-pasara-a-20-equipos-esto-es-lo-que-sabe-del-torneo-de-conmebol-OG24008152",
-          "fecha": "08/10/2026 15:26",
-          "resumen": null
-        },
-        {
-          "id": "13d75a1925930914",
-          "titulo": "Oriente: DT FlorentÃ­n revela que GonzÃ¡les pensÃ³ en dejar el fÃºtbol tras sufrir su lesiÃ³n",
-          "url": "https://futbol.unitel.bo/division-profesional/oriente-dt-florentin-revela-que-gonzales-penso-en-dejar-el-futbol-tras-sufrir-su-lesion-DG24002427",
-          "fecha": "08/10/2026 14:40",
-          "resumen": null
-        },
-        {
-          "id": "605142cfa18aad7d",
-          "titulo": "Copa PaceÃ±a: BolÃ­var convoca a seis juveniles con opciÃ³n de debut ante Blooming",
-          "url": "https://futbol.unitel.bo/division-profesional/copa-pacena-bolivar-convoca-a-seis-juveniles-con-opcion-de-debut-ante-blooming-CG24006631",
-          "fecha": "08/10/2026 15:53",
+          "id": "d65641031400a0cf",
+          "titulo": "Cristiano Ronaldo recupera la sonrisa con su gol 980 para el triunfo del Al Nassr",
+          "url": "https://futbol.unitel.bo/futbol/cristiano-ronaldo-recupera-la-sonrisa-con-su-gol-980-para-el-triunfo-del-al-nassr-CF24036664",
+          "fecha": "09/10/2026 18:11",
           "resumen": null
         }
       ],
@@ -1835,68 +1821,26 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:42-04:00",
-      "duracion_ms": 650,
+      "actualizado_en": "2026-10-10T12:46:37-04:00",
+      "duracion_ms": 760,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 19,
+      "cantidad_noticias": 20,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "db138877957d5c65",
-          "titulo": "¿Quién era Nicolás Pérez, el piloto que falleció en el GPIO?",
-          "url": "https://diez.bo/fuera-de-juego/quien-era-nicolas-perez-el-piloto-que-fallecio-en-el-gpio_1791562844",
+          "id": "5f9703a547df57e0",
+          "titulo": "Oriente busca afirmarse en la parte alta ante ABB",
+          "url": "https://diez.bo/futbol/oriente-busca-afirmarse-en-la-parte-alta-ante-abb_1791637588",
           "fecha": null,
-          "resumen": "El motociclista montereño era campeón nacional de Cross Country en la categoría motos y un habitual participante del Gran Premio de la Integración del Oriente, donde llegó a liderar su categoría y a pelear los primeros puestos de la clasificación general."
+          "resumen": "El refinero recibirá este sábado al conjunto amarillo, desde las 19:30, en el estadio Tahuichi Aguilera. Jorge Lovera está de regreso, mientras que Frans Gonzales será baja por lesión."
         },
         {
-          "id": "f0d5f9e5bab1ec81",
-          "titulo": "Fallece piloto en accidente durante el Gran Premio de la Integración del Oriente",
-          "url": "https://diez.bo/fuera-de-juego/fallece-piloto-en-accidente-durante-el-gran-premio-de-la-integracion-del-oriente_1791555026",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d5e11b8b17876e9f",
-          "titulo": "Oriente Petrolero pone el foco en la Liga",
-          "url": "https://diez.bo/futbol/oriente-petrolero-pone-el-foco-en-la-liga_1791559411",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "bf41c8202d9a0ea8",
-          "titulo": "Blooming busca levantarse y apunta a revertir su complicado momento",
-          "url": "https://diez.bo/fuera-de-juego/blooming-busca-levantarse-y-apunta-a-revertir-su-complicado-momento_1791558420",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b338bde98d36e2c0",
-          "titulo": "El fútbol africano muestra su apoyo a Infantino",
-          "url": "https://diez.bo/futbol/el-futbol-africano-muestra-su-apoyo-a-infantino_1791563242",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "70eefadcddad417d",
-          "titulo": "Blooming se estanca y no pasa del empate ante Bolívar",
-          "url": "https://diez.bo/futbol/blooming-se-estanca-y-no-pasa-del-empate-ante-bolivar_1791511732",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "f18ab33e75a1438d",
-          "titulo": "Florentín explica por qué Máximo Mamani no tiene continuidad en Oriente",
-          "url": "https://diez.bo/oriente-petrolero/florentin-explica-por-que-maximo-mamani-no-tiene-continuidad-en-oriente_1791465375",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "a580b52a8d118879",
-          "titulo": "Always Ready pierde ante Nacional Potosí, pero avanza a cuartos",
-          "url": "https://diez.bo/futbol/always-ready-pierde-ante-nacional-potosi-pero-avanza-a-cuartos_1791494601",
+          "id": "7f0c068517b556f7",
+          "titulo": "La liga de la división profesional ya tiene calendario hasta la fecha 28",
+          "url": "https://diez.bo/futbol/la-liga-de-la-division-profesional-ya-tiene-calendario-hasta-la-fecha-28_1791577722",
           "fecha": null,
           "resumen": null
         },
@@ -1906,6 +1850,13 @@
           "url": "https://diez.bo/futbol/bolivia-baja-al-puesto-78-del-ranking-fifa-y-sigue-en-el-fondo-de-sudamerica_1791407543",
           "fecha": null,
           "resumen": "La selección de Óscar Villegas perdió una posición después de caer ante Paraguay y Argentina y continúa como la peor ubicada de Conmebol."
+        },
+        {
+          "id": "7ba8bc4208691cf5",
+          "titulo": "Eliminatorias al Mundial 2030: Bolivia tendría tres cupos directos en juego",
+          "url": "https://diez.bo/futbol/eliminatorias-al-mundial-2030-bolivia-tendria-tres-cupos-directos-en-juego_1790786183",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "aeb44b5891671e13",
@@ -1922,9 +1873,16 @@
           "resumen": null
         },
         {
-          "id": "7ba8bc4208691cf5",
-          "titulo": "Eliminatorias al Mundial 2030: Bolivia tendría tres cupos directos en juego",
-          "url": "https://diez.bo/futbol/eliminatorias-al-mundial-2030-bolivia-tendria-tres-cupos-directos-en-juego_1790786183",
+          "id": "10c5d0d6109e3383",
+          "titulo": "El último baile de Messi: gol, dos asistencias y victoria de Argentina",
+          "url": "https://diez.bo/futbol/el-ultimo-baile-de-messi-gol-dos-asistencias-y-victoria-de-argentina_1791338241",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "bf9155936d90cac4",
+          "titulo": "En el minuto 10, el partido paró y el Monumental se levantó para ovacionar al diez",
+          "url": "https://diez.bo/futbol/en-el-minuto-10-el-partido-paro-y-el-monumental-se-levanto-para-ovacionar-al-diez_1791332497",
           "fecha": null,
           "resumen": null
         },
@@ -1943,9 +1901,9 @@
           "resumen": null
         },
         {
-          "id": "232cde468f272391",
-          "titulo": "El fútbol boliviano ya suma 44 técnicos en 2026",
-          "url": "https://diez.bo/futbol/el-futbol-boliviano-ya-suma-44-tecnicos-en-2026_1791211628",
+          "id": "2501cdf90eda5f3e",
+          "titulo": "Messi baja el telón con Argentina: gol 126 y un adiós en el Monumental",
+          "url": "https://diez.bo/futbol/messi-baja-el-telon-con-argentina-gol-126-y-un-adios-en-el-monumental_1791337990",
           "fecha": null,
           "resumen": null
         },
@@ -1957,23 +1915,58 @@
           "resumen": null
         },
         {
-          "id": "90ddca26041bd183",
-          "titulo": "Guabirá le cierra las puertas a las barras de Oriente y Blooming en Montero",
-          "url": "https://diez.bo/fuera-de-juego/guabira-le-cierra-las-puertas-a-las-barras-de-oriente-y-blooming-en-montero_1791213834",
+          "id": "fa19553bad572638",
+          "titulo": "San Antonio y Tomayapo empatan sin goles en la reanudación del torneo",
+          "url": "https://diez.bo/futbol/san-antonio-y-tomayapo-empatan-sin-goles-en-la-reanudacion-del-torneo_1791583200",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "d90654e0fcb8d113",
-          "titulo": "Leo Egüez responsabiliza a Ferrel tras la eliminación de Guabirá",
-          "url": "https://diez.bo/futbol/leo-eguez-responsabiliza-a-ferrel-tras-la-eliminacion-de-guabira_1791466295",
+          "id": "f0d5f9e5bab1ec81",
+          "titulo": "Fallece piloto en accidente durante el Gran Premio de la Integración del Oriente",
+          "url": "https://diez.bo/fuera-de-juego/fallece-piloto-en-accidente-durante-el-gran-premio-de-la-integracion-del-oriente_1791555026",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "4e00d123eafe0538",
-          "titulo": "Oriente, conmovido por la lesión de Franz González: “El triunfo es para él”",
-          "url": "https://diez.bo/oriente-petrolero/oriente-conmovido-por-la-lesion-de-franz-gonzalez-el-triunfo-es-para-el_1791465230",
+          "id": "bf41c8202d9a0ea8",
+          "titulo": "Blooming busca levantarse y apunta a revertir su complicado momento",
+          "url": "https://diez.bo/fuera-de-juego/blooming-busca-levantarse-y-apunta-a-revertir-su-complicado-momento_1791558420",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "e6d401a21bb9ea86",
+          "titulo": "Cristiano Ronaldo recupera la sonrisa con su gol 980",
+          "url": "https://diez.bo/futbol/cristiano-ronaldo-recupera-la-sonrisa-con-su-gol-980_1791579287",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "d5e11b8b17876e9f",
+          "titulo": "Oriente Petrolero pone el foco en la Liga",
+          "url": "https://diez.bo/futbol/oriente-petrolero-pone-el-foco-en-la-liga_1791559411",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "b338bde98d36e2c0",
+          "titulo": "El fútbol africano muestra su apoyo a Infantino",
+          "url": "https://diez.bo/futbol/el-futbol-africano-muestra-su-apoyo-a-infantino_1791563242",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "70eefadcddad417d",
+          "titulo": "Blooming se estanca y no pasa del empate ante Bolívar",
+          "url": "https://diez.bo/futbol/blooming-se-estanca-y-no-pasa-del-empate-ante-bolivar_1791511732",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "a580b52a8d118879",
+          "titulo": "Always Ready pierde ante Nacional Potosí, pero avanza a cuartos",
+          "url": "https://diez.bo/futbol/always-ready-pierde-ante-nacional-potosi-pero-avanza-a-cuartos_1791494601",
           "fecha": null,
           "resumen": null
         }
@@ -1991,8 +1984,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:45-04:00",
-      "duracion_ms": 980,
+      "actualizado_en": "2026-10-10T12:46:39-04:00",
+      "duracion_ms": 513,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 24,
@@ -2182,8 +2175,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:50-04:00",
-      "duracion_ms": 3779,
+      "actualizado_en": "2026-10-10T12:46:44-04:00",
+      "duracion_ms": 3620,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -39821,7 +39814,7 @@
                   "qty": 0
                 },
                 "redCards": {
-                  "qty": 6
+                  "qty": 7
                 },
                 "shots": {
                   "qty": 16
@@ -39842,7 +39835,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 37
+                  "qty": 44
                 }
               },
               "players": {
@@ -39943,10 +39936,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 105
+                      "qty": 154
                     },
                     "matches": {
-                      "qty": 1
+                      "qty": 2
                     },
                     "assists": {
                       "qty": 0
@@ -39998,12 +39991,88 @@
                     }
                   }
                 },
+                "350290": {
+                  "info": {
+                    "teamId": 10529,
+                    "squadNo": 70,
+                    "posnId": 3,
+                    "order": 3,
+                    "country": "Bolivia",
+                    "birthdate": "2007-05-24",
+                    "age": 19,
+                    "name": {
+                      "first": "Bernabé David",
+                      "middle": "David",
+                      "last": "Aguirre Aramayo",
+                      "nick": null
+                    },
+                    "ht": null,
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 69
+                    },
+                    "matches": {
+                      "qty": 1
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 0
+                    }
+                  }
+                },
                 "226356": {
                   "info": {
                     "teamId": 10529,
                     "squadNo": 39,
                     "posnId": 2,
-                    "order": 3,
+                    "order": 4,
                     "country": "Argentina",
                     "birthdate": "2000-04-19",
                     "age": 26,
@@ -40079,7 +40148,7 @@
                     "teamId": 10529,
                     "squadNo": 13,
                     "posnId": 4,
-                    "order": 4,
+                    "order": 5,
                     "country": "Bolivia",
                     "birthdate": null,
                     "age": null,
@@ -40155,7 +40224,7 @@
                     "teamId": 10529,
                     "squadNo": 55,
                     "posnId": 2,
-                    "order": 5,
+                    "order": 6,
                     "country": "Argentina",
                     "birthdate": "1999-01-22",
                     "age": 27,
@@ -40231,7 +40300,7 @@
                     "teamId": 10529,
                     "squadNo": 36,
                     "posnId": 1,
-                    "order": 6,
+                    "order": 7,
                     "country": "Bolivia",
                     "birthdate": "2005-07-18",
                     "age": 21,
@@ -40307,7 +40376,7 @@
                     "teamId": 10529,
                     "squadNo": 17,
                     "posnId": 2,
-                    "order": 7,
+                    "order": 8,
                     "country": "Bolivia",
                     "birthdate": "1988-03-06",
                     "age": 38,
@@ -40383,7 +40452,7 @@
                     "teamId": 10529,
                     "squadNo": 9,
                     "posnId": 4,
-                    "order": 8,
+                    "order": 9,
                     "country": "Panamá",
                     "birthdate": "1990-01-09",
                     "age": 36,
@@ -40459,7 +40528,7 @@
                     "teamId": 10529,
                     "squadNo": 35,
                     "posnId": 3,
-                    "order": 9,
+                    "order": 10,
                     "country": "Bolivia",
                     "birthdate": "2004-07-15",
                     "age": 22,
@@ -40535,7 +40604,7 @@
                     "teamId": 10529,
                     "squadNo": 99,
                     "posnId": 4,
-                    "order": 10,
+                    "order": 11,
                     "country": "Bolivia",
                     "birthdate": "2003-06-24",
                     "age": 23,
@@ -40611,10 +40680,10 @@
                     "teamId": 10529,
                     "squadNo": 11,
                     "posnId": 4,
-                    "order": 11,
+                    "order": 12,
                     "country": "Bolivia",
                     "birthdate": "1996-10-07",
-                    "age": 29,
+                    "age": 30,
                     "name": {
                       "first": "Mauricio",
                       "middle": null,
@@ -40687,7 +40756,7 @@
                     "teamId": 10529,
                     "squadNo": 36,
                     "posnId": 1,
-                    "order": 12,
+                    "order": 13,
                     "country": "Bolivia",
                     "birthdate": "1996-07-10",
                     "age": 30,
@@ -40763,7 +40832,7 @@
                     "teamId": 10529,
                     "squadNo": 5,
                     "posnId": 2,
-                    "order": 13,
+                    "order": 14,
                     "country": "Argentina",
                     "birthdate": "1989-06-02",
                     "age": 37,
@@ -40839,7 +40908,7 @@
                     "teamId": 10529,
                     "squadNo": 27,
                     "posnId": 4,
-                    "order": 14,
+                    "order": 15,
                     "country": "Brasil",
                     "birthdate": "2001-02-26",
                     "age": 25,
@@ -40855,10 +40924,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 484
+                      "qty": 498
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 1
@@ -40915,7 +40984,7 @@
                     "teamId": 10529,
                     "squadNo": 38,
                     "posnId": 3,
-                    "order": 15,
+                    "order": 16,
                     "country": "Bolivia",
                     "birthdate": "2002-06-16",
                     "age": 24,
@@ -40991,7 +41060,7 @@
                     "teamId": 10529,
                     "squadNo": 22,
                     "posnId": 4,
-                    "order": 16,
+                    "order": 17,
                     "country": "Bolivia",
                     "birthdate": "1997-06-09",
                     "age": 29,
@@ -41067,7 +41136,7 @@
                     "teamId": 10529,
                     "squadNo": 1,
                     "posnId": 1,
-                    "order": 17,
+                    "order": 18,
                     "country": "Bolivia",
                     "birthdate": "1991-02-06",
                     "age": 35,
@@ -41083,10 +41152,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1197
+                      "qty": 1295
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -41143,10 +41212,10 @@
                     "teamId": 10529,
                     "squadNo": 19,
                     "posnId": 2,
-                    "order": 18,
+                    "order": 19,
                     "country": "Brasil",
                     "birthdate": "1992-09-29",
-                    "age": 33,
+                    "age": 34,
                     "name": {
                       "first": "Robson Leandro",
                       "middle": "Leandro",
@@ -41159,10 +41228,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 905
+                      "qty": 1003
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -41219,7 +41288,7 @@
                     "teamId": 10529,
                     "squadNo": 18,
                     "posnId": 4,
-                    "order": 19,
+                    "order": 20,
                     "country": "Bolivia",
                     "birthdate": "2004-03-16",
                     "age": 22,
@@ -41235,10 +41304,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 951
+                      "qty": 1035
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -41286,7 +41355,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -41295,7 +41364,7 @@
                     "teamId": 10529,
                     "squadNo": 42,
                     "posnId": 3,
-                    "order": 20,
+                    "order": 21,
                     "country": null,
                     "birthdate": null,
                     "age": null,
@@ -41371,7 +41440,7 @@
                     "teamId": 10529,
                     "squadNo": null,
                     "posnId": 3,
-                    "order": 21,
+                    "order": 22,
                     "country": "Bolivia",
                     "birthdate": "2007-10-13",
                     "age": 18,
@@ -41447,7 +41516,7 @@
                     "teamId": 10529,
                     "squadNo": 42,
                     "posnId": 4,
-                    "order": 22,
+                    "order": 23,
                     "country": "Bolivia",
                     "birthdate": "2009-02-26",
                     "age": 17,
@@ -41523,7 +41592,7 @@
                     "teamId": 10529,
                     "squadNo": 15,
                     "posnId": 2,
-                    "order": 23,
+                    "order": 24,
                     "country": "Bolivia",
                     "birthdate": "2004-04-06",
                     "age": 22,
@@ -41539,10 +41608,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 762
+                      "qty": 791
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -41590,7 +41659,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 2
+                      "qty": 3
                     }
                   }
                 },
@@ -41599,7 +41668,7 @@
                     "teamId": 10529,
                     "squadNo": 20,
                     "posnId": 3,
-                    "order": 24,
+                    "order": 25,
                     "country": "Bolivia",
                     "birthdate": "1998-06-18",
                     "age": 28,
@@ -41675,7 +41744,7 @@
                     "teamId": 10529,
                     "squadNo": 14,
                     "posnId": 2,
-                    "order": 25,
+                    "order": 26,
                     "country": "Bolivia",
                     "birthdate": "2006-07-26",
                     "age": 20,
@@ -41691,10 +41760,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 899
+                      "qty": 928
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -41751,7 +41820,7 @@
                     "teamId": 10529,
                     "squadNo": 45,
                     "posnId": 4,
-                    "order": 26,
+                    "order": 27,
                     "country": "Bolivia",
                     "birthdate": "2008-09-09",
                     "age": 18,
@@ -41827,7 +41896,7 @@
                     "teamId": 10529,
                     "squadNo": 31,
                     "posnId": 3,
-                    "order": 27,
+                    "order": 28,
                     "country": "Bolivia",
                     "birthdate": "2006-01-08",
                     "age": 20,
@@ -41903,7 +41972,7 @@
                     "teamId": 10529,
                     "squadNo": null,
                     "posnId": 4,
-                    "order": 28,
+                    "order": 29,
                     "country": "Bolivia",
                     "birthdate": "2003-11-07",
                     "age": 22,
@@ -41977,9 +42046,9 @@
                 "289853": {
                   "info": {
                     "teamId": 10529,
-                    "squadNo": 35,
+                    "squadNo": 33,
                     "posnId": 2,
-                    "order": 29,
+                    "order": 30,
                     "country": "Bolivia",
                     "birthdate": "2004-11-05",
                     "age": 21,
@@ -41995,83 +42064,7 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 437
-                    },
-                    "matches": {
-                      "qty": 7
-                    },
-                    "assists": {
-                      "qty": 0
-                    },
-                    "cornerKicks": {
-                      "qty": 0
-                    },
-                    "fouls": {
-                      "qty": 0
-                    },
-                    "foulsReceived": {
-                      "qty": 0
-                    },
-                    "goals": {
-                      "qty": 0
-                    },
-                    "correctPasses": {
-                      "qty": 0
-                    },
-                    "incorrectPasses": {
-                      "qty": 0
-                    },
-                    "allPasses": {
-                      "qty": 0
-                    },
-                    "offsides": {
-                      "qty": 0
-                    },
-                    "redCards": {
-                      "qty": 0
-                    },
-                    "shots": {
-                      "qty": 0
-                    },
-                    "shotsOnTarget": {
-                      "qty": 0
-                    },
-                    "shotsOnWoodwork": {
-                      "qty": 0
-                    },
-                    "shotsOffTarget": {
-                      "qty": 0
-                    },
-                    "stealings": {
-                      "qty": 0
-                    },
-                    "yellowCards": {
-                      "qty": 0
-                    }
-                  }
-                },
-                "195341": {
-                  "info": {
-                    "teamId": 10529,
-                    "squadNo": 8,
-                    "posnId": 3,
-                    "order": 30,
-                    "country": "Bolivia",
-                    "birthdate": "2000-08-20",
-                    "age": 26,
-                    "name": {
-                      "first": "Josué Limberth",
-                      "middle": "Limberth",
-                      "last": "Mamani Tumiri",
-                      "nick": null
-                    },
-                    "ht": null,
-                    "wt": null,
-                    "gender": "m"
-                  },
-                  "summary": {
-                    "minutesPlayed": {
-                      "qty": 512
+                      "qty": 515
                     },
                     "matches": {
                       "qty": 8
@@ -42104,7 +42097,7 @@
                       "qty": 0
                     },
                     "redCards": {
-                      "qty": 0
+                      "qty": 1
                     },
                     "shots": {
                       "qty": 0
@@ -42122,35 +42115,35 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 2
                     }
                   }
                 },
-                "56189": {
+                "195341": {
                   "info": {
                     "teamId": 10529,
-                    "squadNo": 6,
+                    "squadNo": 8,
                     "posnId": 3,
                     "order": 31,
                     "country": "Bolivia",
-                    "birthdate": "1988-02-28",
-                    "age": 38,
+                    "birthdate": "2000-08-20",
+                    "age": 26,
                     "name": {
-                      "first": "Víctor Hugo",
-                      "middle": "Hugo",
-                      "last": "Melgar Bejarano",
+                      "first": "Josué Limberth",
+                      "middle": "Limberth",
+                      "last": "Mamani Tumiri",
                       "nick": null
                     },
-                    "ht": "1.68m",
-                    "wt": "62kg",
+                    "ht": null,
+                    "wt": null,
                     "gender": "m"
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 70
+                      "qty": 610
                     },
                     "matches": {
-                      "qty": 3
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -42198,7 +42191,83 @@
                       "qty": 0
                     },
                     "yellowCards": {
+                      "qty": 1
+                    }
+                  }
+                },
+                "56189": {
+                  "info": {
+                    "teamId": 10529,
+                    "squadNo": 6,
+                    "posnId": 3,
+                    "order": 32,
+                    "country": "Bolivia",
+                    "birthdate": "1988-02-28",
+                    "age": 38,
+                    "name": {
+                      "first": "Víctor Hugo",
+                      "middle": "Hugo",
+                      "last": "Melgar Bejarano",
+                      "nick": null
+                    },
+                    "ht": "1.68m",
+                    "wt": "62kg",
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 168
+                    },
+                    "matches": {
+                      "qty": 4
+                    },
+                    "assists": {
                       "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 1
                     }
                   }
                 },
@@ -42207,8 +42276,8 @@
                     "teamId": 10529,
                     "squadNo": 30,
                     "posnId": 4,
-                    "order": 32,
-                    "country": null,
+                    "order": 33,
+                    "country": "Bolivia",
                     "birthdate": null,
                     "age": null,
                     "name": {
@@ -42283,7 +42352,7 @@
                     "teamId": 10529,
                     "squadNo": 5,
                     "posnId": 3,
-                    "order": 33,
+                    "order": 34,
                     "country": "Argentina",
                     "birthdate": "2003-03-27",
                     "age": 23,
@@ -42359,7 +42428,7 @@
                     "teamId": 10529,
                     "squadNo": 11,
                     "posnId": 4,
-                    "order": 34,
+                    "order": 35,
                     "country": "Argentina",
                     "birthdate": "1998-05-25",
                     "age": 28,
@@ -42375,10 +42444,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 224
+                      "qty": 273
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -42426,7 +42495,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 1
+                      "qty": 2
                     }
                   }
                 },
@@ -42435,7 +42504,7 @@
                     "teamId": 10529,
                     "squadNo": null,
                     "posnId": 4,
-                    "order": 35,
+                    "order": 36,
                     "country": "Bolivia",
                     "birthdate": "2000-01-24",
                     "age": 26,
@@ -42511,7 +42580,7 @@
                     "teamId": 10529,
                     "squadNo": 20,
                     "posnId": 3,
-                    "order": 36,
+                    "order": 37,
                     "country": "Bolivia",
                     "birthdate": "2004-04-13",
                     "age": 22,
@@ -42587,7 +42656,7 @@
                     "teamId": 10529,
                     "squadNo": 30,
                     "posnId": 4,
-                    "order": 37,
+                    "order": 38,
                     "country": "Bolivia",
                     "birthdate": "2008-04-26",
                     "age": 18,
@@ -42663,7 +42732,7 @@
                     "teamId": 10529,
                     "squadNo": 21,
                     "posnId": 3,
-                    "order": 38,
+                    "order": 39,
                     "country": "Bolivia",
                     "birthdate": "1998-05-20",
                     "age": 28,
@@ -42739,7 +42808,7 @@
                     "teamId": 10529,
                     "squadNo": 1,
                     "posnId": 1,
-                    "order": 39,
+                    "order": 40,
                     "country": "Argentina",
                     "birthdate": "1993-04-11",
                     "age": 33,
@@ -42815,7 +42884,7 @@
                     "teamId": 10529,
                     "squadNo": 12,
                     "posnId": 3,
-                    "order": 40,
+                    "order": 41,
                     "country": "Bolivia",
                     "birthdate": "1995-08-15",
                     "age": 31,
@@ -42891,10 +42960,10 @@
                     "teamId": 10529,
                     "squadNo": 24,
                     "posnId": 2,
-                    "order": 41,
+                    "order": 42,
                     "country": "Paraguay",
                     "birthdate": "1991-09-24",
-                    "age": 34,
+                    "age": 35,
                     "name": {
                       "first": "Merardo David",
                       "middle": "David",
@@ -42907,10 +42976,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1305
+                      "qty": 1403
                     },
                     "matches": {
-                      "qty": 13
+                      "qty": 14
                     },
                     "assists": {
                       "qty": 0
@@ -42967,10 +43036,10 @@
                     "teamId": 10529,
                     "squadNo": 2,
                     "posnId": 2,
-                    "order": 42,
+                    "order": 43,
                     "country": "Argentina",
                     "birthdate": "1989-09-19",
-                    "age": 36,
+                    "age": 37,
                     "name": {
                       "first": "Jorge Matías",
                       "middle": "Matías",
@@ -43043,7 +43112,7 @@
                     "teamId": 10529,
                     "squadNo": 32,
                     "posnId": 2,
-                    "order": 43,
+                    "order": 44,
                     "country": "Bolivia",
                     "birthdate": "1993-10-23",
                     "age": 32,
@@ -43059,10 +43128,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 806
+                      "qty": 855
                     },
                     "matches": {
-                      "qty": 10
+                      "qty": 11
                     },
                     "assists": {
                       "qty": 0
@@ -43119,7 +43188,7 @@
                     "teamId": 10529,
                     "squadNo": 48,
                     "posnId": 2,
-                    "order": 44,
+                    "order": 45,
                     "country": "Bolivia",
                     "birthdate": null,
                     "age": null,
@@ -43193,9 +43262,9 @@
                 "316964": {
                   "info": {
                     "teamId": 10529,
-                    "squadNo": 65,
+                    "squadNo": 64,
                     "posnId": 3,
-                    "order": 45,
+                    "order": 46,
                     "country": "Bolivia",
                     "birthdate": "2006-09-04",
                     "age": 20,
@@ -43271,10 +43340,10 @@
                     "teamId": 10529,
                     "squadNo": 26,
                     "posnId": 3,
-                    "order": 46,
+                    "order": 47,
                     "country": "Argentina",
                     "birthdate": "1997-09-18",
-                    "age": 28,
+                    "age": 29,
                     "name": {
                       "first": "Fabio Agustín",
                       "middle": "Agustín",
@@ -43347,7 +43416,7 @@
                     "teamId": 10529,
                     "squadNo": 28,
                     "posnId": 3,
-                    "order": 47,
+                    "order": 48,
                     "country": "Bolivia",
                     "birthdate": "1993-10-15",
                     "age": 32,
@@ -43423,7 +43492,7 @@
                     "teamId": 10529,
                     "squadNo": 50,
                     "posnId": 3,
-                    "order": 48,
+                    "order": 49,
                     "country": "República Dominicana",
                     "birthdate": "2005-12-03",
                     "age": 20,
@@ -43439,10 +43508,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 247
+                      "qty": 296
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -43499,7 +43568,7 @@
                     "teamId": 10529,
                     "squadNo": 7,
                     "posnId": 3,
-                    "order": 49,
+                    "order": 50,
                     "country": "Bolivia",
                     "birthdate": "1991-12-25",
                     "age": 34,
@@ -43515,10 +43584,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 900
+                      "qty": 969
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -43670,7 +43739,7 @@
                   "qty": 0
                 },
                 "yellowCards": {
-                  "qty": 43
+                  "qty": 45
                 }
               },
               "players": {
@@ -43682,7 +43751,7 @@
                     "order": 1,
                     "country": "Bolivia",
                     "birthdate": "2008-10-08",
-                    "age": 17,
+                    "age": 18,
                     "name": {
                       "first": "Fernando",
                       "middle": null,
@@ -43771,10 +43840,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1570
+                      "qty": 1610
                     },
                     "matches": {
-                      "qty": 18
+                      "qty": 19
                     },
                     "assists": {
                       "qty": 0
@@ -44075,10 +44144,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 144
+                      "qty": 242
                     },
                     "matches": {
-                      "qty": 4
+                      "qty": 5
                     },
                     "assists": {
                       "qty": 0
@@ -44138,7 +44207,7 @@
                     "order": 7,
                     "country": "Colombia",
                     "birthdate": "1997-10-01",
-                    "age": 28,
+                    "age": 29,
                     "name": {
                       "first": "Andrés Felipe",
                       "middle": "Felipe",
@@ -44227,10 +44296,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 669
+                      "qty": 692
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -44379,10 +44448,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 2015
+                      "qty": 2113
                     },
                     "matches": {
-                      "qty": 20
+                      "qty": 21
                     },
                     "assists": {
                       "qty": 2
@@ -44738,12 +44807,88 @@
                     }
                   }
                 },
+                "350291": {
+                  "info": {
+                    "teamId": 11267,
+                    "squadNo": 38,
+                    "posnId": 3,
+                    "order": 15,
+                    "country": "Bolivia",
+                    "birthdate": null,
+                    "age": null,
+                    "name": {
+                      "first": "Nicolas Gonzalo",
+                      "middle": "Gonzalo",
+                      "last": "Lopez Mendoza",
+                      "nick": null
+                    },
+                    "ht": null,
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 0
+                    },
+                    "matches": {
+                      "qty": 0
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 0
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 0
+                    }
+                  }
+                },
                 "35940": {
                   "info": {
                     "teamId": 11267,
                     "squadNo": 15,
                     "posnId": 3,
-                    "order": 15,
+                    "order": 16,
                     "country": "Bolivia",
                     "birthdate": "1990-06-20",
                     "age": 36,
@@ -44759,10 +44904,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1218
+                      "qty": 1293
                     },
                     "matches": {
-                      "qty": 17
+                      "qty": 18
                     },
                     "assists": {
                       "qty": 0
@@ -44810,7 +44955,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 8
+                      "qty": 9
                     }
                   }
                 },
@@ -44819,7 +44964,7 @@
                     "teamId": 11267,
                     "squadNo": 33,
                     "posnId": 3,
-                    "order": 16,
+                    "order": 17,
                     "country": "Bolivia",
                     "birthdate": "2003-01-02",
                     "age": 23,
@@ -44895,7 +45040,7 @@
                     "teamId": 11267,
                     "squadNo": 13,
                     "posnId": 4,
-                    "order": 17,
+                    "order": 18,
                     "country": "Argentina",
                     "birthdate": "1995-06-28",
                     "age": 31,
@@ -44911,10 +45056,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 428
+                      "qty": 486
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -44971,7 +45116,7 @@
                     "teamId": 11267,
                     "squadNo": 18,
                     "posnId": 4,
-                    "order": 18,
+                    "order": 19,
                     "country": "Bolivia",
                     "birthdate": "2001-06-25",
                     "age": 25,
@@ -44987,10 +45132,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1210
+                      "qty": 1308
                     },
                     "matches": {
-                      "qty": 19
+                      "qty": 20
                     },
                     "assists": {
                       "qty": 0
@@ -45047,7 +45192,7 @@
                     "teamId": 11267,
                     "squadNo": 34,
                     "posnId": 3,
-                    "order": 19,
+                    "order": 20,
                     "country": "Bolivia",
                     "birthdate": "2004-05-11",
                     "age": 22,
@@ -45123,7 +45268,7 @@
                     "teamId": 11267,
                     "squadNo": 6,
                     "posnId": 3,
-                    "order": 20,
+                    "order": 21,
                     "country": "Bolivia",
                     "birthdate": "2006-05-13",
                     "age": 20,
@@ -45139,10 +45284,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1131
+                      "qty": 1167
                     },
                     "matches": {
-                      "qty": 16
+                      "qty": 17
                     },
                     "assists": {
                       "qty": 0
@@ -45199,7 +45344,7 @@
                     "teamId": 11267,
                     "squadNo": 8,
                     "posnId": 3,
-                    "order": 21,
+                    "order": 22,
                     "country": "Bolivia",
                     "birthdate": "2007-07-17",
                     "age": 19,
@@ -45275,7 +45420,7 @@
                     "teamId": 11267,
                     "squadNo": 9,
                     "posnId": 4,
-                    "order": 22,
+                    "order": 23,
                     "country": "Colombia",
                     "birthdate": "2001-11-02",
                     "age": 24,
@@ -45351,7 +45496,7 @@
                     "teamId": 11267,
                     "squadNo": 2,
                     "posnId": 2,
-                    "order": 23,
+                    "order": 24,
                     "country": "Bolivia",
                     "birthdate": "2006-04-23",
                     "age": 20,
@@ -45427,7 +45572,7 @@
                     "teamId": 11267,
                     "squadNo": 11,
                     "posnId": 3,
-                    "order": 24,
+                    "order": 25,
                     "country": "Colombia",
                     "birthdate": "1996-03-06",
                     "age": 30,
@@ -45503,7 +45648,7 @@
                     "teamId": 11267,
                     "squadNo": 44,
                     "posnId": 2,
-                    "order": 25,
+                    "order": 26,
                     "country": "Bolivia",
                     "birthdate": "2006-02-03",
                     "age": 20,
@@ -45519,10 +45664,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 428
+                      "qty": 526
                     },
                     "matches": {
-                      "qty": 8
+                      "qty": 9
                     },
                     "assists": {
                       "qty": 0
@@ -45570,7 +45715,7 @@
                       "qty": 0
                     },
                     "yellowCards": {
-                      "qty": 0
+                      "qty": 1
                     }
                   }
                 },
@@ -45579,7 +45724,7 @@
                     "teamId": 11267,
                     "squadNo": 16,
                     "posnId": 2,
-                    "order": 26,
+                    "order": 27,
                     "country": "Bolivia",
                     "birthdate": "2009-01-22",
                     "age": 17,
@@ -45655,7 +45800,7 @@
                     "teamId": 11267,
                     "squadNo": 4,
                     "posnId": 2,
-                    "order": 27,
+                    "order": 28,
                     "country": "Bolivia",
                     "birthdate": "1994-08-22",
                     "age": 32,
@@ -45671,10 +45816,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 263
+                      "qty": 337
                     },
                     "matches": {
-                      "qty": 5
+                      "qty": 6
                     },
                     "assists": {
                       "qty": 0
@@ -45731,7 +45876,7 @@
                     "teamId": 11267,
                     "squadNo": 26,
                     "posnId": 2,
-                    "order": 28,
+                    "order": 29,
                     "country": "Bolivia",
                     "birthdate": "2001-08-03",
                     "age": 25,
@@ -45807,7 +45952,7 @@
                     "teamId": 11267,
                     "squadNo": 16,
                     "posnId": 4,
-                    "order": 29,
+                    "order": 30,
                     "country": "Cabo Verde",
                     "birthdate": "1999-04-01",
                     "age": 27,
@@ -45883,7 +46028,7 @@
                     "teamId": 11267,
                     "squadNo": 25,
                     "posnId": 2,
-                    "order": 30,
+                    "order": 31,
                     "country": "Bolivia",
                     "birthdate": "1997-11-21",
                     "age": 28,
@@ -45959,7 +46104,7 @@
                     "teamId": 11267,
                     "squadNo": 10,
                     "posnId": 3,
-                    "order": 31,
+                    "order": 32,
                     "country": "Bolivia",
                     "birthdate": "2000-08-25",
                     "age": 26,
@@ -45975,10 +46120,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1647
+                      "qty": 1745
                     },
                     "matches": {
-                      "qty": 17
+                      "qty": 18
                     },
                     "assists": {
                       "qty": 1
@@ -46035,7 +46180,7 @@
                     "teamId": 11267,
                     "squadNo": 9,
                     "posnId": 4,
-                    "order": 32,
+                    "order": 33,
                     "country": "Uruguay",
                     "birthdate": "2001-04-11",
                     "age": 25,
@@ -46111,7 +46256,7 @@
                     "teamId": 11267,
                     "squadNo": 24,
                     "posnId": 2,
-                    "order": 33,
+                    "order": 34,
                     "country": "Bolivia",
                     "birthdate": "2002-05-31",
                     "age": 24,
@@ -46187,7 +46332,7 @@
                     "teamId": 11267,
                     "squadNo": 20,
                     "posnId": 4,
-                    "order": 34,
+                    "order": 35,
                     "country": "Bolivia",
                     "birthdate": "1994-10-19",
                     "age": 31,
@@ -46203,10 +46348,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 253
+                      "qty": 277
                     },
                     "matches": {
-                      "qty": 7
+                      "qty": 8
                     },
                     "assists": {
                       "qty": 0
@@ -46263,7 +46408,7 @@
                     "teamId": 11267,
                     "squadNo": 35,
                     "posnId": 3,
-                    "order": 35,
+                    "order": 36,
                     "country": "Bolivia",
                     "birthdate": "2007-10-24",
                     "age": 18,
@@ -46334,82 +46479,6 @@
                     }
                   }
                 },
-                "209928": {
-                  "info": {
-                    "teamId": 11267,
-                    "squadNo": 45,
-                    "posnId": 3,
-                    "order": 36,
-                    "country": "Bolivia",
-                    "birthdate": "1994-12-14",
-                    "age": 31,
-                    "name": {
-                      "first": "Sergio Fabián",
-                      "middle": "Fabián",
-                      "last": "Villamil Cortez",
-                      "nick": null
-                    },
-                    "ht": null,
-                    "wt": null,
-                    "gender": "m"
-                  },
-                  "summary": {
-                    "minutesPlayed": {
-                      "qty": 552
-                    },
-                    "matches": {
-                      "qty": 6
-                    },
-                    "assists": {
-                      "qty": 0
-                    },
-                    "cornerKicks": {
-                      "qty": 0
-                    },
-                    "fouls": {
-                      "qty": 0
-                    },
-                    "foulsReceived": {
-                      "qty": 0
-                    },
-                    "goals": {
-                      "qty": 0
-                    },
-                    "correctPasses": {
-                      "qty": 0
-                    },
-                    "incorrectPasses": {
-                      "qty": 0
-                    },
-                    "allPasses": {
-                      "qty": 0
-                    },
-                    "offsides": {
-                      "qty": 0
-                    },
-                    "redCards": {
-                      "qty": 1
-                    },
-                    "shots": {
-                      "qty": 0
-                    },
-                    "shotsOnTarget": {
-                      "qty": 0
-                    },
-                    "shotsOnWoodwork": {
-                      "qty": 0
-                    },
-                    "shotsOffTarget": {
-                      "qty": 0
-                    },
-                    "stealings": {
-                      "qty": 0
-                    },
-                    "yellowCards": {
-                      "qty": 1
-                    }
-                  }
-                },
                 "190402": {
                   "info": {
                     "teamId": 11267,
@@ -46418,7 +46487,7 @@
                     "order": 37,
                     "country": "Bolivia",
                     "birthdate": "1992-10-05",
-                    "age": 33,
+                    "age": 34,
                     "name": {
                       "first": "Jaime Enrique",
                       "middle": "Enrique",
@@ -46486,12 +46555,88 @@
                     }
                   }
                 },
+                "209928": {
+                  "info": {
+                    "teamId": 11267,
+                    "squadNo": 45,
+                    "posnId": 3,
+                    "order": 38,
+                    "country": "Bolivia",
+                    "birthdate": "1994-12-14",
+                    "age": 31,
+                    "name": {
+                      "first": "Sergio Fabián",
+                      "middle": "Fabián",
+                      "last": "Villamil Cortez",
+                      "nick": null
+                    },
+                    "ht": null,
+                    "wt": null,
+                    "gender": "m"
+                  },
+                  "summary": {
+                    "minutesPlayed": {
+                      "qty": 650
+                    },
+                    "matches": {
+                      "qty": 7
+                    },
+                    "assists": {
+                      "qty": 0
+                    },
+                    "cornerKicks": {
+                      "qty": 0
+                    },
+                    "fouls": {
+                      "qty": 0
+                    },
+                    "foulsReceived": {
+                      "qty": 0
+                    },
+                    "goals": {
+                      "qty": 0
+                    },
+                    "correctPasses": {
+                      "qty": 0
+                    },
+                    "incorrectPasses": {
+                      "qty": 0
+                    },
+                    "allPasses": {
+                      "qty": 0
+                    },
+                    "offsides": {
+                      "qty": 0
+                    },
+                    "redCards": {
+                      "qty": 1
+                    },
+                    "shots": {
+                      "qty": 0
+                    },
+                    "shotsOnTarget": {
+                      "qty": 0
+                    },
+                    "shotsOnWoodwork": {
+                      "qty": 0
+                    },
+                    "shotsOffTarget": {
+                      "qty": 0
+                    },
+                    "stealings": {
+                      "qty": 0
+                    },
+                    "yellowCards": {
+                      "qty": 1
+                    }
+                  }
+                },
                 "305826": {
                   "info": {
                     "teamId": 11267,
                     "squadNo": 14,
                     "posnId": 2,
-                    "order": 38,
+                    "order": 39,
                     "country": "Bolivia",
                     "birthdate": "2000-01-01",
                     "age": 26,
@@ -46507,10 +46652,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 1252
+                      "qty": 1350
                     },
                     "matches": {
-                      "qty": 14
+                      "qty": 15
                     },
                     "assists": {
                       "qty": 0
@@ -46567,7 +46712,7 @@
                     "teamId": 11267,
                     "squadNo": 71,
                     "posnId": 1,
-                    "order": 39,
+                    "order": 40,
                     "country": "Bolivia",
                     "birthdate": "2009-07-15",
                     "age": 17,
@@ -46643,7 +46788,7 @@
                     "teamId": 11267,
                     "squadNo": 19,
                     "posnId": 4,
-                    "order": 40,
+                    "order": 41,
                     "country": "Bolivia",
                     "birthdate": "2005-04-08",
                     "age": 21,
@@ -46659,10 +46804,10 @@
                   },
                   "summary": {
                     "minutesPlayed": {
-                      "qty": 513
+                      "qty": 575
                     },
                     "matches": {
-                      "qty": 12
+                      "qty": 13
                     },
                     "assists": {
                       "qty": 0
@@ -46719,7 +46864,7 @@
                     "teamId": 11267,
                     "squadNo": 40,
                     "posnId": 4,
-                    "order": 41,
+                    "order": 42,
                     "country": "Brasil",
                     "birthdate": "2003-01-04",
                     "age": 23,
@@ -56772,8 +56917,8 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:52-04:00",
-      "duracion_ms": 755,
+      "actualizado_en": "2026-10-10T12:46:46-04:00",
+      "duracion_ms": 1048,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
       "cantidad_noticias": 0,
@@ -56785,24 +56930,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Gobierno afirma que Mariaca tenía legisladores, policías y jueces vinculados a su estructura Ver más",
-              "2 Paz se queda sin el bloque de Samuel en el gobierno; Santamaría \"permanece por decisión personal\" Ver más"
+              "1 Otorgan el Premio Nobel de la Paz 2026 a la jurista sudafricana Navanethem “Navi” Pillay Ver más",
+              "2 Trump anuncia que Rusia venderá diésel a EEUU y al mundo Ver más"
             ],
             [
-              "3 Nobel de Química : Kagan y Soai resuelven misterio de más de un siglo sobre las moléculas de la vida Ver más",
-              "4 Urioste revela que un “amigo empresario” le pidió su hoja de vida para postularlo para fiscal general Ver más"
+              "3 Nicolás Maduro y Cilia Flores, acusados en EE UU de nuevos cargos de tortura y represión Ver más",
+              "4 Hallan explosivos en casa de un allegado de Del Castillo Ver más"
             ],
             [
-              "5 Fiscalía anula sistema de datos sobre procesos tras denuncias de vulneración Ver más",
-              "6 Cámara de Diputados sancionó proyecto de ley sobre pasajes aéreos solidarios para pacientes críticos Ver más"
+              "5 Autoridades intervienen explotación irregular de oro en río de Potosí Ver más",
+              "6 Rescatan a un puma y un mono araña en Santa Cruz Ver más"
             ],
             [
-              "7 Dan seis meses de detención preventiva a Nelson Virreira en cárcel de San Sebastián Ver más",
-              "8 Hallan en Potosí explotación irregular de oro con 500 trabajadores Ver más"
+              "7 Cochabamba reclama por despidos de casi 50 profesionales de salud y exige nuevos ítems Ver más",
+              "8 Gobernación entrega 44 toneladas de forraje a los afectados por los incendios en Mizque Ver más"
             ],
             [
-              "9 Gobierno proyecta ingreso temporal de FFAA en lucha antidroga y crimen Ver más",
-              "10 3 presos sufren quemaduras por explosión en Cantumarca Ver más"
+              "9 Hallan más dinero y joyas en oficina de Mariaca tras el desprecintado Ver más",
+              "10 Defensa afirma que las marchas pacíficas están garantizadas, pero no se permitirán bloqueos Ver más"
             ]
           ]
         },
@@ -56812,11 +56957,11 @@
           "columnas": [],
           "filas": [
             [
-              "08/10/2026 Seguridad Nueva balacera en San Ignacio de Velasco: encapuchados disparan contra una vivienda Una nueva balacera se registró la noche de este jueves en el barrio Santa Rosita, en el municipio de San Ignacio de Velasco, Santa Cruz, donde dos sujetos... vista",
-              "08/10/2026 País Urioste revela que un “amigo empresario” le pidió su hoja de vida para postularlo para fiscal general El fiscal general del Estado interino, José Armando Urioste, reveló que un “amigo empresario” le pidió su hoja de vida para postularlo al cargo, al que llegó... vista",
+              "09/10/2026 País Ávila revela que Paz sugirió a Urioste para fiscal general interino El titular de ese cargo fue designado por la ALP el sábado 3 de octubre, en la sexta votación, luego de cinco en las que su nombre no figuraba entre las... vista",
+              "09/10/2026 Seguridad Rescatan a un puma y un mono araña en Santa Cruz La Gobernación de Santa Cruz informó este viernes sobre el rescate de un puma neonato y un mono araña, en un trabajo coordinado entre distintas instituciones. vista",
               "",
-              "08/10/2026 Economía BCB ratifica que la inflación este año será de 9,2% El alza de precios en “agosto y septiembre fue menor a la prevista y ese menor punto de partida compensa el efecto del nuevo precio del diésel”, constata el... vista",
-              "08/10/2026 Economía Hallan en Potosí explotación irregular de oro con 500 trabajadores Una denuncia permitió a la Autoridad Jurisdiccional Administrativa Minera descubrir gran cantidad de vehículos y maquinaria pesada realizando actividades de... vista"
+              "09/10/2026 País Piden a Urioste revele qué empresario lo postuló para Fiscal ante la Asamblea Tras admitir que su nombre para la elección como Fiscal General fue sugerido por “un empresario”, ayer José Armando Urioste recibió críticas y pedidos de... vista",
+              "09/10/2026 Seguridad Hallan explosivos en casa de un allegado de Del Castillo La búsqueda del exministro de Gobierno, este viernes hubo dos allanamientos de domicilios, uno suyo y otro de un “personaje clave” de su entorno. vista"
             ]
           ]
         },
@@ -56840,11 +56985,11 @@
           "columnas": [],
           "filas": [
             [
+              "La escritora y ensayista canadiense Anne Carson, de 76 años, fue galardonada ayer por la Academia Sueca con el Premo... Ver más 09/10/2026 Cultura Anne Carson es la decimonovena mujer en ganar el Nobel de Literatura",
               "Expansiva, así será la decimonovena Feria Internacional del Libro de Cochabamba (FILC) que se inauguró ayer en el... Ver más 08/10/2026 Cultura Ponen en marcha una Feria Internacional del Libro expansiva",
-              "Es la tercera presentación teatral del festival Mujeres en escena que se prolonga hasta el sábado 11, con un desfile de... Ver más 07/10/2026 Cultura La Madrastra presenta “Anne” en el mARTadero",
               "",
-              "El popular cantautor argentino de origen italiano tenía 81 años, estaba activo y continuaba desarrollando su carrera... Ver más 07/10/2026 Música Murió Piero, el cantante de \"Mi viejo\"",
-              "Llegó el día, hoy se levanta el telón de la decimonovena Feria Internacional del Libro de Cochabamba (FILC) en el... Ver más 07/10/2026 Cultura Se levanta el telón de la XIX Feria Internacional del Libro de Cochabamba"
+              "Es la tercera presentación teatral del festival Mujeres en escena que se prolonga hasta el sábado 11, con un desfile de... Ver más 07/10/2026 Cultura La Madrastra presenta “Anne” en el mARTadero",
+              "El popular cantautor argentino de origen italiano tenía 81 años, estaba activo y continuaba desarrollando su carrera... Ver más 07/10/2026 Música Murió Piero, el cantante de \"Mi viejo\""
             ]
           ]
         }
@@ -56864,8 +57009,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:54-04:00",
-      "duracion_ms": 1416,
+      "actualizado_en": "2026-10-10T12:46:49-04:00",
+      "duracion_ms": 1558,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -57006,8 +57151,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:50:56-04:00",
-      "duracion_ms": 305,
+      "actualizado_en": "2026-10-10T12:46:50-04:00",
+      "duracion_ms": 429,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57028,10 +57173,10 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:51:08-04:00",
-      "duracion_ms": 11283,
+      "actualizado_en": "2026-10-10T12:46:56-04:00",
+      "duracion_ms": 4854,
       "titulo_pagina": "Marcas",
-      "cantidad_tablas": 5,
+      "cantidad_tablas": 2,
       "cantidad_noticias": 14,
       "cantidad_equipos": 0,
       "tablas": [
@@ -57043,360 +57188,579 @@
           ],
           "filas": [
             {
-              "columna_1": "octubre 8, 2026 1 - 1 N/D Blooming vs Bolívar"
+              "columna_1": "octubre 12, 2026 5:15 pm N/D Always Ready vs Independiente"
             },
             {
-              "columna_1": "octubre 8, 2026 2 - 3 N/D Always Ready vs Nacional Potosí"
+              "columna_1": "octubre 12, 2026 3:00 pm N/D GV San José vs Guabirá"
             },
             {
-              "columna_1": "octubre 7, 2026 2 - 0 N/D Oriente Petrolero vs FC Universitario"
+              "columna_1": "octubre 11, 2026 7:30 pm N/D Bolívar vs Blooming"
             },
             {
-              "columna_1": "octubre 7, 2026 1 - 0 N/D Independiente vs GV San José"
+              "columna_1": "octubre 11, 2026 5:15 pm N/D Aurora vs Nacional Potosí"
             },
             {
-              "columna_1": "octubre 7, 2026 2 - 1 N/D Guabirá vs The Strongest"
+              "columna_1": "octubre 11, 2026 3:45 pm N/D Real Potosí vs The Strongest"
             },
             {
-              "columna_1": "octubre 6, 2026 2 - 0 N/D Aurora vs A. B. B."
+              "columna_1": "octubre 10, 2026 7:30 pm N/D Oriente Petrolero vs A. B. B."
             },
             {
-              "columna_1": "octubre 6, 2026 4 - 2 N/D Real Potosí vs San Antonio"
+              "columna_1": "octubre 10, 2026 3:00 pm N/D FC Universitario vs CDT Real Oruro"
             },
             {
-              "columna_1": "octubre 6, 2026 4 - 0 N/D CDT Real Oruro vs Real Tomayapo"
+              "columna_1": "octubre 9, 2026 0 - 0 N/D San Antonio vs Real Tomayapo"
             },
             {
-              "columna_1": "octubre 4, 2026 3 - 0 N/D Independiente vs Bolívar"
+              "columna_1": "septiembre 18, 2026 1 - 3 N/D Independiente vs San Antonio"
             },
             {
-              "columna_1": "octubre 4, 2026 2 - 1 N/D Guabirá vs Oriente Petrolero"
+              "columna_1": "septiembre 17, 2026 4 - 2 N/D Bolívar vs GV San José"
             },
             {
-              "columna_1": "octubre 4, 2026 3 - 2 N/D GV San José vs Blooming"
+              "columna_1": "septiembre 17, 2026 0 - 2 N/D Real Tomayapo vs Oriente Petrolero"
             },
             {
-              "columna_1": "octubre 3, 2026 5 - 2 N/D The Strongest vs FC Universitario"
+              "columna_1": "septiembre 16, 2026 1 - 1 N/D Blooming vs FC Universitario"
             },
             {
-              "columna_1": "octubre 3, 2026 2 - 0 N/D Nacional Potosí vs CDT Real Oruro"
+              "columna_1": "septiembre 16, 2026 0 - 4 N/D Nacional Potosí vs Always Ready"
             },
             {
-              "columna_1": "octubre 3, 2026 4 - 0 N/D Always Ready vs Real Tomayapo"
+              "columna_1": "septiembre 16, 2026 3 - 1 N/D Guabirá vs Aurora"
             },
             {
-              "columna_1": "octubre 2, 2026 1 - 1 N/D Real Potosí vs Aurora"
+              "columna_1": "septiembre 15, 2026 0 - 2 N/D CDT Real Oruro vs Real Potosí"
             },
             {
-              "columna_1": "octubre 2, 2026 0 - 2 N/D San Antonio vs A. B. B."
+              "columna_1": "septiembre 15, 2026 1 - 2 N/D A. B. B. vs The Strongest"
             },
             {
-              "columna_1": "octubre 1, 2026 0 - 1 N/D Blooming vs Independiente"
+              "columna_1": "septiembre 13, 2026 1 - 2 N/D Real Tomayapo vs Bolívar"
             },
             {
-              "columna_1": "octubre 1, 2026 3 - 2 N/D Bolívar vs Blooming"
+              "columna_1": "septiembre 13, 2026 3 - 1 N/D FC Universitario vs Independiente"
             },
             {
-              "columna_1": "septiembre 30, 2026 1 - 1 N/D Oriente Petrolero vs The Strongest"
+              "columna_1": "septiembre 13, 2026 6 - 0 N/D Always Ready vs Guabirá"
             },
             {
-              "columna_1": "septiembre 30, 2026 1 - 1 N/D Real Tomayapo vs Nacional Potosí"
+              "columna_1": "septiembre 12, 2026 6 - 1 N/D Blooming vs A. B. B."
             },
             {
-              "columna_1": "septiembre 30, 2026 2 - 2 N/D CDT Real Oruro vs Always Ready"
+              "columna_1": "septiembre 12, 2026 5 - 0 N/D The Strongest vs CDT Real Oruro"
             },
             {
-              "columna_1": "septiembre 29, 2026 2 - 2 N/D Aurora vs San Antonio"
+              "columna_1": "septiembre 12, 2026 0 - 3 N/D GV San José vs Nacional Potosí"
             },
             {
-              "columna_1": "septiembre 29, 2026 3 - 1 N/D Real Potosí vs A. B. B."
+              "columna_1": "septiembre 11, 2026 2 - 1 N/D Real Potosí vs Oriente Petrolero"
             },
             {
-              "columna_1": "septiembre 29, 2026 3 - 1 N/D FC Universitario vs Guabirá"
+              "columna_1": "septiembre 11, 2026 0 - 2 N/D San Antonio vs Aurora"
             },
             {
-              "columna_1": "septiembre 27, 2026 2 - 1 N/D Real Tomayapo vs CDT Real Oruro"
+              "columna_1": "septiembre 6, 2026 2 - 1 N/D Nacional Potosí vs Blooming"
             },
             {
-              "columna_1": "septiembre 27, 2026 3 - 0 N/D Bolívar vs Blooming"
+              "columna_1": "septiembre 6, 2026 3 - 1 N/D The Strongest vs Real Tomayapo"
             },
             {
-              "columna_1": "septiembre 27, 2026 1 - 3 N/D GV San José vs Independiente"
+              "columna_1": "septiembre 6, 2026 0 - 4 N/D Independiente vs Bolívar"
             },
             {
-              "columna_1": "septiembre 26, 2026 3 - 0 N/D FC Universitario vs Oriente Petrolero"
+              "columna_1": "septiembre 5, 2026 1 - 2 N/D Oriente Petrolero vs Always Ready"
             },
             {
-              "columna_1": "septiembre 26, 2026 2 - 1 N/D The Strongest vs Guabirá"
+              "columna_1": "septiembre 5, 2026 3 - 0 N/D Aurora vs GV San José"
             },
             {
-              "columna_1": "septiembre 25, 2026 9 - 0 N/D Nacional Potosí vs Always Ready"
+              "columna_1": "septiembre 5, 2026 1 - 1 N/D Guabirá vs Real Potosí"
             },
             {
-              "columna_1": "septiembre 25, 2026 0 - 1 N/D A. B. B. vs Aurora"
+              "columna_1": "septiembre 4, 2026 2 - 0 N/D A. B. B. vs CDT Real Oruro"
             },
             {
-              "columna_1": "septiembre 25, 2026 3 - 0 N/D San Antonio vs Real Potosí"
+              "columna_1": "septiembre 4, 2026 2 - 0 N/D CDT Real Oruro vs San Antonio"
             },
             {
-              "columna_1": "septiembre 22, 2026 0 - 1 N/D Nacional Potosí vs Real Potosí"
+              "columna_1": "agosto 27, 2026 4 - 1 N/D Bolívar vs A. B. B."
             },
             {
-              "columna_1": "septiembre 21, 2026 5 - 1 N/D Independiente vs San Antonio"
+              "columna_1": "agosto 27, 2026 3 - 1 N/D Independiente vs Guabirá"
             },
             {
-              "columna_1": "septiembre 21, 2026 2 - 1 N/D Guabirá vs San Antonio"
+              "columna_1": "agosto 27, 2026 2 - 2 N/D Always Ready vs Aurora"
             },
             {
-              "columna_1": "septiembre 20, 2026 3 - 1 N/D Oriente Petrolero vs Blooming"
+              "columna_1": "agosto 26, 2026 1 - 1 N/D Blooming vs CDT Real Oruro"
             },
             {
-              "columna_1": "septiembre 20, 2026 1 - 1 N/D The Strongest vs Bolívar"
+              "columna_1": "agosto 26, 2026 0 - 1 N/D Real Potosí vs Real Tomayapo"
             },
             {
-              "columna_1": "septiembre 20, 2026 1 - 0 N/D CDT Real Oruro vs GV San José"
+              "columna_1": "agosto 26, 2026 0 - 3 N/D San Antonio vs The Strongest"
             },
             {
-              "columna_1": "septiembre 19, 2026 2 - 2 N/D Real Potosí vs Nacional Potosí"
+              "columna_1": "agosto 25, 2026 2 - 0 N/D FC Universitario vs Nacional Potosí"
             },
             {
-              "columna_1": "septiembre 19, 2026 4 - 2 N/D Aurora vs FC Universitario"
+              "columna_1": "agosto 25, 2026 3 - 3 N/D GV San José vs Oriente Petrolero"
             },
             {
-              "columna_1": "septiembre 19, 2026 1 - 4 N/D Always Ready vs A. B. B."
+              "columna_1": "agosto 23, 2026 1 - 1 N/D Real Tomayapo vs Always Ready"
             },
             {
-              "columna_1": "septiembre 10, 2026 1 - 1 N/D Bolívar vs Independiente"
+              "columna_1": "agosto 23, 2026 1 - 1 N/D Guabirá vs Blooming"
             },
             {
-              "columna_1": "septiembre 10, 2026 2 - 0 N/D Real Tomayapo vs Always Ready"
+              "columna_1": "agosto 23, 2026 2 - 4 N/D CDT Real Oruro vs Bolívar"
             },
             {
-              "columna_1": "septiembre 9, 2026 5 - 1 N/D Blooming vs GV San José"
+              "columna_1": "agosto 22, 2026 3 - 0 N/D Nacional Potosí vs Independiente"
             },
             {
-              "columna_1": "septiembre 9, 2026 1 - 2 N/D FC Universitario vs The Strongest"
+              "columna_1": "agosto 22, 2026 0 - 0 N/D Aurora vs Real Potosí"
             },
             {
-              "columna_1": "septiembre 9, 2026 0 - 2 N/D CDT Real Oruro vs Nacional Potosí"
+              "columna_1": "agosto 22, 2026 2 - 2 N/D A. B. B. vs GV San José"
             },
             {
-              "columna_1": "septiembre 8, 2026 1 - 0 N/D Oriente Petrolero vs Guabirá"
+              "columna_1": "agosto 21, 2026 4 - 0 N/D Oriente Petrolero vs San Antonio"
             },
             {
-              "columna_1": "septiembre 8, 2026 1 - 0 N/D Aurora vs Real Potosí"
+              "columna_1": "agosto 21, 2026 4 - 3 N/D The Strongest vs FC Universitario"
             },
             {
-              "columna_1": "septiembre 8, 2026 0 - 2 N/D A. B. B. vs San Antonio"
+              "columna_1": "agosto 16, 2026 1 - 0 N/D Independiente vs GV San José"
             },
             {
-              "columna_1": "septiembre 3, 2026 5 - 1 N/D Nacional Potosí vs Real Tomayapo"
+              "columna_1": "agosto 16, 2026 2 - 0 N/D Nacional Potosí vs A. B. B."
             },
             {
-              "columna_1": "septiembre 2, 2026 0 - 1 N/D GV San José vs Bolívar"
+              "columna_1": "agosto 16, 2026 1 - 1 N/D Always Ready vs Real Potosí"
             },
             {
-              "columna_1": "septiembre 1, 2026 1 - 1 N/D FC Universitario vs Aurora"
+              "columna_1": "agosto 15, 2026 3 - 0 N/D Blooming vs Aurora"
             },
             {
-              "columna_1": "agosto 31, 2026 3 - 0 N/D Real Tomayapo vs Independiente"
+              "columna_1": "agosto 15, 2026 3 - 1 N/D Guabirá vs The Strongest"
             },
             {
-              "columna_1": "agosto 31, 2026 5 - 1 N/D San Antonio vs Guabirá"
+              "columna_1": "agosto 15, 2026 2 - 3 N/D CDT Real Oruro vs Oriente Petrolero"
             },
             {
-              "columna_1": "agosto 30, 2026 0 - 3 N/D Blooming vs Oriente Petrolero"
+              "columna_1": "agosto 14, 2026 4 - 1 N/D Bolívar vs San Antonio"
             },
             {
-              "columna_1": "agosto 30, 2026 4 - 2 N/D Bolívar vs The Strongest"
+              "columna_1": "agosto 14, 2026 0 - 1 N/D FC Universitario vs Real Tomayapo"
             },
             {
-              "columna_1": "agosto 30, 2026 0 - 1 N/D A. B. B. vs Always Ready"
+              "columna_1": "agosto 9, 2026 5 - 0 N/D Oriente Petrolero vs FC Universitario"
             },
             {
-              "columna_1": "agosto 29, 2026 4 - 1 N/D GV San José vs CDT Real Oruro"
+              "columna_1": "agosto 9, 2026 2 - 0 N/D Real Potosí vs Blooming"
             },
             {
-              "columna_1": "agosto 20, 2026 4 - 2 N/D Always Ready vs CDT Real Oruro"
+              "columna_1": "agosto 9, 2026 2 - 3 N/D GV San José vs Always Ready"
             },
             {
-              "columna_1": "agosto 19, 2026 5 - 2 N/D Independiente vs Blooming"
+              "columna_1": "agosto 8, 2026 2 - 4 N/D Aurora vs Bolívar"
             },
             {
-              "columna_1": "agosto 19, 2026 2 - 3 N/D A. B. B. vs Real Potosí"
+              "columna_1": "agosto 8, 2026 1 - 2 N/D The Strongest vs Independiente"
             },
             {
-              "columna_1": "agosto 18, 2026 2 - 1 N/D The Strongest vs Oriente Petrolero"
+              "columna_1": "agosto 8, 2026 2 - 1 N/D San Antonio vs Nacional Potosí"
             },
             {
-              "columna_1": "agosto 18, 2026 2 - 1 N/D Guabirá vs FC Universitario"
+              "columna_1": "agosto 7, 2026 1 - 2 N/D Real Tomayapo vs CDT Real Oruro"
             },
             {
-              "columna_1": "agosto 18, 2026 0 - 1 N/D San Antonio vs Aurora"
+              "columna_1": "agosto 7, 2026 0 - 1 N/D A. B. B. vs Guabirá"
+            },
+            {
+              "columna_1": "agosto 6, 2026 0 - 0 N/D Blooming vs Always Ready"
+            },
+            {
+              "columna_1": "agosto 6, 2026 0 - 2 N/D FC Universitario vs Real Potosí"
+            },
+            {
+              "columna_1": "agosto 5, 2026 2 - 1 N/D Bolívar vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "agosto 5, 2026 2 - 3 N/D Nacional Potosí vs The Strongest"
+            },
+            {
+              "columna_1": "agosto 5, 2026 0 - 0 N/D GV San José vs San Antonio"
+            },
+            {
+              "columna_1": "agosto 4, 2026 3 - 0 N/D Guabirá vs Real Tomayapo"
+            },
+            {
+              "columna_1": "agosto 4, 2026 1 - 1 N/D Independiente vs Aurora"
+            },
+            {
+              "columna_1": "agosto 4, 2026 4 - 1 N/D A. B. B. vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "agosto 2, 2026 1 - 0 N/D Oriente Petrolero vs Nacional Potosí"
+            },
+            {
+              "columna_1": "agosto 2, 2026 1 - 0 N/D Always Ready vs Bolívar"
+            },
+            {
+              "columna_1": "agosto 2, 2026 0 - 0 N/D Real Potosí vs GV San José"
+            },
+            {
+              "columna_1": "agosto 1, 2026 2 - 0 N/D San Antonio vs Blooming"
+            },
+            {
+              "columna_1": "agosto 1, 2026 0 - 3 N/D CDT Real Oruro vs Independiente"
+            },
+            {
+              "columna_1": "julio 31, 2026 1 - 1 N/D Real Tomayapo vs A. B. B."
+            },
+            {
+              "columna_1": "julio 31, 2026 1 - 1 N/D The Strongest vs Aurora"
+            },
+            {
+              "columna_1": "julio 31, 2026 1 - 1 N/D FC Universitario vs Guabirá"
+            },
+            {
+              "columna_1": "julio 27, 2026 2 - 1 N/D GV San José vs FC Universitario"
+            },
+            {
+              "columna_1": "julio 26, 2026 4 - 1 N/D Nacional Potosí vs Real Tomayapo"
+            },
+            {
+              "columna_1": "julio 26, 2026 2 - 1 N/D Bolívar vs Real Potosí"
+            },
+            {
+              "columna_1": "julio 26, 2026 1 - 1 N/D Blooming vs The Strongest"
+            },
+            {
+              "columna_1": "julio 25, 2026 1 - 2 N/D Independiente vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "julio 25, 2026 4 - 1 N/D Guabirá vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "julio 25, 2026 3 - 1 N/D Always Ready vs San Antonio"
+            },
+            {
+              "columna_1": "julio 24, 2026 3 - 2 N/D Aurora vs A. B. B."
+            },
+            {
+              "columna_1": "julio 21, 2026 1 - 2 N/D Independiente vs Real Potosí"
+            },
+            {
+              "columna_1": "julio 20, 2026 1 - 4 N/D Nacional Potosí vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "julio 20, 2026 2 - 1 N/D San Antonio vs A. B. B."
+            },
+            {
+              "columna_1": "julio 19, 2026 1 - 0 N/D Blooming vs Real Tomayapo"
+            },
+            {
+              "columna_1": "julio 19, 2026 0 - 0 N/D GV San José vs The Strongest"
+            },
+            {
+              "columna_1": "julio 18, 2026 2 - 2 N/D Aurora vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "julio 18, 2026 4 - 0 N/D Always Ready vs FC Universitario"
+            },
+            {
+              "columna_1": "julio 17, 2026 4 - 0 N/D Bolívar vs Guabirá"
+            },
+            {
+              "columna_1": "julio 16, 2026 3 - 1 N/D A. B. B. vs Independiente"
+            },
+            {
+              "columna_1": "julio 15, 2026 2 - 1 N/D The Strongest vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "julio 15, 2026 5 - 0 N/D Real Potosí vs San Antonio"
+            },
+            {
+              "columna_1": "julio 14, 2026 1 - 1 N/D Blooming vs GV San José"
+            },
+            {
+              "columna_1": "julio 14, 2026 0 - 6 N/D CDT Real Oruro vs Always Ready"
+            },
+            {
+              "columna_1": "julio 12, 2026 2 - 1 N/D Real Tomayapo vs Independiente"
+            },
+            {
+              "columna_1": "julio 12, 2026 1 - 1 N/D The Strongest vs Bolívar"
+            },
+            {
+              "columna_1": "julio 12, 2026 1 - 1 N/D Real Potosí vs Nacional Potosí"
+            },
+            {
+              "columna_1": "julio 11, 2026 3 - 1 N/D CDT Real Oruro vs GV San José"
+            },
+            {
+              "columna_1": "julio 9, 2026 2 - 0 N/D Nacional Potosí vs Aurora"
+            },
+            {
+              "columna_1": "julio 8, 2026 3 - 1 N/D Real Potosí vs A. B. B."
+            },
+            {
+              "columna_1": "julio 8, 2026 4 - 1 N/D CDT Real Oruro vs FC Universitario"
+            },
+            {
+              "columna_1": "julio 7, 2026 3 - 2 N/D GV San José vs Real Tomayapo"
+            },
+            {
+              "columna_1": "junio 1, 2026 1 - 2 N/D FC Universitario vs Aurora"
+            },
+            {
+              "columna_1": "mayo 31, 2026 0 - 1 N/D Oriente Petrolero vs Blooming"
+            },
+            {
+              "columna_1": "mayo 30, 2026 1 - 3 N/D A. B. B. vs Always Ready"
+            },
+            {
+              "columna_1": "mayo 29, 2026 1 - 2 N/D San Antonio vs Guabirá"
+            },
+            {
+              "columna_1": "mayo 17, 2026 2 - 1 N/D Guabirá vs Nacional Potosí"
+            },
+            {
+              "columna_1": "mayo 16, 2026 3 - 2 N/D FC Universitario vs Bolívar"
+            },
+            {
+              "columna_1": "mayo 15, 2026 0 - 2 N/D Real Tomayapo vs Aurora"
+            },
+            {
+              "columna_1": "mayo 14, 2026 2 - 2 N/D Oriente Petrolero vs Guabirá"
+            },
+            {
+              "columna_1": "mayo 14, 2026 0 - 1 N/D Always Ready vs The Strongest"
+            },
+            {
+              "columna_1": "mayo 13, 2026 1 - 1 N/D Bolívar vs Nacional Potosí"
+            },
+            {
+              "columna_1": "mayo 13, 2026 3 - 1 N/D Independiente vs Blooming"
+            },
+            {
+              "columna_1": "mayo 12, 2026 1 - 1 N/D Aurora vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "mayo 12, 2026 0 - 2 N/D San Antonio vs FC Universitario"
+            },
+            {
+              "columna_1": "mayo 11, 2026 3 - 1 N/D A. B. B. vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "mayo 10, 2026 0 - 0 N/D Blooming vs Bolívar"
+            },
+            {
+              "columna_1": "mayo 10, 2026 0 - 0 N/D The Strongest vs Real Potosí"
+            },
+            {
+              "columna_1": "mayo 10, 2026 0 - 0 N/D Independiente vs Always Ready"
+            },
+            {
+              "columna_1": "mayo 9, 2026 1 - 0 N/D Real Tomayapo vs San Antonio"
+            },
+            {
+              "columna_1": "mayo 9, 2026 3 - 0 N/D Guabirá vs GV San José"
+            },
+            {
+              "columna_1": "mayo 4, 2026 1 - 1 N/D FC Universitario vs Blooming"
+            },
+            {
+              "columna_1": "mayo 3, 2026 3 - 1 N/D The Strongest vs A. B. B."
+            },
+            {
+              "columna_1": "mayo 3, 2026 1 - 2 N/D GV San José vs Bolívar"
+            },
+            {
+              "columna_1": "mayo 2, 2026 3 - 1 N/D Oriente Petrolero vs Real Tomayapo"
+            },
+            {
+              "columna_1": "mayo 2, 2026 4 - 2 N/D Aurora vs Guabirá"
+            },
+            {
+              "columna_1": "mayo 2, 2026 3 - 1 N/D Always Ready vs Nacional Potosí"
+            },
+            {
+              "columna_1": "mayo 1, 2026 1 - 2 N/D Real Potosí vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "mayo 1, 2026 2 - 2 N/D San Antonio vs Independiente"
+            },
+            {
+              "columna_1": "abril 27, 2026 3 - 1 N/D Aurora vs San Antonio"
+            },
+            {
+              "columna_1": "abril 26, 2026 2 - 0 N/D Oriente Petrolero vs Real Potosí"
+            },
+            {
+              "columna_1": "abril 26, 2026 6 - 0 N/D Bolívar vs Real Tomayapo"
+            },
+            {
+              "columna_1": "abril 26, 2026 2 - 3 N/D CDT Real Oruro vs The Strongest"
+            },
+            {
+              "columna_1": "abril 25, 2026 1 - 2 N/D Guabirá vs Always Ready"
+            },
+            {
+              "columna_1": "abril 25, 2026 3 - 2 N/D A. B. B. vs Blooming"
+            },
+            {
+              "columna_1": "abril 25, 2026 1 - 1 N/D Nacional Potosí vs GV San José"
+            },
+            {
+              "columna_1": "abril 24, 2026 2 - 1 N/D Independiente vs FC Universitario"
+            },
+            {
+              "columna_1": "abril 23, 2026 0 - 0 N/D Real Tomayapo vs The Strongest"
+            },
+            {
+              "columna_1": "abril 23, 2026 2 - 1 N/D San Antonio vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "abril 22, 2026 2 - 1 N/D Blooming vs Nacional Potosí"
+            },
+            {
+              "columna_1": "abril 22, 2026 7:30 pm N/D Guabirá vs Always Ready"
+            },
+            {
+              "columna_1": "abril 22, 2026 3 - 0 N/D Real Potosí vs Guabirá"
+            },
+            {
+              "columna_1": "abril 22, 2026 1 - 0 N/D Always Ready vs Oriente Petrolero"
             }
           ]
         },
         {
           "indice": 2,
-          "nombre": "GRUPO A",
+          "nombre": "Bolívar vs CDT Real Oruro",
           "columnas": [
             "Pos",
             "Equipo",
             "PJ",
-            "DG",
+            "PG",
             "Pts"
           ],
           "filas": [
             {
               "Pos": "1",
-              "Equipo": "Aurora",
-              "PJ": "8",
-              "DG": "7",
-              "Pts": "18"
-            },
-            {
-              "Pos": "2",
-              "Equipo": "Real Potosí",
-              "PJ": "8",
-              "DG": "2",
-              "Pts": "14"
-            },
-            {
-              "Pos": "3",
-              "Equipo": "San Antonio",
-              "PJ": "8",
-              "DG": "3",
-              "Pts": "10"
-            },
-            {
-              "Pos": "4",
-              "Equipo": "A. B. B.",
-              "PJ": "8",
-              "DG": "-4",
-              "Pts": "6"
-            }
-          ]
-        },
-        {
-          "indice": 3,
-          "nombre": "GRUPO B",
-          "columnas": [
-            "Pos",
-            "Equipo",
-            "PJ",
-            "DG",
-            "Pts"
-          ],
-          "filas": [
-            {
-              "Pos": "1",
-              "Equipo": "Nacional Potosí",
-              "PJ": "8",
-              "DG": "17",
-              "Pts": "17"
+              "Equipo": "Bolívar",
+              "PJ": "20",
+              "PG": "14",
+              "Pts": "45"
             },
             {
               "Pos": "2",
               "Equipo": "Always Ready",
-              "PJ": "8",
-              "DG": "-8",
-              "Pts": "10"
+              "PJ": "20",
+              "PG": "13",
+              "Pts": "45"
             },
             {
-              "Pos": "2",
-              "Equipo": "Real Tomayapo",
-              "PJ": "8",
-              "DG": "-10",
-              "Pts": "10"
-            },
-            {
-              "Pos": "4",
-              "Equipo": "CDT Real Oruro",
-              "PJ": "8",
-              "DG": "-5",
-              "Pts": "7"
-            }
-          ]
-        },
-        {
-          "indice": 4,
-          "nombre": "GRUPO C",
-          "columnas": [
-            "Pos",
-            "Equipo",
-            "PJ",
-            "DG",
-            "Pts"
-          ],
-          "filas": [
-            {
-              "Pos": "1",
+              "Pos": "3",
               "Equipo": "The Strongest",
-              "PJ": "8",
-              "DG": "3",
-              "Pts": "14"
+              "PJ": "20",
+              "PG": "12",
+              "Pts": "42"
             },
             {
-              "Pos": "2",
+              "Pos": "4",
+              "Equipo": "Real Potosí",
+              "PJ": "20",
+              "PG": "8",
+              "Pts": "32"
+            },
+            {
+              "Pos": "5",
               "Equipo": "Oriente Petrolero",
-              "PJ": "8",
-              "DG": "3",
-              "Pts": "13"
+              "PJ": "20",
+              "PG": "9",
+              "Pts": "30"
             },
             {
-              "Pos": "3",
+              "Pos": "6",
+              "Equipo": "Aurora",
+              "PJ": "20",
+              "PG": "7",
+              "Pts": "30"
+            },
+            {
+              "Pos": "7",
               "Equipo": "Guabirá",
-              "PJ": "8",
-              "DG": "-4",
-              "Pts": "12"
+              "PJ": "20",
+              "PG": "8",
+              "Pts": "29"
             },
             {
-              "Pos": "4",
-              "Equipo": "FC Universitario",
-              "PJ": "8",
-              "DG": "-4",
-              "Pts": "7"
-            }
-          ]
-        },
-        {
-          "indice": 5,
-          "nombre": "GRUPO D",
-          "columnas": [
-            "Pos",
-            "Equipo",
-            "PJ",
-            "DG",
-            "Pts"
-          ],
-          "filas": [
-            {
-              "Pos": "1",
-              "Equipo": "Independiente",
-              "PJ": "8",
-              "DG": "11",
-              "Pts": "19"
+              "Pos": "8",
+              "Equipo": "Nacional Potosí",
+              "PJ": "20",
+              "PG": "8",
+              "Pts": "27"
             },
             {
-              "Pos": "2",
-              "Equipo": "Bolívar",
-              "PJ": "8",
-              "DG": "4",
-              "Pts": "15"
-            },
-            {
-              "Pos": "3",
-              "Equipo": "GV San José",
-              "PJ": "8",
-              "DG": "-6",
-              "Pts": "6"
-            },
-            {
-              "Pos": "4",
+              "Pos": "9",
               "Equipo": "Blooming",
-              "PJ": "8",
-              "DG": "-9",
-              "Pts": "4"
+              "PJ": "20",
+              "PG": "6",
+              "Pts": "27"
+            },
+            {
+              "Pos": "10",
+              "Equipo": "Independiente",
+              "PJ": "20",
+              "PG": "7",
+              "Pts": "25"
+            },
+            {
+              "Pos": "11",
+              "Equipo": "CDT Real Oruro",
+              "PJ": "20",
+              "PG": "6",
+              "Pts": "21"
+            },
+            {
+              "Pos": "11",
+              "Equipo": "San Antonio",
+              "PJ": "21",
+              "PG": "6",
+              "Pts": "21"
+            },
+            {
+              "Pos": "13",
+              "Equipo": "A. B. B.",
+              "PJ": "20",
+              "PG": "6",
+              "Pts": "20"
+            },
+            {
+              "Pos": "14",
+              "Equipo": "FC Universitario",
+              "PJ": "20",
+              "PG": "5",
+              "Pts": "18"
+            },
+            {
+              "Pos": "15",
+              "Equipo": "Real Tomayapo",
+              "PJ": "21",
+              "PG": "4",
+              "Pts": "17"
+            },
+            {
+              "Pos": "16",
+              "Equipo": "GV San José",
+              "PJ": "20",
+              "PG": "2",
+              "Pts": "14"
             }
           ]
         }
@@ -57413,17 +57777,17 @@
       ],
       "noticias": [
         {
+          "id": "bd584e46b666fcdf",
+          "titulo": "Fallece el motociclista Nicolás Pérez en Integración del Oriente",
+          "url": "https://larazon.bo/marcas/2026/10/09/fallece-el-motociclista-nicolas-perez-en-integracion-del-oriente/",
+          "fecha": "octubre 9, 2026 21:19",
+          "resumen": null
+        },
+        {
           "id": "0479f6a4fff25d79",
           "titulo": "Always completa los cuartos: Bolívar sigue su racha sin perder",
           "url": "https://larazon.bo/marcas/2026/10/08/always-completa-los-cuartos-bolivar-sigue-su-racha-sin-perder/",
           "fecha": "octubre 8, 2026 22:17",
-          "resumen": null
-        },
-        {
-          "id": "ddd912801f82685a",
-          "titulo": "El golfista boliviano Quiroga logra su primer título universitario",
-          "url": "https://larazon.bo/marcas/2026/10/08/el-golfista-boliviano-quiroga-logra-su-primer-titulo-universitario/",
-          "fecha": "octubre 8, 2026 07:45",
           "resumen": null
         },
         {
@@ -57483,6 +57847,13 @@
           "resumen": null
         },
         {
+          "id": "ddd912801f82685a",
+          "titulo": "El golfista boliviano Quiroga logra su primer título universitario",
+          "url": "https://larazon.bo/marcas/2026/10/08/el-golfista-boliviano-quiroga-logra-su-primer-titulo-universitario/",
+          "fecha": "octubre 8, 2026 07:45",
+          "resumen": null
+        },
+        {
           "id": "6beb7f2fcf1631aa",
           "titulo": "Depay, villano: Estudiantes a semifinales de la Libertadores",
           "url": "https://larazon.bo/marcas/2026/09/17/depay-villano-estudiantes-a-semifinales-de-la-libertadores/",
@@ -57502,13 +57873,6 @@
           "url": "https://larazon.bo/marcas/2026/09/07/partidos-ida-cuartos-de-final-de-la-copa-libertadores/",
           "fecha": "septiembre 7, 2026 08:46",
           "resumen": null
-        },
-        {
-          "id": "8305cbedf18d6fb8",
-          "titulo": "Partido Uruguay e India en Calcuta en pausa por tormenta",
-          "url": "https://larazon.bo/marcas/2026/10/06/partido-uruguay-e-india-en-calcuta-en-pausa-por-tormenta/",
-          "fecha": "octubre 6, 2026 12:20",
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -57524,8 +57888,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-09T13:51:11-04:00",
-      "duracion_ms": 1386,
+      "actualizado_en": "2026-10-10T12:46:58-04:00",
+      "duracion_ms": 740,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -57537,31 +57901,31 @@
           "columnas": [],
           "filas": [
             [
-              "Aramayo explica escala de Paz donde vive su familiar: “se pasa a saludar, pero no ha sido como se está planteando”"
+              "Presentan proyecto de Ley para borrar el nombre del Che Guevara de infraestructura pública"
             ],
             [
               "Tras tendencia viral de monedas de Bs 3, el BCB aclara que no son de curso legal y circularlas puede ser delito"
             ],
             [
-              "Evo considera “desesperado” y “cipayo” la activación de colaboración externa en su contra"
-            ],
-            [
-              "Presentan proyecto de Ley para borrar el nombre del Che Guevara de infraestructura pública"
+              "Bascopé: “Tenemos serias sospechas de que Mariaca estaba detrás de los 53 días de bloqueo”"
             ],
             [
               "Exdiputados son conminados a devolver equipos, pero reclaman que se cumpla debido proceso"
             ],
             [
-              "Según uno de sus abogados, Mariaca justificará el dinero que fue encontrado en la ambulancia"
+              "Mariaca pagó en dólares a asambleístas para ser elegido fiscal, afirma viceministro Maldonado"
+            ],
+            [
+              "Lara niega haber interceptado comunicaciones privadas y dice estar dispuesto a ser investigado"
             ],
             [
               "YPFB: Contrabandistas ganan hasta Bs 8 por litro y operativo detecta carguíos repetitivos en Sucre"
             ],
             [
-              "Evismo denuncia la detención del dirigente Nelson Virreira"
+              "Viceministro cree que Del Castillo está ocultó en Bolivia, porque salir del país lo expone a ser detenido por la DEA"
             ],
             [
-              "Lara niega haber interceptado comunicaciones privadas y dice estar dispuesto a ser investigado"
+              "TSE suspende a vocal Celedonia Cruz y ella atribuye la medida a una “intencionalidad política”"
             ]
           ]
         }
@@ -57582,7 +57946,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-10-09T13:51:12-04:00",
+      "ultimo_intento_en": "2026-10-10T12:47:00-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
