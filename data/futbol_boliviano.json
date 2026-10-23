@@ -1,14 +1,14 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-10-22T12:27:08-04:00",
+  "generado_en": "2026-10-23T12:16:30-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
-    "fuentes_correctas": 18,
+    "fuentes_correctas": 17,
     "fuentes_parciales": 0,
-    "fuentes_con_error": 2,
+    "fuentes_con_error": 3,
     "tablas_extraidas": 18,
-    "noticias_extraidas": 167,
+    "noticias_extraidas": 160,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:14-04:00",
-      "duracion_ms": 10157,
+      "actualizado_en": "2026-10-23T12:15:32-04:00",
+      "duracion_ms": 810,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:17-04:00",
-      "duracion_ms": 1172,
+      "actualizado_en": "2026-10-23T12:15:33-04:00",
+      "duracion_ms": 302,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:18-04:00",
-      "duracion_ms": 460,
+      "actualizado_en": "2026-10-23T12:15:35-04:00",
+      "duracion_ms": 353,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:20-04:00",
-      "duracion_ms": 779,
+      "actualizado_en": "2026-10-23T12:15:36-04:00",
+      "duracion_ms": 307,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:22-04:00",
-      "duracion_ms": 359,
+      "actualizado_en": "2026-10-23T12:15:38-04:00",
+      "duracion_ms": 274,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:24-04:00",
-      "duracion_ms": 487,
+      "actualizado_en": "2026-10-23T12:15:39-04:00",
+      "duracion_ms": 277,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:25-04:00",
-      "duracion_ms": 435,
+      "actualizado_en": "2026-10-23T12:15:41-04:00",
+      "duracion_ms": 296,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:27-04:00",
-      "duracion_ms": 848,
+      "actualizado_en": "2026-10-23T12:15:43-04:00",
+      "duracion_ms": 740,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1716,7 +1716,7 @@
       "datos_estructurados": null,
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.bolivar.com.bo/Noticias",
       "datos_desde_cache": true,
-      "ultimo_intento_en": "2026-10-22T12:26:38-04:00"
+      "ultimo_intento_en": "2026-10-23T12:15:54-04:00"
     },
     {
       "id": "always_ready_noticias",
@@ -1727,8 +1727,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:44-04:00",
-      "duracion_ms": 4074,
+      "actualizado_en": "2026-10-23T12:15:56-04:00",
+      "duracion_ms": 600,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1749,55 +1749,27 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:45-04:00",
-      "duracion_ms": 362,
+      "actualizado_en": "2026-10-23T12:15:57-04:00",
+      "duracion_ms": 433,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 6,
+      "cantidad_noticias": 2,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "6b1117b87b13dc43",
-          "titulo": "Always ReadyâThe Strongest: todo lo que debes saber del duelo que promete espectÃ¡culo",
-          "url": "https://futbol.unitel.bo/division-profesional/always-ready-the-strongest-todo-lo-que-debes-saber-del-duelo-que-promete-espectaculo-JF24304148",
-          "fecha": "Hace 21 minutos",
+          "id": "2284d840cb09a342",
+          "titulo": "Estudiantes elimina a Flamengo y se cita con Palmeiras en la final de la Copa Libertadores",
+          "url": "https://futbol.unitel.bo/copa-libertadores/estudiantes-elimina-a-flamengo-y-se-cita-con-palmeiras-en-la-final-de-la-copa-libertadores-ME24319566",
+          "fecha": "22/10/2026 22:51",
           "resumen": null
         },
         {
-          "id": "db92d019fe6a55dd",
-          "titulo": "Gustavo FlorentÃ­n presume su Oriente Petrolero: âTengo jugadores guerrerosâ",
-          "url": "https://futbol.unitel.bo/division-profesional/gustavo-florentin-presume-su-oriente-petrolero-tengo-jugadores-guerreros-KF24303449",
-          "fecha": "Hace 2 horas",
-          "resumen": null
-        },
-        {
-          "id": "62ae1f5db3bbc064",
-          "titulo": "Palmeiras es el primer finalista de la Copa Libertadores tras eliminar a Fluminense",
-          "url": "https://futbol.unitel.bo/copa-libertadores/palmeiras-es-el-primer-finalista-de-la-copa-libertadores-tras-eliminar-a-fluminense-PN24296292",
-          "fecha": "21/10/2026 22:56",
-          "resumen": null
-        },
-        {
-          "id": "056a004830f9542b",
-          "titulo": "Oriente logra una victoria con sabor a poco tras derrota a Nacional PotosÃ­",
-          "url": "https://futbol.unitel.bo/division-profesional/oriente-logra-una-victoria-con-sabor-a-poco-tras-derrota-a-nacional-potosi-LN24296094",
-          "fecha": "21/10/2026 22:37",
-          "resumen": null
-        },
-        {
-          "id": "870c53ac88cc921f",
-          "titulo": "Real Madrid vence por goleada a Leipzig y toma impulso de cara al clÃ¡sico espaÃ±ol",
-          "url": "https://futbol.unitel.bo/champions-league/real-madrid-vence-por-goleada-a-leipzig-y-toma-impulso-de-cara-al-clasico-espanol-EM24286637",
-          "fecha": "21/10/2026 17:09",
-          "resumen": null
-        },
-        {
-          "id": "a3f695d4c5039706",
-          "titulo": "AtlÃ©tico Mineiro se cita con Boca Juniors en la final de la Copa Sudamericana",
-          "url": "https://futbol.unitel.bo/copa-sudamericana/atletico-mineiro-se-cita-con-boca-juniors-en-la-final-de-la-copa-sudamericana-EN24294132",
-          "fecha": "21/10/2026 20:06",
+          "id": "18f88fe93c7755a6",
+          "titulo": "Lula pedirÃ¡ a la PolicÃ­a investigar denuncia del futbolista Richarlison contra Bolsonaro",
+          "url": "https://futbol.unitel.bo/futbol/lula-pedira-a-la-policia-investigar-denuncia-del-futbolista-richarlison-contra-bolsonaro-IF24308213",
+          "fecha": "22/10/2026 13:40",
           "resumen": null
         }
       ],
@@ -1814,33 +1786,89 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:47-04:00",
-      "duracion_ms": 489,
+      "actualizado_en": "2026-10-23T12:15:59-04:00",
+      "duracion_ms": 825,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 21,
+      "cantidad_noticias": 18,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "8cd6f8566c5d437b",
-          "titulo": "Florentín pide valorar el esfuerzo de Oriente pese a la reacción de Nacional Potosí",
-          "url": "https://diez.bo/futbol/florentin-pide-valorar-el-esfuerzo-de-oriente-pese-a-la-reaccion-de-nacional-potosi_1792673703",
+          "id": "4ba3f1a1661c7b6f",
+          "titulo": "Oriente afina detalles para enfrentar a The Strongest",
+          "url": "https://diez.bo/futbol/oriente-suma-novedades-y-mantiene-cuatro-bajas-para-recibir-a-the-strongest_1792768963",
           "fecha": null,
-          "resumen": "El entrenador refinero respaldó al plantel tras el ajustado triunfo por 3-2 ante Nacional Potosí, luego de haber estado arriba por tres goles. Reconoció que deben corregir errores y señaló que su prioridad es recuperar a los lesionados antes de la revancha."
+          "resumen": "Torres y Velasco no llegarán al partido de este domingo, mientras que Roldán vuelve a estar disponible para Gustavo Florentín. Berdecio y Virreira también aparecen como alternativas para el duelo en el Tahuichi Aguilera."
         },
         {
-          "id": "8d0fae42f7efa23c",
-          "titulo": "Always Ready pone a prueba a The Strongest en Villa Ingenio",
-          "url": "https://diez.bo/futbol/always-ready-pone-a-prueba-a-the-strongest-en-villa-ingenio_1792672576",
+          "id": "3f827437f20a6202",
+          "titulo": "La Verde se alista para la fecha FIFA y espera que sus legionarios sumen rodaje",
+          "url": "https://diez.bo/futbol/la-verde-se-alista-para-la-fecha-fifa-y-espera-que-sus-legionarios-sumen-rodaje_1792698941",
           "fecha": null,
           "resumen": null
+        },
+        {
+          "id": "13a85de808e842f5",
+          "titulo": "Moisés Villarroel se desgarró y será baja en Blooming",
+          "url": "https://diez.bo/futbol/moises-villarroel-se-desgarro-y-sera-baja-en-blooming_1792697752",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "01d1b2f81d061cb9",
+          "titulo": "La Copa Simón Bolívar vuelve con los cuartos de final de ida",
+          "url": "https://diez.bo/futbol/la-copa-simon-bolivar-vuelve-con-los-cuartos-de-final-de-ida_1792763171",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "45da835d961a07ab",
+          "titulo": "Estudiantes elimina a Flamengo y jugará la final de la Libertadores",
+          "url": "https://diez.bo/futbol/estudiantes-elimina-a-flamengo-y-jugara-la-final-de-la-libertadores_1792725001",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "14d11e7c57a742da",
+          "titulo": "Oriente respira por Herrera y recupera a tres jugadores",
+          "url": "https://diez.bo/oriente-petrolero/oriente-respira-por-herrera-y-recupera-a-tres-jugadores_1792711617",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "871128a9e259a292",
+          "titulo": "Always Ready y The Strongest no se sacan ventaja y dejan la llave abierta",
+          "url": "https://diez.bo/futbol/always-ready-y-the-strongest-no-se-sacan-ventaja-y-dejan-la-llave-abierta_1792721059",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "94eef43b22eba0b7",
+          "titulo": "Blooming rescindió contrato con Percy Loza por decisión técnica",
+          "url": "https://diez.bo/blooming/blooming-rescindio-contrato-con-percy-loza-por-decision-tecnica_1792711875",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "b88f427c1d37cda1",
+          "titulo": "Oriente busca recuperar jugadores y llegar fortalecido a la revancha en Potosí",
+          "url": "https://diez.bo/oriente-petrolero/oriente-busca-recuperar-jugadores-y-llegar-fortalecido-a-la-revancha-en-potosi_1792702824",
+          "fecha": null,
+          "resumen": "José Flores reconoció que el 3-2 ante Nacional Potosí dejó un sabor amargo, después de que Oriente Petrolero llegara a ganar por 3-0. Sin embargo, aseguró que el equipo mantiene intacta la fe en la clasificación y espera recuperar jugadores para la revancha del 4 de noviembre."
         },
         {
           "id": "f40e29e2faed3976",
           "titulo": "Flamengo y Estudiantes definen al segundo finalista de la Libertadores",
           "url": "https://diez.bo/futbol/flamengo-y-estudiantes-definen-al-segundo-finalista-de-la-libertadores_1792674303",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "8cd6f8566c5d437b",
+          "titulo": "Florentín pide valorar el esfuerzo de Oriente pese a la reacción de Nacional Potosí",
+          "url": "https://diez.bo/futbol/florentin-pide-valorar-el-esfuerzo-de-oriente-pese-a-la-reaccion-de-nacional-potosi_1792673703",
           "fecha": null,
           "resumen": null
         },
@@ -1852,93 +1880,16 @@
           "resumen": null
         },
         {
-          "id": "09bed04a9b49204b",
-          "titulo": "Palmeiras elimina a Fluminense por penales y se mete en la final de la Libertadores",
-          "url": "https://diez.bo/futbol/palmeiras-elimina-a-fluminense-por-penales-y-se-mete-en-la-final-de-la-libertadores_1792637306",
-          "fecha": null,
-          "resumen": null
-        },
-        {
           "id": "37c0bdc34604ad9a",
           "titulo": "Montevideo City rozó el milagro, pero Atlético Mineiro jugará la final de la Sudamericana",
           "url": "https://diez.bo/futbol/montevideo-city-rozo-el-milagro-pero-atletico-mineiro-jugara-la-final-de-la-sudamericana_1792631692",
           "fecha": null,
-          "resumen": "El Galo perdió por 2-0 en Uruguay, pero hizo valer el 3-0 de la ida y disputará el título ante Boca Juniors el 21 de noviembre en Barranquilla."
-        },
-        {
-          "id": "4238a91f14f1b1dc",
-          "titulo": "Real Potosí da el golpe y toma ventaja ante Bolívar en la Copa Bolivia",
-          "url": "https://diez.bo/futbol/real-potosi-da-el-golpe-y-toma-ventaja-ante-bolivar-en-la-copa-bolivia_1792629466",
-          "fecha": null,
           "resumen": null
         },
         {
-          "id": "808b36f29b47c9ab",
-          "titulo": "Villamil pierde espacio en Liga de Quito y un regreso a Bolívar dependerá de su decisión",
-          "url": "https://diez.bo/futbol/villamil-queda-relegado-en-liga-de-quito-y-un-regreso-a-bolivar-dependera-de-su-decision_1792623597",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "467d00fc097d6dd5",
-          "titulo": "El Real Madrid golea al Leipzig y firma su tercera victoria consecutiva en Champions",
-          "url": "https://diez.bo/futbol/el-real-madrid-golea-al-leipzig-y-firma-su-tercera-victoria-consecutiva-en-champions_1792619443",
-          "fecha": null,
-          "resumen": "El Real Madrid goleó 4-1 al Leipzig en el Santiago Bernabéu, sumó su tercera victoria consecutiva en la Champions League y confirmó su poder ofensivo con goles de Bernardo Silva, Arda Güler, Kylian Mbappé y Diomande."
-        },
-        {
-          "id": "a3812f9518689a12",
-          "titulo": "El Como aplasta al Manchester United con una goleada",
-          "url": "https://diez.bo/champions-league/el-como-aplasta-al-manchester-united-con-una-goleada_1792610764",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "18b94e7146ff4130",
-          "titulo": "El Liverpool remonta al Villarreal en un partidazo con siete goles",
-          "url": "https://diez.bo/champions-league/el-liverpool-remonta-al-villarreal-en-un-partidazo-con-siete-goles_1792531972",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "62aa2861bd7a5dc9",
-          "titulo": "Más de un mes sin victorias: Blooming necesita reaccionar",
-          "url": "https://diez.bo/blooming/mas-de-un-mes-sin-victorias-blooming-necesita-reaccionar_1792590447",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "076d77781bc6d71b",
-          "titulo": "ABB despide a Walter Flores y anuncia un cambio en el banquillo",
-          "url": "https://diez.bo/futbol/abb-despide-a-walter-flores-y-anuncia-un-cambio-en-el-banquillo_1792594590",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "1bd56f9bfd49e502",
-          "titulo": "El Metropolitano de Barranquilla se renueva para recibir la final de la Copa Sudamericana",
-          "url": "https://diez.bo/futbol/el-metropolitano-de-barranquilla-se-renueva-para-recibir-la-final-de-la-copa-sudamericana_1792596267",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "7e11b33aac3be02a",
-          "titulo": "Independiente golea a Aurora y da un paso gigante hacia las semifinales",
-          "url": "https://diez.bo/futbol/independiente-golea-a-aurora-y-da-un-paso-gigante-hacia-las-semifinales_1792547682",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d02944d3e1549bdd",
-          "titulo": "Boca Juniors remonta la serie ante Vasco da Gama y es finalista de la Sudamericana",
-          "url": "https://diez.bo/futbol/boca-juniors-remonta-la-serie-ante-vasco-da-gama-y-es-finalista-de-la-sudamericana_1792550822",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "770f08acdfb2c216",
-          "titulo": "Hugo Dellien no pudo terminar su partido y quedó fuera del Challenger de Cali",
-          "url": "https://diez.bo/tenis/hugo-dellien-no-pudo-terminar-su-partido-y-quedo-fuera-del-challenger-de-cali_1792535422",
+          "id": "09bed04a9b49204b",
+          "titulo": "Palmeiras elimina a Fluminense por penales y se mete en la final de la Libertadores",
+          "url": "https://diez.bo/futbol/palmeiras-elimina-a-fluminense-por-penales-y-se-mete-en-la-final-de-la-libertadores_1792637306",
           "fecha": null,
           "resumen": null
         },
@@ -1984,8 +1935,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:48-04:00",
-      "duracion_ms": 375,
+      "actualizado_en": "2026-10-23T12:16:01-04:00",
+      "duracion_ms": 613,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -2182,8 +2133,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:54-04:00",
-      "duracion_ms": 4602,
+      "actualizado_en": "2026-10-23T12:16:07-04:00",
+      "duracion_ms": 4913,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57302,7 +57253,7 @@
       "categoria": "medio",
       "url": "https://www.lostiempos.com/deportes/futbol",
       "url_final": "https://www.lostiempos.com/deportes/futbol",
-      "estado": "ok",
+      "estado": "error",
       "codigo_http": 200,
       "actualizado_en": "2026-10-22T12:26:56-04:00",
       "duracion_ms": 314,
@@ -57370,8 +57321,9 @@
       "secciones": [],
       "noticias": [],
       "datos_estructurados": null,
-      "error": null,
-      "datos_desde_cache": false
+      "error": "HTTPError: 500 Server Error: Service unavailable (with message) for url: https://www.lostiempos.com/deportes/futbol",
+      "datos_desde_cache": true,
+      "ultimo_intento_en": "2026-10-23T12:16:15-04:00"
     },
     {
       "id": "opinion_futbol_boliviano",
@@ -57382,8 +57334,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:58-04:00",
-      "duracion_ms": 540,
+      "actualizado_en": "2026-10-23T12:16:17-04:00",
+      "duracion_ms": 691,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -57524,8 +57476,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:26:59-04:00",
-      "duracion_ms": 197,
+      "actualizado_en": "2026-10-23T12:16:19-04:00",
+      "duracion_ms": 445,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57546,8 +57498,8 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:27:05-04:00",
-      "duracion_ms": 5104,
+      "actualizado_en": "2026-10-23T12:16:26-04:00",
+      "duracion_ms": 5859,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
       "cantidad_noticias": 19,
@@ -57555,7 +57507,7 @@
       "tablas": [
         {
           "indice": 1,
-          "nombre": "Flamengo va a semis, lo espera Estudiantes de La Plata",
+          "nombre": "Flamengo empate en La Plata y se acerca a otra final de Libertadores",
           "columnas": [
             "columna_1"
           ],
@@ -58140,19 +58092,56 @@
       ],
       "secciones": [
         {
-          "titulo": "Real Potosí tumba a Bolívar y le quita su invicto de 18 partidos",
-          "contenido": "octubre 21, 2026 20:29"
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
+        },
+        {
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
+        },
+        {
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
+        },
+        {
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
+        },
+        {
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
         },
         {
           "titulo": "Real Potosí tumba a Bolívar y le quita su invicto de 18 partidos",
           "contenido": "octubre 21, 2026 20:29"
         },
         {
-          "titulo": "Rol de la tercera jornada de la Liga de Campeones y clasificación",
-          "contenido": "octubre 20, 2026 10:00"
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "contenido": "octubre 23, 2026 09:06"
         }
       ],
       "noticias": [
+        {
+          "id": "86364d06d3e9ba23",
+          "titulo": "Raphinha vs Mbappé, duelo de goleadores en el Clásico",
+          "url": "https://larazon.bo/marcas/2026/10/23/raphinha-vs-mbappe-duelo-de-goleadores-en-el-clasico/",
+          "fecha": "octubre 23, 2026 09:06",
+          "resumen": null
+        },
+        {
+          "id": "650704c460e29115",
+          "titulo": "Cali, Libertad y Olimpia a cuartos de la Libertadores femenina",
+          "url": "https://larazon.bo/marcas/2026/10/23/cali-libertad-y-olimpia-a-cuartos-de-la-libertadores-femenina/",
+          "fecha": "octubre 23, 2026 08:21",
+          "resumen": null
+        },
+        {
+          "id": "613fd2eb3eb5f9e5",
+          "titulo": "The Strongest sacó un empate (1-1) ante Always en El Alto",
+          "url": "https://larazon.bo/marcas/2026/10/22/the-strongest-saco-un-empate-1-1-ante-always-en-el-alto/",
+          "fecha": "octubre 22, 2026 22:03",
+          "resumen": null
+        },
         {
           "id": "ff3645db1fb3e152",
           "titulo": "Carlos Miguel y los penales dan a Palmeiras otra final de Libertadores",
@@ -58182,38 +58171,10 @@
           "resumen": null
         },
         {
-          "id": "5e87ca6bc1d90bd7",
-          "titulo": "Palmeiras, a final de Libertadores, gana 5-3 a ‘Flu’ en penales",
-          "url": "https://larazon.bo/marcas/2026/10/21/palmeiras-a-final-de-libertadores-gana-5-3-a-flu-en-penales/",
-          "fecha": "octubre 21, 2026 22:55",
-          "resumen": null
-        },
-        {
-          "id": "faa07b4cd59d3763",
-          "titulo": "Boca vs Mineiro, a la final de la Sudamericana el 21 de noviembre",
-          "url": "https://larazon.bo/marcas/2026/10/21/boca-vs-mineiro-a-la-final-de-la-sudamericana-el-21-de-noviembre/",
-          "fecha": "octubre 21, 2026 20:56",
-          "resumen": null
-        },
-        {
           "id": "19727fa7c6740616",
           "titulo": "Real Potosí tumba a Bolívar y le quita su invicto de 18 partidos",
           "url": "https://larazon.bo/marcas/2026/10/21/real-potosi-tumba-a-bolivar-y-le-quita-su-invicto-de-18-partidos/",
           "fecha": "octubre 21, 2026 20:29",
-          "resumen": null
-        },
-        {
-          "id": "a176eeaf9d8c043c",
-          "titulo": "Aplazado partido Ligue 1 debido a protestas en Francia",
-          "url": "https://larazon.bo/marcas/2026/10/21/aplazado-partido-ligue-1-debido-a-protestas-en-francia/",
-          "fecha": "octubre 21, 2026 12:50",
-          "resumen": null
-        },
-        {
-          "id": "f0b56cb8b7ee74c0",
-          "titulo": "Flamengo ante Estudiantes y la hegemonía brasileña en la Libertadores",
-          "url": "https://larazon.bo/marcas/2026/10/21/flamengo-ante-estudiantes-y-la-hegemonia-brasilena-en-la-libertadores/",
-          "fecha": "octubre 21, 2026 12:04",
           "resumen": null
         },
         {
@@ -58231,17 +58192,10 @@
           "resumen": null
         },
         {
-          "id": "52cdd051f911bd4f",
-          "titulo": "Bolívar busca seguir en la cima y con su racha exitosa",
-          "url": "https://larazon.bo/marcas/2026/10/18/bolivar-busca-seguir-en-la-cima-y-con-su-racha-exitosa/",
-          "fecha": "octubre 18, 2026 06:05",
-          "resumen": null
-        },
-        {
-          "id": "2c08757ed49bb442",
-          "titulo": "Julián Álvarez recupera la sonrisa con golazo en Champions",
-          "url": "https://larazon.bo/marcas/2026/10/21/julian-alvarez-recupera-la-sonrisa-con-golazo-en-champions/",
-          "fecha": "octubre 21, 2026 08:27",
+          "id": "faa07b4cd59d3763",
+          "titulo": "Boca vs Mineiro, a la final de la Sudamericana el 21 de noviembre",
+          "url": "https://larazon.bo/marcas/2026/10/21/boca-vs-mineiro-a-la-final-de-la-sudamericana-el-21-de-noviembre/",
+          "fecha": "octubre 21, 2026 20:56",
           "resumen": null
         },
         {
@@ -58259,6 +58213,20 @@
           "resumen": null
         },
         {
+          "id": "5e87ca6bc1d90bd7",
+          "titulo": "Palmeiras, a final de Libertadores, gana 5-3 a ‘Flu’ en penales",
+          "url": "https://larazon.bo/marcas/2026/10/21/palmeiras-a-final-de-libertadores-gana-5-3-a-flu-en-penales/",
+          "fecha": "octubre 21, 2026 22:55",
+          "resumen": null
+        },
+        {
+          "id": "f0b56cb8b7ee74c0",
+          "titulo": "Flamengo ante Estudiantes y la hegemonía brasileña en la Libertadores",
+          "url": "https://larazon.bo/marcas/2026/10/21/flamengo-ante-estudiantes-y-la-hegemonia-brasilena-en-la-libertadores/",
+          "fecha": "octubre 21, 2026 12:04",
+          "resumen": null
+        },
+        {
           "id": "8dc678a14dbdc77a",
           "titulo": "Cruzeiro a cuartos de Libertadores femenina; tres están cerca",
           "url": "https://larazon.bo/marcas/2026/10/20/cruzeiro-a-cuartos-de-libertadores-femenina-tres-estan-cerca/",
@@ -58273,17 +58241,17 @@
           "resumen": null
         },
         {
-          "id": "235f2ec5a1f5c35c",
-          "titulo": "Mineiro a un paso de la final de la Sudamericana ante City Torque",
-          "url": "https://larazon.bo/marcas/2026/10/20/mineiro-a-un-paso-de-la-final-de-la-sudamericana-ante-city-torque/",
-          "fecha": "octubre 20, 2026 09:46",
+          "id": "074fd73c477e2ce7",
+          "titulo": "Bolivia dirá presente con cinco golfistas en el WALA 2026",
+          "url": "https://larazon.bo/marcas/2026/10/21/bolivia-dira-presente-con-cinco-golfistas-en-el-wala-2026/",
+          "fecha": "octubre 21, 2026 10:14",
           "resumen": null
         },
         {
-          "id": "adbee2e82f544daf",
-          "titulo": "Palmeiras y Fluminense buscan boleto a la final Libertadores",
-          "url": "https://larazon.bo/marcas/2026/10/20/palmeiras-y-fluminense-buscan-boleto-a-la-final-libertadores/",
-          "fecha": "octubre 20, 2026 09:25",
+          "id": "2c08757ed49bb442",
+          "titulo": "Julián Álvarez recupera la sonrisa con golazo en Champions",
+          "url": "https://larazon.bo/marcas/2026/10/21/julian-alvarez-recupera-la-sonrisa-con-golazo-en-champions/",
+          "fecha": "octubre 21, 2026 08:27",
           "resumen": null
         }
       ],
@@ -58300,8 +58268,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-22T12:27:07-04:00",
-      "duracion_ms": 585,
+      "actualizado_en": "2026-10-23T12:16:28-04:00",
+      "duracion_ms": 1194,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -58316,10 +58284,16 @@
               "Sindicato de camioneros advierte que no permitirá tren con Chile: “no podemos quedarnos sin trabajo”"
             ],
             [
-              "Lara da espaldarazo al fiscal general y dice que no importa quién lo haya recomendado"
+              "EEUU anuncia nueva lista de sancionados de Bolivia: incluye a diputados, un exfiscal general, entre otros"
             ],
             [
               "Asambleísta evista pide a Lara encabezar movilizaciones si “está al lado del pueblo”"
+            ],
+            [
+              "Lara da espaldarazo al fiscal general y dice que no importa quién lo haya recomendado"
+            ],
+            [
+              "“Por supuesto que hubo dinero”: testimonios de exparlamentarios a dos años de la elección de Mariaca como fiscal"
             ],
             [
               "Policía pide a los dos sospechosos del robo al Gastroenterológico que se entreguen"
@@ -58328,16 +58302,10 @@
               "Minero se quitó la vida y la de sus dos hijos al detonar dinamita en un vehículo"
             ],
             [
-              "Concretec, sin directorio y al borde del cierre: las instituciones accionistas no resuelven la crisis"
-            ],
-            [
-              "“Por supuesto que hubo dinero”: testimonios de exparlamentarios a dos años de la elección de Mariaca como fiscal"
-            ],
-            [
-              "Lara vigilará presunción de inocencia para Nilton Condori tras su aprehensión"
-            ],
-            [
               "Señalan a tres exjefes de inteligencia y dos ministros por presunta desaparición de $us 4 millones de la casa de Marset"
+            ],
+            [
+              "Detectan llamadas de Mariaca desde la cárcel y aprehenden a cuatro policías que se lo permitieron"
             ]
           ]
         }
@@ -58358,7 +58326,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-10-22T12:27:08-04:00",
+      "ultimo_intento_en": "2026-10-23T12:16:30-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
