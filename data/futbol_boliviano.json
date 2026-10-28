@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-10-27T13:13:56-04:00",
+  "generado_en": "2026-10-28T13:47:32-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 2,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 163,
+    "noticias_extraidas": 156,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:00-04:00",
-      "duracion_ms": 899,
+      "actualizado_en": "2026-10-28T13:46:17-04:00",
+      "duracion_ms": 2959,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:02-04:00",
-      "duracion_ms": 276,
+      "actualizado_en": "2026-10-28T13:46:21-04:00",
+      "duracion_ms": 2447,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:04-04:00",
-      "duracion_ms": 371,
+      "actualizado_en": "2026-10-28T13:46:25-04:00",
+      "duracion_ms": 3381,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:05-04:00",
-      "duracion_ms": 418,
+      "actualizado_en": "2026-10-28T13:46:30-04:00",
+      "duracion_ms": 3462,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:07-04:00",
-      "duracion_ms": 436,
+      "actualizado_en": "2026-10-28T13:46:33-04:00",
+      "duracion_ms": 1543,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:08-04:00",
-      "duracion_ms": 314,
+      "actualizado_en": "2026-10-28T13:46:36-04:00",
+      "duracion_ms": 1705,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:10-04:00",
-      "duracion_ms": 303,
+      "actualizado_en": "2026-10-28T13:46:46-04:00",
+      "duracion_ms": 9353,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:12-04:00",
-      "duracion_ms": 897,
+      "actualizado_en": "2026-10-28T13:46:48-04:00",
+      "duracion_ms": 700,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1716,7 +1716,7 @@
       "datos_estructurados": null,
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.bolivar.com.bo/Noticias",
       "datos_desde_cache": true,
-      "ultimo_intento_en": "2026-10-27T13:13:25-04:00"
+      "ultimo_intento_en": "2026-10-28T13:47:00-04:00"
     },
     {
       "id": "always_ready_noticias",
@@ -1727,8 +1727,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:27-04:00",
-      "duracion_ms": 589,
+      "actualizado_en": "2026-10-28T13:47:03-04:00",
+      "duracion_ms": 1225,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1749,48 +1749,41 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:28-04:00",
-      "duracion_ms": 397,
+      "actualizado_en": "2026-10-28T13:47:04-04:00",
+      "duracion_ms": 410,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 5,
+      "cantidad_noticias": 4,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "f1c11f7ecf5b2cb2",
-          "titulo": "Cristiano Ronaldo, en la prelista de Portugal para los prÃ³ximos partidos",
-          "url": "https://futbol.unitel.bo/futbol/cristiano-ronaldo-en-la-prelista-de-portugal-para-los-proximos-partidos-CD24412099",
+          "id": "5eda6d09f48e1518",
+          "titulo": "El regreso de Nahuel RoldÃ¡n llega en el momento clave para Oriente Petrolero",
+          "url": "https://futbol.unitel.bo/division-profesional/el-regreso-de-nahuel-roldan-llega-en-el-momento-clave-para-oriente-petrolero-CB24436602",
           "fecha": "Hace 1 minuto",
           "resumen": null
         },
         {
-          "id": "f21e51b22f4f4f47",
-          "titulo": "Blooming confÃ­a en Paulucci mientras el plantel permanece bajo evaluaciÃ³n",
-          "url": "https://futbol.unitel.bo/division-profesional/blooming-confia-en-paulucci-mientras-el-plantel-permanece-bajo-evaluacion-AD24410189",
-          "fecha": "Hace 2 horas",
+          "id": "2de362cf46378ca7",
+          "titulo": "Lazio aplasta a Sassuolo con primer gol en Serie A del bisnieto de Mussolini",
+          "url": "https://futbol.unitel.bo/futbol/lazio-aplasta-a-sassuolo-con-primer-gol-en-serie-a-del-bisnieto-de-mussolini-JD24419011",
+          "fecha": "27/10/2026 16:57",
           "resumen": null
         },
         {
-          "id": "30d4457b059ac542",
-          "titulo": "El gol de Cauteruccio genera la polÃ©mica: La explicaciÃ³n arbitral que intenta cerrar el debate",
-          "url": "https://futbol.unitel.bo/division-profesional/el-gol-de-cauteruccio-genera-la-polemica-la-explicacion-arbitral-que-intenta-cerrar-el-debate-AC24408008",
-          "fecha": "Hace 3 horas",
+          "id": "49432b574256647e",
+          "titulo": "Cristiano entra en la prelista de Portugal para los prÃ³ximos duelos amistosos",
+          "url": "https://futbol.unitel.bo/futbol/cristiano-entra-en-la-prelista-de-portugal-para-los-proximos-duelos-amistosos-CD24412099",
+          "fecha": "27/10/2026 14:55",
           "resumen": null
         },
         {
-          "id": "e9b1658d96b99a95",
-          "titulo": "BolÃ­var logrÃ³ un sufrido triunfo ante FC Universitario para liderar el torneo solitario",
-          "url": "https://futbol.unitel.bo/division-profesional/bolivar-logro-un-sufrido-triunfo-ante-fc-universitario-para-liderar-el-torneo-solitario-AM24399779",
-          "fecha": "26/10/2026 22:07",
-          "resumen": null
-        },
-        {
-          "id": "520ed1f2e027910b",
-          "titulo": "Nacional golea a GuabirÃ¡ y supera a los azucareros en la tabla del torneo",
-          "url": "https://futbol.unitel.bo/division-profesional/nacional-golea-a-guabira-y-supera-a-los-azucareros-en-la-tabla-del-torneo-EC24400051",
-          "fecha": "26/10/2026 20:26",
+          "id": "19b874ea5d5fd052",
+          "titulo": "Un gol de Sabitzer clasifica al Dortmund a la siguiente ronda en la Copa de Alemania",
+          "url": "https://futbol.unitel.bo/futbol/un-gol-de-sabitzer-clasifica-al-dortmund-a-la-siguiente-ronda-en-la-copa-de-alemania-AA24423021",
+          "fecha": "27/10/2026 19:47",
           "resumen": null
         }
       ],
@@ -1807,26 +1800,68 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:30-04:00",
-      "duracion_ms": 845,
+      "actualizado_en": "2026-10-28T13:47:06-04:00",
+      "duracion_ms": 634,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 19,
+      "cantidad_noticias": 15,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "69e518b7bd009519",
-          "titulo": "La FBF busca modernizar el arbitraje con cámaras RefCam y un simulador VAR",
-          "url": "https://diez.bo/futbol/la-fbf-busca-modernizar-el-arbitraje-con-camaras-refcam-y-un-simulador-var_1793114609",
+          "id": "4f767e3556d6ba56",
+          "titulo": "Oriente podría verse \"perjudicado\" por la Verde si avanza en la Copa Bolivia",
+          "url": "https://diez.bo/futbol/oriente-podria-verse-perjudicado-por-la-verde-si-avanza-en-la-copa-bolivia_1793201614",
           "fecha": null,
-          "resumen": "Fernando Costa anunció la llegada de las cámaras RefCam y confirmó que la Federación Boliviana de Fútbol prevé adquirir un simulador VAR para fortalecer la preparación arbitral. Las medidas buscan mejorar el trabajo de los jueces en medio de los cuestionamientos por sus decisiones en el campeonato nacional."
+          "resumen": null
         },
         {
-          "id": "94efc0ee5e99a520",
-          "titulo": "Blooming atraviesa su cuarta peor racha sin ganar desde 1995",
-          "url": "https://diez.bo/futbol/blooming-atraviesa-su-cuarta-peor-racha-sin-ganar-desde-1995_1793107501",
+          "id": "e46baabc8b476c5e",
+          "titulo": "Entre dudas y regresos: así llega Oriente al duelo ante Aurora",
+          "url": "https://diez.bo/futbol/entre-dudas-y-regresos-asi-llega-oriente-al-duelo-ante-aurora_1793157081",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "ad40a6f3b5871c5b",
+          "titulo": "Blooming recupera a Villarroel y Bejarano para la recta final del torneo",
+          "url": "https://diez.bo/futbol/blooming-recupera-a-villarroel-y-bejarano-para-la-recta-final-del-torneo_1793156957",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "591255f57f340f5e",
+          "titulo": "Sin margen de error: el calendario de Blooming para salvar el año",
+          "url": "https://diez.bo/futbol/sin-margen-de-error-el-calendario-de-blooming-para-salvar-el-ano_1793156740",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "2353204d7c076a05",
+          "titulo": "El clásico y Bolívar, entre las pruebas más exigentes de Oriente en el cierre",
+          "url": "https://diez.bo/futbol/el-clasico-y-bolivar-entre-las-pruebas-mas-exigentes-de-oriente-en-el-cierre_1793156830",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "0f70a7e7a7be947d",
+          "titulo": "Dellien y Prado marcan territorio en Ecuador y avanzan a octavos del Challenger de Guayaquil",
+          "url": "https://diez.bo/tenis/dellien-y-prado-marcan-territorio-en-ecuador-y-avanzan-a-octavos-del-challenger-de-guayaquil_1793158281",
+          "fecha": null,
+          "resumen": "Hugo Dellien derrotó al chileno Nicolás Jarry por 6-1 y 6-3, mientras que Juan Carlos Prado venció al brasileño Pedro Boscardin Dias por idéntico marcador. Ambos tenistas bolivianos ganaron sus partidos de primera ronda y volverán a competir este jueves por un lugar en los cuartos de final."
+        },
+        {
+          "id": "1db6ff4b6b060d9d",
+          "titulo": "Blooming no levanta cabeza y se aleja de copa internacional",
+          "url": "https://diez.bo/futbol/blooming-no-levanta-cabeza-y-se-aleja-de-copa-internacional_1793130449",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "f6581e36f6ed11d4",
+          "titulo": "Tres jugadores de Oriente Petrolero están en la órbita de la Verde",
+          "url": "https://diez.bo/futbol/tres-jugadores-de-oriente-petrolero-estan-en-la-orbita-de-la-verde_1793131207",
           "fecha": null,
           "resumen": null
         },
@@ -1838,9 +1873,9 @@
           "resumen": null
         },
         {
-          "id": "538fc20f764db29c",
-          "titulo": "El fútbol boliviano 2027 arrancará el 31 de enero",
-          "url": "https://diez.bo/futbol/el-futbol-boliviano-2027-arrancara-el-31-de-enero_1793066805",
+          "id": "94efc0ee5e99a520",
+          "titulo": "Blooming atraviesa su cuarta peor racha sin ganar desde 1995",
+          "url": "https://diez.bo/futbol/blooming-atraviesa-su-cuarta-peor-racha-sin-ganar-desde-1995_1793107501",
           "fecha": null,
           "resumen": null
         },
@@ -1848,76 +1883,6 @@
           "id": "7e876fa22f9d18f0",
           "titulo": "Orden, compromiso y roce internacional: las claves de la Verde Sub-15",
           "url": "https://diez.bo/futbol/orden-compromiso-y-roce-internacional-las-claves-de-la-verde-sub-15_1793119361",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "91d7fda98baa1a72",
-          "titulo": "El poder goleador de Triverio domina el campeonato boliviano",
-          "url": "https://diez.bo/futbol/el-poder-goleador-de-triverio-domina-el-campeonato-boliviano_1793111389",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "385aed0bf822a978",
-          "titulo": "Infantino felicitó a la FBF por sus reformas institucionales y destacó el crecimiento del fútbol boliviano",
-          "url": "https://diez.bo/futbol/infantino-felicito-a-la-fbf-por-sus-reformas-institucionales-y-destaco-el-crecimiento-del-futbol-boliviano_1793107660",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "a3c5ec6f3eed40da",
-          "titulo": "La selección boliviana de talla baja busca apoyo para viajar al Mundial de Marruecos",
-          "url": "https://diez.bo/futbol/la-seleccion-boliviana-de-talla-baja-busca-apoyo-para-viajar-al-mundial-de-marruecos_1793106878",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "affe4f1c5433ba20",
-          "titulo": "Cristiano Ronaldo, en la prelista de Portugal para los próximos partidos",
-          "url": "https://diez.bo/futbol/cristiano-ronaldo-en-la-prelista-de-portugal-para-los-proximos-partidos_1793113182",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "6cf4d35e7206229c",
-          "titulo": "Harry Kane gana el Balón de Oro tras una temporada de 73 goles",
-          "url": "https://diez.bo/futbol/harry-kane-gana-el-balon-de-oro-tras-una-temporada-de-73-goles_1793055427",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d254feaca14e9f5d",
-          "titulo": "Bolívar remonta y gana sufriendo 2-1 a FC Universitario",
-          "url": "https://diez.bo/futbol/bolivar-remonta-y-gana-sufriendo-2-1-a-fc-universitario_1793067109",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "4570f82796b65209",
-          "titulo": "Guabirá se derrumba en el complemento y cae por goleada ante Nacional Potosí",
-          "url": "https://diez.bo/futbol/guabira-se-derrumba-en-el-complemento-y-cae-por-goleada-ante-nacional-potosi_1793059597",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "18e3504d8315a512",
-          "titulo": "A un mes de la final de la Libertadores, el Centenario aguarda ese partido y mira al 2030",
-          "url": "https://diez.bo/futbol/a-un-mes-de-la-final-de-la-libertadores-el-centenario-aguarda-ese-partido-y-mira-al-2030_1793111750",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "14f2a06bd69a1a87",
-          "titulo": "Peña rompe el silencio sobre el mal momento de Blooming y los salarios pendientes",
-          "url": "https://diez.bo/futbol/pena-rompe-el-silencio-sobre-el-mal-momento-de-blooming-y-los-salarios-pendientes_1793032896",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "4070c0c098f8e3a8",
-          "titulo": "El goleador de 17 años que ilusiona a Oriente y a la Verde",
-          "url": "https://diez.bo/futbol/el-goleador-de-17-anos-que-ilusiona-a-oriente-y-a-la-verde_1793022107",
           "fecha": null,
           "resumen": null
         },
@@ -1963,8 +1928,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:32-04:00",
-      "duracion_ms": 740,
+      "actualizado_en": "2026-10-28T13:47:08-04:00",
+      "duracion_ms": 634,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -2161,8 +2126,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:37-04:00",
-      "duracion_ms": 3881,
+      "actualizado_en": "2026-10-28T13:47:14-04:00",
+      "duracion_ms": 4363,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57891,11 +57856,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:40-04:00",
-      "duracion_ms": 1121,
+      "actualizado_en": "2026-10-28T13:47:15-04:00",
+      "duracion_ms": 748,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 1,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -57904,24 +57869,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Este lunes 26 comienza el pago del Bono Juancito Pinto de Bs 300; conozca las tres modalidades de cobro Ver más",
-              "2 Reportan la aprehensión de Juan Carlos Huarachi, exejecutivo de la COB, en Oruro Ver más"
+              "1 Convocatoria Grupo Nacional Vida Ver más",
+              "2 Reportan sismo de 3.7 en el trópico de Cochabamba Ver más"
             ],
             [
-              "3 Policía se declara perseguido por atrapar a “la gallina de los huevos de oro” Ver más",
-              "4 Lula gana las elecciones y sigue gobernando Brasil 4 años más Ver más"
+              "3 Ola de crímenes sacude Trinidad y San Matías y en Concepción cae jefe del PCC Ver más",
+              "4 Día Nacional de la Leche: PIL Bolivia dona más de 10.000 litros de leche a niñas y niños de 69 instituciones Ver más"
             ],
             [
-              "5 Día de Muertos para mascotas: la tradición mexicana que cobra fuerza en los hogares Ver más",
-              "6 Partido de Flávio Bolsonaro reconoce la victoria de Lula Ver más"
+              "5 Aceleran la ampliación de la Av. Oquendo y dan beneficios a vecinos Ver más",
+              "6 Medios brasileños confirman la salida de Flávio Bolsonaro a EEUU en medio de investigaciones judiciales Ver más"
             ],
             [
-              "7 Jueces encarcelan a tres policías investigados en 2 casos distintos Ver más",
-              "8 Urioste: Mariaca llamó a números de Brasil desde Cantumarca Ver más"
+              "7 Loza convoca a una 'cumbre' departamental de seguridad Ver más",
+              "8 Sedes de Chuquisaca interviene farmacias de la CNS Ver más"
             ],
             [
-              "9 Marcelo Arce continuará encarcelado 40 días más Ver más",
-              "10 Tradición del mast’aku. Darán una dulce bienvenida a las almas en Todos Santos Ver más"
+              "9 Un operativo contra la minería ilegal en Sorata deja 22 detenidos y armamento y oro decomisados Ver más",
+              "10 Justiniano plantea a la A3C “pasar a acciones concretas” Ver más"
             ]
           ]
         },
@@ -57931,11 +57896,11 @@
           "columnas": [],
           "filas": [
             [
-              "26/10/2026 Mundo Flávio Bolsonaro está prohibido de abandonar Brasil El Tribunal Supremo Federal emitió una orden para que entregue sus pasaportes, en el marco de una pesquisa por lavado de dinero. “Me han prohibido salir del... vista",
-              "26/10/2026 País Bolivia: Presidente Paz propone un “gran acuerdo” educativo y garantiza la gratuidad de la enseñanza El presidente del Estado, Rodrigo Paz Pereira, solicitó este lunes, a los maestros, no tener miedo a la descentralización educativa ni a la evaluación,... vista",
+              "27/10/2026 Seguridad Jhonny Fernández dice que su libertad está “en riesgo” y exige proceso imparcial El exalcalde de Santa Cruz de la Sierra es objeto de una orden de aprehensión por no asistir a su audiencia de medidas cautelares, convocada para este martes,... vista",
+              "27/10/2026 País Emiten orden de aprehensión contra Jhonny Fernández tras su declaratoria de rebeldía por ausencia a cautelar El exalcalde cruceño, Jhonny Fernández debía enfrentar una audiencia cautelar este martes, pero no asistió y fue declarado en rebeldía, confirmó el fiscal del... vista",
               "",
-              "26/10/2026 Seguridad Policía se declara perseguido por atrapar a “la gallina de los huevos de oro” Eric Correa participó de la captura de Marset y niega estar involucrado en la sustracción de bienes del narcotraficante expulsado a EEUU horas después de su... vista",
-              "26/10/2026 País Arce destaca el triunfo de Lula en Brasil Desde la cuenta oficial de X del expresidente Luis Arce Catacora, su equipo de apoyo de redes sociales difundió un mensaje de felicitación al mandatario... vista"
+              "27/10/2026 Seguridad Caso Marset: Aprehenden al capitán Ruiz, señalado como ayudante de órdenes de Moreno Guillermo Ruiz, capitán de la Policía y ayudante de órdenes del coronel Óscar Fernando Moreno, fue aprehendido este martes en Sucre, en el marco de las... vista",
+              "27/10/2026 Economía El Gobierno autoriza por decreto la importación de gas para consumo propio y electricidad El Gobierno nacional autorizó ayer, mediante el Decreto Supremo 5755, la importación excepcional de gas natural (GN) y gas natural licuado (GNL) para consumo... vista"
             ]
           ]
         },
@@ -57959,25 +57924,17 @@
           "columnas": [],
           "filas": [
             [
+              "“Mi madre me enseñó que la naturaleza habla, que debemos aprender a escucharla y así nació mi canto”. Ver más 27/10/2026 Cultura Womex 2026 reconoce la trayectoria de la cantante boliviana Luzmila Carpio",
               "“Mi madre me enseñó que la naturaleza habla, que debemos aprender a escucharla y así nació mi canto”. Con esas palabras... Ver más 26/10/2026 Música Luzmila Carpio recibe el Womex Artist Award 2026 y reivindica las voces de las madres y abuelas",
-              "La tradicional fiesta de Halloween se impone en la semana 44 del año con diferentes actividades y para todas las edades. Ver más 26/10/2026 Cultura Halloween, la milenaria fiesta del terror que no asusta, se apodera de Cochabamba",
               "",
-              "Más de un centenar de intérpretes se reunirán en la población de Aiquile para tomar parte de la cuadragésima segunda... Ver más 25/10/2026 Cultura Aiquile palpita con la 42° Feria y Festival Internacional del Charango 2026",
-              "El nuevo libro del investigador y comunicador boliviano Marcelo Guardia Crespo se titula “Entre pánicos y espejos: el... Ver más 25/10/2026 Cultura Entre pánicos y espejos: el reguetón desde sus actores"
+              "La tradicional fiesta de Halloween se impone en la semana 44 del año con diferentes actividades y para todas las edades. Ver más 26/10/2026 Cultura Halloween, la milenaria fiesta del terror que no asusta, se apodera de Cochabamba",
+              "Más de un centenar de intérpretes se reunirán en la población de Aiquile para tomar parte de la cuadragésima segunda... Ver más 25/10/2026 Cultura Aiquile palpita con la 42° Feria y Festival Internacional del Charango 2026"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "bfa869d079b7bbd5",
-          "titulo": "Partido de Flávio Bolsonaro reconoce la victoria de Lula",
-          "url": "https://www.lostiempos.com/actualidad/mundo/20261026/partido-flavio-bolsonaro-reconoce-victoria-lula",
-          "fecha": null,
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -57991,8 +57948,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:42-04:00",
-      "duracion_ms": 818,
+      "actualizado_en": "2026-10-28T13:47:18-04:00",
+      "duracion_ms": 1620,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -58133,8 +58090,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:43-04:00",
-      "duracion_ms": 424,
+      "actualizado_en": "2026-10-28T13:47:20-04:00",
+      "duracion_ms": 388,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58155,11 +58112,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:52-04:00",
-      "duracion_ms": 8054,
+      "actualizado_en": "2026-10-28T13:47:28-04:00",
+      "duracion_ms": 7144,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 17,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -58766,6 +58723,13 @@
           "resumen": null
         },
         {
+          "id": "83edd31fe2c11334",
+          "titulo": "Gemy se consagra campeón del Torneo Internacional Amazónico",
+          "url": "https://larazon.bo/marcas/2026/10/27/gemy-se-consagra-campeon-del-torneo-internacional-amazonico/",
+          "fecha": "octubre 27, 2026 17:35",
+          "resumen": null
+        },
+        {
           "id": "4ad0f430b55c1b6b",
           "titulo": "El 2027 el fútbol boliviano comenzará desde el 31 de enero",
           "url": "https://larazon.bo/marcas/2026/10/27/el-2027-el-futbol-boliviano-comenzara-desde-el-31-de-enero/",
@@ -58777,13 +58741,6 @@
           "titulo": "Bolívar sufre, gana 2-1 a FCU y se ratifica líder",
           "url": "https://larazon.bo/marcas/2026/10/26/bolivar-sufre-gana-2-1-a-fcu-y-se-ratifica-lider/",
           "fecha": "octubre 26, 2026 22:21",
-          "resumen": null
-        },
-        {
-          "id": "9e87b756dce15e67",
-          "titulo": "Harry Kane, el goleador inglés es Balón de Oro 2025-26",
-          "url": "https://larazon.bo/marcas/2026/10/26/harry-kane-el-goleador-ingles-es-balon-de-oro-2025-26/",
-          "fecha": "octubre 26, 2026 19:00",
           "resumen": null
         },
         {
@@ -58808,13 +58765,6 @@
           "resumen": null
         },
         {
-          "id": "0b1e0bbd99168d9c",
-          "titulo": "Mbappé arrepentido por ‘ofensa’ tras ola de repudio en China",
-          "url": "https://larazon.bo/marcas/2026/10/27/mbappe-arrepentido-por-ofensa-tras-ola-de-repudio-en-china/",
-          "fecha": "octubre 27, 2026 09:47",
-          "resumen": "Mbappé es sumamente popular en China, donde el fútbol despierta un gran entusiasmo a pesar de los escasos resultados"
-        },
-        {
           "id": "677435ebd5b8f626",
           "titulo": "La Selección Boliviana y la opción de volver al Hernando Siles",
           "url": "https://larazon.bo/marcas/2026/10/18/la-seleccion-boliviana-y-la-opcion-de-volver-al-hernando-siles/",
@@ -58826,13 +58776,6 @@
           "titulo": "Se cumple un siglo del debut de la Selección Boliviana",
           "url": "https://larazon.bo/marcas/2026/10/12/se-cumple-un-siglo-del-debut-de-la-seleccion-boliviana/",
           "fecha": "octubre 12, 2026 09:18",
-          "resumen": null
-        },
-        {
-          "id": "275d9bdcc4c0f2df",
-          "titulo": "Bolivia logra el subcampeonato del Sudamericano de Golf Senior Amateur",
-          "url": "https://larazon.bo/marcas/2026/10/26/bolivia-logra-el-subcampeonato-del-sudamericano-de-golf-senior-amateur/",
-          "fecha": "octubre 26, 2026 00:18",
           "resumen": null
         },
         {
@@ -58876,6 +58819,13 @@
           "url": "https://larazon.bo/marcas/2026/10/16/flamengo-empate-en-la-plata-y-se-acerca-a-otra-final-de-libertadores/",
           "fecha": "octubre 16, 2026 06:33",
           "resumen": null
+        },
+        {
+          "id": "d357cf053c5acd61",
+          "titulo": "Mbappé ‘feliz’ por los 100 goles justo en el Madrid-Barca",
+          "url": "https://larazon.bo/marcas/2026/10/26/mbappe-feliz-por-los-100-goles-justo-en-el-madrid-barca/",
+          "fecha": "octubre 26, 2026 00:16",
+          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -58891,8 +58841,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-27T13:13:54-04:00",
-      "duracion_ms": 752,
+      "actualizado_en": "2026-10-28T13:47:31-04:00",
+      "duracion_ms": 1353,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -58904,22 +58854,13 @@
           "columnas": [],
           "filas": [
             [
-              "“Sería doloroso que Conrrado represente a otro país”: su familia tuvo que pasar el sombrero para que Bolivia tenga un campeón mundial"
-            ],
-            [
               "Lara pide aprehender a otros dos policías sospechados de irregularidades en la captura de Marset"
             ],
             [
               "Analista: Hay gente en el Chapare que se cansó de proteger a Evo Morales"
             ],
             [
-              "Adolescente muere tras caer del tercer piso de su colegio y la Policía investiga el caso"
-            ],
-            [
-              "Tuto exige a Kast que se disculpen y paguen resarcimiento por el caso maderas"
-            ],
-            [
-              "Concejal denuncia que retroexcavadora de Sica Sica apareció en un campamento minero de Caranavi"
+              "Exministro de Educación dice que el magisterio no teme a la descentralización, sino a \"perder el botín\""
             ],
             [
               "Rodríguez Veltzé: La Justicia en Bolivia no necesita a la DEA, debe ser independiente"
@@ -58928,7 +58869,16 @@
               "Aramayo a los auríferos: “quien realmente saca adelante al país es el sector minero”"
             ],
             [
-              "Bolivia exporta $us 3.000 millones en oro, pero el Estado recibiría solo $us 60 millones"
+              "Ferrufino es enviado a la cárcel, pero defiende su operativo contra Marset: “nadie se hubiera animado a hacerlo”"
+            ],
+            [
+              "Caso Marset: Correa identifica a 17 policías que se quedaron en la vivienda tras la captura"
+            ],
+            [
+              "Policía de la captura a Marset denuncia que es perseguido por quitar a la “gallina de los huevos de oro”"
+            ],
+            [
+              "“La Túpac Katari no ha apoyado en nada”: el reclamo de la esposa del dirigente encarcelado por los bloqueos"
             ]
           ]
         }
@@ -58949,7 +58899,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-10-27T13:13:56-04:00",
+      "ultimo_intento_en": "2026-10-28T13:47:32-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
