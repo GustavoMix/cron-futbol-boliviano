@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-10-29T13:54:14-04:00",
+  "generado_en": "2026-10-30T13:36:43-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 2,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 159,
+    "noticias_extraidas": 156,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:23-04:00",
-      "duracion_ms": 844,
+      "actualizado_en": "2026-10-30T13:35:44-04:00",
+      "duracion_ms": 861,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -262,6 +262,13 @@
       ],
       "noticias": [
         {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "28e864793e97b1f0",
           "titulo": "Gran éxito en Cobija: El V Festival FIFA de Fútbol Femenino reunió a más de 70 niñas en Pando",
           "url": "https://fbf.com.bo/gran-exito-en-cobija-el-v-festival-fifa-de-futbol-femenino-reunio-a-mas-de-70-ninas-en-pando/",
@@ -286,13 +293,6 @@
           "id": "50acf882e61d6f41",
           "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
           "fecha": null,
           "resumen": null
         }
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:24-04:00",
-      "duracion_ms": 320,
+      "actualizado_en": "2026-10-30T13:35:45-04:00",
+      "duracion_ms": 272,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -325,6 +325,13 @@
           "url": "https://fbf.com.bo/noticias",
           "fecha": null,
           "resumen": "¡Este campeonato se transmitirá por televisión nacional! Mantente atento para ver la batalla inolvidable de los campeones."
+        },
+        {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "28e864793e97b1f0",
@@ -353,13 +360,6 @@
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:26-04:00",
-      "duracion_ms": 400,
+      "actualizado_en": "2026-10-30T13:35:47-04:00",
+      "duracion_ms": 361,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -788,6 +788,13 @@
           "resumen": "Desde cada rincón del país, llegan los sueños, el talento y la entrega de los jóvenes que hoy escriben el futuro del fútbol nacional. Esto es la Liga Nacional Sub-19, la cuna de las próximas estrellas, donde la pasión se vive con la misma intensidad."
         },
         {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "28e864793e97b1f0",
           "titulo": "Gran éxito en Cobija: El V Festival FIFA de Fútbol Femenino reunió a más de 70 niñas en Pando",
           "url": "https://fbf.com.bo/gran-exito-en-cobija-el-v-festival-fifa-de-futbol-femenino-reunio-a-mas-de-70-ninas-en-pando/",
@@ -814,13 +821,6 @@
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:27-04:00",
-      "duracion_ms": 364,
+      "actualizado_en": "2026-10-30T13:35:50-04:00",
+      "duracion_ms": 2331,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1157,6 +1157,13 @@
           "resumen": null
         },
         {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "28e864793e97b1f0",
           "titulo": "Gran éxito en Cobija: El V Festival FIFA de Fútbol Femenino reunió a más de 70 niñas en Pando",
           "url": "https://fbf.com.bo/gran-exito-en-cobija-el-v-festival-fifa-de-futbol-femenino-reunio-a-mas-de-70-ninas-en-pando/",
@@ -1183,13 +1190,6 @@
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:29-04:00",
-      "duracion_ms": 330,
+      "actualizado_en": "2026-10-30T13:35:54-04:00",
+      "duracion_ms": 1818,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:30-04:00",
-      "duracion_ms": 311,
+      "actualizado_en": "2026-10-30T13:35:57-04:00",
+      "duracion_ms": 2437,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1261,6 +1261,13 @@
           "titulo": "Selección Absoluta",
           "url": "https://fbf.com.bo/proceso-de-acreditaciones-bolivia-vs-gambia-amistoso-internacional-2026/",
           "fecha": "septiembre 25, 2026",
+          "resumen": null
+        },
+        {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1288,13 +1295,6 @@
           "id": "50acf882e61d6f41",
           "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
           "fecha": null,
           "resumen": null
         }
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:32-04:00",
-      "duracion_ms": 318,
+      "actualizado_en": "2026-10-30T13:35:59-04:00",
+      "duracion_ms": 408,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1326,6 +1326,13 @@
           "titulo": "SELECCIÓN FEMENINA",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "334db25dbe3e0401",
+          "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
+          "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1355,13 +1362,6 @@
           "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "75094c4faa755200",
-          "titulo": "FBF FIRMA ACUERDO CON LA SEGUNDA MAYOR FÁBRICA DE PASTO SINTÉTICO DEL MUNDO",
-          "url": "https://fbf.com.bo/fbf-firma-acuerdo-con-la-segunda-mayor-fabrica-de-pasto-sintetico-del-mundo/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:34-04:00",
-      "duracion_ms": 847,
+      "actualizado_en": "2026-10-30T13:36:01-04:00",
+      "duracion_ms": 861,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1716,7 +1716,7 @@
       "datos_estructurados": null,
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.bolivar.com.bo/Noticias",
       "datos_desde_cache": true,
-      "ultimo_intento_en": "2026-10-29T13:53:45-04:00"
+      "ultimo_intento_en": "2026-10-30T13:36:13-04:00"
     },
     {
       "id": "always_ready_noticias",
@@ -1727,8 +1727,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:47-04:00",
-      "duracion_ms": 717,
+      "actualizado_en": "2026-10-30T13:36:15-04:00",
+      "duracion_ms": 611,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1749,41 +1749,34 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:49-04:00",
-      "duracion_ms": 430,
+      "actualizado_en": "2026-10-30T13:36:17-04:00",
+      "duracion_ms": 418,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 4,
+      "cantidad_noticias": 3,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "6beb61711867f128",
-          "titulo": "Â¿Por quÃ© Leonel Justiniano no jugarÃ¡ los prÃ³ximos tres partidos con BolÃ­var?",
-          "url": "https://futbol.unitel.bo/division-profesional/por-que-leonel-justiniano-no-jugara-los-proximos-tres-partidos-con-bolivar-FH24456047",
-          "fecha": "Hace 3 horas",
+          "id": "858b0a66f0a01be8",
+          "titulo": "Cristiano llega a los 985 goles con un hat-trick y queda a 15 del rÃ©cord histÃ³rico",
+          "url": "https://futbol.unitel.bo/futbol/cristiano-llega-a-los-985-goles-con-un-hat-trick-y-queda-a-15-del-record-historico-GE24466189",
+          "fecha": "29/10/2026 21:51",
           "resumen": null
         },
         {
-          "id": "9c90efcb52d31c23",
-          "titulo": "Inter Miami de Leo Messi empata con Cincinnati con un golazo de SuÃ¡rez",
-          "url": "https://futbol.unitel.bo/futbol/inter-miami-de-leo-messi-empata-con-cincinnati-con-un-golazo-de-suarez-OG24448420",
-          "fecha": "28/10/2026 22:21",
+          "id": "d043e073d5374be7",
+          "titulo": "ABB ficha a Villegas como gerente deportivo y a su ayudante como tÃ©cnico",
+          "url": "https://futbol.unitel.bo/division-profesional/abb-ficha-a-villegas-como-gerente-deportivo-y-a-su-ayudante-como-tecnico-EE24463689",
+          "fecha": "29/10/2026 15:31",
           "resumen": null
         },
         {
-          "id": "81bec830f967a423",
-          "titulo": "Bayern avanza de ronda con golea al Magdeburgo en la Copa de Alemania",
-          "url": "https://futbol.unitel.bo/futbol/bayern-avanza-de-ronda-con-golea-al-magdeburgo-en-la-copa-de-alemania-BG24446412",
-          "fecha": "28/10/2026 19:32",
-          "resumen": null
-        },
-        {
-          "id": "d4638da6a3560327",
-          "titulo": "Bolivia iba goleando y terminÃ³ perdiendo ante KirguistÃ¡n en el Mundial sub-15",
-          "url": "https://futbol.unitel.bo/futbol/bolivia-iba-goleando-y-termino-perdiendo-ante-kirguistan-en-el-mundial-sub-15-BB24438238",
-          "fecha": "28/10/2026 15:23",
+          "id": "b9af6f1a11744ff9",
+          "titulo": "Brasil apuesta por Vinicius y juventud para los partidos con JapÃ³n y Singapur",
+          "url": "https://futbol.unitel.bo/futbol/brasil-apuesta-por-vinicius-y-juventud-para-los-partidos-con-japon-y-singapur-GE24464772",
+          "fecha": "29/10/2026 15:53",
           "resumen": null
         }
       ],
@@ -1800,21 +1793,63 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:51-04:00",
-      "duracion_ms": 815,
+      "actualizado_en": "2026-10-30T13:36:19-04:00",
+      "duracion_ms": 896,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 17,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
+          "id": "a94a902108ff8086",
+          "titulo": "La Sub-15 de Bolivia alza la voz tras la polémica derrota ante Inglaterra",
+          "url": "https://diez.bo/futbol/la-sub-15-de-bolivia-alza-la-voz-tras-la-polemica-derrota-ante-inglaterra_1793370400",
+          "fecha": null,
+          "resumen": "Los futbolistas de la selección boliviana expresaron su tristeza y molestia en redes sociales después de perder la final de la categoría B del Mundial Sub-15."
+        },
+        {
+          "id": "2a95f547e69ff82a",
+          "titulo": "Oriente quiere prolongar su buen momento ante Aurora",
+          "url": "https://diez.bo/futbol/oriente-quiere-prolongar-su-buen-momento-ante-aurora_1793361618",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "8e603faa1910d028",
+          "titulo": "Con urgencias y regresos, Blooming se alista para visitar a Tomayapo",
+          "url": "https://diez.bo/futbol/con-urgencias-y-regresos-blooming-se-alista-para-visitar-a-tomayapo_1793363683",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "cf36829100c5bc4a",
+          "titulo": "Entre regresos, bajas y dudas, Guabirá prepara el duelo ante Bolívar",
+          "url": "https://diez.bo/futbol/entre-regresos-bajas-y-dudas-guabira-prepara-el-duelo-ante-bolivar_1793372155",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "df881e980103b82a",
+          "titulo": "Oriente pone entradas económicas para llenar el Tahuichi ante Aurora",
+          "url": "https://diez.bo/futbol/oriente-pone-entradas-economicas-para-llenar-el-tahuichi-ante-aurora_1793361438",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "dd3b604f75d61c8f",
           "titulo": "Florentín y Oriente, a la espera de una reunión clave para definir el futuro",
           "url": "https://diez.bo/futbol/florentin-y-oriente-a-la-espera-de-una-reunion-clave-para-definir-el-futuro_1793291967",
           "fecha": null,
-          "resumen": "Roger ‘Sucha’ Suárez, director deportivo del club refinero, confirmó a DIEZ que la dirigencia aguarda la llegada del representante del entrenador paraguayo para conversar sobre su continuidad. Además, el DT ya presentó una lista de jugadores que terminan contrato en diciembre y pretende que renueven de cara a 2027."
+          "resumen": null
+        },
+        {
+          "id": "faa90de6034a692b",
+          "titulo": "Oriente se aferra al apoyo de su gente para vencer a Aurora",
+          "url": "https://diez.bo/futbol/oriente-se-aferra-al-apoyo-de-su-gente-para-vencer-a-aurora_1793309964",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "f3c849683adee4ee",
@@ -1838,9 +1873,9 @@
           "resumen": null
         },
         {
-          "id": "ad1a09e7c1d089d0",
-          "titulo": "San Juan FC y Virginia USC buscan las semifinales de la Simón Bolívar",
-          "url": "https://diez.bo/futbol/san-juan-fc-y-virginia-usc-buscan-las-semifinales-de-la-simon-bolivar_1793287412",
+          "id": "4e2bd87a55b024f9",
+          "titulo": "Villegas llega a ABB con la misión de evitar el descenso",
+          "url": "https://diez.bo/futbol/villegas-llega-a-abb-con-la-mision-de-evitar-el-descenso_1793317052",
           "fecha": null,
           "resumen": null
         },
@@ -1852,51 +1887,9 @@
           "resumen": null
         },
         {
-          "id": "161c78b1e21f0226",
-          "titulo": "Dellien y Prado buscan avanzar en el Challenger de Guayaquil",
-          "url": "https://diez.bo/multideportivo/dellien-y-prado-buscan-avanzar-en-el-challenger-de-guayaquil_1793280193",
-          "fecha": null,
-          "resumen": "Los tenistas bolivianos Hugo Dellien y Juan Carlos Prado debutaron con victorias en singles y este jueves buscarán avanzar a la siguiente ronda del Challenger de Guayaquil, en Ecuador. Ambos partidos están programados para las 12:00."
-        },
-        {
           "id": "4f767e3556d6ba56",
           "titulo": "Oriente podría verse \"perjudicado\" por la Verde si avanza en la Copa Bolivia",
           "url": "https://diez.bo/futbol/oriente-podria-verse-perjudicado-por-la-verde-si-avanza-en-la-copa-bolivia_1793201614",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "1878e8c6b895ffbe",
-          "titulo": "Guabirá, ante el desafío de frenar a Bolívar y recuperar terreno en la Liga",
-          "url": "https://diez.bo/futbol/guabira-ante-el-desafio-de-frenar-a-bolivar-y-recuperar-terreno-en-la-liga_1793226157",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "e46baabc8b476c5e",
-          "titulo": "Entre dudas y regresos: así llega Oriente al duelo ante Aurora",
-          "url": "https://diez.bo/futbol/entre-dudas-y-regresos-asi-llega-oriente-al-duelo-ante-aurora_1793157081",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "2353204d7c076a05",
-          "titulo": "El clásico y Bolívar, entre las pruebas más exigentes de Oriente en el cierre",
-          "url": "https://diez.bo/futbol/el-clasico-y-bolivar-entre-las-pruebas-mas-exigentes-de-oriente-en-el-cierre_1793156830",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "591255f57f340f5e",
-          "titulo": "Sin margen de error: el calendario de Blooming para salvar el año",
-          "url": "https://diez.bo/futbol/sin-margen-de-error-el-calendario-de-blooming-para-salvar-el-ano_1793156740",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ad40a6f3b5871c5b",
-          "titulo": "Blooming recupera a Villarroel y Bejarano para la recta final del torneo",
-          "url": "https://diez.bo/futbol/blooming-recupera-a-villarroel-y-bejarano-para-la-recta-final-del-torneo_1793156957",
           "fecha": null,
           "resumen": null
         },
@@ -1905,7 +1898,7 @@
           "titulo": "Pando se alista para recibir a la Verde: el estadio Roberto Jordán Cuéllar será inspeccionado",
           "url": "https://diez.bo/futbol/pando-se-alista-para-recibir-a-la-verde-el-estadio-roberto-jordan-cuellar-sera-inspeccionado_1793109851",
           "fecha": null,
-          "resumen": "Giovanni Monje, presidente de la Asociación de Fútbol de Pando, aseguró que la selección boliviana jugará en el departamento en marzo de 2027, aunque todavía se aguarda la confirmación oficial de la fecha y del rival. Además, adelantó que una comisión de la FBF inspeccionará el estadio Roberto Jordán Cuéllar para evaluar los trabajos necesarios."
+          "resumen": null
         },
         {
           "id": "3f827437f20a6202",
@@ -1918,13 +1911,6 @@
           "id": "239780b5935eca47",
           "titulo": "Bolivia confirma amistosos ante Perú y Ecuador para noviembre",
           "url": "https://diez.bo/futbol/bolivia-confirma-amistosos-ante-peru-y-ecuador-para-noviembre_1792164759",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b52a039cf08695b4",
-          "titulo": "Desde el repechaje, la Verde recibió 14 goles y no marcó ninguno",
-          "url": "https://diez.bo/futbol/desde-el-repechaje-la-verde-recibio-14-goles-y-no-marco-ninguno_1790951102",
           "fecha": null,
           "resumen": null
         }
@@ -1942,8 +1928,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:52-04:00",
-      "duracion_ms": 540,
+      "actualizado_en": "2026-10-30T13:36:21-04:00",
+      "duracion_ms": 755,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 25,
@@ -2140,8 +2126,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:53:58-04:00",
-      "duracion_ms": 4501,
+      "actualizado_en": "2026-10-30T13:36:27-04:00",
+      "duracion_ms": 4511,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -57870,11 +57856,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:54:00-04:00",
-      "duracion_ms": 514,
+      "actualizado_en": "2026-10-30T13:36:29-04:00",
+      "duracion_ms": 939,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 1,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -57883,24 +57869,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Sequía azota a cinco municipios del cono sur; el ganado muere Ver más",
-              "2 Fiscalía imputa al capitán Ruiz por cinco delitos y pide seis meses de detención preventiva Ver más"
+              "1 Bolsonaro pasó por Argentina y Ecuador en su fuga a EEUU y se declara “presidente electo” Ver más",
+              "2 Migración afirma que Cerimedo entró legalmente al país, pero desconoce los detalles y su flujo migratorio Ver más"
             ],
             [
-              "3 Alcaldía inicia remodelación de la plaza de Las Banderas y El Prado Ver más",
-              "4 Trasladan a Jhonny Fernández al Palacio de Justicia para su audiencia cautelar Ver más"
+              "3 Fiscalía General conforma equipo especializado para investigar audios de Cerimedo Ver más",
+              "4 Dan seis meses de detención preventiva a exalcalde cruceño Jhonny Fernández Ver más"
             ],
             [
-              "5 Vía decreto, autorizan la importación de gas y los empresarios temen crisis Ver más",
-              "6 BISA se abre camino en Panamá con servicios para personas y empresas Ver más"
+              "5 Fundaciones e iglesias consiguen la suspensión del tratamiento del proyecto de ley de eutanasia Ver más",
+              "6 Desbaratan en Chile red criminal que robaba autos por encargo vía WhatsApp para el mercado boliviano Ver más"
             ],
             [
-              "7 Cuatro equipos tienen siete fechas para salvarse del descenso en el campeonato Ver más",
-              "8 La sequía azota a ganadería de 6 departamentos Ver más"
+              "7 Legisladores exigen a Fiscal investigar audios; Paz dice que son creados por IA Ver más",
+              "8 Aprehenden a 'Niño', un integrante del equipo de seguridad de Roger Mariaca Ver más"
             ],
             [
-              "9 Tebas pide perdón a China en nombre de La Liga tras la polémica con Mbappé Ver más",
-              "10 Identifican en Cochabamba más de 100 viviendas sociales vacías y alquiladas Ver más"
+              "9 Envían a Johnny Fernández a Palmasola por presunta malversación de fondos Ver más",
+              "10 Maletas de Marset estaban vacías y abogada dice que Ruiz solo obedecía Ver más"
             ]
           ]
         },
@@ -57910,11 +57896,11 @@
           "columnas": [],
           "filas": [
             [
-              "29/10/2026 País Gobierno lanza la ‘Estrategia Amazonia Bolivia’ para frenar la deforestación El presidente constitucional, Rodrigo Paz Pereira, presentó este miércoles la ‘Estrategia Amazonia Bolivia’ para frenar la deforestación, preservar la... vista",
-              "28/10/2026 Seguridad Fiscalía imputa al capitán Ruiz por cinco delitos y pide seis meses de detención preventiva El Ministerio Público imputó este miércoles formalmente al capitán Guillermo Junior Ruiz Guzmán, investigado dentro del caso relacionado al caso maletas de... vista",
+              "30/10/2026 Seguridad Envían a Johnny Fernández a Palmasola por presunta malversación de fondos El exalcalde de Santa Cruz de la Sierra, Johnny Fernández, fue llevado este viernes a la cárdel de Palmasola en Santa Cruz para cumplir detención preventiva... vista",
+              "30/10/2026 Cochabamba Alcaldía lleva cisternas y forraje a Pasorapa para mitigar la dura sequía La Alcaldía de Cochabamba envió anoche cisternas con agua y forraje para los animales de Pasorapa para apoyar a las familias afectadas por la sequía. El... vista",
               "",
-              "28/10/2026 Economía Gobierno anuncia nuevo proyecto de ley de inversiones El anterior fue enviado al Parlamento hace dos meses y medio y no prosperó. Este incluirá las propuestas de las mayores organizaciones empresariales del país,... vista",
-              "28/10/2026 Economía Identifican en Cochabamba más de 100 viviendas sociales vacías y alquiladas “El ministro de Obras Públicas, Mauricio Zamora nos pidió llegar a las familias más vulnerables”, afirmó el director de la Agencia Estatal de Vivienda (... vista"
+              "30/10/2026 Economía Paz asegura que invierten para evitar un declive: “Teníamos gas, vamos a volver a tener gas” Ante las proyecciones sobre una posible caída de las reservas y la producción de gas natural en Bolivia, el presidente Rodrigo Paz aseguró esta semana que el... vista",
+              "30/10/2026 Economía Zamora denuncia 672 departamentos abandonados en la Villa Sudamericana El ministro de Obras Públicas, Mauricio Zamora, informó el miércoles que, ante la negligencia e irregularidades de anteriores gobiernos, regulariza el... vista"
             ]
           ]
         },
@@ -57938,25 +57924,17 @@
           "columnas": [],
           "filas": [
             [
-              "Pianoman, el largometraje boliviano dirigido por el cineasta Felipe Quiroga se estrenará en la competencia principal... Ver más 28/10/2026 Cine Filme boliviano Pianoman se estrena en el Filmefestival Mannheim-Heidelberg",
-              "“Mi madre me enseñó que la naturaleza habla, que debemos aprender a escucharla y así nació mi canto”. Ver más 27/10/2026 Cultura Womex 2026 reconoce la trayectoria de la cantante boliviana Luzmila Carpio",
+              "Pese que existe resistencia en el autor y los artistas plásticos de Cochabamba, la decisión de trasladar la escultura... Ver más 30/10/2026 Cultura Traslado de escultura Diversidad y equilibrio genera debate",
+              "Brian Ezequiel Vela Rodríguez, vocalista de la agrupación de música regional mexicana 'El Bronco y su banda', falleció... Ver más 29/10/2026 Música Fallece el vocalista de 'El Bronco y su banda' tras sufrir graves quemaduras",
               "",
-              "“Mi madre me enseñó que la naturaleza habla, que debemos aprender a escucharla y así nació mi canto”. Con esas palabras... Ver más 26/10/2026 Música Luzmila Carpio recibe el Womex Artist Award 2026 y reivindica las voces de las madres y abuelas",
-              "La tradicional fiesta de Halloween se impone en la semana 44 del año con diferentes actividades y para todas las edades. Ver más 26/10/2026 Cultura Halloween, la milenaria fiesta del terror que no asusta, se apodera de Cochabamba"
+              "La Alcaldía de Cochabamba se pone a tono con la festividad de Todos Santos y Halloween organizando un par de... Ver más 29/10/2026 Cultura Desfile de carrozas fúnebres y el paseo de las almas avivan Todos los Santos y Halloween",
+              "Pianoman, el largometraje boliviano dirigido por el cineasta Felipe Quiroga se estrenará en la competencia principal... Ver más 28/10/2026 Cine Filme boliviano Pianoman se estrena en el Filmefestival Mannheim-Heidelberg"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "7f9a616bd6fa3742",
-          "titulo": "Cuatro equipos tienen siete fechas para salvarse del descenso en el campeonato",
-          "url": "https://www.lostiempos.com/deportes/futbol/20261028/cuatro-equipos-tienen-siete-fechas-salvarse-del-descenso-campeonato",
-          "fecha": null,
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -57970,8 +57948,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:54:02-04:00",
-      "duracion_ms": 723,
+      "actualizado_en": "2026-10-30T13:36:31-04:00",
+      "duracion_ms": 747,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -58112,8 +58090,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:54:03-04:00",
-      "duracion_ms": 230,
+      "actualizado_en": "2026-10-30T13:36:32-04:00",
+      "duracion_ms": 386,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58134,8 +58112,8 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:54:10-04:00",
-      "duracion_ms": 5933,
+      "actualizado_en": "2026-10-30T13:36:39-04:00",
+      "duracion_ms": 5895,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
       "cantidad_noticias": 16,
@@ -58738,10 +58716,10 @@
       ],
       "noticias": [
         {
-          "id": "760e322876f63a6d",
-          "titulo": "Corinthians y Cruzeiro, final brasileña de Libertadores femenina",
-          "url": "https://larazon.bo/marcas/2026/10/29/corinthians-y-cruzeiro-final-brasilena-de-libertadores-femenina/",
-          "fecha": "octubre 29, 2026 09:42",
+          "id": "3cd764d90cb72857",
+          "titulo": "Flamengo golea a Vasco da Gama y se aleja en la punta del Brasileirão",
+          "url": "https://larazon.bo/marcas/2026/10/30/flamengo-golea-a-vasco-da-gama-y-se-aleja-en-la-punta-del-brasileirao/",
+          "fecha": "octubre 30, 2026 07:04",
           "resumen": null
         },
         {
@@ -58752,10 +58730,10 @@
           "resumen": null
         },
         {
-          "id": "83edd31fe2c11334",
-          "titulo": "Gemy se consagra campeón del Torneo Internacional Amazónico",
-          "url": "https://larazon.bo/marcas/2026/10/27/gemy-se-consagra-campeon-del-torneo-internacional-amazonico/",
-          "fecha": "octubre 27, 2026 17:35",
+          "id": "760e322876f63a6d",
+          "titulo": "Corinthians y Cruzeiro, final brasileña de Libertadores femenina",
+          "url": "https://larazon.bo/marcas/2026/10/29/corinthians-y-cruzeiro-final-brasilena-de-libertadores-femenina/",
+          "fecha": "octubre 29, 2026 09:42",
           "resumen": null
         },
         {
@@ -58794,6 +58772,13 @@
           "resumen": null
         },
         {
+          "id": "b9577778823525a6",
+          "titulo": "El Dakar será en Portugal y Marruecos tras renunciar a Arabia Saudita",
+          "url": "https://larazon.bo/marcas/2026/10/30/el-dakar-sera-en-portugal-y-marruecos-tras-renunciar-a-arabia-saudita/",
+          "fecha": "octubre 30, 2026 07:14",
+          "resumen": "La guerra en Oriente Medio, desencadenada por los ataques de Estados Unidos e Israel contra Irán en febrero, ha trastocado..."
+        },
+        {
           "id": "677435ebd5b8f626",
           "titulo": "La Selección Boliviana y la opción de volver al Hernando Siles",
           "url": "https://larazon.bo/marcas/2026/10/18/la-seleccion-boliviana-y-la-opcion-de-volver-al-hernando-siles/",
@@ -58801,10 +58786,10 @@
           "resumen": null
         },
         {
-          "id": "d5c7af7b62e254ff",
-          "titulo": "Se cumple un siglo del debut de la Selección Boliviana",
-          "url": "https://larazon.bo/marcas/2026/10/12/se-cumple-un-siglo-del-debut-de-la-seleccion-boliviana/",
-          "fecha": "octubre 12, 2026 09:18",
+          "id": "83edd31fe2c11334",
+          "titulo": "Gemy se consagra campeón del Torneo Internacional Amazónico",
+          "url": "https://larazon.bo/marcas/2026/10/27/gemy-se-consagra-campeon-del-torneo-internacional-amazonico/",
+          "fecha": "octubre 27, 2026 17:35",
           "resumen": null
         },
         {
@@ -58841,13 +58826,6 @@
           "url": "https://larazon.bo/marcas/2026/10/20/cruzeiro-a-cuartos-de-libertadores-femenina-tres-estan-cerca/",
           "fecha": "octubre 20, 2026 09:14",
           "resumen": null
-        },
-        {
-          "id": "9e87b756dce15e67",
-          "titulo": "Harry Kane, el goleador inglés es Balón de Oro 2025-26",
-          "url": "https://larazon.bo/marcas/2026/10/26/harry-kane-el-goleador-ingles-es-balon-de-oro-2025-26/",
-          "fecha": "octubre 26, 2026 19:00",
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -58863,8 +58841,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-10-29T13:54:12-04:00",
-      "duracion_ms": 881,
+      "actualizado_en": "2026-10-30T13:36:41-04:00",
+      "duracion_ms": 795,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -58876,31 +58854,31 @@
           "columnas": [],
           "filas": [
             [
-              "Lara pide aprehender a otros dos policías sospechados de irregularidades en la captura de Marset"
-            ],
-            [
               "Exministro de Educación dice que el magisterio no teme a la descentralización, sino a \"perder el botín\""
-            ],
-            [
-              "Analista: Hay gente en el Chapare que se cansó de proteger a Evo Morales"
-            ],
-            [
-              "Caso Marset: Correa identifica a 17 policías que se quedaron en la vivienda tras la captura"
             ],
             [
               "Justicia autoriza el uso de credenciales del Colegio de Abogados de La Paz para el ejercicio profesional"
             ],
             [
+              "Revilla pide incluir a gobernaciones en la discusión por ley de legalización de autos indocumentados"
+            ],
+            [
+              "Paz: “No puede ser que Tarija tenga tanto gas y cuatro loquitos digan que no”"
+            ],
+            [
+              "Fiscalía analiza denuncia sobre supuesto caso “Pasanaku” que involucraría a periodistas"
+            ],
+            [
+              "Caso Marset: Correa identifica a 17 policías que se quedaron en la vivienda tras la captura"
+            ],
+            [
               "Policía de la captura a Marset denuncia que es perseguido por quitar a la “gallina de los huevos de oro”"
             ],
             [
-              "“La Túpac Katari no ha apoyado en nada”: el reclamo de la esposa del dirigente encarcelado por los bloqueos"
+              "Concejo de La Paz aprueba Ley de Alivio Tributario, mientras Dockweiler denuncia “boicot”"
             ],
             [
-              "Paz propone acuerdo al magisterio para superar la educación sin privatizar"
-            ],
-            [
-              "Paz felicita a Lula: “Seguiremos trabajando juntos para fortalecer nuestra relación”"
+              "Detectan viviendas sociales vacías, otras alquiladas y hasta una vendida"
             ]
           ]
         }
@@ -58921,7 +58899,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-10-29T13:54:14-04:00",
+      "ultimo_intento_en": "2026-10-30T13:36:43-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
