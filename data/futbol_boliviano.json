@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-11-03T14:56:06-04:00",
+  "generado_en": "2026-11-04T15:14:05-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 2,
     "tablas_extraidas": 18,
-    "noticias_extraidas": 168,
+    "noticias_extraidas": 161,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:15-04:00",
-      "duracion_ms": 605,
+      "actualizado_en": "2026-11-04T15:13:11-04:00",
+      "duracion_ms": 638,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:16-04:00",
-      "duracion_ms": 229,
+      "actualizado_en": "2026-11-04T15:13:13-04:00",
+      "duracion_ms": 233,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:17-04:00",
-      "duracion_ms": 235,
+      "actualizado_en": "2026-11-04T15:13:16-04:00",
+      "duracion_ms": 1623,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:20-04:00",
-      "duracion_ms": 1188,
+      "actualizado_en": "2026-11-04T15:13:17-04:00",
+      "duracion_ms": 256,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:21-04:00",
-      "duracion_ms": 183,
+      "actualizado_en": "2026-11-04T15:13:19-04:00",
+      "duracion_ms": 236,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:23-04:00",
-      "duracion_ms": 189,
+      "actualizado_en": "2026-11-04T15:13:22-04:00",
+      "duracion_ms": 1917,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:24-04:00",
-      "duracion_ms": 199,
+      "actualizado_en": "2026-11-04T15:13:23-04:00",
+      "duracion_ms": 228,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:26-04:00",
-      "duracion_ms": 715,
+      "actualizado_en": "2026-11-04T15:13:25-04:00",
+      "duracion_ms": 728,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1716,7 +1716,7 @@
       "datos_estructurados": null,
       "error": "HTTPError: 500 Server Error: Internal Server Error for url: https://www.bolivar.com.bo/Noticias",
       "datos_desde_cache": true,
-      "ultimo_intento_en": "2026-11-03T14:55:37-04:00"
+      "ultimo_intento_en": "2026-11-04T15:13:36-04:00"
     },
     {
       "id": "always_ready_noticias",
@@ -1727,8 +1727,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:39-04:00",
-      "duracion_ms": 704,
+      "actualizado_en": "2026-11-04T15:13:38-04:00",
+      "duracion_ms": 616,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1749,27 +1749,48 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:41-04:00",
-      "duracion_ms": 307,
+      "actualizado_en": "2026-11-04T15:13:40-04:00",
+      "duracion_ms": 429,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 5,
+      "cantidad_noticias": 7,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "2b2975cd346e2472",
-          "titulo": "La PolicÃ­a espaÃ±ola abre una investigaciÃ³n sobre la muerte del futbolista JesÃºs de Miguel",
-          "url": "https://futbol.unitel.bo/futbol/la-policia-espanola-abre-una-investigacion-sobre-la-muerte-del-futbolista-jesus-de-miguel-CG24554420",
+          "id": "3aaddc5b856c4f8e",
+          "titulo": "Minuto a minuto: Real Madrid iguala 1-1 ante el AEK Atenas con gol de Bellingham en Grecia",
+          "url": "https://futbol.unitel.bo/champions-league/minuto-a-minuto-real-madrid-iguala-1-1-ante-el-aek-atenas-con-gol-de-bellingham-en-grecia-EL24587102",
+          "fecha": "Hace 56 minutos",
+          "resumen": null
+        },
+        {
+          "id": "9006865757c9f58d",
+          "titulo": "Copa PaceÃ±a: The Strongest y Always Ready se juegan la clasificaciÃ³n en una revancha sin margen para el error",
+          "url": "https://futbol.unitel.bo/division-profesional/copa-pacena-the-strongest-y-always-ready-se-juegan-la-clasificacion-en-una-revancha-sin-margen-para-el-error-DL24584766",
+          "fecha": "Hace 2 horas",
+          "resumen": null
+        },
+        {
+          "id": "ea043ef9d8aa9bcf",
+          "titulo": "Oriente Petrolero busca sostener su ventaja en PotosÃ­ y avanzar a semifinales de la Copa PaceÃ±a",
+          "url": "https://futbol.unitel.bo/division-profesional/oriente-petrolero-busca-sostener-su-ventaja-en-potosi-y-avanzar-a-semifinales-de-la-copa-pacena-FL24582733",
           "fecha": "Hace 4 horas",
+          "resumen": null
+        },
+        {
+          "id": "cfb6dd6b62346499",
+          "titulo": "Marco Velasco inicia una acciÃ³n econÃ³mica contra Oriente Petrolero por Bs 122.350",
+          "url": "https://futbol.unitel.bo/division-profesional/marco-velasco-inicia-una-accion-economica-contra-oriente-petrolero-por-bs-122350-JL24581833",
+          "fecha": "Hace 6 minutos",
           "resumen": null
         },
         {
           "id": "bbe4c4a7bc28676a",
           "titulo": "Muere JesÃºs de Miguel, delantero del Tenerife, tras el golpe que sufriÃ³ en un partido",
           "url": "https://futbol.unitel.bo/sucesos/muere-jesus-de-miguel-delantero-del-tenerife-tras-el-golpe-que-sufrio-en-un-partido-AG24551526",
-          "fecha": "Hace 7 horas",
+          "fecha": "03/11/2026 06:23",
           "resumen": null
         },
         {
@@ -1780,17 +1801,10 @@
           "resumen": null
         },
         {
-          "id": "988d3fc47bc1dcc6",
-          "titulo": "Â¡Desahogo celeste! Blooming vuelve a festejar un triunfo tras vencer a Tomayapo en Tarija",
-          "url": "https://futbol.unitel.bo/division-profesional/desahogo-celeste-blooming-vuelve-a-festejar-un-triunfo-tras-vencer-a-tomayapo-en-tarija-PH24545921",
-          "fecha": "02/11/2026 19:23",
-          "resumen": null
-        },
-        {
-          "id": "e84f6d17b31c5570",
-          "titulo": "Video: Delantero de Tenerife sufre paro cardÃ­aco tras chocar con rival en pleno partido",
-          "url": "https://futbol.unitel.bo/futbol/video-delantero-de-tenerife-sufre-paro-cardiaco-tras-chocar-con-rival-en-pleno-partido-HH24544131",
-          "fecha": "02/11/2026 17:38",
+          "id": "b8bddc4922b1d268",
+          "titulo": "Barcelona deja atrÃ¡s su mal momento con un triunfo por goleada a Aston Villa",
+          "url": "https://futbol.unitel.bo/champions-league/barcelona-deja-atras-su-mal-momento-con-un-triunfo-por-goleada-a-aston-villa-CF24569759",
+          "fecha": "03/11/2026 19:57",
           "resumen": null
         }
       ],
@@ -1807,40 +1821,68 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:42-04:00",
-      "duracion_ms": 713,
+      "actualizado_en": "2026-11-04T15:13:42-04:00",
+      "duracion_ms": 727,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 21,
+      "cantidad_noticias": 18,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "ff5d23c135dd8824",
-          "titulo": "Conmoción en el fútbol español: falleció Jesús de Miguel tras sufrir un golpe durante un partido",
-          "url": "https://diez.bo/futbol/conmocion-en-el-futbol-espanol-fallecio-jesus-de-miguel-tras-sufrir-un-golpe-durante-un-partido_1793708528",
+          "id": "67fc081426b83bf5",
+          "titulo": "Oriente busca sellar su pase a semifinales ante Nacional Potosí",
+          "url": "https://diez.bo/futbol/oriente-busca-sellar-su-pase-a-semifinales-ante-nacional-potosi_1793795714",
           "fecha": null,
-          "resumen": "El futbolista de 30 años falleció en el Hospital Universitario Nuestra Señora de la Candelaria, donde permanecía ingresado en terapia intensiva tras sufrir un fuerte golpe en el pecho durante el encuentro entre el Tenerife y el Andorra."
+          "resumen": null
+        },
+        {
+          "id": "4c64c7b427db155b",
+          "titulo": "Oriente aclara su situación institucional y explica los pagos pendientes al plantel",
+          "url": "https://diez.bo/futbol/oriente-aclara-su-situacion-institucional-y-explica-los-pagos-pendientes-al-plantel_1793807409",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "d5f8f01b9cf65992",
+          "titulo": "Blooming: José María Carrasco fue operado con éxito",
+          "url": "https://diez.bo/futbol/blooming-jose-maria-carrasco-fue-operado-con-exito_1793800631",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "140887e25a8fac86",
+          "titulo": "Marco Velasco intima a Oriente Petrolero por una deuda de Bs 122.350",
+          "url": "https://diez.bo/futbol/marco-velasco-intima-a-oriente-petrolero-por-una-deuda-de-bs-122-350_1793796067",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "541a5390cdcf4818",
+          "titulo": "The Strongest y Always Ready se juegan el pase a las semifinales de la Copa Bolivia",
+          "url": "https://diez.bo/futbol/the-strongest-y-always-ready-se-juegan-el-pase-a-las-semifinales-de-la-copa-bolivia_1793796148",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "6b7ed4660bbeb813",
+          "titulo": "David Ospina se retira del fútbol profesional",
+          "url": "https://diez.bo/futbol/david-ospina-se-retira-del-futbol-profesional_1793806337",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "6296be4e5435195f",
+          "titulo": "Oriente Petrolero: 71 años de alegrías y heridas",
+          "url": "https://diez.bo/futbol/oriente-petrolero-71-anos-de-alegrias-y-heridas_1793736427",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "5747ab5b5f404f35",
           "titulo": "Velasco quería seguir en Oriente, pero el conflicto con Florentín cambió el panorama",
           "url": "https://diez.bo/futbol/velasco-queria-seguir-en-oriente-pero-el-conflicto-con-florentin-cambio-el-panorama_1793721504",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "96ae395614509643",
-          "titulo": "Después de 51 días, Blooming vuelve a celebrar, apunta a Oriente y sueña con una copa",
-          "url": "https://diez.bo/futbol/despues-de-51-dias-blooming-vuelve-a-celebrar-apunta-a-oriente-y-suena-con-una-copa_1793711684",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "19fe0409fcf5a75c",
-          "titulo": "Javier Revollo dirigirá el clásico cruceño entre Blooming y Oriente Petrolero",
-          "url": "https://diez.bo/futbol/javier-revollo-dirigira-el-clasico-cruceno-entre-blooming-y-oriente-petrolero_1793718916",
           "fecha": null,
           "resumen": null
         },
@@ -1852,86 +1894,37 @@
           "resumen": null
         },
         {
-          "id": "9637dceaf33ffea2",
-          "titulo": "Oriente se entrenó en el Patria y quedó listo para visitar a Nacional Potosí",
-          "url": "https://diez.bo/futbol/oriente-se-entreno-en-el-patria-y-quedo-listo-para-visitar-a-nacional-potosi_1793716724",
+          "id": "19fe0409fcf5a75c",
+          "titulo": "Javier Revollo dirigirá el clásico cruceño entre Blooming y Oriente Petrolero",
+          "url": "https://diez.bo/futbol/javier-revollo-dirigira-el-clasico-cruceno-entre-blooming-y-oriente-petrolero_1793718916",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "395a6562f2b1b239",
-          "titulo": "La Policía española abre una investigación sobre la muerte del futbolista Jesús de Miguel",
-          "url": "https://diez.bo/futbol/la-policia-espanola-abre-una-investigacion-sobre-la-muerte-del-futbolista-jesus-de-miguel_1793713936",
+          "id": "96ae395614509643",
+          "titulo": "Después de 51 días, Blooming vuelve a celebrar, apunta a Oriente y sueña con una copa",
+          "url": "https://diez.bo/futbol/despues-de-51-dias-blooming-vuelve-a-celebrar-apunta-a-oriente-y-suena-con-una-copa_1793711684",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "53cf22b3f3e6090d",
-          "titulo": "Las muertes por impacto físico en el campo, poco habituales entre los futbolistas",
-          "url": "https://diez.bo/futbol/las-muertes-por-impacto-fisico-en-el-campo-poco-habituales-entre-los-futbolistas_1793709411",
+          "id": "c0ecb823628186a9",
+          "titulo": "Aurora gana la revancha, pero no evita la eliminación ante Independiente",
+          "url": "https://diez.bo/futbol/aurora-gana-la-revancha-pero-no-evita-la-eliminacion-ante-independiente_1793758760",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "da6341b70ab01c0c",
-          "titulo": "Paulucci y Abisab celebran el triunfo de Blooming y apuntan al clásico",
-          "url": "https://diez.bo/futbol/paulucci-y-abisab-celebran-el-triunfo-de-blooming-y-apuntan-al-clasico_1793711138",
-          "fecha": null,
-          "resumen": "El entrenador y el volante uruguayo destacaron la victoria por 2-1 ante Real Tomayapo en Tarija, resultado que le permitió a la academia poner fin a una racha de nueve partidos sin ganar. Ahora, el equipo celeste se enfoca en el clásico cruceño de este domingo ante Oriente Petrolero."
-        },
-        {
-          "id": "4960aae997c857be",
-          "titulo": "Real Tomayapo toma una drástica decisión: no pagará salarios hasta que el equipo gane",
-          "url": "https://diez.bo/futbol/real-tomayapo-toma-una-drastica-decision-no-pagara-salarios-hasta-que-el-equipo-gane_1793712840",
+          "id": "be1e575c6d2a37cb",
+          "titulo": "PSG da una exhibición y golea 0-6 al Villarreal en la Champions",
+          "url": "https://diez.bo/futbol/psg-da-una-exhibicion-y-golea-0-6-al-villarreal-en-la-champions_1793744383",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "180cead66064db3c",
-          "titulo": "Aurora busca una remontada épica ante Independiente para meterse en semifinales",
-          "url": "https://diez.bo/futbol/aurora-busca-una-remontada-epica-ante-independiente-para-meterse-en-semifinales_1793709426",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "eacfc1d7f120abc8",
-          "titulo": "Bolívar tiene asegurada su clasificación anticipada a la Copa Libertadores de 2027",
-          "url": "https://diez.bo/futbol/bolivar-tiene-asegurada-su-clasificacion-anticipada-a-la-copa-libertadores-de-2027_1793665435",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "8d8b82313e849650",
-          "titulo": "“Esto no es un adiós, es un hasta pronto”: Marco Velasco se despide de Oriente",
-          "url": "https://diez.bo/futbol/esto-no-es-un-adios-es-un-hasta-pronto-marco-velasco-se-despide-de-oriente_1793654665",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "692f54345e0cc719",
-          "titulo": "Blooming vuelve a ganar después de nueve partidos y Paulucci consigue su primer triunfo",
-          "url": "https://diez.bo/futbol/blooming-vuelve-a-ganar-despues-de-nueve-partidos-y-paulucci-consigue-su-primer-triunfo_1793663153",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "928d78223dedbd65",
-          "titulo": "Oriente arranca una semana exigente en medio del caos",
-          "url": "https://diez.bo/futbol/oriente-arranca-una-semana-exigente-en-medio-del-caos_1793622762",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "68dbc9b706bcc8bc",
-          "titulo": "Oriente aún no piensa en el clásico y se enfoca en su ‘final’ en Potosí",
-          "url": "https://diez.bo/futbol/oriente-aun-no-piensa-en-el-clasico-y-se-enfoca-en-su-final-en-potosi_1793457903",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "a801bd6a1a900285",
-          "titulo": "Leonardo Égüez promete la clasificación internacional de Guabirá: “Lo garantizo, lo firmo”",
-          "url": "https://diez.bo/futbol/leonardo-eguez-promete-la-clasificacion-internacional-de-guabira-lo-garantizo-lo-firmo_1793622984",
+          "id": "a860f7b678a1a030",
+          "titulo": "El Barcelona recupera la confianza con una goleada ante el Aston Villa",
+          "url": "https://diez.bo/futbol/el-barcelona-recupera-la-confianza-con-una-goleada-ante-el-aston-villa_1793744787",
           "fecha": null,
           "resumen": null
         },
@@ -1977,8 +1970,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:44-04:00",
-      "duracion_ms": 603,
+      "actualizado_en": "2026-11-04T15:13:44-04:00",
+      "duracion_ms": 587,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 24,
@@ -2168,8 +2161,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:50-04:00",
-      "duracion_ms": 4332,
+      "actualizado_en": "2026-11-04T15:13:49-04:00",
+      "duracion_ms": 4387,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58202,11 +58195,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:52-04:00",
-      "duracion_ms": 895,
+      "actualizado_en": "2026-11-04T15:13:51-04:00",
+      "duracion_ms": 672,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 3,
-      "cantidad_noticias": 3,
+      "cantidad_noticias": 0,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -58215,24 +58208,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Al menos cuatro muertos, entre ellas una recién nacida, en un atentado en el centro de Colombia Ver más",
-              "2 El PCC y el CV, del narco al poder empresarial Ver más"
+              "1 “Bolivia Day”: Gobierno presenta las potencialidades del país para atraer inversiones Ver más",
+              "2 El color del otoño alrededor del mundo: un recorrido visual Ver más"
             ],
             [
-              "3 Lorena Monje y Fandango ganan el Campeonato Nacional Ecuestre de Adiestramiento en Cochabamba Ver más",
-              "4 División Profesional: sólo hay un cupo en disputa para la Copa Libertadores de América 2027 Ver más"
+              "3 Suman amenazas contra Maldonado y el Gobierno le brinda todo su respaldo Ver más",
+              "4 Samuel critica viaje de Paz y ministros a Europa: \"Falta mucho trabajo, sobran muchos viajes y celebraciones\" Ver más"
             ],
             [
-              "5 Cementerio de Cochabamba: estas son las actividades que están permitidas en este feriado de Todos Santos Ver más",
-              "6 Choques de alto voltaje en la cuarta jornada de la Liga de Campeones Ver más"
+              "5 Una comisión de fiscales pesquisará audios de Cerimedo Ver más",
+              "6 Declaran emergencia por sequía en 7 municipios de Cochabamba Ver más"
             ],
             [
-              "7 Acribillan a un hombre dentro de su domicilio en Guayaramerín Ver más",
-              "8 Pavisic, talento y entusiasmo, da sus primeros pasos en el fútbol profesional Ver más"
+              "7 Evistas amenazan a militares y policías: \"Si tocan a Evo, despídanse de sus familias\" Ver más",
+              "8 El gigante Boeing 777-9 aterriza en Sucre para realizar pruebas operacionales a gran altitud Ver más"
             ],
             [
-              "9 Gobernador y cívicos cruceños rechazan el 1% y anuncian 'lucha' por el 50/50 Ver más",
-              "10 Javier Terán: el papel de la juventud es fundamental en la obra ELeNos Ver más"
+              "9 Marcha de Manaco logra apoyo de la COB, alcalde y concejales Ver más",
+              "10 Loza rechaza propuesta del Gobierno de asignar el 1% de coparticipación a las Gobernaciones Ver más"
             ]
           ]
         },
@@ -58242,11 +58235,11 @@
           "columnas": [],
           "filas": [
             [
-              "03/11/2026 Seguridad El PCC y el CV, del narco al poder empresarial En noviembre de 2025, la Agencia Senado informó sobre la expansión territorial del PCC y el Comando Vermelho, a partir de datos del Foro Brasileño de Seguridad... vista",
-              "03/11/2026 Cochabamba Ritual ancestral La cacharpaya a las almas clausura su visita anual Cientos de familias cochabambina despidieron ayer a las almas de sus seres queridos en sus domicilios con escenificaciones y chicotazos, mientras que en los... vista",
+              "04/11/2026 Mundo Los demócratas arrasan en las elecciones de medio término y recuperan el control total del congreso El partido demócrata ha logrado una victoria aplastante en las elecciones de mitad de mandato, arrebatando el control de la Cámara de Representantes y del... vista",
+              "04/11/2026 País Gobierno llama a gobernaciones y alcaldías contra sequía e inundación Seis departamentos de Bolivia sufren las consecuencias de la sequía, 78 mil familias afectadas y 35 mil damnificadas debido a la escasez de agua y pérdidas en... vista",
               "",
-              "03/11/2026 Fútbol División Profesional: sólo hay un cupo en disputa para la Copa Libertadores de América 2027 En este momento y con los resultados que se registraron la vigésimo cuarta fecha del campeonato todos contra todos, simplemente hay un cupo disponible para la... vista",
-              "03/11/2026 Fútbol Choques de alto voltaje en la cuarta jornada de la Liga de Campeones La Liga de Campeones llegará hoy y mañana al ecuador de la primera fase, con los aspirantes al título tratando de posicionarse entre los ocho primeros y evitar... vista"
+              "04/11/2026 Seguridad Suman amenazas contra Maldonado y el Gobierno le brinda todo su respaldo Hasta el lunes en la noche ya sumaban cuatro amenazas contra el viceministro de Régimen Interior, Peter Maldonado. vista",
+              "04/11/2026 Cochabamba Marcha de Manaco logra apoyo de la COB, alcalde y concejales Los trabajadores de Manaco marcharon ayer en Quillacollo exigiendo que los ejecutivos de la empresa cumplan con la normativa en Bolivia y se declaren en... vista"
             ]
           ]
         },
@@ -58256,39 +58249,17 @@
           "columnas": [],
           "filas": [
             [
+              "El destacado cantautor boliviano Luis Rico falleció a los 81 años la noche del lunes 2 de noviembre. Ver más 04/11/2026 Música Fallece Luis Rico, el trovador que hizo de la historia una canción",
               "Ricardo Montaner se presentará en Cochabamba con su gira “El Último Regreso World Tour 2026”, marcando su esperado... Ver más 03/11/2026 Música Agenda: El último retorno de Ricardo Montaner a Cochabamba",
-              "ELeNos es una obra que retrata la tensión entre el miedo y la dignidad en tiempos de opresión, destacando el papel de... Ver más 03/11/2026 Cultura Javier Terán: el papel de la juventud es fundamental en la obra ELeNos",
               "",
-              "El cantautor, compositor y interprete boliviano, Luis Rico, falleció en las ultimas horas, informó la mañana de este... Ver más 03/11/2026 Música Fallece Luis Rico, gran exponente de la canción social y defensor de la democracia",
-              "En el marco de sus 35 años en Bolivia, Tigo avanza con la quinta versión del Programa Internacional de Periodismo... Ver más 01/11/2026 Cultura Tigo abre una nueva edición del Programa Internacional de Periodismo y suma a creadores de contenido a su programa de formación digital"
+              "ELeNos es una obra que retrata la tensión entre el miedo y la dignidad en tiempos de opresión, destacando el papel de... Ver más 03/11/2026 Cultura Javier Terán: el papel de la juventud es fundamental en la obra ELeNos",
+              "El cantautor, compositor y interprete boliviano, Luis Rico, falleció en las ultimas horas, informó la mañana de este... Ver más 03/11/2026 Música Fallece Luis Rico, gran exponente de la canción social y defensor de la democracia"
             ]
           ]
         }
       ],
       "secciones": [],
-      "noticias": [
-        {
-          "id": "a73ad87875dba05a",
-          "titulo": "Lorena Monje y Fandango ganan el Campeonato Nacional Ecuestre de Adiestramiento en Cochabamba",
-          "url": "https://www.lostiempos.com/deportes/multideportivo/20261102/lorena-monje-fandango-ganan-campeonato-nacional-ecuestre",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d192777da9548aa3",
-          "titulo": "División Profesional: sólo hay un cupo en disputa para la Copa Libertadores de América 2027",
-          "url": "https://www.lostiempos.com/deportes/futbol/20261103/division-profesional-solo-hay-cupo-disputa-copa-libertadores-america-2027",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "ee89093820d9a031",
-          "titulo": "Pavisic, talento y entusiasmo, da sus primeros pasos en el fútbol profesional",
-          "url": "https://www.lostiempos.com/deportes/futbol/20261103/pavisic-talento-entusiasmo-da-sus-primeros-pasos-futbol-profesional",
-          "fecha": null,
-          "resumen": null
-        }
-      ],
+      "noticias": [],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -58302,8 +58273,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:54-04:00",
-      "duracion_ms": 648,
+      "actualizado_en": "2026-11-04T15:13:53-04:00",
+      "duracion_ms": 723,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -58444,8 +58415,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:55:55-04:00",
-      "duracion_ms": 377,
+      "actualizado_en": "2026-11-04T15:13:54-04:00",
+      "duracion_ms": 277,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58466,11 +58437,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:56:02-04:00",
-      "duracion_ms": 5196,
+      "actualizado_en": "2026-11-04T15:14:01-04:00",
+      "duracion_ms": 5188,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 19,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -58480,6 +58451,30 @@
             "columna_1"
           ],
           "filas": [
+            {
+              "columna_1": "noviembre 9, 2026 8:30 pm N/D Aurora vs FC Universitario"
+            },
+            {
+              "columna_1": "noviembre 8, 2026 7:30 pm N/D Blooming vs Oriente Petrolero"
+            },
+            {
+              "columna_1": "noviembre 8, 2026 5:15 pm N/D Bolívar vs The Strongest"
+            },
+            {
+              "columna_1": "noviembre 8, 2026 3:00 pm N/D Nacional Potosí vs Real Potosí"
+            },
+            {
+              "columna_1": "noviembre 7, 2026 7:30 pm N/D Guabirá vs San Antonio"
+            },
+            {
+              "columna_1": "noviembre 7, 2026 5:15 pm N/D Always Ready vs A. B. B."
+            },
+            {
+              "columna_1": "noviembre 7, 2026 3:00 pm N/D GV San José vs CDT Real Oruro"
+            },
+            {
+              "columna_1": "noviembre 6, 2026 7:00 pm N/D Independiente vs Real Tomayapo"
+            },
             {
               "columna_1": "noviembre 2, 2026 1 - 2 N/D Real Tomayapo vs Blooming"
             },
@@ -58905,30 +58900,6 @@
             },
             {
               "columna_1": "mayo 14, 2026 0 - 1 N/D Always Ready vs The Strongest"
-            },
-            {
-              "columna_1": "mayo 13, 2026 1 - 1 N/D Bolívar vs Nacional Potosí"
-            },
-            {
-              "columna_1": "mayo 13, 2026 3 - 1 N/D Independiente vs Blooming"
-            },
-            {
-              "columna_1": "mayo 12, 2026 1 - 1 N/D Aurora vs CDT Real Oruro"
-            },
-            {
-              "columna_1": "mayo 12, 2026 0 - 2 N/D San Antonio vs FC Universitario"
-            },
-            {
-              "columna_1": "mayo 11, 2026 3 - 1 N/D A. B. B. vs Oriente Petrolero"
-            },
-            {
-              "columna_1": "mayo 10, 2026 0 - 0 N/D Blooming vs Bolívar"
-            },
-            {
-              "columna_1": "mayo 10, 2026 0 - 0 N/D The Strongest vs Real Potosí"
-            },
-            {
-              "columna_1": "mayo 10, 2026 0 - 0 N/D Independiente vs Always Ready"
             }
           ]
         },
@@ -59070,6 +59041,13 @@
       ],
       "noticias": [
         {
+          "id": "88fb470d93b4ac29",
+          "titulo": "1xBet.tv plasma siete momentos históricos del fútbol boliviano en un mural en La Paz",
+          "url": "https://larazon.bo/espacio-empresarial/2026/11/03/1xbet-tv-plasma-siete-momentos-historicos-del-futbol-boliviano-en-un-mural-en-la-paz/",
+          "fecha": "noviembre 3, 2026 16:42",
+          "resumen": null
+        },
+        {
           "id": "e8a93aa02c5d0476",
           "titulo": "Cómo detener la guerra en Oriente medio",
           "url": "https://larazon.bo/politico/2026/10/31/como-detener-la-guerra-en-oriente-medio/",
@@ -59077,17 +59055,10 @@
           "resumen": null
         },
         {
-          "id": "e2e0e6c68cfbb612",
-          "titulo": "Otros futbolistas que fallaron por incidentes durante el juego",
-          "url": "https://larazon.bo/marcas/2026/11/03/otros-futbolistas-que-fallaron-por-incidentes-durante-el-juego/",
-          "fecha": "noviembre 3, 2026 08:46",
-          "resumen": null
-        },
-        {
-          "id": "db4da1252dfb3030",
-          "titulo": "Muere el delantero del Tenerife De Miguel tras golpe en partido",
-          "url": "https://larazon.bo/marcas/2026/11/03/muere-el-delantero-del-tenerife-de-miguel-tras-golpe-en-partido/",
-          "fecha": "noviembre 3, 2026 08:12",
+          "id": "6d3007ec4190a84a",
+          "titulo": "Barça deja atrás su bache en medio de diluvio de agua y goles",
+          "url": "https://larazon.bo/marcas/2026/11/04/barca-deja-atras-su-bache-en-medio-de-diluvio-de-agua-y-goles/",
+          "fecha": "noviembre 4, 2026 08:10",
           "resumen": null
         },
         {
@@ -59130,13 +59101,6 @@
           "titulo": "Bolívar vence 2-1 a Guabirá y va por el Tigre",
           "url": "https://larazon.bo/marcas/2026/11/01/bolivar-vence-2-1-a-guabira-y-va-por-el-tigre/",
           "fecha": "noviembre 1, 2026 19:13",
-          "resumen": null
-        },
-        {
-          "id": "e7389a0ecc9de049",
-          "titulo": "El Tigre remonta (4-2) a GVSJ y va por Bolívar en el clásico",
-          "url": "https://larazon.bo/marcas/2026/11/01/el-tigre-remonta-4-2-a-gvsj-y-va-por-bolivar-en-el-clasico/",
-          "fecha": "noviembre 1, 2026 17:41",
           "resumen": null
         },
         {
@@ -59187,20 +59151,6 @@
           "url": "https://larazon.bo/marcas/2026/10/21/flamengo-ante-estudiantes-y-la-hegemonia-brasilena-en-la-libertadores/",
           "fecha": "octubre 21, 2026 12:04",
           "resumen": null
-        },
-        {
-          "id": "84c24a37f704248a",
-          "titulo": "Bolívar avanza firme en o es frenado en Montero",
-          "url": "https://larazon.bo/marcas/2026/11/01/bolivar-avanza-firme-en-o-es-frenado-en-montero/",
-          "fecha": "noviembre 1, 2026 05:00",
-          "resumen": null
-        },
-        {
-          "id": "da682db559be7990",
-          "titulo": "Triplete de Terrazas da triunfo (3-2) a San Antonio sobre ABB",
-          "url": "https://larazon.bo/marcas/2026/10/31/triplete-de-terrazas-da-triunfo-3-2-a-san-antonio-sobre-abb/",
-          "fecha": "octubre 31, 2026 19:22",
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -59216,8 +59166,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-03T14:56:04-04:00",
-      "duracion_ms": 1288,
+      "actualizado_en": "2026-11-04T15:14:03-04:00",
+      "duracion_ms": 1004,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -59229,31 +59179,31 @@
           "columnas": [],
           "filas": [
             [
-              "Lara afirma que no renunciará y cumplirá sus promesas electorales cuando tenga la oportunidad y recursos"
+              "\"Tenemos ganas de llorar\": los Esse Ejja, indignados por la ayuda de la primera dama"
+            ],
+            [
+              "Dirigente evista reconoce a Lara como “presidente en ejercicio” y le pide abrogar decretos y destituir ministros"
             ],
             [
               "Reportan dos sismos en Bolivia durante Todos Santos; uno alcanzó magnitud 4,3 en Cochabamba"
             ],
             [
+              "Lara afirma que no renunciará y cumplirá sus promesas electorales cuando tenga la oportunidad y recursos"
+            ],
+            [
               "Chuquisaca acumula una colección de elefantes blancos: Bs 820 millones en más de 20 plantas industriales que no funcionan"
             ],
             [
-              "Complejo Kevin Conrrado Moscoso, una obra de Bs 12 millones como un elefante blanco"
+              "Lara ante viaje de Paz a España: “quien les habla es el presidente en ejercicio”"
             ],
             [
               "Analista Erick Foronda: Mariaca era operador del narcotráfico y Marset fue uno de sus financiadores"
             ],
             [
+              "Interculturales denuncian a vocal del TDJ La Paz por usar dinero de Marset para la compra de votos en la ALP en favor Mariaca"
+            ],
+            [
               "Manaco: COB advierte que no permitirá dejar en la calle a cientos de familias sin justificación clara"
-            ],
-            [
-              "¿Falta de respeto o un primer paso?: las reacciones a la asignación de 1% de la Coparticipación a gobernaciones"
-            ],
-            [
-              "\"Tenemos ganas de llorar\": los Esse Ejja, indignados por la ayuda de la primera dama"
-            ],
-            [
-              "Beller sobre caso audios: \"Van a intentar aprehenderme ilegalmente y armarme una causa\""
             ]
           ]
         }
@@ -59274,7 +59224,7 @@
       "estado": "error",
       "codigo_http": null,
       "actualizado_en": null,
-      "ultimo_intento_en": "2026-11-03T14:56:06-04:00",
+      "ultimo_intento_en": "2026-11-04T15:14:05-04:00",
       "duracion_ms": null,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
