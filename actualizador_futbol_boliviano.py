@@ -1,10 +1,13 @@
 #!/usr/bin/env python3
 """
-ACTUALIZADOR DE FÚTBOL BOLIVIANO - V3 (SIN SOFASCORE)
+ACTUALIZADOR DE FÚTBOL BOLIVIANO - V4
 
-Fuentes:
-- 4 páginas oficiales de torneos de la FBF.
-- 16 fuentes adicionales: FBF, clubes, medios bolivianos y JSON de Red Uno.
+Fuente principal: Wikipedia (tabla, fechas, resultados, goleadores).
+Fuentes de apoyo: FBF, clubes, medios bolivianos y JSON de Red Uno (noticias).
+
+Genera dos archivos:
+- data/app.json              -> pequeño, el que usa la app Android.
+- data/futbol_boliviano.json -> completo, con todo lo que se extrajo de cada sitio.
 
 Ejecutar una vez:
     py actualizador_futbol_boliviano.py
@@ -38,6 +41,9 @@ import requests
 from bs4 import BeautifulSoup, Tag
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+import generar_app_json
+import wikipedia_bolivia
 
 
 BASE_DIR = Path(__file__).resolve().parent
@@ -452,6 +458,10 @@ def scrapear_html(
     if "html" not in content_type.lower():
         raise ValueError(f"Se esperaba HTML y llegó: {content_type}")
 
+    # Algunos sitios no declaran la codificación y llegan textos como "BolÃ­var".
+    if "charset" not in content_type.lower() or (respuesta.encoding or "").lower() == "iso-8859-1":
+        respuesta.encoding = respuesta.apparent_encoding or "utf-8"
+
     soup = BeautifulSoup(respuesta.text, "html.parser")
     noticias = deduplicar_noticias(
         extraer_noticias_json_ld(
@@ -726,7 +736,35 @@ def actualizar(source_id: str | None = None) -> dict[str, Any]:
 
     guardar_json_atomico(DATA_PATH, documento)
     logging.info("JSON guardado en: %s", DATA_PATH)
+
+    if source_id is None:
+        generar_json_app(sesion, documento, zona_horaria)
     return documento
+
+
+def generar_json_app(
+    sesion: requests.Session,
+    documento: dict[str, Any],
+    zona_horaria: ZoneInfo,
+) -> None:
+    """Fuente principal (Wikipedia) + noticias -> data/app.json para la app."""
+    wiki, wiki_error = None, None
+    try:
+        wiki = wikipedia_bolivia.descargar_temporada(sesion)
+        logging.info(
+            "OK: Wikipedia | %s | posiciones=%d | fechas=%d",
+            wiki["titulo"], len(wiki["posiciones"]), len(wiki["jornadas"]),
+        )
+    except Exception as error:
+        wiki_error = str(error)[:300]
+        logging.error("ERROR en Wikipedia (se conservan los datos anteriores): %s", error)
+
+    datos = generar_app_json.construir(documento, wiki, wiki_error, zona_horaria)
+    generar_app_json.guardar(datos)
+    logging.info(
+        "JSON de la app guardado en: %s | noticias=%d",
+        generar_app_json.APP_PATH, len(datos["noticias"]),
+    )
 
 
 def bucle(intervalo_minutos: int, source_id: str | None = None) -> None:

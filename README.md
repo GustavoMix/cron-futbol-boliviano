@@ -1,73 +1,48 @@
-# Actualizador de Fútbol Boliviano V3 — Sin SofaScore
+# Actualizador de Fútbol Boliviano V4
 
-Esta versión elimina completamente SofaScore.
+Genera los datos que usa la app Android **Fútbol Boliviano**.
 
-## Fuentes
+## Cómo funciona
 
-Tiene 20 fuentes:
+| Qué | De dónde sale |
+| --- | --- |
+| Tabla de posiciones, fechas, resultados, próximos partidos, goleadores, asistencias, equipos | **Wikipedia** (artículo "Primera División de Bolivia AAAA") — fuente principal |
+| Noticias | Sitios web que sí responden: FBF, Unitel, DIEZ, Red Uno, Opinión, Los Tiempos, La Razón, Bolívar, Always Ready… |
 
-- 4 páginas oficiales de torneos de la FBF.
-- 4 secciones adicionales de la FBF.
-- 2 clubes oficiales.
-- 9 medios bolivianos.
-- 1 fuente JSON estructurada de Red Uno.
+- No usa Facebook, SofaScore ni páginas "en vivo" (bloquean a los robots).
+- Si una fuente falla o bloquea, se conservan los últimos datos buenos.
+- Fuentes que bloquean siempre se apagan en `fuentes.json` (`"habilitada": false`).
 
-## Instalar
+## Archivos que genera
+
+```text
+data\app.json              <- pequeño (~80 KB), el que lee la app
+data\futbol_boliviano.json <- completo, todo lo extraído de cada sitio
+```
+
+## Automático
+
+GitHub Actions lo ejecuta cada 2 horas (08:00 a 00:00 hora de Bolivia) y sube
+los JSON al repositorio. También se puede lanzar a mano desde la pestaña
+**Actions → Actualizar fútbol boliviano → Run workflow**.
+
+## En tu PC (Windows)
 
 ```bat
 py -m pip install -r requirements.txt
-```
-
-## Probar primero Red Uno estructurado
-
-```bat
-py actualizador_futbol_boliviano.py --source reduno_estadisticas_equipos
-```
-
-## Probar la División Profesional de la FBF
-
-```bat
-py actualizador_futbol_boliviano.py --source fbf_division_profesional
-```
-
-## Ejecutar las 20 fuentes
-
-```bat
 py actualizador_futbol_boliviano.py
 ```
 
-## Ver la lista
+Probar solo Wikipedia:
+
+```bat
+py wikipedia_bolivia.py
+```
+
+Otras opciones:
 
 ```bat
 py actualizador_futbol_boliviano.py --list-sources
-```
-
-## Resultado
-
-```text
-data\futbol_boliviano.json
-```
-
-## Modo continuo
-
-Como son 20 fuentes, el intervalo predeterminado es de tres horas:
-
-```bat
+py actualizador_futbol_boliviano.py --source diez_futbol
 py actualizador_futbol_boliviano.py --loop --minutes 180
 ```
-
-Durante pruebas puedes usar 30 minutos:
-
-```bat
-py actualizador_futbol_boliviano.py --loop --minutes 30
-```
-
-## Importante
-
-Los medios sirven principalmente para noticias, amistosos, reprogramaciones,
-convocatorias y resultados reportados. No todos publican tablas, asistencias o
-tarjetas en formato estructurado.
-
-La fuente estructurada de Red Uno descarga la lista de equipos y el JSON disponible
-para cada equipo. Su estructura puede cambiar. El programa conserva los últimos
-datos válidos si una fuente falla.
