@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-11-13T15:03:52-04:00",
+  "generado_en": "2026-11-14T13:33:35-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 0,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 157,
+    "noticias_extraidas": 163,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:11-04:00",
-      "duracion_ms": 578,
+      "actualizado_en": "2026-11-14T13:32:55-04:00",
+      "duracion_ms": 531,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -262,6 +262,13 @@
       ],
       "noticias": [
         {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "334db25dbe3e0401",
           "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
@@ -286,13 +293,6 @@
           "id": "ef25a08471223e2c",
           "titulo": "La FBF destaca el éxito de la visita técnica al estadio Hernando Siles y ratifica su compromiso con la mejora continua de los campos de juego",
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
         }
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:13-04:00",
-      "duracion_ms": 150,
+      "actualizado_en": "2026-11-14T13:32:56-04:00",
+      "duracion_ms": 177,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -325,6 +325,13 @@
           "url": "https://fbf.com.bo/noticias",
           "fecha": null,
           "resumen": "¡Este campeonato se transmitirá por televisión nacional! Mantente atento para ver la batalla inolvidable de los campeones."
+        },
+        {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "334db25dbe3e0401",
@@ -353,13 +360,6 @@
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:14-04:00",
-      "duracion_ms": 192,
+      "actualizado_en": "2026-11-14T13:32:58-04:00",
+      "duracion_ms": 208,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -788,6 +788,13 @@
           "resumen": "Desde cada rincón del país, llegan los sueños, el talento y la entrega de los jóvenes que hoy escriben el futuro del fútbol nacional. Esto es la Liga Nacional Sub-19, la cuna de las próximas estrellas, donde la pasión se vive con la misma intensidad."
         },
         {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "334db25dbe3e0401",
           "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
@@ -814,13 +821,6 @@
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:16-04:00",
-      "duracion_ms": 240,
+      "actualizado_en": "2026-11-14T13:32:59-04:00",
+      "duracion_ms": 189,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1157,6 +1157,13 @@
           "resumen": null
         },
         {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "334db25dbe3e0401",
           "titulo": "LA FEDERACIÓN BOLIVIANA DE FÚTBOL CELEBRA LOS 50 AÑOS DE LABORATORIOS BAGÓ, UN ALIADO DEL FÚTBOL BOLIVIANO",
           "url": "https://fbf.com.bo/la-federacion-boliviana-de-futbol-celebra-los-50-anos-de-laboratorios-bago-un-aliado-del-futbol-boliviano/",
@@ -1183,13 +1190,6 @@
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:17-04:00",
-      "duracion_ms": 134,
+      "actualizado_en": "2026-11-14T13:33:01-04:00",
+      "duracion_ms": 170,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:18-04:00",
-      "duracion_ms": 127,
+      "actualizado_en": "2026-11-14T13:33:02-04:00",
+      "duracion_ms": 185,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1261,6 +1261,13 @@
           "titulo": "Selección Absoluta",
           "url": "https://fbf.com.bo/proceso-de-acreditaciones-bolivia-vs-gambia-amistoso-internacional-2026/",
           "fecha": "septiembre 25, 2026",
+          "resumen": null
+        },
+        {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1288,13 +1295,6 @@
           "id": "ef25a08471223e2c",
           "titulo": "La FBF destaca el éxito de la visita técnica al estadio Hernando Siles y ratifica su compromiso con la mejora continua de los campos de juego",
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
           "fecha": null,
           "resumen": null
         }
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:20-04:00",
-      "duracion_ms": 210,
+      "actualizado_en": "2026-11-14T13:33:03-04:00",
+      "duracion_ms": 166,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1326,6 +1326,13 @@
           "titulo": "SELECCIÓN FEMENINA",
           "url": "https://fbf.com.bo/el-phd-hugo-blanco-pita-nuevo-director-de-futbol-y-metodologia-de-la-federacion-boliviana-de-futbol/",
           "fecha": "agosto 5, 2026",
+          "resumen": null
+        },
+        {
+          "id": "d26bc20000bddbbd",
+          "titulo": "Gran éxito en Oruro: El VI Festival FIFA de Fútbol Femenino reunió a más de 150 niñas en el Estadio Jesús Bermúdez",
+          "url": "https://fbf.com.bo/gran-exito-en-oruro-el-vi-festival-fifa-de-futbol-femenino-reunio-a-mas-de-150-ninas-en-el-estadio-jesus-bermudez/",
+          "fecha": null,
           "resumen": null
         },
         {
@@ -1355,13 +1362,6 @@
           "url": "https://fbf.com.bo/la-fbf-destaca-el-exito-de-la-visita-tecnica-al-estadio-hernando-siles-y-ratifica-su-compromiso-con-la-mejora-continua-de-los-campos-de-juego/",
           "fecha": null,
           "resumen": null
-        },
-        {
-          "id": "50acf882e61d6f41",
-          "titulo": "FBF y Gobernación de La Paz coordinan acciones para fortalecer la infraestructura deportiva en el departamento",
-          "url": "https://fbf.com.bo/fbf-y-gobernacion-de-la-paz-coordinan-acciones-para-fortalecer-la-infraestructura-deportiva-en-el-departamento/",
-          "fecha": null,
-          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:22-04:00",
-      "duracion_ms": 717,
+      "actualizado_en": "2026-11-14T13:33:05-04:00",
+      "duracion_ms": 678,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1484,8 +1484,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:25-04:00",
-      "duracion_ms": 1915,
+      "actualizado_en": "2026-11-14T13:33:08-04:00",
+      "duracion_ms": 1541,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1647,70 +1647,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "20070 veces leida"
+          "resumen": "20072 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14871 veces leida"
+          "resumen": "14872 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11725 veces leida"
+          "resumen": "11726 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11488 veces leida"
+          "resumen": "11490 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "11057 veces leida"
+          "resumen": "11061 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9410 veces leida"
+          "resumen": "9411 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8828 veces leida"
+          "resumen": "8830 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8764 veces leida"
+          "resumen": "8766 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8662 veces leida"
+          "resumen": "8664 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8601 veces leida"
+          "resumen": "8604 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1726,8 +1726,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:27-04:00",
-      "duracion_ms": 614,
+      "actualizado_en": "2026-11-14T13:33:10-04:00",
+      "duracion_ms": 542,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1748,41 +1748,48 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:28-04:00",
-      "duracion_ms": 353,
+      "actualizado_en": "2026-11-14T13:33:11-04:00",
+      "duracion_ms": 432,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 4,
+      "cantidad_noticias": 5,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "4f91d1d819ebfcc2",
-          "titulo": "Â¡Imperdible! UNITEL transmitirÃ¡ los amistosos de Bolivia ante PerÃº y Ecuador",
-          "url": "https://futbol.unitel.bo/futbol/imperdible-unitel-transmitira-los-amistosos-de-bolivia-ante-peru-y-ecuador-GD24724828",
-          "fecha": "Hace 6 horas",
+          "id": "1583136b21bcbb2f",
+          "titulo": "Bolivia se queda sin gol y cae 2-0 ante PerÃº en Lima",
+          "url": "https://futbol.unitel.bo/futbol/bolivia-se-queda-sin-gol-y-cae-2-0-ante-peru-en-lima-JI24794058",
+          "fecha": "13/11/2026 20:50",
           "resumen": null
         },
         {
-          "id": "e395f43999aaeddb",
-          "titulo": "Real y Nacional empatan en un duelo âlleno de golesâ por la Copa PaceÃ±a",
-          "url": "https://futbol.unitel.bo/division-profesional/real-y-nacional-empatan-en-un-duelo-lleno-de-goles-por-la-copa-pacena-KG24773238",
-          "fecha": "12/11/2026 21:25",
+          "id": "aa7cf10c62a7f115",
+          "titulo": "PaÃ­ses Bajos recupera su mejor versiÃ³n con Xavi y golea a Grecia en la Liga de Naciones",
+          "url": "https://futbol.unitel.bo/futbol/paises-bajos-recupera-su-mejor-version-con-xavi-y-golea-a-grecia-en-la-liga-de-naciones-CI24792022",
+          "fecha": "13/11/2026 18:30",
           "resumen": null
         },
         {
-          "id": "bd6f7bec763ef3af",
-          "titulo": "âHay gente ignoranteâ: El fuerte descargo de Maraude tras no asistir a la Verde",
-          "url": "https://futbol.unitel.bo/division-profesional/hay-gente-ignorante-el-fuerte-descargo-de-maraude-tras-no-asistir-a-la-verde-DH24767444",
-          "fecha": "12/11/2026 16:49",
+          "id": "ffd367b0d0b6669e",
+          "titulo": "En vivo por Unitel: PerÃº y Bolivia ya tienen sus probables oncenos para el partido en Lima",
+          "url": "https://futbol.unitel.bo/futbol/en-vivo-por-unitel-peru-y-bolivia-ya-tienen-sus-probables-oncenos-para-el-partido-en-lima-LJ24788003",
+          "fecha": "13/11/2026 15:08",
           "resumen": null
         },
         {
-          "id": "9c0fffffe3a4f96b",
-          "titulo": "Maraude fue baja por lesiÃ³n en la Verde, pero apareciÃ³ en el partido de Always",
-          "url": "https://futbol.unitel.bo/division-profesional/maraude-fue-baja-por-lesion-en-la-verde-pero-aparecio-en-el-partido-de-always-CH24762437",
-          "fecha": "12/11/2026 17:04",
+          "id": "33c875317ce9dca2",
+          "titulo": "Lionel Messi regresarÃ¡ a Argentina para un amistoso entre Inter Miami y River",
+          "url": "https://futbol.unitel.bo/futbol/lionel-messi-regresara-a-argentina-para-un-amistoso-entre-inter-miami-y-river-CJ24789946",
+          "fecha": "13/11/2026 17:05",
+          "resumen": null
+        },
+        {
+          "id": "ccdf5d62158d8b65",
+          "titulo": "Paraguay demuestra su poder ofensivo y golea 4-1 en su visita a Singapur",
+          "url": "https://futbol.unitel.bo/futbol/paraguay-demuestra-su-poder-ofensivo-y-golea-4-1-en-su-visita-a-singapur-CJ24786589",
+          "fecha": "13/11/2026 14:00",
           "resumen": null
         }
       ],
@@ -1799,26 +1806,61 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:30-04:00",
-      "duracion_ms": 625,
+      "actualizado_en": "2026-11-14T13:33:13-04:00",
+      "duracion_ms": 603,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 14,
+      "cantidad_noticias": 13,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "2574712d18c6d268",
-          "titulo": "Bolivia quiere levantarse ante Perú y volver a sonreír en un amistoso internacional",
-          "url": "https://diez.bo/futbol/bolivia-quiere-levantarse-ante-peru-y-volver-a-sonreir-en-un-amistoso-internacional_1794572475",
+          "id": "8d22f66ab979893c",
+          "titulo": "Un año sin el ‘Bigotón’: Bolivia recuerda al hombre que la llevó al Mundial",
+          "url": "https://diez.bo/futbol/un-ano-sin-el-bigoton-bolivia-recuerda-al-hombre-que-la-llevo-al-mundial_1794666479",
           "fecha": null,
-          "resumen": "La Verde, dirigida por Óscar Villegas, buscará cortar una racha de cuatro derrotas consecutivas y recuperar la confianza ante Perú en Lima. Miguel Terceros, Ramiro Vaca y el joven Nabil Nacif aparecen entre las principales cartas de Bolivia para este amistoso internacional."
+          "resumen": "Este 14 de noviembre se cumple un año del fallecimiento del histórico entrenador español, que condujo a la selección boliviana a la Copa del Mundo de Estados Unidos 1994. Su legado, sus enseñanzas y aquella generación dorada siguen presentes."
         },
         {
-          "id": "f33c516efd45dfbf",
-          "titulo": "Ocho ilusiones: los jugadores que buscan debutar con la Verde",
-          "url": "https://diez.bo/futbol/ocho-ilusiones-los-jugadores-que-buscan-debutar-con-la-verde_1794574433",
+          "id": "c0aa7cd0c5b7fe71",
+          "titulo": "Seis derrotas al hilo y 18 goles en contra: la crisis que golpea a la Verde",
+          "url": "https://diez.bo/futbol/seis-derrotas-al-hilo-y-18-goles-en-contra-la-crisis-que-golpea-a-la-verde_1794660881",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "88126ac98e424ca8",
+          "titulo": "Robson Matheus enciende las alarmas y queda fuera de la Verde",
+          "url": "https://diez.bo/futbol/robson-matheus-enciende-las-alarmas-y-queda-fuera-de-la-verde_1794667997",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "830ae06117bd285d",
+          "titulo": "Lampe apunta a la falta de gol tras la derrota en Lima",
+          "url": "https://diez.bo/futbol/lampe-apunta-a-la-falta-de-gol-tras-la-derrota-en-lima_1794659646",
+          "fecha": null,
+          "resumen": "El capitán de la selección boliviana lamentó la falta de contundencia en el primer tiempo y consideró que la Verde fue protagonista por varios pasajes del partido, pese a caer 2-0 ante Perú en Lima."
+        },
+        {
+          "id": "68fb80b1b967f989",
+          "titulo": "Bolivia tuvo la pelota, pero Perú tuvo los goles y se quedó con el triunfo",
+          "url": "https://diez.bo/futbol/bolivia-tuvo-la-pelota-pero-peru-tuvo-los-goles-y-se-quedo-con-el-triunfo_1794625892",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "ccb1ed56e0568415",
+          "titulo": "La Verde y su dolor de cabeza: entre lesionados y jugadores sin continuidad en el exterior",
+          "url": "https://diez.bo/futbol/la-verde-y-su-dolor-de-cabeza-entre-lesionados-y-jugadores-sin-continuidad-en-el-exterior_1794420765",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "ec8ad09391d69e27",
+          "titulo": "Lovera tuvo su estreno absoluto con la selección boliviana",
+          "url": "https://diez.bo/futbol/lovera-tuvo-su-estreno-absoluto-con-la-seleccion-boliviana_1794660007",
           "fecha": null,
           "resumen": null
         },
@@ -1834,75 +1876,33 @@
           "titulo": "Cuatro ausencias y un regreso: el panorama de Blooming para el reinicio de la Liga",
           "url": "https://diez.bo/futbol/cuatro-ausencias-y-un-regreso-el-panorama-de-blooming-para-el-reinicio-de-la-liga_1794580000",
           "fecha": null,
-          "resumen": null
+          "resumen": "La derrota ante Oriente Petrolero en el clásico cruceño dejó consecuencias para la Academia. Julio Vila, Richard Spenhay y Juan José González fueron expulsados, mientras que Matías Abisab acumuló su quinta tarjeta amarilla. Marc Enoumba estará nuevamente disponible."
         },
         {
-          "id": "94c6dc493339eb32",
-          "titulo": "Del golpe en Monterrey a la búsqueda de una reacción inmediata",
-          "url": "https://diez.bo/futbol/del-golpe-en-monterrey-a-la-busqueda-de-una-reaccion-inmediata_1794575963",
-          "fecha": null,
-          "resumen": "Bolivia arrastra cinco derrotas consecutivas desde su eliminación ante Irak en el repechaje intercontinental rumbo al Mundial 2026. Este viernes, ante Perú en Lima, la selección boliviana intentará cortar la mala racha y recuperar confianza."
-        },
-        {
-          "id": "5a9625e25184771b",
-          "titulo": "Maraude rompe el silencio tras ser desafectado de la Verde y aparecer en el banco de Always Ready",
-          "url": "https://diez.bo/futbol/maraude-rompe-el-silencio-tras-ser-desafectado-de-la-verde-y-aparecer-en-el-banco-de-always-ready_1794508933",
+          "id": "9213cd4e2ab49b49",
+          "titulo": "Uruguay da el golpe en La Bombonera y vence a Argentina",
+          "url": "https://diez.bo/futbol/uruguay-da-el-golpe-en-la-bombonera-y-vence-a-argentina_1794620688",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "ccb1ed56e0568415",
-          "titulo": "La Verde y su dolor de cabeza: entre lesionados y jugadores sin continuidad en el exterior",
-          "url": "https://diez.bo/futbol/la-verde-y-su-dolor-de-cabeza-entre-lesionados-y-jugadores-sin-continuidad-en-el-exterior_1794420765",
+          "id": "a7218d342250c04c",
+          "titulo": "Un autogol le dio la victoria a Colombia ante Chile",
+          "url": "https://diez.bo/futbol/un-autogol-le-dio-la-victoria-a-colombia-ante-chile_1794622681",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "795b74e7b1866266",
-          "titulo": "Historial reciente: la Verde busca romper la racha ante Perú",
-          "url": "https://diez.bo/futbol/historial-reciente-la-verde-busca-romper-la-racha-ante-peru_1794575101",
+          "id": "ced3d3e368c02bcf",
+          "titulo": "Paraguay goleó a Singapur y sumó su tercer triunfo consecutivo",
+          "url": "https://diez.bo/futbol/paraguay-goleo-a-singapur-y-sumo-su-tercer-triunfo-consecutivo_1794622972",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "5c86abc1a7b9899d",
-          "titulo": "Cruce de declaraciones entre Perú y Bolivia antes del amistoso en Lima",
-          "url": "https://diez.bo/futbol/cruce-de-declaraciones-entre-peru-y-bolivia-antes-del-amistoso-en-lima_1794576924",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "e76df973ea22f4b1",
-          "titulo": "Sudamericanos en acción: una agenda cargada de fútbol en la fecha FIFA",
-          "url": "https://diez.bo/futbol/sudamericanos-en-accion-una-agenda-cargada-de-futbol-en-la-fecha-fifa_1794580111",
-          "fecha": null,
-          "resumen": "Paraguay abrió la jornada con una goleada sobre Singapur. Argentina, Uruguay, Colombia, Chile, Ecuador, Costa Rica, Perú y Bolivia también tendrán actividad este viernes en distintos amistosos internacionales."
-        },
-        {
-          "id": "85087aee1bf6e5f0",
-          "titulo": "Blooming buscará romper una racha de 19 años sin ganar ante The Strongest en La Paz",
-          "url": "https://diez.bo/futbol/blooming-buscara-romper-una-racha-de-19-anos-sin-ganar-ante-the-strongest-en-la-paz_1794496342",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "14219fd1399f6bdf",
-          "titulo": "Italia da el golpe ante Francia y aprieta la lucha por los cuartos de final",
-          "url": "https://diez.bo/futbol/italia-da-el-golpe-ante-francia-y-aprieta-la-lucha-por-los-cuartos-de-final_1794521826",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "c8c7a2526e563531",
-          "titulo": "Velasco y Oriente, una historia que puede continuar",
-          "url": "https://diez.bo/futbol/velasco-y-oriente-una-historia-que-puede-continuar_1794489539",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "b4984fa36d0a6027",
-          "titulo": "La Copa Simón Bolívar define a sus finalistas este domingo",
-          "url": "https://diez.bo/futbol/la-copa-simon-bolivar-define-a-sus-finalistas-este-domingo_1794488674",
+          "id": "6eceba26ed09facd",
+          "titulo": "Doce partidos de suspensión para Jesús Owono, arquero involucrado en la tragedia de Jesús de Miguel",
+          "url": "https://diez.bo/futbol/doce-partidos-de-suspension-para-jesus-owono-arquero-involucrado-en-la-tragedia-de-jesus-de-miguel_1794612958",
           "fecha": null,
           "resumen": null
         }
@@ -1920,8 +1920,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:32-04:00",
-      "duracion_ms": 521,
+      "actualizado_en": "2026-11-14T13:33:15-04:00",
+      "duracion_ms": 448,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 23,
@@ -2104,8 +2104,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:37-04:00",
-      "duracion_ms": 3741,
+      "actualizado_en": "2026-11-14T13:33:20-04:00",
+      "duracion_ms": 4030,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58442,11 +58442,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:39-04:00",
-      "duracion_ms": 881,
+      "actualizado_en": "2026-11-14T13:33:22-04:00",
+      "duracion_ms": 644,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 0,
+      "cantidad_noticias": 1,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -58455,24 +58455,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Presidenta de México sobre Beller: 'Estaba amenazada, por ello se le dio el asilo' Ver más",
-              "2 Fiscalía aclara que Carlos Spencer no está investigado Ver más"
+              "1 Fiscales de EEUU piden incluir como pruebas las coimas que Marset pagó en Bolivia, Uruguay, Paraguay y Venezuela Ver más",
+              "2 Nelson Cox denuncia ataques y advierte que seguirá con las acciones contra Manfred Ver más"
             ],
             [
-              "3 Identifican minería ilegal en el Parque Nacional Tunari Ver más",
-              "4 Gobernador anuncia inspección en Misicuni este viernes por denuncias de minería Ver más"
+              "3 Comisan dos camiones con 43 toneladas de mercancía de contrabando en Tupiza Ver más",
+              "4 De Korihuma al Templo San Pedro: el relato histórico detrás de la Virgen del Amparo en Sacaba Ver más"
             ],
             [
-              "5 Noboa da más armas a militares para combatir criminalidad Ver más",
-              "6 YPFB reporta que Bolivia tiene 2,30 TCF de reservas de gas probadas, el \"nivel más bajo de los últimos 20 años\" Ver más"
+              "5 Bibi Urquidi invita al papa León XIV a conocer Bolivia durante encuentro en Perú Ver más",
+              "6 Caso Hotel Las Américas: Procaduría pide medidas contra Morales y García Linera para que se presenten ante la justicia Ver más"
             ],
             [
-              "7 García Linera confirma que obtuvo asilo político en México Ver más",
-              "8 El Banco Mundial aprueba $us 500 millones para Bolivia Ver más"
+              "7 35 años de conexión e innovación: Tigo reafirma su compromiso con el futuro de Bolivia Ver más",
+              "8 Perú venció 2-0 a Bolivia en un amistoso disputado en Lima Ver más"
             ],
             [
-              "9 Gasifican bloqueo en K'ara K'ara para el ingreso de los carros de EMSA Ver más",
-              "10 Controladora de vuelo de Lima a León XIV: \"Bienvenido a casa Papa y papá\" Ver más"
+              "9 Reo, detenido por intento de feminicidio, asesina a su pareja en El Abra Ver más",
+              "10 Tren de carga se descarrila tras colisionar con una volqueta en Río Grande Ver más"
             ]
           ]
         },
@@ -58482,11 +58482,11 @@
           "columnas": [],
           "filas": [
             [
-              "13/11/2026 Cochabamba Justicia ordena reabrir K’ara K’ara para cierre técnico del botadero El secretario de Asuntos Jurídicos de la Alcaldía de Cochabamba, Abel Zuazo, informó ayer que el Tribunal Agroambiental emitió la resolución No. 205/2026, que... vista",
-              "13/11/2026 País Buscan marco legal para activar a FFAA contra narcoterroristas El ministro de Defensa, Ernesto Justiniano, anunció como prioridad la aprobación de un marco legal que permita a las Fuerzas Armadas (FFAA) participar en la... vista",
+              "14/11/2026 Seguridad \"Le dijimos al chofer que no corra\": Hecho de tránsito en la vía Oruro-Potosí deja fallecidos y heridos La madrugada de este sábado14 de noviembre, un hecho de tránsito en la vía Oruro-Potosí, a la altura de Leñas, dejó al menos dos personas fallecidas y varias... vista",
+              "13/11/2026 País Lara acudirá al TCP para proteger la privacidad de su familia ante ataques de Barral en TikTok El vicepresidente Edman Lara anunció hoy que acudirá al Tribunal Constitucional Plurinacional (TCP) para proteger la privacidad y honra de su familia ante lo... vista",
               "",
-              "13/11/2026 Seguridad Urioste amplía investigación por caso maletas a Policía, Aduana y la DGAC El fiscal general del Estado, José Armando Urioste, informó que la investigación por el caso maletas, vinculado a narcotráfico, será ampliada a todo el... vista",
-              "13/11/2026 Cochabamba Instituciones investigan, por separado, minería ilegal en Misicuni Las instituciones investigan, por separado, la posible contaminación por mercurio en la represa de Misicuni, que denunció la asambleísta Claudia Martínez. vista"
+              "14/11/2026 Cochabamba De Korihuma al Templo San Pedro: el relato histórico detrás de la Virgen del Amparo en Sacaba Cada tercer domingo de noviembre, miles de devotos, bailarines y turistas colman las calles de Sacaba para celebrar a su patrona, la Virgen del Amparo. vista",
+              "13/11/2026 País YPFB reporta que Bolivia tiene 2,30 TCF de reservas de gas probadas, el \"nivel más bajo de los últimos 20 años\" Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) infirmó este viernes que las reservas de gas probadas que tiene el país, al 31 de diciembre de 2025,... vista"
             ]
           ]
         },
@@ -58520,7 +58520,15 @@
         }
       ],
       "secciones": [],
-      "noticias": [],
+      "noticias": [
+        {
+          "id": "b0d0190cb1fae0b0",
+          "titulo": "Perú venció 2-0 a Bolivia en un amistoso disputado en Lima",
+          "url": "https://www.lostiempos.com/deportes/futbol/20261114/peru-vencio-2-0-bolivia-amistoso-disputado-lima",
+          "fecha": null,
+          "resumen": null
+        }
+      ],
       "datos_estructurados": null,
       "error": null,
       "datos_desde_cache": false
@@ -58534,8 +58542,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:40-04:00",
-      "duracion_ms": 413,
+      "actualizado_en": "2026-11-14T13:33:24-04:00",
+      "duracion_ms": 626,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -58676,8 +58684,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:42-04:00",
-      "duracion_ms": 266,
+      "actualizado_en": "2026-11-14T13:33:25-04:00",
+      "duracion_ms": 302,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58698,11 +58706,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:48-04:00",
-      "duracion_ms": 5379,
+      "actualizado_en": "2026-11-14T13:33:31-04:00",
+      "duracion_ms": 5112,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 17,
+      "cantidad_noticias": 22,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -59292,8 +59300,40 @@
       ],
       "secciones": [
         {
-          "titulo": "Algarañaz lidera a los goleadores de la Copa Bolivia",
-          "contenido": "noviembre 12, 2026 07:32"
+          "titulo": "Resultados de laboratorio descartan mercurio en el agua de Misicuni",
+          "contenido": "noviembre 14, 2026 09:41"
+        },
+        {
+          "titulo": "Sanjinés alerta: Conflicto con el magisterio obligará a ajustar el calendario escolar",
+          "contenido": "noviembre 14, 2026 11:53"
+        },
+        {
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40"
+        },
+        {
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40"
+        },
+        {
+          "titulo": "Resultados de laboratorio descartan mercurio en el agua de Misicuni",
+          "contenido": "noviembre 14, 2026 09:41"
+        },
+        {
+          "titulo": "Sanjinés alerta: Conflicto con el magisterio obligará a ajustar el calendario escolar",
+          "contenido": "noviembre 14, 2026 11:53"
+        },
+        {
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40"
+        },
+        {
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40"
+        },
+        {
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40"
         },
         {
           "titulo": "Algarañaz lidera a los goleadores de la Copa Bolivia",
@@ -59312,11 +59352,32 @@
           "contenido": "noviembre 9, 2026 09:00"
         },
         {
-          "titulo": "Futbolistas extranjeros lideran la tabla de goleadores en Bolivia",
-          "contenido": "noviembre 10, 2026 08:40"
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "contenido": "noviembre 14, 2026 07:40 Estel sábado también se llevó a cabo un homenaje a De Miguel en el estadio Heliodoro Rodríguez López, la casa... Ver más"
         }
       ],
       "noticias": [
+        {
+          "id": "8acbaeaf1a92b892",
+          "titulo": "El petróleo cierra estable ante interrogantes sobre Oriente Medio",
+          "url": "https://larazon.bo/mundo/2026/11/13/el-petroleo-cierra-estable-ante-interrogantes-sobre-oriente-medio/",
+          "fecha": "noviembre 13, 2026 17:09",
+          "resumen": null
+        },
+        {
+          "id": "d41a5e7ed8c9b717",
+          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
+          "url": "https://larazon.bo/marcas/2026/11/14/arquero-de-andorra-suspendido-12-partidos-tras-muerte-de-de-miguel/",
+          "fecha": "noviembre 14, 2026 07:40",
+          "resumen": null
+        },
+        {
+          "id": "895f2b8f7241566a",
+          "titulo": "El arquero Dituro, exBolívar, sufre un atraco en su casa en España",
+          "url": "https://larazon.bo/marcas/2026/11/13/el-arquero-dituro-exbolivar-sufre-un-atraco-en-su-casa-en-espana/",
+          "fecha": "noviembre 13, 2026 15:27",
+          "resumen": null
+        },
         {
           "id": "524a4538f6803c4f",
           "titulo": "Paraguay golea a Singapur 4-1 en amistoso internacional",
@@ -59374,13 +59435,6 @@
           "resumen": null
         },
         {
-          "id": "c7d47bca0a804a68",
-          "titulo": "Las selecciones sudamericanas bajan el telón en 2026",
-          "url": "https://larazon.bo/marcas/2026/11/11/las-selecciones-sudamericanas-bajan-el-telon-en-2026/",
-          "fecha": "noviembre 11, 2026 11:31",
-          "resumen": null
-        },
-        {
           "id": "8f11da733e5376c1",
           "titulo": "El plan de Céspedes apunta a los Bolivarianos La Paz 2029",
           "url": "https://larazon.bo/marcas/2026/11/10/el-plan-de-cespedes-apunta-a-los-bolivarianos-la-paz-2029/",
@@ -59435,6 +59489,27 @@
           "url": "https://larazon.bo/marcas/2026/10/21/palmeiras-a-final-de-libertadores-gana-5-3-a-flu-en-penales/",
           "fecha": "octubre 21, 2026 22:55",
           "resumen": null
+        },
+        {
+          "id": "c7d47bca0a804a68",
+          "titulo": "Las selecciones sudamericanas bajan el telón en 2026",
+          "url": "https://larazon.bo/marcas/2026/11/11/las-selecciones-sudamericanas-bajan-el-telon-en-2026/",
+          "fecha": "noviembre 11, 2026 11:31",
+          "resumen": null
+        },
+        {
+          "id": "ae0151a67af03ffe",
+          "titulo": "Ecuador anticipa duelo ‘intenso’ en amistoso ante Costa Rica",
+          "url": "https://larazon.bo/marcas/2026/11/11/ecuador-anticipa-duelo-intenso-en-amistoso-ante-costa-rica/",
+          "fecha": "noviembre 11, 2026 11:00",
+          "resumen": null
+        },
+        {
+          "id": "ec4080fac211ce70",
+          "titulo": "La Selección Boliviana viaja a Perú para jugar el viernes en ‘Matute’",
+          "url": "https://larazon.bo/marcas/2026/11/11/la-seleccion-boliviana-viaja-a-peru-para-jugar-el-viernes-en-matute/",
+          "fecha": "noviembre 11, 2026 10:47",
+          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -59450,8 +59525,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:51-04:00",
-      "duracion_ms": 1105,
+      "actualizado_en": "2026-11-14T13:33:34-04:00",
+      "duracion_ms": 980,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -59472,9 +59547,6 @@
               "Diputada Pinto propone un referéndum para declarar profesión libre al magisterio"
             ],
             [
-              "Fencomin pide a Paz frenar la socialización del Código Minero y destituir al ministro Calderón de la Barca"
-            ],
-            [
               "Santa Cruz: Explosión en laboratorio farmacéutico deja una fallecida, siete heridos y daños materiales"
             ],
             [
@@ -59488,6 +59560,9 @@
             ],
             [
               "Oviedo: Evo Morales “es el jefe de un cártel del narcotráfico que sale desde el Chapare”"
+            ],
+            [
+              "Nadia Beller salió de Bolivia tras recibir salvoconducto para asilo en México"
             ]
           ]
         }
@@ -59507,8 +59582,8 @@
       "url_final": "https://elpais.bo/sections/view-deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-13T15:03:52-04:00",
-      "duracion_ms": 603,
+      "actualizado_en": "2026-11-14T13:33:35-04:00",
+      "duracion_ms": 583,
       "titulo_pagina": "Campeón",
       "cantidad_tablas": 0,
       "cantidad_noticias": 3,
