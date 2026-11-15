@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-11-14T13:33:35-04:00",
+  "generado_en": "2026-11-15T14:22:06-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 0,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 163,
+    "noticias_extraidas": 159,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:32:55-04:00",
-      "duracion_ms": 531,
+      "actualizado_en": "2026-11-15T14:21:25-04:00",
+      "duracion_ms": 749,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:32:56-04:00",
-      "duracion_ms": 177,
+      "actualizado_en": "2026-11-15T14:21:26-04:00",
+      "duracion_ms": 232,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:32:58-04:00",
-      "duracion_ms": 208,
+      "actualizado_en": "2026-11-15T14:21:28-04:00",
+      "duracion_ms": 286,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:32:59-04:00",
-      "duracion_ms": 189,
+      "actualizado_en": "2026-11-15T14:21:29-04:00",
+      "duracion_ms": 262,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:01-04:00",
-      "duracion_ms": 170,
+      "actualizado_en": "2026-11-15T14:21:31-04:00",
+      "duracion_ms": 236,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:02-04:00",
-      "duracion_ms": 185,
+      "actualizado_en": "2026-11-15T14:21:32-04:00",
+      "duracion_ms": 228,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:03-04:00",
-      "duracion_ms": 166,
+      "actualizado_en": "2026-11-15T14:21:33-04:00",
+      "duracion_ms": 225,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:05-04:00",
-      "duracion_ms": 678,
+      "actualizado_en": "2026-11-15T14:21:35-04:00",
+      "duracion_ms": 696,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1484,8 +1484,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:08-04:00",
-      "duracion_ms": 1541,
+      "actualizado_en": "2026-11-15T14:21:38-04:00",
+      "duracion_ms": 1576,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1647,70 +1647,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "20072 veces leida"
+          "resumen": "20077 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14872 veces leida"
+          "resumen": "14876 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11726 veces leida"
+          "resumen": "11731 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11490 veces leida"
+          "resumen": "11494 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "11061 veces leida"
+          "resumen": "11069 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9411 veces leida"
+          "resumen": "9421 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8830 veces leida"
+          "resumen": "8834 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8766 veces leida"
+          "resumen": "8770 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8664 veces leida"
+          "resumen": "8670 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8604 veces leida"
+          "resumen": "8608 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1726,8 +1726,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:10-04:00",
-      "duracion_ms": 542,
+      "actualizado_en": "2026-11-15T14:21:40-04:00",
+      "duracion_ms": 795,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1748,8 +1748,8 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:11-04:00",
-      "duracion_ms": 432,
+      "actualizado_en": "2026-11-15T14:21:42-04:00",
+      "duracion_ms": 346,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
       "cantidad_noticias": 5,
@@ -1758,38 +1758,38 @@
       "secciones": [],
       "noticias": [
         {
+          "id": "9c20ac34c1417974",
+          "titulo": "Boca Juniors golea a Banfield y jugarÃ¡ la final de la Copa Argentina",
+          "url": "https://futbol.unitel.bo/futbol/boca-juniors-golea-a-banfield-y-jugara-la-final-de-la-copa-argentina-PO24808034",
+          "fecha": "14/11/2026 21:05",
+          "resumen": null
+        },
+        {
+          "id": "270bff243eb5280b",
+          "titulo": "Cristiano Ronaldo, homenajeado en el minuto 7 del partido de Portugal contra Dinamarca",
+          "url": "https://futbol.unitel.bo/futbol/cristiano-ronaldo-homenajeado-en-el-minuto-7-del-partido-de-portugal-contra-dinamarca-DO24806005",
+          "fecha": "14/11/2026 17:54",
+          "resumen": null
+        },
+        {
+          "id": "a938b01c476d405a",
+          "titulo": "La Verde suma cinco partidos con derrotas y sin anotar un solo gol",
+          "url": "https://futbol.unitel.bo/futbol/la-verde-suma-cinco-partidos-con-derrotas-y-sin-anotar-un-solo-gol-DO24805042",
+          "fecha": "14/11/2026 16:22",
+          "resumen": null
+        },
+        {
+          "id": "7a37531c061e43b0",
+          "titulo": "FBF confirma la lesiÃ³n de Robson Matheus y queda âdesafectadoâ de la Verde",
+          "url": "https://futbol.unitel.bo/futbol/fbf-confirma-la-lesion-de-robson-matheus-y-queda-desafectado-de-la-verde-GO24802958",
+          "fecha": "14/11/2026 14:00",
+          "resumen": null
+        },
+        {
           "id": "1583136b21bcbb2f",
           "titulo": "Bolivia se queda sin gol y cae 2-0 ante PerÃº en Lima",
           "url": "https://futbol.unitel.bo/futbol/bolivia-se-queda-sin-gol-y-cae-2-0-ante-peru-en-lima-JI24794058",
           "fecha": "13/11/2026 20:50",
-          "resumen": null
-        },
-        {
-          "id": "aa7cf10c62a7f115",
-          "titulo": "PaÃ­ses Bajos recupera su mejor versiÃ³n con Xavi y golea a Grecia en la Liga de Naciones",
-          "url": "https://futbol.unitel.bo/futbol/paises-bajos-recupera-su-mejor-version-con-xavi-y-golea-a-grecia-en-la-liga-de-naciones-CI24792022",
-          "fecha": "13/11/2026 18:30",
-          "resumen": null
-        },
-        {
-          "id": "ffd367b0d0b6669e",
-          "titulo": "En vivo por Unitel: PerÃº y Bolivia ya tienen sus probables oncenos para el partido en Lima",
-          "url": "https://futbol.unitel.bo/futbol/en-vivo-por-unitel-peru-y-bolivia-ya-tienen-sus-probables-oncenos-para-el-partido-en-lima-LJ24788003",
-          "fecha": "13/11/2026 15:08",
-          "resumen": null
-        },
-        {
-          "id": "33c875317ce9dca2",
-          "titulo": "Lionel Messi regresarÃ¡ a Argentina para un amistoso entre Inter Miami y River",
-          "url": "https://futbol.unitel.bo/futbol/lionel-messi-regresara-a-argentina-para-un-amistoso-entre-inter-miami-y-river-CJ24789946",
-          "fecha": "13/11/2026 17:05",
-          "resumen": null
-        },
-        {
-          "id": "ccdf5d62158d8b65",
-          "titulo": "Paraguay demuestra su poder ofensivo y golea 4-1 en su visita a Singapur",
-          "url": "https://futbol.unitel.bo/futbol/paraguay-demuestra-su-poder-ofensivo-y-golea-4-1-en-su-visita-a-singapur-CJ24786589",
-          "fecha": "13/11/2026 14:00",
           "resumen": null
         }
       ],
@@ -1806,47 +1806,61 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:13-04:00",
-      "duracion_ms": 603,
+      "actualizado_en": "2026-11-15T14:21:43-04:00",
+      "duracion_ms": 488,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 13,
+      "cantidad_noticias": 16,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "8d22f66ab979893c",
-          "titulo": "Un año sin el ‘Bigotón’: Bolivia recuerda al hombre que la llevó al Mundial",
-          "url": "https://diez.bo/futbol/un-ano-sin-el-bigoton-bolivia-recuerda-al-hombre-que-la-llevo-al-mundial_1794666479",
+          "id": "dc53f9a9c6d688bd",
+          "titulo": "Sin Robson, Melgar apunta a ganarse un lugar ante Ecuador",
+          "url": "https://diez.bo/futbol/sin-robson-melgar-apunta-a-ganarse-un-lugar-ante-ecuador_1794750696",
           "fecha": null,
-          "resumen": "Este 14 de noviembre se cumple un año del fallecimiento del histórico entrenador español, que condujo a la selección boliviana a la Copa del Mundo de Estados Unidos 1994. Su legado, sus enseñanzas y aquella generación dorada siguen presentes."
+          "resumen": "El mediocampista de Bolívar ingresó en lugar de Robson durante la derrota ante Perú y ahora aparece como la principal alternativa de Óscar Villegas para ocupar ese puesto en el segundo amistoso de la fecha FIFA."
+        },
+        {
+          "id": "f53f390b6ff26e64",
+          "titulo": "La deuda salarial mantiene a Oriente Petrolero sin entrenamientos",
+          "url": "https://diez.bo/futbol/la-deuda-salarial-mantiene-a-oriente-petrolero-sin-entrenamientos_1794748477",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "bdc835b62c46307c",
+          "titulo": "Blooming recarga energías y apunta a su visita a The Strongest",
+          "url": "https://diez.bo/futbol/blooming-recarga-energias-y-apunta-a-su-visita-a-the-strongest_1794748667",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "9ca5a0955667c3ef",
+          "titulo": "Always Ready e Independiente van por un lugar en la final de la Copa Bolivia",
+          "url": "https://diez.bo/futbol/always-ready-e-independiente-van-por-un-lugar-en-la-final-de-la-copa-bolivia_1794748041",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "f9dc7a08e7bb2db6",
+          "titulo": "La Verde pasó la página de Perú y se instaló en Guayaquil",
+          "url": "https://diez.bo/futbol/la-verde-paso-la-pagina-de-peru-y-se-instalo-en-guayaquil_1794695799",
+          "fecha": null,
+          "resumen": "La Verde viajó este sábado después del mediodía y aterrizó cerca de las 15:00 en territorio ecuatoriano. El equipo de Óscar Villegas tendrá dos jornadas de entrenamiento antes de enfrentar a Ecuador el próximo martes por la fecha FIFA de noviembre."
+        },
+        {
+          "id": "6a847158653f980c",
+          "titulo": "Milton Melgar ve frágil a Bolivia y señala las falencias del fútbol nacional",
+          "url": "https://diez.bo/futbol/milton-melgar-ve-fragil-a-bolivia-y-senala-las-falencias-del-futbol-nacional_1794696578",
+          "fecha": null,
+          "resumen": null
         },
         {
           "id": "c0aa7cd0c5b7fe71",
           "titulo": "Seis derrotas al hilo y 18 goles en contra: la crisis que golpea a la Verde",
           "url": "https://diez.bo/futbol/seis-derrotas-al-hilo-y-18-goles-en-contra-la-crisis-que-golpea-a-la-verde_1794660881",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "88126ac98e424ca8",
-          "titulo": "Robson Matheus enciende las alarmas y queda fuera de la Verde",
-          "url": "https://diez.bo/futbol/robson-matheus-enciende-las-alarmas-y-queda-fuera-de-la-verde_1794667997",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "830ae06117bd285d",
-          "titulo": "Lampe apunta a la falta de gol tras la derrota en Lima",
-          "url": "https://diez.bo/futbol/lampe-apunta-a-la-falta-de-gol-tras-la-derrota-en-lima_1794659646",
-          "fecha": null,
-          "resumen": "El capitán de la selección boliviana lamentó la falta de contundencia en el primer tiempo y consideró que la Verde fue protagonista por varios pasajes del partido, pese a caer 2-0 ante Perú en Lima."
-        },
-        {
-          "id": "68fb80b1b967f989",
-          "titulo": "Bolivia tuvo la pelota, pero Perú tuvo los goles y se quedó con el triunfo",
-          "url": "https://diez.bo/futbol/bolivia-tuvo-la-pelota-pero-peru-tuvo-los-goles-y-se-quedo-con-el-triunfo_1794625892",
           "fecha": null,
           "resumen": null
         },
@@ -1858,6 +1872,20 @@
           "resumen": null
         },
         {
+          "id": "0fd733a61f6330e9",
+          "titulo": "Todo o nada por un lugar en la final de la Copa Simón Bolívar",
+          "url": "https://diez.bo/futbol/todo-o-nada-por-un-lugar-en-la-final-de-la-copa-simon-bolivar_1794747833",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "88126ac98e424ca8",
+          "titulo": "Robson Matheus enciende las alarmas y queda fuera de la Verde",
+          "url": "https://diez.bo/futbol/robson-matheus-enciende-las-alarmas-y-queda-fuera-de-la-verde_1794667997",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "ec8ad09391d69e27",
           "titulo": "Lovera tuvo su estreno absoluto con la selección boliviana",
           "url": "https://diez.bo/futbol/lovera-tuvo-su-estreno-absoluto-con-la-seleccion-boliviana_1794660007",
@@ -1865,44 +1893,37 @@
           "resumen": null
         },
         {
-          "id": "870b5dbe318e3775",
-          "titulo": "Oriente sigue sin entrenarse, pero cumple con el pago de la operación de González",
-          "url": "https://diez.bo/futbol/oriente-sigue-sin-entrenarse-pero-cumple-con-el-pago-de-la-operacion-de-gonzalez_1794579913",
+          "id": "830ae06117bd285d",
+          "titulo": "Lampe apunta a la falta de gol tras la derrota en Lima",
+          "url": "https://diez.bo/futbol/lampe-apunta-a-la-falta-de-gol-tras-la-derrota-en-lima_1794659646",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "e274387232b5e3c5",
-          "titulo": "Cuatro ausencias y un regreso: el panorama de Blooming para el reinicio de la Liga",
-          "url": "https://diez.bo/futbol/cuatro-ausencias-y-un-regreso-el-panorama-de-blooming-para-el-reinicio-de-la-liga_1794580000",
-          "fecha": null,
-          "resumen": "La derrota ante Oriente Petrolero en el clásico cruceño dejó consecuencias para la Academia. Julio Vila, Richard Spenhay y Juan José González fueron expulsados, mientras que Matías Abisab acumuló su quinta tarjeta amarilla. Marc Enoumba estará nuevamente disponible."
-        },
-        {
-          "id": "9213cd4e2ab49b49",
-          "titulo": "Uruguay da el golpe en La Bombonera y vence a Argentina",
-          "url": "https://diez.bo/futbol/uruguay-da-el-golpe-en-la-bombonera-y-vence-a-argentina_1794620688",
+          "id": "68fb80b1b967f989",
+          "titulo": "Bolivia tuvo la pelota, pero Perú tuvo los goles y se quedó con el triunfo",
+          "url": "https://diez.bo/futbol/bolivia-tuvo-la-pelota-pero-peru-tuvo-los-goles-y-se-quedo-con-el-triunfo_1794625892",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "a7218d342250c04c",
-          "titulo": "Un autogol le dio la victoria a Colombia ante Chile",
-          "url": "https://diez.bo/futbol/un-autogol-le-dio-la-victoria-a-colombia-ante-chile_1794622681",
+          "id": "ad6fe50a8977d7a7",
+          "titulo": "Blooming aguarda por Villarroel, que evoluciona favorablemente",
+          "url": "https://diez.bo/futbol/blooming-aguarda-por-villarroel-que-evoluciona-favorablemente_1794695996",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "ced3d3e368c02bcf",
-          "titulo": "Paraguay goleó a Singapur y sumó su tercer triunfo consecutivo",
-          "url": "https://diez.bo/futbol/paraguay-goleo-a-singapur-y-sumo-su-tercer-triunfo-consecutivo_1794622972",
+          "id": "a5160e927e53c38d",
+          "titulo": "Cristiano, homenajeado en el minuto 7 del partido de Portugal contra Dinamarca",
+          "url": "https://diez.bo/futbol/cristiano-homenajeado-en-el-minuto-7-del-partido-de-portugal-contra-dinamarca_1794695401",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "6eceba26ed09facd",
-          "titulo": "Doce partidos de suspensión para Jesús Owono, arquero involucrado en la tragedia de Jesús de Miguel",
-          "url": "https://diez.bo/futbol/doce-partidos-de-suspension-para-jesus-owono-arquero-involucrado-en-la-tragedia-de-jesus-de-miguel_1794612958",
+          "id": "092c3c0c7121fa05",
+          "titulo": "Portugal sufrió una goleada ante Dinamarca en el inicio de la era sin Cristiano",
+          "url": "https://diez.bo/futbol/portugal-sufrio-una-goleada-ante-dinamarca-en-el-inicio-de-la-era-sin-cristiano_1794695059",
           "fecha": null,
           "resumen": null
         }
@@ -1920,8 +1941,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:15-04:00",
-      "duracion_ms": 448,
+      "actualizado_en": "2026-11-15T14:21:45-04:00",
+      "duracion_ms": 309,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 23,
@@ -2104,8 +2125,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:20-04:00",
-      "duracion_ms": 4030,
+      "actualizado_en": "2026-11-15T14:21:51-04:00",
+      "duracion_ms": 4532,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58442,11 +58463,11 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:22-04:00",
-      "duracion_ms": 644,
+      "actualizado_en": "2026-11-15T14:21:52-04:00",
+      "duracion_ms": 469,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
-      "cantidad_noticias": 1,
+      "cantidad_noticias": 2,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -58455,24 +58476,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 Fiscales de EEUU piden incluir como pruebas las coimas que Marset pagó en Bolivia, Uruguay, Paraguay y Venezuela Ver más",
-              "2 Nelson Cox denuncia ataques y advierte que seguirá con las acciones contra Manfred Ver más"
+              "1 Siete monos araña víctimas del tráfico de fauna silvestre fueron trasladados a un nuevo espacio de protección Ver más",
+              "2 La Verde, en caída libre: lleva 5 derrotas consecutivas, 16 goles en contra y ninguno a favor Ver más"
             ],
             [
-              "3 Comisan dos camiones con 43 toneladas de mercancía de contrabando en Tupiza Ver más",
-              "4 De Korihuma al Templo San Pedro: el relato histórico detrás de la Virgen del Amparo en Sacaba Ver más"
+              "3 Cochabamba: hallan 60 paquetes de droga en un compartimiento prefabricado de un minibús Ver más",
+              "4 Jhohan Gutiérrez, pasa un gran momento y sueña con la Verde Ver más"
             ],
             [
-              "5 Bibi Urquidi invita al papa León XIV a conocer Bolivia durante encuentro en Perú Ver más",
-              "6 Caso Hotel Las Américas: Procaduría pide medidas contra Morales y García Linera para que se presenten ante la justicia Ver más"
+              "5 Paz se reúne con el presidente de Turquía para impulsar el comercio y la cooperación energética e industrial Ver más",
+              "6 Innova Upal 2026 reúne más de 30 proyectos y consolida un espacio para el talento joven Ver más"
             ],
             [
-              "7 35 años de conexión e innovación: Tigo reafirma su compromiso con el futuro de Bolivia Ver más",
-              "8 Perú venció 2-0 a Bolivia en un amistoso disputado en Lima Ver más"
+              "7 Con fe y colorido, Sacaba da inicio a la Gran Entrada en honor a la Virgen del Amparo Ver más",
+              "8 El programa Cajas Nido de la Paraba Barba Azul logra su temporada más exitosa Ver más"
             ],
             [
-              "9 Reo, detenido por intento de feminicidio, asesina a su pareja en El Abra Ver más",
-              "10 Tren de carga se descarrila tras colisionar con una volqueta en Río Grande Ver más"
+              "9 Sismo de magnitud 5,0 se registra en Bolivia: este fue su epicentro Ver más",
+              "10 Virgen del Amparo: Sacaba deslumbra con una peregrinación hecha danza Ver más"
             ]
           ]
         },
@@ -58482,11 +58503,11 @@
           "columnas": [],
           "filas": [
             [
-              "14/11/2026 Seguridad \"Le dijimos al chofer que no corra\": Hecho de tránsito en la vía Oruro-Potosí deja fallecidos y heridos La madrugada de este sábado14 de noviembre, un hecho de tránsito en la vía Oruro-Potosí, a la altura de Leñas, dejó al menos dos personas fallecidas y varias... vista",
-              "13/11/2026 País Lara acudirá al TCP para proteger la privacidad de su familia ante ataques de Barral en TikTok El vicepresidente Edman Lara anunció hoy que acudirá al Tribunal Constitucional Plurinacional (TCP) para proteger la privacidad y honra de su familia ante lo... vista",
+              "15/11/2026 País El Súper Niño pone a prueba la capacidad de reacción de Bolivia Mientras unas regiones de Bolivia esperan por lluvias que no llegan, otras se preparan para recibir precipitaciones que podrían desbordar ríos, inundar... vista",
+              "15/11/2026 País Caso Cerimedo: de lío judicial a remezón político La salida de Nadia Beller del país, ahora asilada en México, marca un punto de inflexión en los procesos del presunto autor intelectual del intento de... vista",
               "",
-              "14/11/2026 Cochabamba De Korihuma al Templo San Pedro: el relato histórico detrás de la Virgen del Amparo en Sacaba Cada tercer domingo de noviembre, miles de devotos, bailarines y turistas colman las calles de Sacaba para celebrar a su patrona, la Virgen del Amparo. vista",
-              "13/11/2026 País YPFB reporta que Bolivia tiene 2,30 TCF de reservas de gas probadas, el \"nivel más bajo de los últimos 20 años\" Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) infirmó este viernes que las reservas de gas probadas que tiene el país, al 31 de diciembre de 2025,... vista"
+              "15/11/2026 País Con Beller asilada, temen que cerimedo quede libre Con Nadia Beller fuera de Bolivia y asilada en México, las posibilidades de que avancen los procesos contra Fernando Cerimedo, exasesor del presidente Rodrigo... vista",
+              "15/11/2026 País Despliegan 194 efectivos y cinco medios aéreos para combatir incendio forestal en San José de Chiquitos El Gobierno nacional, en coordinación con la Gobernación de Santa Cruz, municipios e instituciones de primera respuesta, movilizó a 194 efectivos, 21 vehículos... vista"
             ]
           ]
         },
@@ -58496,11 +58517,11 @@
           "columnas": [],
           "filas": [
             [
-              "En el fondo de uno de los cuerpos de agua más grandes de Suramérica, los científicos han hecho interesantes hallazgos. Ver más 13/11/2026 Interesante Buzos de la Armada encuentran formaciones rocosas en el Titicaca",
-              "La silueta de lo que parece una escalera o un antiguo muro permanece bajo las aguas del Titicaca y despierta... Ver más 12/11/2026 Interesante Hallan estructuras sumergidas cerca de la Isla del Sol",
+              "Veinte crías de paraba barba azul (Ara glaucogularis) alzaron vuelo durante la temporada reproductiva 2025-2026, la... Ver más 15/11/2026 Medio Ambiente El programa Cajas Nido de la Paraba Barba Azul logra su temporada más exitosa",
+              "La compañía aeroespacial SpaceX marcó un precedente histórico en la ingeniería espacial al atrapar por primera vez en... Ver más 14/11/2026 Ciencia Hito espacial en Texas: SpaceX captura en el aire a la nave Starship tras una misión orbital",
               "",
-              "Luis Fernando Aguirre Urioste, director del Centro de Biodiversidad y Genética (CBG) de la Universidad Mayor de San... Ver más 11/11/2026 Ciencia Investigador boliviano Luis Fernando Aguirre recibe la medalla al Mérito Científico 2026",
-              "América Latina y el Caribe reportan el descenso más pronunciado entre todas las regiones evaluadas por el Índice... Ver más 09/11/2026 Medio Ambiente Las poblaciones de fauna silvestre cayeron un 95 % en América Latina y el Caribe en últimos 50 años"
+              "Siete monos araña que fueron víctimas del tráfico de fauna silvestre fueron trasladados desde el refugio Senda Verde,... Ver más 14/11/2026 Medio Ambiente Siete monos araña víctimas del tráfico de fauna silvestre fueron trasladados a un nuevo espacio de protección",
+              "En el fondo de uno de los cuerpos de agua más grandes de Suramérica, los científicos han hecho interesantes hallazgos. Ver más 13/11/2026 Interesante Buzos de la Armada encuentran formaciones rocosas en el Titicaca"
             ]
           ]
         },
@@ -58510,11 +58531,11 @@
           "columnas": [],
           "filas": [
             [
+              "Con una destacada participación de la comunidad académica, la Universidad Privada Abierta Latinoamericana (UPAL) llevó... Ver más 15/11/2026 Sociales Innova Upal 2026 reúne más de 30 proyectos y consolida un espacio para el talento joven",
               "Se desarrolla en Cochabamba la segunda edición del Festival Ecos Latinoamericanos, un proyecto que celebra la riqueza,... Ver más 12/11/2026 Música Segunda edición del Festival Ecos Latinoamericanos tiende un puente cultural entre la música clásica de América Latina",
-              "Luis Fernando Aguirre Urioste, director del Centro de Biodiversidad y Genética (CBG) de la Universidad Mayor de San... Ver más 12/11/2026 Cultura Boliviano Luis Aguirre recibe la medalla al Mérito Científico 2026",
               "",
-              "Más de dos centenares de intérpretes saltarán al escenario del coliseo Alemán Santa María para ejecutar la Sinfonía... Ver más 11/11/2026 Música La Orquesta Sinfónica Municipal presenta la majestuosa Sinfonía N.º 9 de Beethoven",
-              "El reencuentro del legendario grupo boliviano Awatiñas con el público cochabambino, después de 15 años, se producirá... Ver más 10/11/2026 Cultura Los Awatiñas llegan a Cochabamba para reencontrarse con su público"
+              "Luis Fernando Aguirre Urioste, director del Centro de Biodiversidad y Genética (CBG) de la Universidad Mayor de San... Ver más 12/11/2026 Cultura Boliviano Luis Aguirre recibe la medalla al Mérito Científico 2026",
+              "Más de dos centenares de intérpretes saltarán al escenario del coliseo Alemán Santa María para ejecutar la Sinfonía... Ver más 11/11/2026 Música La Orquesta Sinfónica Municipal presenta la majestuosa Sinfonía N.º 9 de Beethoven"
             ]
           ]
         }
@@ -58522,9 +58543,16 @@
       "secciones": [],
       "noticias": [
         {
-          "id": "b0d0190cb1fae0b0",
-          "titulo": "Perú venció 2-0 a Bolivia en un amistoso disputado en Lima",
-          "url": "https://www.lostiempos.com/deportes/futbol/20261114/peru-vencio-2-0-bolivia-amistoso-disputado-lima",
+          "id": "f71f6017a613fa82",
+          "titulo": "La Verde, en caída libre: lleva 5 derrotas consecutivas, 16 goles en contra y ninguno a favor",
+          "url": "https://www.lostiempos.com/deportes/futbol/20261115/verde-caida-libre-lleva-5-derrotas-consecutivas-16-goles-contra-ninguno",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "5a951511e733cac7",
+          "titulo": "Jhohan Gutiérrez, pasa un gran momento y sueña con la Verde",
+          "url": "https://www.lostiempos.com/deportes/futbol/20261115/jhohan-gutierrez-pasa-gran-momento-suena-verde",
           "fecha": null,
           "resumen": null
         }
@@ -58542,8 +58570,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:24-04:00",
-      "duracion_ms": 626,
+      "actualizado_en": "2026-11-15T14:21:54-04:00",
+      "duracion_ms": 611,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -58684,8 +58712,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:25-04:00",
-      "duracion_ms": 302,
+      "actualizado_en": "2026-11-15T14:21:55-04:00",
+      "duracion_ms": 171,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58706,11 +58734,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:31-04:00",
-      "duracion_ms": 5112,
+      "actualizado_en": "2026-11-15T14:22:02-04:00",
+      "duracion_ms": 5688,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 22,
+      "cantidad_noticias": 14,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -59300,36 +59328,12 @@
       ],
       "secciones": [
         {
-          "titulo": "Resultados de laboratorio descartan mercurio en el agua de Misicuni",
-          "contenido": "noviembre 14, 2026 09:41"
+          "titulo": "2027: el año de la urgencia para los resultados económicos",
+          "contenido": "noviembre 14, 2026 23:54"
         },
         {
-          "titulo": "Sanjinés alerta: Conflicto con el magisterio obligará a ajustar el calendario escolar",
-          "contenido": "noviembre 14, 2026 11:53"
-        },
-        {
-          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
-          "contenido": "noviembre 14, 2026 07:40"
-        },
-        {
-          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
-          "contenido": "noviembre 14, 2026 07:40"
-        },
-        {
-          "titulo": "Resultados de laboratorio descartan mercurio en el agua de Misicuni",
-          "contenido": "noviembre 14, 2026 09:41"
-        },
-        {
-          "titulo": "Sanjinés alerta: Conflicto con el magisterio obligará a ajustar el calendario escolar",
-          "contenido": "noviembre 14, 2026 11:53"
-        },
-        {
-          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
-          "contenido": "noviembre 14, 2026 07:40"
-        },
-        {
-          "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
-          "contenido": "noviembre 14, 2026 07:40"
+          "titulo": "2027: el año de la urgencia para los resultados económicos",
+          "contenido": "noviembre 14, 2026 23:54"
         },
         {
           "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
@@ -59353,15 +59357,15 @@
         },
         {
           "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
-          "contenido": "noviembre 14, 2026 07:40 Estel sábado también se llevó a cabo un homenaje a De Miguel en el estadio Heliodoro Rodríguez López, la casa... Ver más"
+          "contenido": "noviembre 14, 2026 07:40"
         }
       ],
       "noticias": [
         {
-          "id": "8acbaeaf1a92b892",
-          "titulo": "El petróleo cierra estable ante interrogantes sobre Oriente Medio",
-          "url": "https://larazon.bo/mundo/2026/11/13/el-petroleo-cierra-estable-ante-interrogantes-sobre-oriente-medio/",
-          "fecha": "noviembre 13, 2026 17:09",
+          "id": "7c329031050c66b9",
+          "titulo": "Potosí y la opción de ascender a Mineros en la Simón Bolívar",
+          "url": "https://larazon.bo/marcas/2026/11/15/potosi-y-la-opcion-de-ascender-a-mineros-en-la-simon-bolivar/",
+          "fecha": "noviembre 15, 2026 03:00",
           "resumen": null
         },
         {
@@ -59369,34 +59373,6 @@
           "titulo": "Arquero de Andorra suspendido 12 partidos tras muerte de De Miguel",
           "url": "https://larazon.bo/marcas/2026/11/14/arquero-de-andorra-suspendido-12-partidos-tras-muerte-de-de-miguel/",
           "fecha": "noviembre 14, 2026 07:40",
-          "resumen": null
-        },
-        {
-          "id": "895f2b8f7241566a",
-          "titulo": "El arquero Dituro, exBolívar, sufre un atraco en su casa en España",
-          "url": "https://larazon.bo/marcas/2026/11/13/el-arquero-dituro-exbolivar-sufre-un-atraco-en-su-casa-en-espana/",
-          "fecha": "noviembre 13, 2026 15:27",
-          "resumen": null
-        },
-        {
-          "id": "524a4538f6803c4f",
-          "titulo": "Paraguay golea a Singapur 4-1 en amistoso internacional",
-          "url": "https://larazon.bo/marcas/2026/11/13/paraguay-golea-a-singapur-4-1-en-amistoso-internacional/",
-          "fecha": "noviembre 13, 2026 11:45",
-          "resumen": null
-        },
-        {
-          "id": "3169d9fa9e3e9373",
-          "titulo": "Estudiantes gana la Supercopa Argentina antes de la Libertadores",
-          "url": "https://larazon.bo/marcas/2026/11/13/estudiantes-gana-la-supercopa-argentina-antes-de-la-libertadores/",
-          "fecha": "noviembre 13, 2026 07:23",
-          "resumen": null
-        },
-        {
-          "id": "6270f61b36282fa6",
-          "titulo": "Familia del futbolista fallecido recibe donativos por más de 200.000",
-          "url": "https://larazon.bo/marcas/2026/11/12/familia-del-futbolista-fallecido-recibe-donativos-por-mas-de-200-000/",
-          "fecha": "noviembre 12, 2026 14:18",
           "resumen": null
         },
         {
@@ -59428,24 +59404,10 @@
           "resumen": null
         },
         {
-          "id": "5ea7570329e85e7c",
-          "titulo": "Bolívar se lleva el Superclásico y logra otro triunfo de título",
-          "url": "https://larazon.bo/marcas/2026/11/08/bolivar-se-lleva-el-superclasico-y-logra-otro-triunfo-de-titulo/",
-          "fecha": "noviembre 8, 2026 19:12",
-          "resumen": null
-        },
-        {
           "id": "8f11da733e5376c1",
           "titulo": "El plan de Céspedes apunta a los Bolivarianos La Paz 2029",
           "url": "https://larazon.bo/marcas/2026/11/10/el-plan-de-cespedes-apunta-a-los-bolivarianos-la-paz-2029/",
           "fecha": "noviembre 10, 2026 21:04",
-          "resumen": null
-        },
-        {
-          "id": "f0fef8046d3ec3cc",
-          "titulo": "Céspedes y Mlm Santa Ana Cornelius logran primer campeonato nacional",
-          "url": "https://larazon.bo/marcas/2026/11/10/cespedes-y-mlm-santa-ana-cornelius-logran-primer-campeonato-nacional/",
-          "fecha": "noviembre 10, 2026 20:49",
           "resumen": null
         },
         {
@@ -59491,24 +59453,10 @@
           "resumen": null
         },
         {
-          "id": "c7d47bca0a804a68",
-          "titulo": "Las selecciones sudamericanas bajan el telón en 2026",
-          "url": "https://larazon.bo/marcas/2026/11/11/las-selecciones-sudamericanas-bajan-el-telon-en-2026/",
-          "fecha": "noviembre 11, 2026 11:31",
-          "resumen": null
-        },
-        {
-          "id": "ae0151a67af03ffe",
-          "titulo": "Ecuador anticipa duelo ‘intenso’ en amistoso ante Costa Rica",
-          "url": "https://larazon.bo/marcas/2026/11/11/ecuador-anticipa-duelo-intenso-en-amistoso-ante-costa-rica/",
-          "fecha": "noviembre 11, 2026 11:00",
-          "resumen": null
-        },
-        {
-          "id": "ec4080fac211ce70",
-          "titulo": "La Selección Boliviana viaja a Perú para jugar el viernes en ‘Matute’",
-          "url": "https://larazon.bo/marcas/2026/11/11/la-seleccion-boliviana-viaja-a-peru-para-jugar-el-viernes-en-matute/",
-          "fecha": "noviembre 11, 2026 10:47",
+          "id": "6270f61b36282fa6",
+          "titulo": "Familia del futbolista fallecido recibe donativos por más de 200.000",
+          "url": "https://larazon.bo/marcas/2026/11/12/familia-del-futbolista-fallecido-recibe-donativos-por-mas-de-200-000/",
+          "fecha": "noviembre 12, 2026 14:18",
           "resumen": null
         }
       ],
@@ -59525,8 +59473,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:34-04:00",
-      "duracion_ms": 980,
+      "actualizado_en": "2026-11-15T14:22:05-04:00",
+      "duracion_ms": 1181,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -59541,28 +59489,28 @@
               "Diputada vincula a Fernando Costa con la red Mariaca-Saucedo y asegura que presentará pruebas"
             ],
             [
-              "Loza recibe notificación para comparecer en un proceso y denuncia “persecución política”"
-            ],
-            [
-              "Diputada Pinto propone un referéndum para declarar profesión libre al magisterio"
-            ],
-            [
-              "Santa Cruz: Explosión en laboratorio farmacéutico deja una fallecida, siete heridos y daños materiales"
+              "Barral le gana proceso a Lara: Sala Constitucional determina que no lesionó la honra del vice"
             ],
             [
               "Argollo niega relación con Mariaca para los bloqueos"
             ],
             [
-              "Ministro de Educación justifica intervención policial: “No podemos aceptar este tipo de vandalismo”"
+              "En YPFB, Ministro afirma que el socialismo se rifó la plata del gas y pide renunciar a quienes apoyaron esa gestión"
             ],
             [
-              "Ponen al cepo a fiscal y policías tras ejecutar una aprehensión en el norte paceño"
+              "Evo responde a Oviedo: “Si fuera jefe del cártel del Chapare, él tendría que ser mi empleado”"
             ],
             [
-              "Oviedo: Evo Morales “es el jefe de un cártel del narcotráfico que sale desde el Chapare”"
+              "Evismo dice que la inteligencia israelí Mossad ingresó al Trópico"
             ],
             [
-              "Nadia Beller salió de Bolivia tras recibir salvoconducto para asilo en México"
+              "Alcaldía paceña suma 47 denuncias presentadas por corrupción y demanda acelerar investigaciones"
+            ],
+            [
+              "Magisterio urbano tilda de traición el acuerdo de rurales con el Gobierno y exige anular la descentralización"
+            ],
+            [
+              "Romer Saucedo niega narcotráfico y le implora a Paz interceder para frenar “persecución”"
             ]
           ]
         }
@@ -59582,8 +59530,8 @@
       "url_final": "https://elpais.bo/sections/view-deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-14T13:33:35-04:00",
-      "duracion_ms": 583,
+      "actualizado_en": "2026-11-15T14:22:06-04:00",
+      "duracion_ms": 422,
       "titulo_pagina": "Campeón",
       "cantidad_tablas": 0,
       "cantidad_noticias": 3,
