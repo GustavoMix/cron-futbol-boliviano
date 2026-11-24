@@ -1,6 +1,6 @@
 {
   "schema_version": 3,
-  "generado_en": "2026-11-23T19:13:12-04:00",
+  "generado_en": "2026-11-24T17:50:16-04:00",
   "zona_horaria": "America/La_Paz",
   "resumen": {
     "fuentes_configuradas": 20,
@@ -8,7 +8,7 @@
     "fuentes_parciales": 0,
     "fuentes_con_error": 0,
     "tablas_extraidas": 19,
-    "noticias_extraidas": 164,
+    "noticias_extraidas": 166,
     "equipos_estructurados": 16
   },
   "fuentes": [
@@ -21,8 +21,8 @@
       "url_final": "https://fbf.com.bo/torneos/division-profesional/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:30-04:00",
-      "duracion_ms": 843,
+      "actualizado_en": "2026-11-24T17:49:35-04:00",
+      "duracion_ms": 509,
       "titulo_pagina": "División Profesional - FBF",
       "cantidad_tablas": 2,
       "cantidad_noticias": 5,
@@ -310,8 +310,8 @@
       "url_final": "https://fbf.com.bo/torneos/copa-simon-bolivar/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:32-04:00",
-      "duracion_ms": 329,
+      "actualizado_en": "2026-11-24T17:49:36-04:00",
+      "duracion_ms": 152,
       "titulo_pagina": "Copa Simón Bolívar - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -375,8 +375,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-19/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:34-04:00",
-      "duracion_ms": 447,
+      "actualizado_en": "2026-11-24T17:49:38-04:00",
+      "duracion_ms": 192,
       "titulo_pagina": "Lig. Nacional Sub-19 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -836,8 +836,8 @@
       "url_final": "https://fbf.com.bo/torneos/lig-nacional-sub-16/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:35-04:00",
-      "duracion_ms": 389,
+      "actualizado_en": "2026-11-24T17:49:39-04:00",
+      "duracion_ms": 203,
       "titulo_pagina": "Lig. Nacional Sub-16 - FBF",
       "cantidad_tablas": 5,
       "cantidad_noticias": 6,
@@ -1205,8 +1205,8 @@
       "url_final": "https://fbf.com.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:37-04:00",
-      "duracion_ms": 341,
+      "actualizado_en": "2026-11-24T17:49:40-04:00",
+      "duracion_ms": 156,
       "titulo_pagina": "Noticias - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 2,
@@ -1247,8 +1247,8 @@
       "url_final": "https://fbf.com.bo/selecciones/absoluta/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:38-04:00",
-      "duracion_ms": 323,
+      "actualizado_en": "2026-11-24T17:49:42-04:00",
+      "duracion_ms": 157,
       "titulo_pagina": "Absoluta - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1312,8 +1312,8 @@
       "url_final": "https://fbf.com.bo/selecciones/bolivia-femenina/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:40-04:00",
-      "duracion_ms": 329,
+      "actualizado_en": "2026-11-24T17:49:43-04:00",
+      "duracion_ms": 134,
       "titulo_pagina": "Bolivia Femenina - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 6,
@@ -1377,8 +1377,8 @@
       "url_final": "https://fbf.com.bo/?s=futbol+playa",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:42-04:00",
-      "duracion_ms": 840,
+      "actualizado_en": "2026-11-24T17:49:45-04:00",
+      "duracion_ms": 649,
       "titulo_pagina": "Has buscado futbol playa - FBF",
       "cantidad_tablas": 0,
       "cantidad_noticias": 12,
@@ -1484,8 +1484,8 @@
       "url_final": "https://www.bolivar.com.bo/Noticias",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:45-04:00",
-      "duracion_ms": 1485,
+      "actualizado_en": "2026-11-24T17:49:48-04:00",
+      "duracion_ms": 1365,
       "titulo_pagina": "Noticias | Club Bolivar de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 30,
@@ -1647,70 +1647,70 @@
           "titulo": "Bolívar vivió “5 minutos de terror” entre Tarija y el Valle",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-12/bolivar-vivio-5-minutos-de-terror-entre-tarija-y-el-valle",
           "fecha": null,
-          "resumen": "20105 veces leida"
+          "resumen": "20109 veces leida"
         },
         {
           "id": "9b93ff7e0cbb0aad",
           "titulo": "Comienza a derribarse el estadio de Bolívar",
           "url": "https://www.bolivar.com.bo/Noticias/2022-07-03/comienza-a-derribarse-el-estadio-de-bolivar",
           "fecha": null,
-          "resumen": "14907 veces leida"
+          "resumen": "14911 veces leida"
         },
         {
           "id": "240be845353bb24c",
           "titulo": "VESTUARIO A LOS GRITOS",
           "url": "https://www.bolivar.com.bo/Noticias/2023-05-01/vestuario-a-los-gritos",
           "fecha": null,
-          "resumen": "11756 veces leida"
+          "resumen": "11760 veces leida"
         },
         {
           "id": "007b6ff88ffbb603",
           "titulo": "Las declaraciones de Vaca incomodan en la Academia",
           "url": "https://www.bolivar.com.bo/Noticias/2022-08-19/las-declaraciones-de-vaca-incomodan-en-la-academia",
           "fecha": null,
-          "resumen": "11517 veces leida"
+          "resumen": "11523 veces leida"
         },
         {
           "id": "ef5c0c2cbff85bcb",
           "titulo": "Un City en Bolivia: Bolívar se transforma tras acuerdo con grupo multimillonario y pretende derribar gigantes",
           "url": "https://www.bolivar.com.bo/Noticias/2023-04-07/un-city-en-bolivia-bolivar-se-transforma-tras-acuerdo-con-grupo-multimillonario-y-pretende-derribar-gigantes",
           "fecha": null,
-          "resumen": "11113 veces leida"
+          "resumen": "11118 veces leida"
         },
         {
           "id": "2df421c8bef4acf9",
           "titulo": "La guía de la Copa Libertadores 2023: equipos, calendario, formato, grupos, TV y todo sobre el torneo",
           "url": "https://www.bolivar.com.bo/Noticias/2022-12-27/la-guia-de-la-copa-libertadores-2023-equipos-calendario-formato-grupos-tv-y-todo-sobre-el-torneo",
           "fecha": null,
-          "resumen": "9453 veces leida"
+          "resumen": "9457 veces leida"
         },
         {
           "id": "de790cdb669f57c1",
           "titulo": "Bolívar será el más perjudicado",
           "url": "https://www.bolivar.com.bo/Noticias/2022-09-20/bolivar-sera-el-mas-perjudicado",
           "fecha": null,
-          "resumen": "8857 veces leida"
+          "resumen": "8863 veces leida"
         },
         {
           "id": "f5411abfde454dcd",
           "titulo": "Exfiguras de Oriente: “Eliminamos y goleamos a Bolívar con gol diferencia”",
           "url": "https://www.bolivar.com.bo/Noticias/2022-05-25/exfiguras-de-oriente-eliminamos-y-goleamos-a-bolivar-con-gol-diferencia",
           "fecha": null,
-          "resumen": "8795 veces leida"
+          "resumen": "8800 veces leida"
         },
         {
           "id": "636ef78cf3fab775",
           "titulo": "Al Ahly llama a Bolívar y hay temor que castiguen a Sávio",
           "url": "https://www.bolivar.com.bo/Noticias/2022-10-14/al-ahly-llama-a-bolivar-y-hay-temor-que-castiguen-a-savio",
           "fecha": null,
-          "resumen": "8699 veces leida"
+          "resumen": "8704 veces leida"
         },
         {
           "id": "bee83c3b0201a707",
           "titulo": "Sol de América recibirá el 50% si transfieren a Da Costa",
           "url": "https://www.bolivar.com.bo/Noticias/2022-06-24/sol-de-america-recibira-el-50-si-transfieren-a-da-costa",
           "fecha": null,
-          "resumen": "8642 veces leida"
+          "resumen": "8647 veces leida"
         }
       ],
       "datos_estructurados": null,
@@ -1726,8 +1726,8 @@
       "url_final": "https://alwaysready.bo/noticias/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:46-04:00",
-      "duracion_ms": 727,
+      "actualizado_en": "2026-11-24T17:49:49-04:00",
+      "duracion_ms": 506,
       "titulo_pagina": null,
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -1748,69 +1748,48 @@
       "url_final": "https://futbol.unitel.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:48-04:00",
-      "duracion_ms": 410,
+      "actualizado_en": "2026-11-24T17:49:51-04:00",
+      "duracion_ms": 230,
       "titulo_pagina": "A Todo Deporte - El punto de encuentro de todos los fanÃ¡ticos",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 8,
+      "cantidad_noticias": 5,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "76294a8f7905d706",
-          "titulo": "Jugadores de Oriente entran en paro y continuidad de FlorentÃ­n sigue en duda",
-          "url": "https://futbol.unitel.bo/division-profesional/jugadores-de-oriente-entran-en-paro-y-continuidad-de-florentin-sigue-en-duda-GH25008842",
+          "id": "6e72406c56eb6cad",
+          "titulo": "Minuto a minuto: Vinicius marca el cuarto gol del Real Madrid ante PSV (5-1)",
+          "url": "https://futbol.unitel.bo/champions-league/minuto-a-minuto-vinicius-marca-el-cuarto-gol-del-real-madrid-ante-psv-5-1-GD25043647",
+          "fecha": "Hace 2 minutos",
+          "resumen": null
+        },
+        {
+          "id": "5d9e9f892957cde3",
+          "titulo": "Cristiano estÃ¡ cada vez mÃ¡s cerca de los 1.000 goles tras victoria de Al-Nassr",
+          "url": "https://futbol.unitel.bo/futbol/cristiano-esta-cada-vez-mas-cerca-de-los-1000-goles-tras-victoria-de-al-nassr-ND25047569",
+          "fecha": "Hace 16 minutos",
+          "resumen": null
+        },
+        {
+          "id": "a80880dc9e082fac",
+          "titulo": "Conmebol confirma que la Copa AmÃ©rica de 2028 se jugarÃ¡ en Estados Unidos",
+          "url": "https://futbol.unitel.bo/futbol/conmebol-confirma-que-la-copa-america-de-2028-se-jugara-en-estados-unidos-KE25031920",
           "fecha": "Hace 1 hora",
           "resumen": null
         },
         {
-          "id": "c51fab1e8d8e46bd",
-          "titulo": "GuabirÃ¡ golea a Real Oruro y mantiene ilusiÃ³n de clasificar a la Sudamericana",
-          "url": "https://futbol.unitel.bo/division-profesional/guabira-golea-a-real-oruro-y-mantiene-ilusion-de-clasificar-a-la-sudamericana-CG25011571",
-          "fecha": "Hace 1 minuto",
+          "id": "675d911425e492c7",
+          "titulo": "El plan B toma fuerza: Â¿Oriente Petrolero jugarÃ¡ con juveniles ante Nacional PotosÃ­?",
+          "url": "https://futbol.unitel.bo/division-profesional/el-plan-b-toma-fuerza-oriente-petrolero-jugara-con-juveniles-ante-nacional-potosi-AE25030099",
+          "fecha": "Hace 7 horas",
           "resumen": null
         },
         {
-          "id": "307b1b7a6580740c",
-          "titulo": "Video: Duelo entre Marruecos y Colombia del Mundial de Talla Baja terminÃ³ a los golpes",
-          "url": "https://futbol.unitel.bo/otros-deportes/video-duelo-entre-marruecos-y-colombia-del-mundial-de-talla-baja-termino-a-los-golpes-PH25004874",
+          "id": "cee25b0288003fd7",
+          "titulo": "Video: Duduzinho rompe internet con tremendo golazo en el Mundial de Talla Baja",
+          "url": "https://futbol.unitel.bo/sucesos/video-duduzinho-rompe-internet-con-tremendo-golazo-en-el-mundial-de-talla-baja-LD25041903",
           "fecha": "Hace 2 horas",
-          "resumen": null
-        },
-        {
-          "id": "a7fd82db8d6c5281",
-          "titulo": "BolÃ­var tropieza ante Real PotosÃ­ con un penal polÃ©mico sobre el final del partido",
-          "url": "https://futbol.unitel.bo/division-profesional/bolivar-tropieza-ante-real-potosi-con-un-penal-polemico-sobre-el-final-del-partido-PH24983369",
-          "fecha": "22/11/2026 17:12",
-          "resumen": null
-        },
-        {
-          "id": "98eff8a3adf21eb5",
-          "titulo": "Always vence a San Antonio y alcanza a BolÃ­var en la cima del campeonato",
-          "url": "https://futbol.unitel.bo/division-profesional/always-vence-a-san-antonio-y-alcanza-a-bolivar-en-la-cima-del-campeonato-IH24988514",
-          "fecha": "22/11/2026 21:38",
-          "resumen": null
-        },
-        {
-          "id": "95258cb653883cb2",
-          "titulo": "The Strongest se desquita con goleada y hunde mÃ¡s a Blooming en el torneo",
-          "url": "https://futbol.unitel.bo/division-profesional/the-strongest-se-desquita-con-goleada-y-hunde-mas-a-blooming-en-el-torneo-KH24985816",
-          "fecha": "22/11/2026 19:27",
-          "resumen": null
-        },
-        {
-          "id": "793cbac96d473270",
-          "titulo": "Pochettino debuta en el United con una dura derrota por goleada ante Liverpool",
-          "url": "https://futbol.unitel.bo/futbol/pochettino-debuta-en-el-united-con-una-dura-derrota-por-goleada-ante-liverpool-NH24983817",
-          "fecha": "22/11/2026 15:17",
-          "resumen": null
-        },
-        {
-          "id": "75422ba6df84074b",
-          "titulo": "FlorentÃ­n se cansÃ³ de promesas fallidas en Oriente: âSi no cumplen, me voyâ",
-          "url": "https://futbol.unitel.bo/division-profesional/florentin-se-canso-de-promesas-fallidas-en-oriente-si-no-cumplen-me-voy-CH24984017",
-          "fecha": "22/11/2026 15:46",
           "resumen": null
         }
       ],
@@ -1827,26 +1806,61 @@
       "url_final": "https://diez.bo/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:50-04:00",
-      "duracion_ms": 587,
+      "actualizado_en": "2026-11-24T17:49:53-04:00",
+      "duracion_ms": 695,
       "titulo_pagina": "DIEZ | Noticias deportivas de Bolivia y el mundo",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 18,
+      "cantidad_noticias": 17,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [],
       "noticias": [
         {
-          "id": "087e67c1bfddf168",
-          "titulo": "¿Qué pasará con el Tahuichi rumbo a la final de la Sudamericana?",
-          "url": "https://diez.bo/fuera-de-juego/que-pasara-con-el-tahuichi-rumbo-a-la-final-de-la-sudamericana_1795473385",
+          "id": "050c9bff827950c5",
+          "titulo": "Oriente no levanta el paro y la posibilidad de que juegue la reserva crece",
+          "url": "https://diez.bo/futbol/oriente-no-levanta-el-paro-y-la-posibilidad-de-que-juegue-la-reserva-crece_1795534472",
           "fecha": null,
-          "resumen": "El estadio necesita varias mejoras para recibir la final continental de 2027, pero todavía no hay una planificación definida ni una fecha concreta para comenzar los trabajos, más allá de diciembre como periodo tentativo."
+          "resumen": "Los futbolistas llegaron este martes a San Antonio, sostuvieron una reunión y se retiraron sin entrenar. Exigen el pago de dos cuotas salariales y advirtieron que, si no reciben una respuesta, tampoco viajarán a Potosí para enfrentar a Nacional. Mientras tanto, la reserva trabaja pensando en ese compromiso."
         },
         {
-          "id": "c8ee081bc87b8abe",
-          "titulo": "Otra vez fuera de los planes y ahora sí, Auli Oliveros se va de Blooming",
-          "url": "https://diez.bo/futbol/otra-vez-fuera-de-los-planes-y-ahora-si-auli-oliveros-se-va-de-blooming_1795449915",
+          "id": "396ec2fd1ca769bb",
+          "titulo": "Sin margen de error: Blooming necesita ganar sus cuatro finales y esperar resultados",
+          "url": "https://diez.bo/futbol/sin-margen-de-error-blooming-necesita-ganar-sus-cuatro-finales-y-esperar-resultados_1795539481",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "340cf856d4ed26ee",
+          "titulo": "La Verde recupera energías para enfrentar a Colombia en cuartos de final",
+          "url": "https://diez.bo/futbol/la-verde-recupera-energias-para-enfrentar-a-colombia-en-cuartos-de-final_1795534916",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "19b82489ebc36f75",
+          "titulo": "La receta de Barranquilla que Conmebol recomienda para el Tahuichi",
+          "url": "https://diez.bo/futbol/la-receta-de-barranquilla-que-conmebol-recomienda-para-el-tahuichi_1795525985",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "f78ec1a2ffc9469d",
+          "titulo": "El picante cruce entre Éguez y Straccia en la victoria de Guabirá",
+          "url": "https://diez.bo/futbol/el-picante-cruce-entre-eguez-y-straccia-en-la-victoria-de-guabira_1795527181",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "281f7c17141d8d3a",
+          "titulo": "La reserva de Oriente se prepara para visitar a Nacional Potosí",
+          "url": "https://diez.bo/futbol/la-reserva-de-oriente-se-prepara-para-visitar-a-nacional-potosi_1795525870",
+          "fecha": null,
+          "resumen": "Los futbolistas del primer plantel ingresaron en paro y exigen que la dirigencia cancele al menos dos de las cuatro cuotas salariales que tiene pendientes con el plantel. Si la medida persiste, los jugadores de la reserva serían los encargados de afrontar el partido del sábado ante Nacional Potosí."
+        },
+        {
+          "id": "6c8fa630f7e2f5a1",
+          "titulo": "Henry Vaca pide sanciones contra Oriente por incumplir con el pago de una deuda",
+          "url": "https://diez.bo/futbol/henry-vaca-pide-sanciones-contra-oriente-por-incumplir-con-el-pago-de-una-deuda_1795483028",
           "fecha": null,
           "resumen": null
         },
@@ -1858,16 +1872,23 @@
           "resumen": null
         },
         {
-          "id": "d7b4f30cca243ab4",
-          "titulo": "Paulucci reconoció la superioridad de The Strongest: \"No competimos\"",
-          "url": "https://diez.bo/futbol/paulucci-reconocio-la-superioridad-de-the-strongest-no-competimos_1795438944",
+          "id": "b1be79c86da7c56a",
+          "titulo": "Oriente, entre deudas, paro de jugadores y la posible salida de Florentín",
+          "url": "https://diez.bo/futbol/oriente-entre-deudas-paro-de-jugadores-y-la-posible-salida-de-florentin_1795481582",
           "fecha": null,
           "resumen": null
         },
         {
-          "id": "8e89e305c7c02d9b",
-          "titulo": "Oriente afronta una jornada clave por la deuda con el plantel",
-          "url": "https://diez.bo/futbol/oriente-afronta-una-jornada-clave-por-la-deuda-con-el-plantel_1795440108",
+          "id": "36f49707a6061efd",
+          "titulo": "Bolivia competirá con 10 golfistas en la Copa Los Andes de Perú",
+          "url": "https://diez.bo/multideportivo/bolivia-competira-con-10-golfistas-en-la-copa-los-andes-de-peru_1795550621",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "c8ee081bc87b8abe",
+          "titulo": "Otra vez fuera de los planes y ahora sí, Auli Oliveros se va de Blooming",
+          "url": "https://diez.bo/futbol/otra-vez-fuera-de-los-planes-y-ahora-si-auli-oliveros-se-va-de-blooming_1795449915",
           "fecha": null,
           "resumen": null
         },
@@ -1879,65 +1900,16 @@
           "resumen": null
         },
         {
+          "id": "822b19fe11054bcf",
+          "titulo": "FC Universitario se aleja del descenso y hunde a GV San José",
+          "url": "https://diez.bo/futbol/fc-universitario-se-aleja-del-descenso-y-hunde-a-gv-san-jose_1795476708",
+          "fecha": null,
+          "resumen": null
+        },
+        {
           "id": "6d46463ce6c1d93d",
           "titulo": "Bolivia femenina recibirá a Uruguay en dos amistosos en el Tahuichi",
           "url": "https://diez.bo/futbol/bolivia-femenina-recibira-a-uruguay-en-dos-amistosos-en-el-tahuichi_1795464588",
-          "fecha": null,
-          "resumen": "La Verde se enfrentará a la Celeste el 27 y 30 de noviembre, en busca de dejar atrás una floja campaña en la Liga de Naciones y comenzar a preparar la próxima temporada."
-        },
-        {
-          "id": "95ec31770337d929",
-          "titulo": "Blooming no pudo contener al tigre y cayó por 4-0",
-          "url": "https://diez.bo/futbol/blooming-no-pudo-frenar-al-tigre_1795389885",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "0eaa8db6acdc63c1",
-          "titulo": "Florentín está cansado de las promesas en Oriente y advierte que podría irse",
-          "url": "https://diez.bo/futbol/florentin-esta-cansado-de-las-promesas-en-oriente-y-advierte-que-podria-irse_1795356594",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "4f90bc09cd19d918",
-          "titulo": "Bolívar tropezó ante Real Potosí y puso en riesgo su ventaja en la cima",
-          "url": "https://diez.bo/futbol/bolivar-tropezo-ante-real-potosi-y-puso-en-riesgo-su-ventaja-en-la-cima_1795382688",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "57755c51ba06c2c8",
-          "titulo": "Barcelona reacciona a tiempo y derrota a Villarreal tras ir dos goles abajo",
-          "url": "https://diez.bo/futbol/barcelona-reacciona-a-tiempo-y-derrota-a-villarreal-tras-ir-dos-goles-abajo_1795361781",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "d40f13838ef45210",
-          "titulo": "Always Ready goleó a San Antonio y mete presión en la lucha por el título",
-          "url": "https://diez.bo/futbol/always-ready-goleo-a-san-antonio-y-mete-presion-en-la-lucha-por-el-titulo_1795399643",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "28b75a0aa673094b",
-          "titulo": "Liverpool golea al United y agrava la crisis de Pochettino",
-          "url": "https://diez.bo/futbol/liverpool-golea-al-united-y-agrava-la-crisis-de-pochettino_1795379367",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "c98ad4594406d697",
-          "titulo": "Agustín Cuéllar firmó una gran semana con dos subcampeonatos en el M15 Santa Cruz",
-          "url": "https://diez.bo/multideportivo/agustin-cuellar-firmo-una-gran-semana-con-dos-subcampeonatos-en-el-m15-santa-cruz_1795396396",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "e3594701c0731868",
-          "titulo": "Juan Pablo Velasco: \"Estamos listos para recibir la final de la Sudamericana\"",
-          "url": "https://diez.bo/futbol/juan-pablo-velasco-estamos-listos-para-recibir-la-final-de-la-sudamericana_1795280394",
           "fecha": null,
           "resumen": null
         },
@@ -1976,8 +1948,8 @@
       "url_final": "https://www.reduno.com.bo/tag/futbol-boliviano",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:51-04:00",
-      "duracion_ms": 330,
+      "actualizado_en": "2026-11-24T17:49:54-04:00",
+      "duracion_ms": 489,
       "titulo_pagina": "Fútbol boliviano: Últimas noticias | Red Uno de Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 23,
@@ -2160,8 +2132,8 @@
       "url_final": "https://deportes.reduno.com.bo/html/v3/htmlCenter/data/deportes/futbol/bolivia/statsCenter/teamsList.json",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:57-04:00",
-      "duracion_ms": 4172,
+      "actualizado_en": "2026-11-24T17:49:59-04:00",
+      "duracion_ms": 3894,
       "titulo_pagina": "Datos estructurados del fútbol boliviano",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -58954,8 +58926,8 @@
       "url_final": "https://www.lostiempos.com/deportes/futbol",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:12:58-04:00",
-      "duracion_ms": 426,
+      "actualizado_en": "2026-11-24T17:50:02-04:00",
+      "duracion_ms": 991,
       "titulo_pagina": "Fútbol | Los Tiempos",
       "cantidad_tablas": 4,
       "cantidad_noticias": 0,
@@ -58967,24 +58939,24 @@
           "columnas": [],
           "filas": [
             [
-              "1 “Ni siquiera habían abierto los ojos”: rescatan a más de 500 crías de cotorras en Villa Montes Ver más",
-              "2 Alta costura con alma oriental Heaven Gaia lleva el universo poético de “Snow” a la pasarela de Beijing Ver más"
+              "1 Desde Libre cuestionan al Gobierno y aseguran que \"crudo observado\" sí llegó a refinería de Cochabamba Ver más",
+              "2 Caso cuoteo: Paz felicita al diputado Medinaceli por solicitar licencia y pide no caer en el escándalo Ver más"
             ],
             [
-              "3 Presidente de Israel recibe a Ávila y Castro Ver más",
-              "4 Reportan que tres personas, entre ellas un menor, fueron arrastradas por el río Chimoré Ver más"
+              "3 Lluvias y sequías afectan a diferentes regiones por fenómeno de El Niño Ver más",
+              "4 Paz sobre caso Aisem: “Lo presunto es presunto” y pidió a implicados solicitar licencia Ver más"
             ],
             [
-              "5 Identifican tres columnas de humo en Piso Firme y preparan operaciones aéreas contra el fuego Ver más",
-              "6 ALICE PARK DE COCHABAMBA INGRESA AL TOP 100 DE LOS MEJORES CLUBES DEL MUNDO Y SE UBICA EN EL PUESTO 77 Ver más"
+              "5 Diputado implicado en tráfico de pegas pide licencia, Bilbao dice que no lo hará Ver más",
+              "6 El IDIF prestaba cadáveres a universidades Ver más"
             ],
             [
-              "7 Zamora afirma que empezarán \"los más grandes proyectos de infraestructura en la historia de Bolivia\" Ver más",
-              "8 Caso Aisem: Daniela Quiroga pide a la Fiscalía ser testigo protegida y ratifica su denuncia contra legisladores Ver más"
+              "7 Tras renuncia del fiscal cruceño, Beller ve presión por el caso Cerimedo Ver más",
+              "8 Rescatan con vida a tres personas arrastradas por la crecida del río Chimoré Ver más"
             ],
             [
-              "9 Ordenan la detención de Junior de Almeida, líder de una facción vinculada al PCC Ver más",
-              "10 Jardín Botánico de Bogotá destaca importancia de las bromelias en exposición anual de Atlanta Ver más"
+              "9 Tres personas se salvan de milagro de un turbión en el río Chimoré Ver más",
+              "10 Aprehenden a 2 abogados por el caso maletas Ver más"
             ]
           ]
         },
@@ -58994,11 +58966,11 @@
           "columnas": [],
           "filas": [
             [
-              "23/11/2026 País Renuncia el fiscal departamental de Santa Cruz, Jimmy López Jimmy Fernando López Rojas renunció al cargo de fiscal departamental de Santa Cruz, puesto que había asumido el pasado 19 de octubre de este año tras ser... vista",
-              "23/11/2026 Mundo Miles de evacuados de concierto en Mánchester por sustancia sospechosa Miles de personas fueron evacuadas en la noche del domingo de un concierto en Mánchester, en el norte de Reino Unido, y más de 50 recibieron atención médica,... vista",
+              "24/11/2026 País Posesionan a Rose María Barrientos como nueva fiscal interina departamental de Santa Cruz En un acto realizado este martes en la sede del Ministerio Público en Sucre, Chuquisaca, se posesionó a Rose María Barrientos como la nueva fiscal... vista",
+              "24/11/2026 Economía Banco Central proyecta una inflación del 9,2% para el cierre de 2026 El Banco Central de Bolivia (BCB) prevé que el país cierre este 2026 con una inflación del 9,2%, a “pesar de todos los conflictos internos y externos”, informó... vista",
               "",
-              "23/11/2026 País Zamora afirma que empezarán \"los más grandes proyectos de infraestructura en la historia de Bolivia\" El ministro de Obras Públicas, Mauricio Zamora, afirmó que, tras superar conspiraciones en el primer año de gestión, el Gobierno sentó las bases para ejecutar... vista",
-              "23/11/2026 País Unesco propone seis ejes para mejorar la educación en Bolivia y el Gobierno una transformación Ante la crisis educativa que enfrenta Bolivia según la Evaluación ERCE que se conoció recientemente, la Organización de las Naciones Unidas para la Educación,... vista"
+              "24/11/2026 Seguridad Sicarios matan a un brasileño cerca del estadio de Cochabamba Dos sicarios a bordo de una motocicleta acabaron anoche con la vida de un ciudadano brasileño que iba a bordo de un motorizado a la altura del estadio Félix... vista",
+              "24/11/2026 Economía Sube el precio del diésel a Bs 20,57 por litro desde este martes La Agencia Nacional de Hidrocarburos (ANH) anunció la actualización del precio final regulado del diésel oíl. El incremento es de Bs 2,62 por litro, respecto... vista"
             ]
           ]
         },
@@ -59008,8 +58980,8 @@
           "columnas": [],
           "filas": [
             [
+              "Un recinto de 10.000 metros cuadrados, con espacios para nadar, cazar y recuperar los instintos de supervivencia, forma... Ver más 24/11/2026 Medio Ambiente Inti Wara Yassi busca apoyo para devolver a más jaguares a los bosques",
               "La naturaleza aún guarda sorpresas. En plena selva amazónica, dos especies de monos aulladores han permanecido ocultas... Ver más 20/11/2026 Medio Ambiente Hallan en el Amazonas a 2 monos aulladores nuevos para la ciencia",
-              "",
               "",
               "",
               ""
@@ -59022,11 +58994,11 @@
           "columnas": [],
           "filas": [
             [
+              "Las calles, las noches y los misterios de La Paz que Jaime Saenz convirtió en literatura volverán a encontrarse con los... Ver más 24/11/2026 Cultura La Biblioteca del Bicentenario presenta una nueva edición de Felipe Delgado, la obra cumbre de Jaime Saenz",
               "La agenda cultural de Cochabamba en la semana 48 de 2026 tiene en cartelera diversas actividades, como la presentación... Ver más 23/11/2026 Cultura Semana 48: La Orquesta Filarmónica y DJ Steve Aoki destacan en la cartelera",
-              "El festival suscitó la educación ambiental, la participación juvenil y el diálogo a través de expresiones artísticas... Ver más 23/11/2026 Cultura Festival artístico: jóvenes promueven la preservación de la Amazonía",
               "",
-              "Bolivia vuelve a demostrar que cuenta con jovenes talentos capaces de alcanzar grandes conquistas en el contexto... Ver más 22/11/2026 Vida Astronomía y Astronáutica: Vallunos Mendoza y Padilla brillan",
-              "Casi 90 músicos en el escenario, 18 temas de rock –desde sus inicios hasta los últimos años del siglo pasado–, una... Ver más 22/11/2026 Música La OFC cierra el 2026 con Rhapsody in Rock"
+              "El festival suscitó la educación ambiental, la participación juvenil y el diálogo a través de expresiones artísticas... Ver más 23/11/2026 Cultura Festival artístico: jóvenes promueven la preservación de la Amazonía",
+              "Bolivia vuelve a demostrar que cuenta con jovenes talentos capaces de alcanzar grandes conquistas en el contexto... Ver más 22/11/2026 Vida Astronomía y Astronáutica: Vallunos Mendoza y Padilla brillan"
             ]
           ]
         }
@@ -59046,8 +59018,8 @@
       "url_final": "https://www.opinion.com.bo/tags/futbol-boliviano/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:13:00-04:00",
-      "duracion_ms": 616,
+      "actualizado_en": "2026-11-24T17:50:04-04:00",
+      "duracion_ms": 1174,
       "titulo_pagina": "Fútbol boliviano | Últimas noticias Opinión Bolivia",
       "cantidad_tablas": 0,
       "cantidad_noticias": 17,
@@ -59188,8 +59160,8 @@
       "url_final": "https://correodelsur.com/deporte/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:13:02-04:00",
-      "duracion_ms": 177,
+      "actualizado_en": "2026-11-24T17:50:06-04:00",
+      "duracion_ms": 374,
       "titulo_pagina": "Deporte | Diario Correo del Sur",
       "cantidad_tablas": 0,
       "cantidad_noticias": 0,
@@ -59210,11 +59182,11 @@
       "url_final": "https://larazon.bo/Marcas/",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:13:08-04:00",
-      "duracion_ms": 5084,
+      "actualizado_en": "2026-11-24T17:50:12-04:00",
+      "duracion_ms": 5388,
       "titulo_pagina": "Marcas",
       "cantidad_tablas": 2,
-      "cantidad_noticias": 15,
+      "cantidad_noticias": 19,
       "cantidad_equipos": 0,
       "tablas": [
         {
@@ -59249,10 +59221,10 @@
               "columna_1": "noviembre 27, 2026 3:00 pm N/D A. B. B. vs Real Tomayapo"
             },
             {
-              "columna_1": "noviembre 23, 2026 5:15 pm N/D FC Universitario vs GV San José"
+              "columna_1": "noviembre 23, 2026 3 - 0 N/D FC Universitario vs GV San José"
             },
             {
-              "columna_1": "noviembre 23, 2026 3:00 pm N/D CDT Real Oruro vs Guabirá"
+              "columna_1": "noviembre 23, 2026 0 - 3 N/D CDT Real Oruro vs Guabirá"
             },
             {
               "columna_1": "noviembre 22, 2026 0 - 2 N/D San Antonio vs Always Ready"
@@ -59731,22 +59703,22 @@
             },
             {
               "Pos": "7",
+              "Equipo": "Guabirá",
+              "PJ": "26",
+              "PG": "10",
+              "Pts": "36"
+            },
+            {
+              "Pos": "7",
               "Equipo": "Nacional Potosí",
               "PJ": "26",
               "PG": "10",
               "Pts": "36"
             },
             {
-              "Pos": "8",
-              "Equipo": "Guabirá",
-              "PJ": "25",
-              "PG": "9",
-              "Pts": "33"
-            },
-            {
               "Pos": "9",
               "Equipo": "CDT Real Oruro",
-              "PJ": "25",
+              "PJ": "26",
               "PG": "9",
               "Pts": "31"
             },
@@ -59773,17 +59745,17 @@
             },
             {
               "Pos": "13",
+              "Equipo": "FC Universitario",
+              "PJ": "26",
+              "PG": "7",
+              "Pts": "25"
+            },
+            {
+              "Pos": "14",
               "Equipo": "Real Tomayapo",
               "PJ": "26",
               "PG": "6",
               "Pts": "23"
-            },
-            {
-              "Pos": "14",
-              "Equipo": "FC Universitario",
-              "PJ": "25",
-              "PG": "6",
-              "Pts": "22"
             },
             {
               "Pos": "15",
@@ -59795,27 +59767,36 @@
             {
               "Pos": "16",
               "Equipo": "GV San José",
-              "PJ": "25",
+              "PJ": "26",
               "PG": "4",
               "Pts": "20"
             }
           ]
         }
       ],
-      "secciones": [],
+      "secciones": [
+        {
+          "titulo": "Programa de la quinta jornada de la Champions y clasificación",
+          "contenido": "noviembre 24, 2026 09:03"
+        },
+        {
+          "titulo": "Programa de la quinta jornada de la Champions y clasificación",
+          "contenido": "noviembre 24, 2026 09:03"
+        }
+      ],
       "noticias": [
+        {
+          "id": "e202ce0bdf5a0c5e",
+          "titulo": "FC Universitario gana 3-0 a GV San José, que se hunde más",
+          "url": "https://larazon.bo/marcas/2026/11/23/fc-universitario-gana-3-0-a-gv-san-jose-que-se-hunde-mas/",
+          "fecha": "noviembre 23, 2026 19:46",
+          "resumen": null
+        },
         {
           "id": "a014cdb2435dbcf4",
           "titulo": "Agustín Cuéllar brilla en el M15 Santa Cruz con dos subcampeonatos",
           "url": "https://larazon.bo/marcas/2026/11/23/agustin-cuellar-brilla-en-el-m15-santa-cruz-con-dos-subcampeonatos/",
           "fecha": "noviembre 23, 2026 09:03",
-          "resumen": null
-        },
-        {
-          "id": "1ac5c84bf76c92d4",
-          "titulo": "Flamengo se corona en el Brasileirão y ‘Flu’ a la Libertadores",
-          "url": "https://larazon.bo/marcas/2026/11/23/flamengo-se-corona-en-el-brasileirao-y-flu-a-la-libertadores/",
-          "fecha": "noviembre 23, 2026 08:25",
           "resumen": null
         },
         {
@@ -59908,6 +59889,34 @@
           "url": "https://larazon.bo/marcas/2026/10/22/carlos-miguel-y-los-penales-dan-a-palmeiras-otra-final-de-libertadores/",
           "fecha": "octubre 22, 2026 08:15",
           "resumen": null
+        },
+        {
+          "id": "406c066b58d3a87b",
+          "titulo": "Boca logra su tercera Sudamericana en Barranquilla",
+          "url": "https://larazon.bo/marcas/2026/11/22/boca-logra-su-tercera-sudamericana-en-barranquilla/",
+          "fecha": "noviembre 22, 2026 01:52",
+          "resumen": null
+        },
+        {
+          "id": "1bda9c7b4bb32dc4",
+          "titulo": "Boca aplica el tiki taka y es campeón de la Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/11/21/boca-aplica-el-tiki-taka-y-es-campeon-de-la-sudamericana/",
+          "fecha": "noviembre 21, 2026 20:26",
+          "resumen": null
+        },
+        {
+          "id": "3e99ba160d463c21",
+          "titulo": "Paredes guiará a Boca y Fred al Mineiro en la Sudamericana",
+          "url": "https://larazon.bo/marcas/2026/11/21/paredes-guiara-a-boca-y-fred-al-mineiro-en-la-sudamericana/",
+          "fecha": "noviembre 21, 2026 17:59",
+          "resumen": null
+        },
+        {
+          "id": "4b515c4669f0a09d",
+          "titulo": "Boca vs Mineiro: título de la Sudamericana como fin a sequías",
+          "url": "https://larazon.bo/marcas/2026/11/21/boca-vs-mineiro-titulo-de-la-sudamericana-como-fin-a-sequias/",
+          "fecha": "noviembre 21, 2026 07:46",
+          "resumen": null
         }
       ],
       "datos_estructurados": null,
@@ -59923,8 +59932,8 @@
       "url_final": "https://erbol.com.bo/deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:13:10-04:00",
-      "duracion_ms": 690,
+      "actualizado_en": "2026-11-24T17:50:14-04:00",
+      "duracion_ms": 681,
       "titulo_pagina": "Deporte | Erbol",
       "cantidad_tablas": 1,
       "cantidad_noticias": 0,
@@ -59939,28 +59948,28 @@
               "Director de la AISEM justifica contratación de dos presuntos recomendados"
             ],
             [
-              "Inician operativos de interceptación aérea e identifican una avioneta procedente de Brasil"
+              "Zamora afirma que empezarán \"los más grandes proyectos de infraestructura en la historia de Bolivia\""
+            ],
+            [
+              "COB instruye marcha desde El Alto hasta La Paz para este viernes y expresa seis motivos de rechazo"
             ],
             [
               "Carlos Mesa califica la situación educativa como el mayor fracaso de la historia de Bolivia"
             ],
             [
-              "Zamora afirma que empezarán \"los más grandes proyectos de infraestructura en la historia de Bolivia\""
+              "Inician operativos de interceptación aérea e identifican una avioneta procedente de Brasil"
             ],
             [
               "De aumentar precio de la gasolina, Gobierno prevé transferencias monetarias a sectores vulnerables"
             ],
             [
-              "Coronel de la FAB usaba uniforme, instalaciones y personal militar para proteger el narcotráfico, según EEUU"
-            ],
-            [
               "Paz afirma que es momento de descentralizar la educación ante resultados de aprendizaje por debajo del promedio regional"
             ],
             [
-              "Caso cuoteos se complica con chats, denuncias penales y cuestionamientos cruzados"
+              "Gobierno denuncia la compra de crudo que no cumpliría estándar de calidad y acusa a expresidente de YPFB"
             ],
             [
-              "Bolivia está por debajo del promedio regional en lectura y matemáticas, según evaluación de la UNESCO"
+              "TSE entregará credencial a Ana Limachi tras verificar la validez de su certificado de idiomas"
             ]
           ]
         }
@@ -59980,11 +59989,11 @@
       "url_final": "https://elpais.bo/sections/view-deporte",
       "estado": "ok",
       "codigo_http": 200,
-      "actualizado_en": "2026-11-23T19:13:12-04:00",
-      "duracion_ms": 642,
+      "actualizado_en": "2026-11-24T17:50:16-04:00",
+      "duracion_ms": 559,
       "titulo_pagina": "Campeón",
       "cantidad_tablas": 0,
-      "cantidad_noticias": 4,
+      "cantidad_noticias": 6,
       "cantidad_equipos": 0,
       "tablas": [],
       "secciones": [
@@ -59994,6 +60003,27 @@
         }
       ],
       "noticias": [
+        {
+          "id": "2d8f61365f376255",
+          "titulo": "Tomayapo tiene un mano a mano con ABB esta semana",
+          "url": "https://elpais.bo/deportes/20261123_tomayapo-tiene-un-mano-a-mano-con-abb-esta-semana.html",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "594377d5e9700cce",
+          "titulo": "River Plate se instaló en cuartos de final del fútbol argentino",
+          "url": "https://elpais.bo/deportes/20261122_river-plate-se-instalo-en-cuartos-de-final-del-futbol-argentino.html",
+          "fecha": null,
+          "resumen": null
+        },
+        {
+          "id": "9db27e6cb67fcce5",
+          "titulo": "La Salle ganó en Sucre un partido clave de Libobásquet",
+          "url": "https://elpais.bo/deportes/20261122_la-salle-gano-en-sucre-un-partido-clave-de-libobasquet.html",
+          "fecha": null,
+          "resumen": null
+        },
         {
           "id": "02ca0c9e8c53ae8b",
           "titulo": "Always Ready alcanzó a Bolívar en la tabla del fútbol boliviano",
@@ -60012,13 +60042,6 @@
           "id": "5b3b9c5436fabe95",
           "titulo": "Tomayapo y Nacional Potosí la tarde de este sábado en Tarija",
           "url": "https://elpais.bo/deportes/20261120_tomayapo-y-nacional-potosi-la-tarde-de-este-sabado-en-tarija.html",
-          "fecha": null,
-          "resumen": null
-        },
-        {
-          "id": "c3f82bffbb3be2f2",
-          "titulo": "Óscar Villegas descarta renunciar y espera seguir al frente de la Verde",
-          "url": "https://elpais.bo/deportes/20261120_oscar-villegas-descarta-renunciar-y-espera-seguir-al-frente-de-la-verde.html",
           "fecha": null,
           "resumen": null
         }
